@@ -1,7 +1,6 @@
-owner=ZHO
-controller=ZHO
+owner=JAP
+controller=JAP
 add_core=JAP
-add_core=ZHO
 trade_goods = fish
 life_rating = 35
 naval_base = 1

@@ -10,7 +10,7 @@
 	{
 		culture = turkish
 		religion = catholic
-		size= 6891
+		size= 681
 	}
 
 	artisans=
@@ -66,7 +66,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 4020
+		size= 401
 	}
 
 	artisans=
@@ -122,7 +122,7 @@
 	{
 		culture = turkish
 		religion = zoroastrian
-		size= 1389
+		size= 131
 	}
 
 	artisans=
@@ -171,7 +171,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 6065
+		size= 601
 	}
 
 	artisans=
@@ -229,7 +229,7 @@
 	{
 		culture = uzbek
 		religion = catholic
-		size= 2941
+		size= 291
 	}
 
 	artisans=
@@ -285,7 +285,7 @@
 	{
 		culture = uzbek
 		religion = sunni
-		size= 2136
+		size= 211
 	}
 
 	artisans=
@@ -341,7 +341,7 @@
 	{
 		culture = uzbek
 		religion = zoroastrian
-		size= 1153
+		size= 111
 	}
 
 	artisans=
@@ -397,7 +397,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 1740
+		size= 171
 	}
 
 	artisans=
@@ -453,7 +453,7 @@
 	{
 		culture = pashtun
 		religion = sunni
-		size= 8181
+		size= 811
 	}
 
 	artisans=
@@ -502,7 +502,7 @@
 	{
 		culture = pashtun
 		religion = zoroastrian
-		size= 4640
+		size= 461
 	}
 
 	artisans=
@@ -560,7 +560,7 @@
 	{
 		culture = pashtun
 		religion = sunni
-		size= 12873
+		size= 1281
 	}
 
 	artisans=
@@ -616,7 +616,7 @@
 	{
 		culture = pashtun
 		religion = hindu
-		size= 3064
+		size= 301
 	}
 
 	artisans=
@@ -672,7 +672,7 @@
 	{
 		culture = pashtun
 		religion = zoroastrian
-		size= 10051
+		size= 1001
 	}
 
 	artisans=
@@ -730,7 +730,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 9508
+		size= 951
 	}
 
 	artisans=
@@ -786,7 +786,7 @@
 	{
 		culture = turkish
 		religion = zoroastrian
-		size= 2160
+		size= 211
 	}
 
 	artisans=
@@ -835,7 +835,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 6004
+		size= 601
 	}
 
 	artisans=
@@ -893,7 +893,7 @@
 	{
 		culture = pashtun
 		religion = sunni
-		size= 1203
+		size= 121
 	}
 
 	artisans=
@@ -949,7 +949,7 @@
 	{
 		culture = pashtun
 		religion = zoroastrian
-		size= 831
+		size= 81
 	}
 
 	artisans=
@@ -1007,7 +1007,7 @@
 	{
 		culture = baluchi
 		religion = sunni
-		size= 9809
+		size= 981
 	}
 
 	artisans=
@@ -1063,7 +1063,7 @@
 	{
 		culture = baluchi
 		religion = zoroastrian
-		size= 8555
+		size= 851
 	}
 
 	artisans=
@@ -1119,7 +1119,7 @@
 	{
 		culture = pashtun
 		religion = hindu
-		size= 5730
+		size= 571
 	}
 
 	artisans=
@@ -1168,7 +1168,7 @@
 	{
 		culture = pashtun
 		religion = zoroastrian
-		size= 3972
+		size= 391
 	}
 
 	artisans=
@@ -1226,7 +1226,7 @@
 	{
 		culture = pashtun
 		religion = hindu
-		size= 3945
+		size= 391
 	}
 
 	artisans=
@@ -1282,7 +1282,7 @@
 	{
 		culture = pashtun
 		religion = sunni
-		size= 8348
+		size= 831
 	}
 
 	artisans=
@@ -1338,7 +1338,7 @@
 	{
 		culture = pashtun
 		religion = zoroastrian
-		size= 7457
+		size= 741
 	}
 
 	artisans=
@@ -1396,7 +1396,7 @@
 	{
 		culture = uzbek
 		religion = catholic
-		size= 2052
+		size= 201
 	}
 
 	artisans=
@@ -1452,7 +1452,7 @@
 	{
 		culture = uzbek
 		religion = sunni
-		size= 80
+		size= 1
 	}
 
 	artisans=
@@ -1508,7 +1508,7 @@
 	{
 		culture = pashtun
 		religion = sunni
-		size= 1649
+		size= 161
 	}
 
 	artisans=
@@ -1564,7 +1564,7 @@
 	{
 		culture = pashtun
 		religion = zoroastrian
-		size= 2125
+		size= 211
 	}
 
 	artisans=
@@ -1622,7 +1622,7 @@
 	{
 		culture = uzbek
 		religion = catholic
-		size= 531
+		size= 51
 	}
 
 	artisans=
@@ -1678,7 +1678,7 @@
 	{
 		culture = uzbek
 		religion = sunni
-		size= 302
+		size= 31
 	}
 
 	artisans=
@@ -1734,7 +1734,7 @@
 	{
 		culture = uzbek
 		religion = shiite
-		size= 83
+		size= 1
 	}
 
 	artisans=
@@ -1790,7 +1790,7 @@
 	{
 		culture = uzbek
 		religion = zoroastrian
-		size= 121
+		size= 11
 	}
 
 	artisans=
@@ -1846,7 +1846,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 394
+		size= 31
 	}
 
 	artisans=
@@ -1897,7 +1897,7 @@
 	{
 		culture = uzbek
 		religion = catholic
-		size= 4833
+		size= 481
 	}
 
 	artisans=
@@ -1946,7 +1946,7 @@
 	{
 		culture = uzbek
 		religion = sunni
-		size= 2792
+		size= 271
 	}
 
 	artisans=
@@ -1995,7 +1995,7 @@
 	{
 		culture = uzbek
 		religion = zoroastrian
-		size= 1023
+		size= 101
 	}
 
 	artisans=
@@ -2044,7 +2044,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 4173
+		size= 411
 	}
 
 	artisans=

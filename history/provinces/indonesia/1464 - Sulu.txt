@@ -2,6 +2,6 @@ owner=ZHO
 controller=ZHO
 add_core=PHL
 add_core=SUL
-add_core=ZHO
+add_core=PHL
 trade_goods = fish
 life_rating = 35

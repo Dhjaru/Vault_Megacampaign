@@ -3,7 +3,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 136
+		size= 11
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = mayan
 		religion = catholic
-		size= 125
+		size= 11
 	}
 
 	artisans=
@@ -101,7 +101,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 8
+		size=1
 	}
 
 	artisans=
@@ -143,7 +143,7 @@
 	{
 		culture = nouvellien
 		religion = protestant
-		size= 1053
+		size= 101
 	}
 
 	artisans=
@@ -194,7 +194,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 90
+		size= 1
 	}
 
 	artisans=
@@ -236,7 +236,7 @@
 	{
 		culture = mayan
 		religion = catholic
-		size= 83
+		size= 1
 	}
 
 	artisans=
@@ -285,7 +285,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 5
+		size=1
 	}
 
 	artisans=
@@ -327,7 +327,7 @@
 	{
 		culture = nouvellien
 		religion = protestant
-		size= 698
+		size= 61
 	}
 
 	artisans=

@@ -3,7 +3,7 @@
 	{
 		culture = uzbek
 		religion = gelugpa
-		size= 1170
+		size= 111
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = uzbek
 		religion = orthodox
-		size= 201
+		size= 21
 	}
 
 	artisans=
@@ -101,56 +101,56 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 9916
+		size= 91
 	}
 
 	artisans=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 36973
+		size= 3697
 	}
 
 	clergymen=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 3432
+		size= 343
 	}
 
 	bureaucrats=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 581
+		size= 58
 	}
 
 	officers=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 766
+		size= 76
 	}
 
 	aristocrats=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 2218
+		size= 221
 	}
 
 	farmers=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 161678
+		size= 16167
 	}
 
 	soldiers=
 	{
 		culture = mongol
 		religion = catholic
-		size= 695
+		size= 61
 	}
 
 	artisans=
@@ -199,7 +199,7 @@
 	{
 		culture = mongol
 		religion = sunni
-		size= 1858
+		size= 181
 	}
 
 	artisans=
@@ -248,7 +248,7 @@
 	{
 		culture = mongol
 		religion = orthodox
-		size= 540
+		size= 51
 	}
 
 	artisans=
@@ -299,7 +299,7 @@
 	{
 		culture = mongol
 		religion = sunni
-		size= 954
+		size= 91
 	}
 
 	artisans=
@@ -348,7 +348,7 @@
 	{
 		culture = mongol
 		religion = kharijite
-		size= 45
+		size= 1
 	}
 
 	artisans=
@@ -397,7 +397,7 @@
 	{
 		culture = mongol
 		religion = orthodox
-		size= 85
+		size= 1
 	}
 
 	artisans=
@@ -446,49 +446,49 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 2396
+		size= 21
 	}
 
 	artisans=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 4197
+		size= 419
 	}
 
 	clergymen=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1364
+		size= 136
 	}
 
 	bureaucrats=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 231
+		size= 23
 	}
 
 	officers=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 220
+		size= 22
 	}
 
 	aristocrats=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 881
+		size= 88
 	}
 
 	farmers=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 76270
+		size= 7627
 	}
 
 }
@@ -497,7 +497,7 @@
 	{
 		culture = uzbek
 		religion = gelugpa
-		size= 400
+		size= 41
 	}
 
 	artisans=
@@ -546,7 +546,7 @@
 	{
 		culture = uzbek
 		religion = orthodox
-		size= 103
+		size= 11
 	}
 
 	artisans=
@@ -595,49 +595,49 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 974
+		size= 1
 	}
 
 	artisans=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 6126
+		size= 612
 	}
 
 	clergymen=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 569
+		size= 56
 	}
 
 	bureaucrats=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 79
+		size= 7
 	}
 
 	officers=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 92
+		size= 9
 	}
 
 	aristocrats=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 368
+		size= 36
 	}
 
 	farmers=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 26571
+		size= 2657
 	}
 
 }

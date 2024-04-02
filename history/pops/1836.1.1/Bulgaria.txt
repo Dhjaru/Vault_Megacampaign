@@ -3,7 +3,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3504
+		size= 351
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 81
+		size= 1
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3175
+		size= 311
 	}
 
 	craftsmen=
@@ -187,7 +187,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 200
+		size= 21
 	}
 
 	clergymen=
@@ -217,7 +217,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 6210
+		size= 621
 	}
 
 	artisans=
@@ -266,7 +266,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 200
+		size= 21
 	}
 
 	clergymen=
@@ -296,7 +296,7 @@
 	{
 		culture = bulgarian
 		religion = catholic
-		size= 871
+		size= 81
 	}
 
 	artisans=
@@ -345,7 +345,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 695
+		size= 61
 	}
 
 	artisans=
@@ -394,7 +394,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1224
+		size= 121
 	}
 
 	artisans=
@@ -445,7 +445,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 6487
+		size= 641
 	}
 
 	artisans=
@@ -494,7 +494,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 97
+		size= 1
 	}
 
 	artisans=
@@ -545,7 +545,7 @@
 	{
 		culture = bulgarian
 		religion = catholic
-		size= 902
+		size= 91
 	}
 
 	artisans=
@@ -594,7 +594,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 719
+		size= 71
 	}
 
 	artisans=
@@ -643,7 +643,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1267
+		size= 121
 	}
 
 	artisans=
@@ -694,7 +694,7 @@
 	{
 		culture = bulgarian
 		religion = catholic
-		size= 902
+		size= 91
 	}
 
 	artisans=
@@ -743,7 +743,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 719
+		size= 71
 	}
 
 	artisans=
@@ -792,7 +792,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1267
+		size= 121
 	}
 
 	artisans=
@@ -843,7 +843,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3885
+		size= 381
 	}
 
 	artisans=
@@ -899,7 +899,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 100
+		size= 11
 	}
 
 	clergymen=
@@ -929,7 +929,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3985
+		size= 391
 	}
 
 	artisans=
@@ -980,7 +980,7 @@
 	{
 		culture = bulgarian
 		religion = catholic
-		size= 2552
+		size= 251
 	}
 
 	artisans=
@@ -1029,7 +1029,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 272
+		size= 21
 	}
 
 	artisans=
@@ -1078,7 +1078,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4973
+		size= 491
 	}
 
 	artisans=
@@ -1129,7 +1129,7 @@
 	{
 		culture = bulgarian
 		religion = catholic
-		size= 1305
+		size= 131
 	}
 
 	artisans=
@@ -1178,7 +1178,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 778
+		size= 71
 	}
 
 	artisans=
@@ -1227,7 +1227,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1729
+		size= 171
 	}
 
 	artisans=

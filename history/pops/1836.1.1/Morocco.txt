@@ -10,7 +10,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 990
+		size= 91
 	}
 
 	artisans=
@@ -75,7 +75,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 838
+		size= 81
 	}
 
 	artisans=
@@ -126,7 +126,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 344
+		size= 31
 	}
 
 	artisans=
@@ -184,7 +184,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 400
+		size= 41
 	}
 
 	artisans=
@@ -235,7 +235,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 131
+		size= 11
 	}
 
 	artisans=
@@ -293,7 +293,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 391
+		size= 31
 	}
 
 	artisans=
@@ -349,7 +349,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 161
+		size= 11
 	}
 
 	artisans=
@@ -407,7 +407,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 30
+		size= 1
 	}
 
 	artisans=
@@ -449,7 +449,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 8
+		size=1
 	}
 
 	artisans=
@@ -507,7 +507,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 364
+		size= 31
 	}
 
 	artisans=
@@ -558,7 +558,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 509
+		size= 51
 	}
 
 	artisans=
@@ -609,7 +609,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 9
+		size=1
 	}
 
 	artisans=
@@ -660,7 +660,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 1153
+		size= 111
 	}
 
 	artisans=
@@ -725,7 +725,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 255
+		size= 21
 	}
 
 	artisans=
@@ -774,7 +774,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 29
+		size= 1
 	}
 
 	artisans=
@@ -825,7 +825,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 167
+		size= 11
 	}
 
 	artisans=
@@ -876,7 +876,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 162
+		size= 11
 	}
 
 	artisans=
@@ -934,7 +934,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 325
+		size= 31
 	}
 
 	artisans=
@@ -985,7 +985,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 18
+		size= 1
 	}
 
 	artisans=
@@ -1057,7 +1057,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 75
+		size= 1
 	}
 
 	farmers=
@@ -1092,7 +1092,7 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 25
+		size= 1
 	}
 
 	farmers=
@@ -1127,7 +1127,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 50
+		size= 1
 	}
 
 	farmers=
@@ -1143,7 +1143,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 188
+		size= 11
 	}
 
 	artisans=
@@ -1194,7 +1194,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 208
+		size= 21
 	}
 
 	artisans=
@@ -1245,7 +1245,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 345
+		size= 31
 	}
 
 	artisans=
@@ -1296,7 +1296,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 371
+		size= 31
 	}
 
 	artisans=
@@ -1347,7 +1347,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 35
+		size= 1
 	}
 
 	artisans=

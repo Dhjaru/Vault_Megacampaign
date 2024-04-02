@@ -3,7 +3,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 901
+		size= 91
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 396
+		size= 31
 	}
 
 	artisans=
@@ -101,7 +101,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1072
+		size= 101
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = outremer
 		religion = catholic
-		size= 701
+		size= 71
 	}
 
 	artisans=
@@ -201,7 +201,7 @@
 	{
 		culture = outremer
 		religion = orthodox
-		size= 80
+		size= 1
 	}
 
 	artisans=
@@ -250,7 +250,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 959
+		size= 91
 	}
 
 	artisans=
@@ -301,7 +301,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 901
+		size= 91
 	}
 
 	artisans=
@@ -350,7 +350,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 396
+		size= 31
 	}
 
 	artisans=
@@ -399,7 +399,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1072
+		size= 101
 	}
 
 	artisans=
@@ -450,7 +450,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 901
+		size= 91
 	}
 
 	artisans=
@@ -499,7 +499,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 396
+		size= 31
 	}
 
 	artisans=
@@ -548,7 +548,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1072
+		size= 101
 	}
 
 	artisans=
@@ -599,7 +599,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 455
+		size= 41
 	}
 
 	artisans=
@@ -648,7 +648,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 456
+		size= 41
 	}
 
 	artisans=
@@ -697,7 +697,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 7
+		size=1
 	}
 
 	artisans=
@@ -739,7 +739,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 401
+		size= 41
 	}
 
 	artisans=
@@ -790,7 +790,7 @@
 	{
 		culture = outremer
 		religion = catholic
-		size= 701
+		size= 71
 	}
 
 	artisans=
@@ -839,7 +839,7 @@
 	{
 		culture = outremer
 		religion = orthodox
-		size= 80
+		size= 1
 	}
 
 	artisans=
@@ -888,7 +888,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 959
+		size= 91
 	}
 
 	artisans=

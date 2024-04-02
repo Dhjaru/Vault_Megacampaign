@@ -3,7 +3,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 1134
+		size= 111
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = khoisan
 		religion = protestant
-		size= 63
+		size= 1
 	}
 
 	artisans=
@@ -101,7 +101,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 1241
+		size= 121
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 34
+		size= 1
 	}
 
 	farmers=
@@ -194,14 +194,14 @@
 	{
 		culture = anglo_african
 		religion = catholic
-		size= 1
+		size=1
 	}
 
 	soldiers=
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 41
+		size= 1
 	}
 
 	artisans=
@@ -308,7 +308,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 671
+		size= 61
 	}
 
 	artisans=
@@ -357,7 +357,7 @@
 	{
 		culture = khoisan
 		religion = protestant
-		size= 37
+		size= 1
 	}
 
 	artisans=
@@ -406,7 +406,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 735
+		size= 71
 	}
 
 	artisans=
@@ -457,7 +457,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 608
+		size= 61
 	}
 
 	artisans=
@@ -506,7 +506,7 @@
 	{
 		culture = khoisan
 		religion = protestant
-		size= 34
+		size= 1
 	}
 
 	artisans=
@@ -555,7 +555,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 666
+		size= 61
 	}
 
 	artisans=
@@ -606,7 +606,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 146
+		size= 11
 	}
 
 	farmers=
@@ -655,7 +655,7 @@
 	{
 		culture = anglo_african
 		religion = catholic
-		size= 42
+		size= 1
 	}
 
 	officers=
@@ -669,7 +669,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 224
+		size= 21
 	}
 
 	artisans=
@@ -720,7 +720,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 102
+		size= 11
 	}
 
 	artisans=
@@ -790,7 +790,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 124
+		size= 11
 	}
 
 	farmers=
@@ -806,7 +806,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 24
+		size= 1
 	}
 
 	farmers=
@@ -855,7 +855,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 29
+		size= 1
 	}
 
 	officers=
@@ -871,7 +871,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 474
+		size= 41
 	}
 
 	artisans=
@@ -920,7 +920,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 534
+		size= 51
 	}
 
 	bureaucrats=
@@ -964,7 +964,7 @@
 	{
 		culture = tswana
 		religion = animist
-		size= 50
+		size= 1
 	}
 
 	farmers=
@@ -980,7 +980,7 @@
 	{
 		culture = sotho
 		religion = shamanism
-		size= 193
+		size= 11
 	}
 
 	artisans=
@@ -1029,7 +1029,7 @@
 	{
 		culture = sotho
 		religion = protestant
-		size= 4
+		size=1
 	}
 
 	artisans=
@@ -1071,7 +1071,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 224
+		size= 21
 	}
 
 	artisans=
@@ -1122,7 +1122,7 @@
 	{
 		culture = sotho
 		religion = shamanism
-		size= 253
+		size= 21
 	}
 
 	artisans=
@@ -1171,7 +1171,7 @@
 	{
 		culture = sotho
 		religion = protestant
-		size= 5
+		size=1
 	}
 
 	artisans=
@@ -1213,7 +1213,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 292
+		size= 21
 	}
 
 	artisans=
@@ -1264,7 +1264,7 @@
 	{
 		culture = xhosa
 		religion = shamanism
-		size= 251
+		size= 21
 	}
 
 	artisans=
@@ -1313,7 +1313,7 @@
 	{
 		culture = xhosa
 		religion = protestant
-		size= 21
+		size= 1
 	}
 
 	artisans=
@@ -1362,7 +1362,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 310
+		size= 31
 	}
 
 	artisans=
@@ -1413,7 +1413,7 @@
 	{
 		culture = xhosa
 		religion = shamanism
-		size= 251
+		size= 21
 	}
 
 	artisans=
@@ -1462,7 +1462,7 @@
 	{
 		culture = xhosa
 		religion = protestant
-		size= 21
+		size= 1
 	}
 
 	artisans=
@@ -1511,7 +1511,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 310
+		size= 31
 	}
 
 	artisans=
@@ -1569,7 +1569,7 @@
 	{
 		culture = xhosa
 		religion = shamanism
-		size= 458
+		size= 41
 	}
 
 	artisans=
@@ -1625,7 +1625,7 @@
 	{
 		culture = xhosa
 		religion = protestant
-		size= 37
+		size= 1
 	}
 
 	artisans=
@@ -1681,7 +1681,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 564
+		size= 51
 	}
 
 	artisans=
@@ -1739,14 +1739,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 210
-	}
-
-	craftsmen=
-	{
-		culture = nguni
-		religion = shamanism
-		size= 3760
+		size= 21
 	}
 
 	artisans=
@@ -1796,13 +1789,6 @@
 		culture = afro_caribbean
 		religion = protestant
 		size= 1357
-	}
-
-	craftsmen=
-	{
-		culture = anglo_african
-		religion = protestant
-		size= 4409
 	}
 
 	artisans=
@@ -1858,7 +1844,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 245
+		size= 21
 	}
 
 	farmers=
@@ -1881,7 +1867,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 136
+		size= 11
 	}
 
 	artisans=
@@ -1951,7 +1937,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 159
+		size= 11
 	}
 
 	farmers=
@@ -1974,7 +1960,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 108
+		size= 11
 	}
 
 	artisans=
@@ -2044,7 +2030,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 125
+		size= 11
 	}
 
 	farmers=
@@ -2067,7 +2053,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 310
+		size= 31
 	}
 
 	artisans=
@@ -2137,7 +2123,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 362
+		size= 31
 	}
 
 	officers=
@@ -2167,7 +2153,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 129
+		size= 11
 	}
 
 	artisans=
@@ -2223,7 +2209,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 129
+		size= 11
 	}
 
 	artisans=
@@ -2281,7 +2267,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 109
+		size= 11
 	}
 
 	artisans=
@@ -2337,7 +2323,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 109
+		size= 11
 	}
 
 	artisans=
@@ -2395,7 +2381,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 130
+		size= 11
 	}
 
 	artisans=
@@ -2451,7 +2437,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 130
+		size= 11
 	}
 
 	artisans=
@@ -2509,7 +2495,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 2970
+		size= 291
 	}
 
 	artisans=
@@ -2565,7 +2551,7 @@
 	{
 		culture = nguni
 		religion = protestant
-		size= 1734
+		size= 171
 	}
 
 	artisans=
@@ -2623,7 +2609,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 1943
+		size= 191
 	}
 
 	artisans=
@@ -2679,7 +2665,7 @@
 	{
 		culture = nguni
 		religion = protestant
-		size= 136
+		size= 11
 	}
 
 	artisans=
@@ -2735,7 +2721,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 1795
+		size= 171
 	}
 
 	artisans=
@@ -2793,7 +2779,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 48
+		size= 1
 	}
 
 	farmers=
@@ -2856,7 +2842,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 31
+		size= 1
 	}
 
 }
@@ -2872,14 +2858,7 @@
 	{
 		culture = zulu
 		religion = shamanism
-		size= 107
-	}
-
-	craftsmen=
-	{
-		culture = zulu
-		religion = shamanism
-		size= 3729
+		size= 11
 	}
 
 	artisans=
@@ -2949,14 +2928,7 @@
 	{
 		culture = zulu
 		religion = protestant
-		size= 3
-	}
-
-	craftsmen=
-	{
-		culture = zulu
-		religion = protestant
-		size= 103
+		size=1
 	}
 
 	artisans=
@@ -3019,14 +2991,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 125
-	}
-
-	craftsmen=
-	{
-		culture = anglo_african
-		religion = protestant
-		size= 4338
+		size= 11
 	}
 
 	artisans=
@@ -3098,7 +3063,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 142
+		size= 11
 	}
 
 	artisans=
@@ -3168,7 +3133,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 167
+		size= 11
 	}
 
 	farmers=
@@ -3191,7 +3156,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 446
+		size= 41
 	}
 
 	artisans=
@@ -3247,7 +3212,7 @@
 	{
 		culture = nguni
 		religion = catholic
-		size= 44
+		size= 1
 	}
 
 	artisans=
@@ -3303,7 +3268,7 @@
 	{
 		culture = nguni
 		religion = protestant
-		size= 45
+		size= 1
 	}
 
 	artisans=
@@ -3359,7 +3324,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 471
+		size= 41
 	}
 
 	artisans=
@@ -3417,7 +3382,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 247
+		size= 21
 	}
 
 	artisans=
@@ -3487,7 +3452,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 159
+		size= 11
 	}
 
 }
@@ -3496,7 +3461,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 106
+		size= 11
 	}
 
 	artisans=
@@ -3566,7 +3531,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 129
+		size= 11
 	}
 
 	farmers=

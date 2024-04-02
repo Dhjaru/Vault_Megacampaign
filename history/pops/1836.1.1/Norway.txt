@@ -3,7 +3,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 405
+		size= 41
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 612
+		size= 61
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 131
+		size= 11
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 207
+		size= 21
 	}
 
 	artisans=
@@ -203,7 +203,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 501
+		size= 51
 	}
 
 	artisans=
@@ -252,7 +252,7 @@
 	{
 		culture = norwegian
 		religion = orthodox
-		size= 264
+		size= 21
 	}
 
 	artisans=
@@ -301,7 +301,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 605
+		size= 61
 	}
 
 	artisans=
@@ -352,7 +352,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 366
+		size= 31
 	}
 
 	artisans=
@@ -401,7 +401,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 576
+		size= 51
 	}
 
 	artisans=
@@ -452,7 +452,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 1161
+		size= 111
 	}
 
 	artisans=
@@ -501,7 +501,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 1129
+		size= 111
 	}
 
 	artisans=
@@ -552,7 +552,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 2926
+		size= 291
 	}
 
 	artisans=
@@ -601,7 +601,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 4563
+		size= 451
 	}
 
 	artisans=
@@ -652,7 +652,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 235
+		size= 21
 	}
 
 	artisans=
@@ -701,7 +701,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 228
+		size= 21
 	}
 
 	artisans=
@@ -750,7 +750,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 139
+		size= 11
 	}
 
 	artisans=
@@ -801,7 +801,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 235
+		size= 21
 	}
 
 	artisans=
@@ -850,7 +850,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 228
+		size= 21
 	}
 
 	artisans=
@@ -899,7 +899,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 139
+		size= 11
 	}
 
 	artisans=
@@ -950,7 +950,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 234
+		size= 21
 	}
 
 	artisans=
@@ -999,7 +999,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 230
+		size= 21
 	}
 
 	artisans=
@@ -1048,7 +1048,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 139
+		size= 11
 	}
 
 	artisans=
@@ -1099,7 +1099,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 235
+		size= 21
 	}
 
 	artisans=
@@ -1148,7 +1148,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 200
+		size= 21
 	}
 
 	artisans=
@@ -1197,7 +1197,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 168
+		size= 11
 	}
 
 	artisans=
@@ -1248,7 +1248,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 234
+		size= 21
 	}
 
 	artisans=
@@ -1297,7 +1297,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 230
+		size= 21
 	}
 
 	artisans=
@@ -1346,7 +1346,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 139
+		size= 11
 	}
 
 	artisans=
@@ -1397,7 +1397,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 1646
+		size= 161
 	}
 
 	artisans=
@@ -1446,7 +1446,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 1416
+		size= 141
 	}
 
 	artisans=
@@ -1495,7 +1495,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 1155
+		size= 111
 	}
 
 	artisans=

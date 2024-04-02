@@ -10,7 +10,7 @@
 	{
 		culture = thai
 		religion = theravada
-		size= 2612
+		size= 261
 	}
 
 	artisans=
@@ -68,7 +68,7 @@
 	{
 		culture = thai
 		religion = theravada
-		size= 861
+		size= 81
 	}
 
 	artisans=
@@ -126,7 +126,7 @@
 	{
 		culture = thai
 		religion = theravada
-		size= 570
+		size= 51
 	}
 
 	artisans=
@@ -177,7 +177,7 @@
 	{
 		culture = thai
 		religion = theravada
-		size= 1033
+		size= 101
 	}
 
 	artisans=
@@ -228,7 +228,7 @@
 	{
 		culture = khmer
 		religion = theravada
-		size= 1033
+		size= 101
 	}
 
 	artisans=
@@ -286,7 +286,7 @@
 	{
 		culture = thai
 		religion = theravada
-		size= 412
+		size= 41
 	}
 
 	artisans=
@@ -337,7 +337,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 122
+		size= 11
 	}
 
 	artisans=
@@ -386,7 +386,7 @@
 	{
 		culture = malay
 		religion = theravada
-		size= 48
+		size= 1
 	}
 
 	artisans=
@@ -435,7 +435,7 @@
 	{
 		culture = thai
 		religion = theravada
-		size= 1033
+		size= 101
 	}
 
 	artisans=
@@ -486,7 +486,7 @@
 	{
 		culture = thai
 		religion = theravada
-		size= 1028
+		size= 101
 	}
 
 	artisans=
@@ -544,7 +544,7 @@
 	{
 		culture = thai
 		religion = theravada
-		size= 10333
+		size= 1031
 	}
 
 	artisans=
@@ -602,7 +602,7 @@
 	{
 		culture = thai
 		religion = theravada
-		size= 900
+		size= 91
 	}
 
 	artisans=
@@ -660,7 +660,7 @@
 	{
 		culture = lao
 		religion = theravada
-		size= 7233
+		size= 721
 	}
 
 	artisans=
@@ -716,7 +716,7 @@
 	{
 		culture = khmer
 		religion = theravada
-		size= 271
+		size= 21
 	}
 
 	artisans=
@@ -767,7 +767,7 @@
 	{
 		culture = khmer
 		religion = theravada
-		size= 112
+		size= 11
 	}
 
 	artisans=
@@ -816,7 +816,7 @@
 	{
 		culture = lao
 		religion = theravada
-		size= 613
+		size= 61
 	}
 
 	artisans=
@@ -865,7 +865,7 @@
 	{
 		culture = lao
 		religion = animist
-		size= 130
+		size= 11
 	}
 
 	artisans=
@@ -916,7 +916,7 @@
 	{
 		culture = thai
 		religion = theravada
-		size= 180
+		size= 11
 	}
 
 	artisans=
@@ -974,7 +974,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 331
+		size= 31
 	}
 
 	artisans=
@@ -1025,7 +1025,7 @@
 	{
 		culture = thai
 		religion = theravada
-		size= 1033
+		size= 101
 	}
 
 	artisans=

@@ -10,7 +10,7 @@
 	{
 		culture = yoruba
 		religion = shamanism
-		size= 17
+		size= 1
 	}
 
 	farmers=
@@ -59,7 +59,7 @@
 	{
 		culture = africaine
 		religion = protestant
-		size= 23
+		size= 1
 	}
 
 	bureaucrats=
@@ -89,7 +89,7 @@
 	{
 		culture = fang
 		religion = shamanism
-		size= 182
+		size= 11
 	}
 
 	artisans=
@@ -145,7 +145,7 @@
 	{
 		culture = fang
 		religion = catholic
-		size= 30
+		size= 1
 	}
 
 	artisans=
@@ -201,7 +201,7 @@
 	{
 		culture = ifriqi
 		religion = catholic
-		size= 88
+		size= 1
 	}
 
 	artisans=

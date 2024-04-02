@@ -38,7 +38,7 @@
 	{
 		culture = sara
 		religion = sunni
-		size= 500
+		size= 51
 	}
 
 	farmers=
@@ -87,7 +87,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 500
+		size= 51
 	}
 
 	farmers=
@@ -122,7 +122,7 @@
 	{
 		culture = baguirmi
 		religion = sunni
-		size= 500
+		size= 51
 	}
 
 	farmers=
@@ -166,7 +166,7 @@
 	{
 		culture = sara
 		religion = sunni
-		size= 500
+		size= 51
 	}
 
 	farmers=
@@ -201,7 +201,7 @@
 	{
 		culture = kanuri
 		religion = sunni
-		size= 1000
+		size= 101
 	}
 
 	farmers=
@@ -243,7 +243,7 @@
 	{
 		culture = sara
 		religion = animist
-		size= 3000
+		size= 301
 	}
 
 	farmers=
@@ -301,7 +301,7 @@
 	{
 		culture = sara
 		religion = animist
-		size= 2000
+		size= 201
 	}
 
 	farmers=
@@ -329,7 +329,7 @@
 	{
 		culture = sara
 		religion = sunni
-		size= 500
+		size= 51
 	}
 
 	farmers=
@@ -357,7 +357,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 500
+		size= 51
 	}
 
 	farmers=
@@ -415,7 +415,7 @@
 	{
 		culture = fur
 		religion = sunni
-		size= 100
+		size= 11
 	}
 
 	farmers=
@@ -457,7 +457,7 @@
 	{
 		culture = baguirmi
 		religion = sunni
-		size= 100
+		size= 11
 	}
 
 	farmers=
@@ -499,7 +499,7 @@
 	{
 		culture = teda
 		religion = sunni
-		size= 1000
+		size= 101
 	}
 
 	farmers=
@@ -541,7 +541,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 1000
+		size= 101
 	}
 
 	farmers=
@@ -599,7 +599,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 100
+		size= 11
 	}
 
 	farmers=
@@ -636,7 +636,7 @@
 	{
 		culture = fur
 		religion = sunni
-		size= 1000
+		size= 101
 	}
 
 	farmers=
@@ -671,7 +671,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 500
+		size= 51
 	}
 
 	farmers=
@@ -713,7 +713,7 @@
 	{
 		culture = baguirmi
 		religion = sunni
-		size= 1000
+		size= 101
 	}
 
 	farmers=
@@ -757,7 +757,7 @@
 	{
 		culture = teda
 		religion = sunni
-		size= 300
+		size= 31
 	}
 
 	farmers=
@@ -806,7 +806,7 @@
 	{
 		culture = kanuri
 		religion = sunni
-		size= 200
+		size= 21
 	}
 
 	farmers=
@@ -850,7 +850,7 @@
 	{
 		culture = teda
 		religion = sunni
-		size= 100
+		size= 11
 	}
 
 	farmers=
@@ -887,7 +887,7 @@
 	{
 		culture = teda
 		religion = sunni
-		size= 100
+		size= 11
 	}
 
 	farmers=

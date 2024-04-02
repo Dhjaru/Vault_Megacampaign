@@ -10,7 +10,7 @@
 	{
 		culture = vietnamese
 		religion = mahayana
-		size= 7562
+		size= 751
 	}
 
 	artisans=
@@ -61,7 +61,7 @@
 	{
 		culture = vietnamese
 		religion = mahayana
-		size= 2980
+		size= 291
 	}
 
 	artisans=
@@ -119,7 +119,7 @@
 	{
 		culture = zhuang
 		religion = mahayana
-		size= 659
+		size= 61
 	}
 
 	artisans=
@@ -175,7 +175,7 @@
 	{
 		culture = vietnamese
 		religion = mahayana
-		size= 7233
+		size= 721
 	}
 
 	artisans=
@@ -233,7 +233,7 @@
 	{
 		culture = lao
 		religion = animist
-		size= 246
+		size= 21
 	}
 
 	artisans=
@@ -289,7 +289,7 @@
 	{
 		culture = lao
 		religion = theravada
-		size= 253
+		size= 21
 	}
 
 	artisans=
@@ -345,7 +345,7 @@
 	{
 		culture = lao
 		religion = mahayana
-		size= 253
+		size= 21
 	}
 
 	artisans=
@@ -401,7 +401,7 @@
 	{
 		culture = vietnamese
 		religion = mahayana
-		size= 10333
+		size= 1031
 	}
 
 	artisans=
@@ -457,7 +457,7 @@
 	{
 		culture = vietnamese
 		religion = theravada
-		size= 1
+		size=1
 	}
 
 	artisans=
@@ -508,7 +508,7 @@
 	{
 		culture = vietnamese
 		religion = mahayana
-		size= 1622
+		size= 161
 	}
 
 	artisans=
@@ -566,7 +566,7 @@
 	{
 		culture = vietnamese
 		religion = mahayana
-		size= 2675
+		size= 261
 	}
 
 	artisans=
@@ -622,7 +622,7 @@
 	{
 		culture = vietnamese
 		religion = theravada
-		size= 6
+		size=1
 	}
 
 	artisans=
@@ -673,7 +673,7 @@
 	{
 		culture = vietnamese
 		religion = mahayana
-		size= 5020
+		size= 501
 	}
 
 	artisans=
@@ -724,7 +724,7 @@
 	{
 		culture = vietnamese
 		religion = mahayana
-		size= 2620
+		size= 261
 	}
 
 	artisans=
@@ -782,7 +782,7 @@
 	{
 		culture = vietnamese
 		religion = hindu
-		size= 1052
+		size= 101
 	}
 
 	artisans=
@@ -838,7 +838,7 @@
 	{
 		culture = vietnamese
 		religion = mahayana
-		size= 1725
+		size= 171
 	}
 
 	artisans=
@@ -896,7 +896,7 @@
 	{
 		culture = vietnamese
 		religion = animist
-		size= 538
+		size= 51
 	}
 
 	artisans=
@@ -952,7 +952,7 @@
 	{
 		culture = vietnamese
 		religion = mahayana
-		size= 463
+		size= 41
 	}
 
 	artisans=
@@ -1003,7 +1003,7 @@
 	{
 		culture = vietnamese
 		religion = hindu
-		size= 263
+		size= 21
 	}
 
 	artisans=
@@ -1052,7 +1052,7 @@
 	{
 		culture = vietnamese
 		religion = mahayana
-		size= 337
+		size= 31
 	}
 
 	artisans=
@@ -1110,7 +1110,7 @@
 	{
 		culture = khmer
 		religion = hindu
-		size= 736
+		size= 71
 	}
 
 	artisans=
@@ -1166,7 +1166,7 @@
 	{
 		culture = khmer
 		religion = theravada
-		size= 1358
+		size= 131
 	}
 
 	artisans=
@@ -1222,7 +1222,7 @@
 	{
 		culture = khmer
 		religion = mahayana
-		size= 98
+		size= 1
 	}
 
 	artisans=
@@ -1273,7 +1273,7 @@
 	{
 		culture = vietnamese
 		religion = hindu
-		size= 113
+		size= 11
 	}
 
 	artisans=
@@ -1322,7 +1322,7 @@
 	{
 		culture = vietnamese
 		religion = theravada
-		size= 103
+		size= 11
 	}
 
 	artisans=
@@ -1371,7 +1371,7 @@
 	{
 		culture = khmer
 		religion = theravada
-		size= 118
+		size= 11
 	}
 
 	artisans=
@@ -1420,7 +1420,7 @@
 	{
 		culture = vietnamese
 		religion = animist
-		size= 112
+		size= 11
 	}
 
 	artisans=
@@ -1469,7 +1469,7 @@
 	{
 		culture = vietnamese
 		religion = mahayana
-		size= 164
+		size= 11
 	}
 
 	artisans=
@@ -1520,7 +1520,7 @@
 	{
 		culture = khmer
 		religion = hindu
-		size= 165
+		size= 11
 	}
 
 	artisans=
@@ -1569,7 +1569,7 @@
 	{
 		culture = khmer
 		religion = theravada
-		size= 314
+		size= 31
 	}
 
 	artisans=
@@ -1618,7 +1618,7 @@
 	{
 		culture = khmer
 		religion = mahayana
-		size= 11
+		size= 1
 	}
 
 	artisans=
@@ -1669,7 +1669,7 @@
 	{
 		culture = khmer
 		religion = hindu
-		size= 102
+		size= 11
 	}
 
 	artisans=
@@ -1711,7 +1711,7 @@
 	{
 		culture = khmer
 		religion = theravada
-		size= 193
+		size= 11
 	}
 
 	artisans=
@@ -1760,7 +1760,7 @@
 	{
 		culture = khmer
 		religion = mahayana
-		size= 7
+		size=1
 	}
 
 	artisans=

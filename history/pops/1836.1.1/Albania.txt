@@ -3,7 +3,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2742
+		size= 271
 	}
 
 	artisans=
@@ -61,7 +61,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2426
+		size= 241
 	}
 
 	artisans=
@@ -112,7 +112,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 6930
+		size= 691
 	}
 
 	artisans=
@@ -163,7 +163,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2166
+		size= 211
 	}
 
 	artisans=
@@ -214,7 +214,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2166
+		size= 211
 	}
 
 	artisans=

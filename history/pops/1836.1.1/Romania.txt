@@ -3,7 +3,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 1038
+		size= 101
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 498
+		size= 41
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 1038
+		size= 101
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 498
+		size= 41
 	}
 
 	artisans=
@@ -203,7 +203,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 1481
+		size= 141
 	}
 
 	artisans=
@@ -252,7 +252,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 687
+		size= 61
 	}
 
 	artisans=
@@ -303,7 +303,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 1549
+		size= 151
 	}
 
 	artisans=
@@ -352,7 +352,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 718
+		size= 71
 	}
 
 	artisans=
@@ -403,7 +403,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 218
+		size= 21
 	}
 
 	artisans=
@@ -445,7 +445,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 97
+		size= 1
 	}
 
 	artisans=
@@ -489,7 +489,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 173
+		size= 11
 	}
 
 	artisans=
@@ -538,7 +538,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 86
+		size= 1
 	}
 
 	artisans=
@@ -589,7 +589,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 173
+		size= 11
 	}
 
 	artisans=
@@ -638,7 +638,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 86
+		size= 1
 	}
 
 	artisans=
@@ -689,7 +689,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 435
+		size= 41
 	}
 
 	artisans=
@@ -731,7 +731,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 182
+		size= 11
 	}
 
 	artisans=
@@ -775,7 +775,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 435
+		size= 41
 	}
 
 	artisans=
@@ -824,7 +824,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 182
+		size= 11
 	}
 
 	artisans=
@@ -875,7 +875,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 224
+		size= 21
 	}
 
 	artisans=
@@ -924,7 +924,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 91
+		size= 1
 	}
 
 	artisans=
@@ -975,7 +975,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 218
+		size= 21
 	}
 
 	artisans=
@@ -1024,7 +1024,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 97
+		size= 1
 	}
 
 	artisans=
@@ -1075,7 +1075,7 @@
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 1580
+		size= 151
 	}
 
 	artisans=
@@ -1124,7 +1124,7 @@
 	{
 		culture = western_slavic
 		religion = orthodox
-		size= 696
+		size= 61
 	}
 
 	artisans=
@@ -1173,7 +1173,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 743
+		size= 71
 	}
 
 	artisans=
@@ -1231,7 +1231,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 3973
+		size= 391
 	}
 
 	artisans=
@@ -1287,7 +1287,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1472
+		size= 141
 	}
 
 	artisans=
@@ -1345,7 +1345,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 2346
+		size= 231
 	}
 
 	artisans=
@@ -1401,7 +1401,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 1515
+		size= 151
 	}
 
 	artisans=
@@ -1457,7 +1457,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1683
+		size= 161
 	}
 
 	artisans=
@@ -1515,7 +1515,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 3101
+		size= 311
 	}
 
 	artisans=
@@ -1571,7 +1571,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 2221
+		size= 221
 	}
 
 	artisans=
@@ -1627,7 +1627,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1955
+		size= 191
 	}
 
 	artisans=
@@ -1685,7 +1685,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 2759
+		size= 271
 	}
 
 	artisans=
@@ -1741,7 +1741,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 1870
+		size= 181
 	}
 
 	artisans=
@@ -1797,7 +1797,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1782
+		size= 171
 	}
 
 	artisans=
@@ -1848,7 +1848,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 2023
+		size= 201
 	}
 
 	artisans=
@@ -1897,7 +1897,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 749
+		size= 71
 	}
 
 	artisans=
@@ -1955,7 +1955,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 2023
+		size= 201
 	}
 
 	artisans=
@@ -2011,7 +2011,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 749
+		size= 71
 	}
 
 	artisans=
@@ -2062,7 +2062,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 876
+		size= 81
 	}
 
 	artisans=
@@ -2111,7 +2111,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 404
+		size= 41
 	}
 
 	artisans=
@@ -2160,7 +2160,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 414
+		size= 41
 	}
 
 	artisans=
@@ -2218,7 +2218,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 927
+		size= 91
 	}
 
 	artisans=
@@ -2274,7 +2274,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 427
+		size= 41
 	}
 
 	artisans=
@@ -2330,7 +2330,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 438
+		size= 41
 	}
 
 	artisans=
@@ -2381,7 +2381,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 747
+		size= 71
 	}
 
 	artisans=
@@ -2430,7 +2430,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 373
+		size= 31
 	}
 
 	artisans=
@@ -2479,7 +2479,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 409
+		size= 41
 	}
 
 	artisans=
@@ -2530,7 +2530,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 747
+		size= 71
 	}
 
 	artisans=
@@ -2579,7 +2579,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 373
+		size= 31
 	}
 
 	artisans=
@@ -2628,7 +2628,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 409
+		size= 41
 	}
 
 	artisans=
@@ -2686,7 +2686,7 @@
 	{
 		culture = bulgarian
 		religion = catholic
-		size= 1305
+		size= 131
 	}
 
 	artisans=
@@ -2742,7 +2742,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 778
+		size= 71
 	}
 
 	artisans=
@@ -2798,7 +2798,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1729
+		size= 171
 	}
 
 	artisans=
@@ -2856,7 +2856,7 @@
 	{
 		culture = bulgarian
 		religion = catholic
-		size= 1253
+		size= 121
 	}
 
 	artisans=
@@ -2912,7 +2912,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 724
+		size= 71
 	}
 
 	artisans=
@@ -2968,7 +2968,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1715
+		size= 171
 	}
 
 	artisans=
@@ -3019,7 +3019,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 224
+		size= 21
 	}
 
 	artisans=
@@ -3068,7 +3068,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 91
+		size= 1
 	}
 
 	artisans=

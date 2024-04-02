@@ -3,7 +3,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 6479
+		size= 641
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 6
+		size=1
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2412
+		size= 241
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 100
+		size= 11
 	}
 
 	clergymen=
@@ -182,7 +182,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2512
+		size= 251
 	}
 
 	artisans=

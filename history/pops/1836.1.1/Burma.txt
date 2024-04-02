@@ -10,7 +10,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 2542
+		size= 251
 	}
 
 	artisans=
@@ -66,7 +66,7 @@
 	{
 		culture = burmese
 		religion = protestant
-		size= 744
+		size= 71
 	}
 
 	artisans=
@@ -117,7 +117,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 274
+		size= 21
 	}
 
 	artisans=
@@ -175,7 +175,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 4527
+		size= 451
 	}
 
 	artisans=
@@ -231,7 +231,7 @@
 	{
 		culture = burmese
 		religion = protestant
-		size= 1324
+		size= 131
 	}
 
 	artisans=
@@ -282,7 +282,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 1307
+		size= 131
 	}
 
 	artisans=
@@ -331,7 +331,7 @@
 	{
 		culture = burmese
 		religion = protestant
-		size= 1554
+		size= 151
 	}
 
 	artisans=
@@ -380,7 +380,7 @@
 	{
 		culture = shan
 		religion = theravada
-		size= 574
+		size= 51
 	}
 
 	artisans=
@@ -429,7 +429,7 @@
 	{
 		culture = shan
 		religion = animist
-		size= 4
+		size=1
 	}
 
 	artisans=
@@ -471,7 +471,7 @@
 	{
 		culture = shan
 		religion = protestant
-		size= 148
+		size= 11
 	}
 
 	artisans=
@@ -529,7 +529,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 781
+		size= 71
 	}
 
 	artisans=
@@ -585,7 +585,7 @@
 	{
 		culture = burmese
 		religion = protestant
-		size= 899
+		size= 81
 	}
 
 	artisans=
@@ -643,7 +643,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 1979
+		size= 191
 	}
 
 	artisans=
@@ -699,7 +699,7 @@
 	{
 		culture = burmese
 		religion = protestant
-		size= 2352
+		size= 231
 	}
 
 	artisans=
@@ -755,7 +755,7 @@
 	{
 		culture = shan
 		religion = theravada
-		size= 868
+		size= 81
 	}
 
 	artisans=
@@ -811,7 +811,7 @@
 	{
 		culture = shan
 		religion = animist
-		size= 5
+		size=1
 	}
 
 	artisans=
@@ -860,7 +860,7 @@
 	{
 		culture = shan
 		religion = protestant
-		size= 225
+		size= 21
 	}
 
 	artisans=
@@ -911,7 +911,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 612
+		size= 61
 	}
 
 	artisans=
@@ -960,7 +960,7 @@
 	{
 		culture = burmese
 		religion = protestant
-		size= 772
+		size= 71
 	}
 
 	artisans=
@@ -1011,7 +1011,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 1225
+		size= 121
 	}
 
 	artisans=
@@ -1060,7 +1060,7 @@
 	{
 		culture = burmese
 		religion = protestant
-		size= 1545
+		size= 151
 	}
 
 	artisans=
@@ -1118,7 +1118,7 @@
 	{
 		culture = shan
 		religion = animist
-		size= 837
+		size= 81
 	}
 
 	artisans=
@@ -1174,7 +1174,7 @@
 	{
 		culture = shan
 		religion = theravada
-		size= 1433
+		size= 141
 	}
 
 	artisans=
@@ -1230,7 +1230,7 @@
 	{
 		culture = shan
 		religion = protestant
-		size= 554
+		size= 51
 	}
 
 	artisans=
@@ -1286,7 +1286,7 @@
 	{
 		culture = karen
 		religion = animist
-		size= 1546
+		size= 151
 	}
 
 	artisans=
@@ -1342,7 +1342,7 @@
 	{
 		culture = karen
 		religion = protestant
-		size= 419
+		size= 41
 	}
 
 	artisans=
@@ -1393,7 +1393,7 @@
 	{
 		culture = manipuri
 		religion = animist
-		size= 469
+		size= 41
 	}
 
 	artisans=
@@ -1442,7 +1442,7 @@
 	{
 		culture = manipuri
 		religion = theravada
-		size= 371
+		size= 31
 	}
 
 	artisans=
@@ -1491,7 +1491,7 @@
 	{
 		culture = shan
 		religion = animist
-		size= 134
+		size= 11
 	}
 
 	artisans=
@@ -1540,7 +1540,7 @@
 	{
 		culture = shan
 		religion = theravada
-		size= 184
+		size= 11
 	}
 
 	artisans=
@@ -1589,7 +1589,7 @@
 	{
 		culture = manipuri
 		religion = protestant
-		size= 66
+		size= 1
 	}
 
 	artisans=
@@ -1647,7 +1647,7 @@
 	{
 		culture = shan
 		religion = theravada
-		size= 1646
+		size= 161
 	}
 
 	artisans=
@@ -1703,7 +1703,7 @@
 	{
 		culture = shan
 		religion = protestant
-		size= 414
+		size= 41
 	}
 
 	artisans=
@@ -1759,7 +1759,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 319
+		size= 31
 	}
 
 	artisans=
@@ -1815,7 +1815,7 @@
 	{
 		culture = burmese
 		religion = protestant
-		size= 396
+		size= 31
 	}
 
 	artisans=
@@ -1866,7 +1866,7 @@
 	{
 		culture = kachin
 		religion = animist
-		size= 1021
+		size= 101
 	}
 
 	artisans=
@@ -1915,7 +1915,7 @@
 	{
 		culture = kachin
 		religion = sunni
-		size= 491
+		size= 41
 	}
 
 	artisans=
@@ -1973,7 +1973,7 @@
 	{
 		culture = shan
 		religion = theravada
-		size= 3561
+		size= 351
 	}
 
 	artisans=
@@ -2029,7 +2029,7 @@
 	{
 		culture = kachin
 		religion = theravada
-		size= 738
+		size= 71
 	}
 
 	artisans=
@@ -2085,7 +2085,7 @@
 	{
 		culture = kachin
 		religion = sunni
-		size= 347
+		size= 31
 	}
 
 	artisans=
@@ -2136,7 +2136,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 424
+		size= 41
 	}
 
 	artisans=
@@ -2187,7 +2187,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 831
+		size= 81
 	}
 
 	artisans=
@@ -2238,7 +2238,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 1372
+		size= 131
 	}
 
 	artisans=
@@ -2287,7 +2287,7 @@
 	{
 		culture = bengali
 		religion = theravada
-		size= 651
+		size= 61
 	}
 
 	artisans=

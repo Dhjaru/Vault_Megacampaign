@@ -10,7 +10,7 @@
 	{
 		culture = anglo_african
 		religion = catholic
-		size= 77
+		size= 1
 	}
 
 	farmers=
@@ -66,7 +66,7 @@
 	{
 		culture = boer
 		religion = catholic
-		size= 117
+		size= 11
 	}
 
 	artisans=

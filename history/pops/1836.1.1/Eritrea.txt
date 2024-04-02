@@ -10,7 +10,7 @@
 	{
 		culture = tigray
 		religion = coptic
-		size= 717
+		size= 71
 	}
 
 	artisans=
@@ -66,7 +66,7 @@
 	{
 		culture = tigray
 		religion = orthodox
-		size= 63
+		size= 1
 	}
 
 	artisans=
@@ -122,7 +122,7 @@
 	{
 		culture = mavro
 		religion = orthodox
-		size= 195
+		size= 11
 	}
 
 	artisans=
@@ -173,7 +173,7 @@
 	{
 		culture = tigray
 		religion = coptic
-		size= 67
+		size= 1
 	}
 
 	artisans=
@@ -231,7 +231,7 @@
 	{
 		culture = tigray
 		religion = coptic
-		size= 270
+		size= 21
 	}
 
 	artisans=
@@ -287,7 +287,7 @@
 	{
 		culture = tigray
 		religion = orthodox
-		size= 23
+		size= 1
 	}
 
 	artisans=
@@ -343,7 +343,7 @@
 	{
 		culture = mavro
 		religion = orthodox
-		size= 73
+		size= 1
 	}
 
 	artisans=
@@ -394,7 +394,7 @@
 	{
 		culture = afar
 		religion = sunni
-		size= 42
+		size= 1
 	}
 
 	artisans=
@@ -443,7 +443,7 @@
 	{
 		culture = afar
 		religion = coptic
-		size= 67
+		size= 1
 	}
 
 	artisans=

@@ -24,7 +24,7 @@
 	{
 		culture = bakongo
 		religion = animist
-		size= 1000
+		size= 101
 	}
 
 	farmers=
@@ -68,7 +68,7 @@
 	{
 		culture = bakongo
 		religion = animist
-		size= 500
+		size= 51
 	}
 
 	farmers=
@@ -112,7 +112,7 @@
 	{
 		culture = forest_bantu
 		religion = animist
-		size= 175
+		size= 11
 	}
 
 	farmers=
@@ -142,7 +142,7 @@
 	{
 		culture = bakongo
 		religion = shamanism
-		size= 798
+		size= 71
 	}
 
 	artisans=
@@ -198,7 +198,7 @@
 	{
 		culture = bakongo
 		religion = catholic
-		size= 12
+		size= 1
 	}
 
 	artisans=

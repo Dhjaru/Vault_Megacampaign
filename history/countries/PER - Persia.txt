@@ -1,5 +1,6 @@
 capital = 1127
 primary_culture = persian
+culture = mashriqi
 culture = zzz_religion_zoroastrian
 religion = zoroastrian
 government = bourgeois_dictatorship

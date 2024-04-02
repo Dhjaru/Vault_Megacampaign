@@ -3,7 +3,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 3547
+		size= 351
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = azerbaijani
 		religion = zoroastrian
-		size= 3730
+		size= 371
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = dagestani
 		religion = sunni
-		size= 1920
+		size= 191
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = dagestani
 		religion = catholic
-		size= 317
+		size= 31
 	}
 
 	artisans=
@@ -201,7 +201,7 @@
 	{
 		culture = dagestani
 		religion = orthodox
-		size= 361
+		size= 31
 	}
 
 	artisans=
@@ -250,7 +250,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 2945
+		size= 291
 	}
 
 	artisans=
@@ -301,7 +301,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 7194
+		size= 711
 	}
 
 	artisans=
@@ -350,7 +350,7 @@
 	{
 		culture = azerbaijani
 		religion = zoroastrian
-		size= 14721
+		size= 1471
 	}
 
 	artisans=
@@ -399,7 +399,7 @@
 	{
 		culture = azerbaijani
 		religion = orthodox
-		size= 6499
+		size= 641
 	}
 
 	artisans=
@@ -450,7 +450,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 7144
+		size= 711
 	}
 
 	artisans=
@@ -499,7 +499,7 @@
 	{
 		culture = azerbaijani
 		religion = zoroastrian
-		size= 7756
+		size= 771
 	}
 
 	artisans=
@@ -550,7 +550,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 6309
+		size= 631
 	}
 
 	artisans=
@@ -599,7 +599,7 @@
 	{
 		culture = armenian
 		religion = zoroastrian
-		size= 6166
+		size= 611
 	}
 
 	artisans=
@@ -650,7 +650,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 3547
+		size= 351
 	}
 
 	artisans=
@@ -699,7 +699,7 @@
 	{
 		culture = azerbaijani
 		religion = zoroastrian
-		size= 3730
+		size= 371
 	}
 
 	artisans=

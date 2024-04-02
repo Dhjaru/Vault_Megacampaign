@@ -10,7 +10,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 187
+		size= 11
 	}
 
 	artisans=
@@ -66,7 +66,7 @@
 	{
 		culture = chibchan
 		religion = catholic
-		size= 513
+		size= 51
 	}
 
 	artisans=
@@ -124,7 +124,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 48
+		size= 1
 	}
 
 	artisans=
@@ -180,7 +180,7 @@
 	{
 		culture = chibchan
 		religion = catholic
-		size= 133
+		size= 11
 	}
 
 	artisans=
@@ -238,7 +238,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 43
+		size= 1
 	}
 
 	artisans=
@@ -294,7 +294,7 @@
 	{
 		culture = chibchan
 		religion = catholic
-		size= 119
+		size= 11
 	}
 
 	artisans=
@@ -345,7 +345,7 @@
 	{
 		culture = quechua
 		religion = inti
-		size= 392
+		size= 31
 	}
 
 	artisans=
@@ -396,7 +396,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 110
+		size= 11
 	}
 
 	artisans=
@@ -445,7 +445,7 @@
 	{
 		culture = chibchan
 		religion = catholic
-		size= 301
+		size= 31
 	}
 
 	artisans=
@@ -496,7 +496,7 @@
 	{
 		culture = maranon
 		religion = animist
-		size= 13
+		size= 1
 	}
 
 	farmers=
@@ -545,7 +545,7 @@
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 56
+		size= 1
 	}
 
 	officers=
@@ -568,7 +568,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 1
+		size=1
 	}
 
 	artisans=

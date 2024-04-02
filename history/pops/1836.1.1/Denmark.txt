@@ -3,7 +3,7 @@
 	{
 		culture = icelandic
 		religion = catholic
-		size= 1586
+		size= 151
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 7
+		size=1
 	}
 
 	artisans=
@@ -94,7 +94,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 2309
+		size= 231
 	}
 
 	artisans=
@@ -145,7 +145,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 3903
+		size= 391
 	}
 
 	craftsmen=
@@ -215,7 +215,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 5280
+		size= 521
 	}
 
 	craftsmen=
@@ -287,7 +287,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 1881
+		size= 181
 	}
 
 	artisans=
@@ -336,7 +336,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 1045
+		size= 101
 	}
 
 	artisans=
@@ -385,7 +385,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 1925
+		size= 191
 	}
 
 	artisans=
@@ -436,7 +436,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 4725
+		size= 471
 	}
 
 	artisans=
@@ -485,7 +485,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 6190
+		size= 611
 	}
 
 	artisans=
@@ -536,7 +536,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 904
+		size= 91
 	}
 
 	artisans=
@@ -585,7 +585,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 1205
+		size= 121
 	}
 
 	artisans=
@@ -636,7 +636,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 904
+		size= 91
 	}
 
 	artisans=
@@ -685,7 +685,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 1205
+		size= 121
 	}
 
 	artisans=
@@ -736,7 +736,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 2851
+		size= 281
 	}
 
 	artisans=
@@ -785,7 +785,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 731
+		size= 71
 	}
 
 	artisans=
@@ -834,14 +834,14 @@
 	{
 		culture = english
 		religion = protestant
-		size= 6415
+		size= 641
 	}
 
 	artisans=
 	{
 		culture = english
 		religion = protestant
-		size= 31025
+		size= 3102
 	}
 
 	clergymen=
@@ -876,14 +876,14 @@
 	{
 		culture = english
 		religion = protestant
-		size= 95215
+		size= 9521
 	}
 
 	soldiers=
 	{
 		culture = north_german
 		religion = catholic
-		size= 3020
+		size= 301
 	}
 
 	artisans=
@@ -925,14 +925,14 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 61252
+		size= 41252
 	}
 
 	soldiers=
 	{
 		culture = north_german
 		religion = protestant
-		size= 1363
+		size= 131
 	}
 
 	artisans=
@@ -974,7 +974,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 21666
+		size= 11666
 	}
 
 }
@@ -983,7 +983,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1439
+		size= 141
 	}
 
 	artisans=
@@ -1025,14 +1025,14 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 49374
+		size= 39374
 	}
 
 	soldiers=
 	{
 		culture = north_german
 		religion = protestant
-		size= 663
+		size= 61
 	}
 
 	artisans=
@@ -1081,14 +1081,14 @@
 	{
 		culture = english
 		religion = protestant
-		size= 1483
+		size= 141
 	}
 
 	artisans=
 	{
 		culture = english
 		religion = protestant
-		size= 12673
+		size= 1267
 	}
 
 	clergymen=
@@ -1123,7 +1123,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 36416
+		size= 3641
 	}
 
 }
@@ -1132,7 +1132,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 337
+		size= 31
 	}
 
 	artisans=
@@ -1181,7 +1181,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 167
+		size= 11
 	}
 
 	artisans=
@@ -1230,14 +1230,14 @@
 	{
 		culture = english
 		religion = protestant
-		size= 362
+		size= 31
 	}
 
 	artisans=
 	{
 		culture = english
 		religion = protestant
-		size= 8597
+		size= 859
 	}
 
 	clergymen=
@@ -1272,7 +1272,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 25676
+		size= 2567
 	}
 
 }
@@ -1281,7 +1281,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 4337
+		size= 431
 	}
 
 	artisans=
@@ -1330,7 +1330,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 5018
+		size= 501
 	}
 
 	artisans=

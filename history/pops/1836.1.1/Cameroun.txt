@@ -10,7 +10,7 @@
 	{
 		culture = fang
 		religion = shamanism
-		size= 429
+		size= 41
 	}
 
 	artisans=
@@ -66,7 +66,7 @@
 	{
 		culture = fang
 		religion = catholic
-		size= 70
+		size= 1
 	}
 
 	artisans=
@@ -122,7 +122,7 @@
 	{
 		culture = ifriqi
 		religion = catholic
-		size= 207
+		size= 21
 	}
 
 	artisans=
@@ -180,7 +180,7 @@
 	{
 		culture = fang
 		religion = shamanism
-		size= 1432
+		size= 141
 	}
 
 	artisans=
@@ -238,7 +238,7 @@
 	{
 		culture = fang
 		religion = shamanism
-		size= 230
+		size= 21
 	}
 
 	artisans=
@@ -294,7 +294,7 @@
 	{
 		culture = fang
 		religion = catholic
-		size= 37
+		size= 1
 	}
 
 	artisans=
@@ -350,7 +350,7 @@
 	{
 		culture = ifriqi
 		religion = catholic
-		size= 111
+		size= 11
 	}
 
 	artisans=
@@ -422,7 +422,7 @@
 	{
 		culture = fang
 		religion = animist
-		size= 275
+		size= 21
 	}
 
 	farmers=
@@ -464,7 +464,7 @@
 	{
 		culture = forest_bantu
 		religion = animist
-		size= 600
+		size= 61
 	}
 
 	farmers=
@@ -508,7 +508,7 @@
 	{
 		culture = tiv
 		religion = sunni
-		size= 700
+		size= 71
 	}
 
 	farmers=
@@ -552,7 +552,7 @@
 	{
 		culture = tiv
 		religion = animist
-		size= 950
+		size= 91
 	}
 
 	farmers=
@@ -596,7 +596,7 @@
 	{
 		culture = fang
 		religion = animist
-		size= 625
+		size= 61
 	}
 
 	farmers=
@@ -638,7 +638,7 @@
 	{
 		culture = forest_bantu
 		religion = animist
-		size= 175
+		size= 11
 	}
 
 	farmers=
@@ -696,7 +696,7 @@
 	{
 		culture = fulbe
 		religion = sunni
-		size= 275
+		size= 21
 	}
 
 	farmers=
@@ -731,7 +731,7 @@
 	{
 		culture = ubangian
 		religion = animist
-		size= 150
+		size= 11
 	}
 
 	farmers=
@@ -775,7 +775,7 @@
 	{
 		culture = fulbe
 		religion = sunni
-		size= 400
+		size= 41
 	}
 
 	farmers=
@@ -810,7 +810,7 @@
 	{
 		culture = hausa
 		religion = sunni
-		size= 200
+		size= 21
 	}
 
 	farmers=
@@ -845,7 +845,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 200
+		size= 21
 	}
 
 	farmers=
@@ -880,7 +880,7 @@
 	{
 		culture = baguirmi
 		religion = animist
-		size= 400
+		size= 41
 	}
 
 	farmers=

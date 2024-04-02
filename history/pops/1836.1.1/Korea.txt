@@ -10,7 +10,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 6397
+		size= 631
 	}
 
 	artisans=
@@ -66,7 +66,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 2199
+		size= 211
 	}
 
 	artisans=
@@ -124,7 +124,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 7187
+		size= 711
 	}
 
 	artisans=
@@ -180,7 +180,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 933
+		size= 91
 	}
 
 	artisans=
@@ -238,7 +238,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 1723
+		size= 171
 	}
 
 	artisans=
@@ -296,7 +296,7 @@
 	{
 		culture = manchu
 		religion = mahayana
-		size= 5320
+		size= 531
 	}
 
 	artisans=
@@ -354,7 +354,7 @@
 	{
 		culture = manchu
 		religion = mahayana
-		size= 5163
+		size= 511
 	}
 
 	artisans=
@@ -412,7 +412,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 15870
+		size= 1581
 	}
 
 	artisans=
@@ -470,7 +470,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 3602
+		size= 361
 	}
 
 	artisans=
@@ -526,7 +526,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 1142
+		size= 111
 	}
 
 	artisans=
@@ -584,7 +584,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 3921
+		size= 391
 	}
 
 	artisans=
@@ -640,7 +640,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 1242
+		size= 121
 	}
 
 	artisans=
@@ -698,7 +698,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 4046
+		size= 401
 	}
 
 	artisans=
@@ -754,7 +754,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 1282
+		size= 121
 	}
 
 	artisans=
@@ -812,7 +812,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 10580
+		size= 1051
 	}
 
 	artisans=
@@ -870,7 +870,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 1449
+		size= 141
 	}
 
 	artisans=
@@ -928,7 +928,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 1944
+		size= 191
 	}
 
 	artisans=
@@ -986,7 +986,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 6222
+		size= 621
 	}
 
 	artisans=
@@ -1044,7 +1044,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 13013
+		size= 1301
 	}
 
 	artisans=
@@ -1102,7 +1102,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 7135
+		size= 711
 	}
 
 	artisans=
@@ -1160,7 +1160,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 11500
+		size= 1151
 	}
 
 	artisans=
@@ -1218,7 +1218,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 4959
+		size= 491
 	}
 
 	artisans=
@@ -1276,7 +1276,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 16533
+		size= 1651
 	}
 
 	artisans=
@@ -1334,7 +1334,7 @@
 	{
 		culture = korean
 		religion = mahayana
-		size= 2089
+		size= 201
 	}
 
 	artisans=

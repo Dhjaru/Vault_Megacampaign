@@ -3,7 +3,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 5287
+		size= 521
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 7755
+		size= 771
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 4823
+		size= 481
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 6645
+		size= 661
 	}
 
 	artisans=
@@ -203,7 +203,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 5589
+		size= 551
 	}
 
 	artisans=
@@ -252,7 +252,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 7751
+		size= 771
 	}
 
 	artisans=
@@ -303,7 +303,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 5149
+		size= 511
 	}
 
 	artisans=
@@ -352,7 +352,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 7672
+		size= 761
 	}
 
 	artisans=
@@ -403,7 +403,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 3552
+		size= 351
 	}
 
 	artisans=
@@ -452,7 +452,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 4989
+		size= 491
 	}
 
 	artisans=
@@ -503,7 +503,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 4742
+		size= 471
 	}
 
 	artisans=
@@ -552,7 +552,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 6866
+		size= 681
 	}
 
 	artisans=
@@ -603,7 +603,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 4494
+		size= 441
 	}
 
 	artisans=
@@ -652,7 +652,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 6594
+		size= 651
 	}
 
 	artisans=
@@ -703,7 +703,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 2444
+		size= 241
 	}
 
 	artisans=
@@ -752,7 +752,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 3573
+		size= 351
 	}
 
 	artisans=
@@ -803,7 +803,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 2826
+		size= 281
 	}
 
 	artisans=
@@ -852,7 +852,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 4035
+		size= 401
 	}
 
 	artisans=
@@ -903,7 +903,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 1177
+		size= 111
 	}
 
 	artisans=
@@ -952,7 +952,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 1670
+		size= 161
 	}
 
 	artisans=
@@ -1003,7 +1003,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 2386
+		size= 231
 	}
 
 	artisans=
@@ -1052,7 +1052,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 4133
+		size= 411
 	}
 
 	artisans=
@@ -1103,7 +1103,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 1177
+		size= 111
 	}
 
 	artisans=
@@ -1152,7 +1152,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 1670
+		size= 161
 	}
 
 	artisans=

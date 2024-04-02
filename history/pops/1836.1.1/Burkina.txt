@@ -38,7 +38,7 @@
 	{
 		culture = mossi
 		religion = animist
-		size= 2150
+		size= 211
 	}
 
 	farmers=
@@ -82,7 +82,7 @@
 	{
 		culture = mossi
 		religion = animist
-		size= 1500
+		size= 151
 	}
 
 	farmers=
@@ -124,7 +124,7 @@
 	{
 		culture = gur
 		religion = animist
-		size= 325
+		size= 31
 	}
 
 	farmers=
@@ -168,7 +168,7 @@
 	{
 		culture = mossi
 		religion = animist
-		size= 1350
+		size= 131
 	}
 
 	farmers=
@@ -210,7 +210,7 @@
 	{
 		culture = gur
 		religion = animist
-		size= 350
+		size= 31
 	}
 
 	farmers=
@@ -254,7 +254,7 @@
 	{
 		culture = mossi
 		religion = animist
-		size= 150
+		size= 11
 	}
 
 	farmers=
@@ -296,7 +296,7 @@
 	{
 		culture = fulbe
 		religion = sunni
-		size= 300
+		size= 31
 	}
 
 	farmers=
@@ -347,7 +347,7 @@
 	{
 		culture = dyula
 		religion = sunni
-		size= 25
+		size= 1
 	}
 
 	farmers=
@@ -382,7 +382,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 250
+		size= 21
 	}
 
 	farmers=
@@ -417,7 +417,7 @@
 	{
 		culture = mossi
 		religion = animist
-		size= 75
+		size= 1
 	}
 
 	farmers=
@@ -461,7 +461,7 @@
 	{
 		culture = dyula
 		religion = sunni
-		size= 2100
+		size= 211
 	}
 
 	farmers=
@@ -496,7 +496,7 @@
 	{
 		culture = mande
 		religion = animist
-		size= 300
+		size= 31
 	}
 
 	farmers=
@@ -531,7 +531,7 @@
 	{
 		culture = bambara
 		religion = animist
-		size= 400
+		size= 41
 	}
 
 	farmers=
@@ -566,7 +566,7 @@
 	{
 		culture = gur
 		religion = animist
-		size= 150
+		size= 11
 	}
 
 	farmers=

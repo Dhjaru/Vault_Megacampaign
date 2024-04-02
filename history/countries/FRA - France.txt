@@ -1,9 +1,7 @@
 capital = 425
 primary_culture = french
-culture = breton
 culture = occitan
-culture = picard
-culture = rollonian
+culture = outremer
 culture = zzz_religion_protestant
 religion = protestant
 government = bourgeois_dictatorship

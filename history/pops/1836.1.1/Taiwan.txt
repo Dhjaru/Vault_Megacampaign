@@ -10,7 +10,7 @@
 	{
 		culture = polynesian
 		religion = animist
-		size= 2923
+		size= 291
 	}
 
 	artisans=
@@ -66,7 +66,7 @@
 	{
 		culture = min
 		religion = animist
-		size= 6540
+		size= 651
 	}
 
 	artisans=
@@ -117,7 +117,7 @@
 	{
 		culture = polynesian
 		religion = animist
-		size= 131
+		size= 11
 	}
 
 	artisans=
@@ -166,7 +166,7 @@
 	{
 		culture = min
 		religion = animist
-		size= 294
+		size= 21
 	}
 
 	artisans=
@@ -224,7 +224,7 @@
 	{
 		culture = polynesian
 		religion = animist
-		size= 504
+		size= 51
 	}
 
 	artisans=
@@ -280,7 +280,7 @@
 	{
 		culture = min
 		religion = animist
-		size= 1126
+		size= 111
 	}
 
 	artisans=
@@ -331,7 +331,7 @@
 	{
 		culture = polynesian
 		religion = animist
-		size= 3130
+		size= 311
 	}
 
 	artisans=
@@ -380,7 +380,7 @@
 	{
 		culture = min
 		religion = animist
-		size= 7006
+		size= 701
 	}
 
 	artisans=

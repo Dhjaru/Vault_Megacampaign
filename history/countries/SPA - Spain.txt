@@ -1,6 +1,8 @@
 capital = 513
 primary_culture = spanish
 culture = portuguese
+culture = suebi
+culture = basque
 culture = zzz_religion_catholic
 religion = catholic
 government = prussian_constitutionalism

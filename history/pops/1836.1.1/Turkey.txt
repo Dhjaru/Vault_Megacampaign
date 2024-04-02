@@ -3,7 +3,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 8289
+		size= 821
 	}
 
 	artisans=
@@ -66,7 +66,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 200
+		size= 21
 	}
 
 	farmers=
@@ -82,7 +82,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3192
+		size= 311
 	}
 
 	artisans=
@@ -131,7 +131,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 100
+		size= 11
 	}
 
 	clergymen=
@@ -161,7 +161,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3192
+		size= 311
 	}
 
 	artisans=
@@ -210,7 +210,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 100
+		size= 11
 	}
 
 	clergymen=
@@ -247,7 +247,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 16552
+		size= 1651
 	}
 
 	artisans=
@@ -303,7 +303,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 600
+		size= 61
 	}
 
 	artisans=
@@ -326,7 +326,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2004
+		size= 201
 	}
 
 	artisans=
@@ -384,7 +384,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2004
+		size= 201
 	}
 
 	artisans=
@@ -442,7 +442,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4646
+		size= 461
 	}
 
 	artisans=
@@ -491,7 +491,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 100
+		size= 11
 	}
 
 	clergymen=
@@ -521,7 +521,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4591
+		size= 451
 	}
 
 	artisans=
@@ -572,7 +572,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4591
+		size= 451
 	}
 
 	artisans=
@@ -623,7 +623,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3691
+		size= 361
 	}
 
 	artisans=
@@ -674,7 +674,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 8489
+		size= 841
 	}
 
 	artisans=
@@ -725,7 +725,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3691
+		size= 361
 	}
 
 	artisans=
@@ -776,7 +776,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 18338
+		size= 1831
 	}
 
 	craftsmen=
@@ -853,7 +853,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 200
+		size= 21
 	}
 
 	clergymen=
@@ -883,7 +883,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 8143
+		size= 811
 	}
 
 	artisans=
@@ -934,7 +934,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7450
+		size= 741
 	}
 
 	artisans=
@@ -985,7 +985,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7277
+		size= 721
 	}
 
 	artisans=
@@ -1043,7 +1043,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 17672
+		size= 1761
 	}
 
 	artisans=
@@ -1094,7 +1094,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3480
+		size= 341
 	}
 
 	artisans=
@@ -1145,7 +1145,7 @@
 	{
 		culture = turkish
 		religion = orthodox
-		size= 2689
+		size= 261
 	}
 
 	artisans=
@@ -1194,7 +1194,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4934
+		size= 491
 	}
 
 	artisans=
@@ -1245,7 +1245,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 12647
+		size= 1261
 	}
 
 	artisans=
@@ -1296,7 +1296,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 11261
+		size= 1121
 	}
 
 	artisans=
@@ -1354,7 +1354,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3691
+		size= 361
 	}
 
 	artisans=
@@ -1405,7 +1405,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 6539
+		size= 651
 	}
 
 	artisans=
@@ -1456,7 +1456,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 11955
+		size= 1191
 	}
 
 	artisans=
@@ -1507,7 +1507,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 6584
+		size= 651
 	}
 
 	artisans=
@@ -1558,7 +1558,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7970
+		size= 791
 	}
 
 	artisans=
@@ -1609,7 +1609,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7796
+		size= 771
 	}
 
 	artisans=
@@ -1660,7 +1660,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4535
+		size= 451
 	}
 
 	artisans=
@@ -1711,7 +1711,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 395
+		size= 31
 	}
 
 	artisans=
@@ -1760,7 +1760,7 @@
 	{
 		culture = armenian
 		religion = zoroastrian
-		size= 410
+		size= 41
 	}
 
 	artisans=
@@ -1818,7 +1818,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 312
+		size= 31
 	}
 
 	artisans=
@@ -1874,7 +1874,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 174
+		size= 11
 	}
 
 	artisans=
@@ -1923,7 +1923,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 418
+		size= 41
 	}
 
 	artisans=
@@ -1974,7 +1974,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 994
+		size= 91
 	}
 
 	artisans=
@@ -2023,7 +2023,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 625
+		size= 61
 	}
 
 	artisans=
@@ -2072,7 +2072,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1334
+		size= 131
 	}
 
 	artisans=
@@ -2123,7 +2123,7 @@
 	{
 		culture = turkish
 		religion = orthodox
-		size= 1900
+		size= 191
 	}
 
 	artisans=
@@ -2172,7 +2172,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2634
+		size= 261
 	}
 
 	artisans=
@@ -2223,7 +2223,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4641
+		size= 461
 	}
 
 	artisans=
@@ -2272,7 +2272,7 @@
 	{
 		culture = turkish
 		religion = orthodox
-		size= 1370
+		size= 131
 	}
 
 	artisans=
@@ -2330,7 +2330,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 655
+		size= 61
 	}
 
 	artisans=
@@ -2379,7 +2379,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 298
+		size= 21
 	}
 
 	artisans=
@@ -2435,7 +2435,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 57
+		size= 1
 	}
 
 	artisans=
@@ -2491,7 +2491,7 @@
 	{
 		culture = greek
 		religion = zoroastrian
-		size= 851
+		size= 81
 	}
 
 	artisans=
@@ -2542,7 +2542,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 355
+		size= 31
 	}
 
 	artisans=
@@ -2591,7 +2591,7 @@
 	{
 		culture = armenian
 		religion = zoroastrian
-		size= 361
+		size= 31
 	}
 
 	artisans=
@@ -2640,7 +2640,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 356
+		size= 31
 	}
 
 	artisans=
@@ -2689,7 +2689,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 158
+		size= 11
 	}
 
 	artisans=
@@ -2738,7 +2738,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 81
+		size= 1
 	}
 
 	artisans=
@@ -2787,7 +2787,7 @@
 	{
 		culture = greek
 		religion = zoroastrian
-		size= 460
+		size= 41
 	}
 
 	artisans=
@@ -2838,7 +2838,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 122
+		size= 11
 	}
 
 	artisans=
@@ -2887,7 +2887,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 55
+		size= 1
 	}
 
 	artisans=
@@ -2936,7 +2936,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 18
+		size= 1
 	}
 
 	artisans=
@@ -2985,7 +2985,7 @@
 	{
 		culture = greek
 		religion = zoroastrian
-		size= 163
+		size= 11
 	}
 
 	artisans=
@@ -3036,7 +3036,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4429
+		size= 441
 	}
 
 	artisans=
@@ -3087,7 +3087,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 8316
+		size= 831
 	}
 
 	artisans=
@@ -3138,7 +3138,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7103
+		size= 711
 	}
 
 	artisans=
@@ -3189,7 +3189,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4218
+		size= 421
 	}
 
 	artisans=
@@ -3240,7 +3240,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7623
+		size= 761
 	}
 
 	artisans=
@@ -3298,7 +3298,7 @@
 	{
 		culture = armenian
 		religion = monophysite
-		size= 3058
+		size= 301
 	}
 
 	artisans=
@@ -3349,7 +3349,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 2643
+		size= 261
 	}
 
 	artisans=
@@ -3398,7 +3398,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4807
+		size= 481
 	}
 
 	artisans=
@@ -3449,7 +3449,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 122
+		size= 11
 	}
 
 	artisans=
@@ -3498,7 +3498,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 55
+		size= 1
 	}
 
 	artisans=
@@ -3547,7 +3547,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 18
+		size= 1
 	}
 
 	artisans=
@@ -3596,7 +3596,7 @@
 	{
 		culture = greek
 		religion = zoroastrian
-		size= 163
+		size= 11
 	}
 
 	artisans=

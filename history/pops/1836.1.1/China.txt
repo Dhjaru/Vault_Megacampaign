@@ -10,7 +10,7 @@
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
-		size= 38
+		size= 1
 	}
 
 	artisans=
@@ -66,7 +66,7 @@
 	{
 		culture = yakut
 		religion = gelugpa
-		size= 25
+		size= 1
 	}
 
 	artisans=
@@ -122,7 +122,7 @@
 	{
 		culture = beifaren
 		religion = gelugpa
-		size= 148
+		size= 11
 	}
 
 	artisans=
@@ -178,7 +178,7 @@
 	{
 		culture = mongol
 		religion = tengri_pagan_reformed
-		size= 82
+		size= 1
 	}
 
 	artisans=
@@ -234,7 +234,7 @@
 	{
 		culture = mongol
 		religion = gelugpa
-		size= 28
+		size= 1
 	}
 
 	artisans=
@@ -290,7 +290,7 @@
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 279
+		size= 21
 	}
 
 	artisans=
@@ -346,7 +346,7 @@
 	{
 		culture = manchu
 		religion = gelugpa
-		size= 245
+		size= 21
 	}
 
 	artisans=
@@ -402,7 +402,7 @@
 	{
 		culture = beifaren
 		religion = tengri_pagan_reformed
-		size= 93
+		size= 1
 	}
 
 	artisans=
@@ -453,7 +453,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 36655
+		size= 3661
 	}
 
 	artisans=
@@ -504,7 +504,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 33964
+		size= 3391
 	}
 
 	artisans=
@@ -555,7 +555,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 20313
+		size= 2031
 	}
 
 	artisans=
@@ -606,7 +606,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 20771
+		size= 2071
 	}
 
 	artisans=
@@ -664,7 +664,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 31220
+		size= 3121
 	}
 
 	artisans=
@@ -722,7 +722,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 29568
+		size= 2951
 	}
 
 	artisans=
@@ -773,7 +773,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 24457
+		size= 2441
 	}
 
 	artisans=
@@ -824,7 +824,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 38295
+		size= 3821
 	}
 
 	artisans=
@@ -875,7 +875,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 16128
+		size= 1611
 	}
 
 	artisans=
@@ -933,7 +933,7 @@
 	{
 		culture = manchu
 		religion = mahayana
-		size= 3361
+		size= 331
 	}
 
 	artisans=
@@ -989,7 +989,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 1615
+		size= 161
 	}
 
 	artisans=
@@ -1047,7 +1047,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 4364
+		size= 431
 	}
 
 	artisans=
@@ -1098,7 +1098,7 @@
 	{
 		culture = manchu
 		religion = mahayana
-		size= 378
+		size= 31
 	}
 
 	artisans=
@@ -1147,7 +1147,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 181
+		size= 11
 	}
 
 	artisans=
@@ -1205,7 +1205,7 @@
 	{
 		culture = min
 		religion = mahayana
-		size= 10522
+		size= 1051
 	}
 
 	artisans=
@@ -1256,7 +1256,7 @@
 	{
 		culture = min
 		religion = mahayana
-		size= 17623
+		size= 1761
 	}
 
 	artisans=
@@ -1307,7 +1307,7 @@
 	{
 		culture = min
 		religion = mahayana
-		size= 6738
+		size= 671
 	}
 
 	artisans=
@@ -1358,7 +1358,7 @@
 	{
 		culture = hakka
 		religion = mahayana
-		size= 42168
+		size= 4211
 	}
 
 	artisans=
@@ -1409,7 +1409,7 @@
 	{
 		culture = min
 		religion = mahayana
-		size= 3423
+		size= 341
 	}
 
 	artisans=
@@ -1460,7 +1460,7 @@
 	{
 		culture = uighur
 		religion = catholic
-		size= 2588
+		size= 251
 	}
 
 	artisans=
@@ -1509,7 +1509,7 @@
 	{
 		culture = uighur
 		religion = gelugpa
-		size= 1560
+		size= 151
 	}
 
 	artisans=
@@ -1558,7 +1558,7 @@
 	{
 		culture = tibetan
 		religion = gelugpa
-		size= 38245
+		size= 3821
 	}
 
 	artisans=
@@ -1609,7 +1609,7 @@
 	{
 		culture = tibetan
 		religion = gelugpa
-		size= 17318
+		size= 1731
 	}
 
 	artisans=
@@ -1660,7 +1660,7 @@
 	{
 		culture = tibetan
 		religion = catholic
-		size= 16118
+		size= 1611
 	}
 
 	artisans=
@@ -1709,7 +1709,7 @@
 	{
 		culture = uighur
 		religion = gelugpa
-		size= 3609
+		size= 361
 	}
 
 	artisans=
@@ -1758,7 +1758,7 @@
 	{
 		culture = tibetan
 		religion = gelugpa
-		size= 5417
+		size= 541
 	}
 
 	artisans=
@@ -1816,7 +1816,7 @@
 	{
 		culture = mongol
 		religion = mahayana
-		size= 2257
+		size= 221
 	}
 
 	artisans=
@@ -1872,7 +1872,7 @@
 	{
 		culture = tibetan
 		religion = mahayana
-		size= 3597
+		size= 351
 	}
 
 	artisans=
@@ -1930,7 +1930,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 22176
+		size= 2211
 	}
 
 	artisans=
@@ -1988,7 +1988,7 @@
 	{
 		culture = yue
 		religion = mahayana
-		size= 32011
+		size= 3201
 	}
 
 	artisans=
@@ -2039,7 +2039,7 @@
 	{
 		culture = min
 		religion = mahayana
-		size= 24976
+		size= 2491
 	}
 
 	artisans=
@@ -2097,7 +2097,7 @@
 	{
 		culture = min
 		religion = mahayana
-		size= 25965
+		size= 2591
 	}
 
 	artisans=
@@ -2153,7 +2153,7 @@
 	{
 		culture = yue
 		religion = mahayana
-		size= 8200
+		size= 821
 	}
 
 	artisans=
@@ -2204,7 +2204,7 @@
 	{
 		culture = yue
 		religion = mahayana
-		size= 42
+		size= 1
 	}
 
 	artisans=
@@ -2255,7 +2255,7 @@
 	{
 		culture = hakka
 		religion = mahayana
-		size= 15378
+		size= 1531
 	}
 
 	artisans=
@@ -2313,7 +2313,7 @@
 	{
 		culture = yue
 		religion = mahayana
-		size= 250
+		size= 21
 	}
 
 	artisans=
@@ -2371,7 +2371,7 @@
 	{
 		culture = min
 		religion = mahayana
-		size= 23946
+		size= 2391
 	}
 
 	artisans=
@@ -2422,7 +2422,7 @@
 	{
 		culture = hakka
 		religion = mahayana
-		size= 16688
+		size= 1661
 	}
 
 	artisans=
@@ -2480,7 +2480,7 @@
 	{
 		culture = yue
 		religion = mahayana
-		size= 12404
+		size= 1241
 	}
 
 	artisans=
@@ -2538,7 +2538,7 @@
 	{
 		culture = zhuang
 		religion = mahayana
-		size= 7321
+		size= 731
 	}
 
 	artisans=
@@ -2594,7 +2594,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 9955
+		size= 991
 	}
 
 	artisans=
@@ -2645,7 +2645,7 @@
 	{
 		culture = zhuang
 		religion = mahayana
-		size= 13253
+		size= 1321
 	}
 
 	artisans=
@@ -2694,7 +2694,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 19530
+		size= 1951
 	}
 
 	artisans=
@@ -2745,7 +2745,7 @@
 	{
 		culture = yue
 		religion = mahayana
-		size= 9946
+		size= 991
 	}
 
 	artisans=
@@ -2796,7 +2796,7 @@
 	{
 		culture = yi
 		religion = animist
-		size= 1397
+		size= 131
 	}
 
 	artisans=
@@ -2845,7 +2845,7 @@
 	{
 		culture = nanfaren
 		religion = animist
-		size= 1507
+		size= 151
 	}
 
 	artisans=
@@ -2896,7 +2896,7 @@
 	{
 		culture = bai
 		religion = theravada
-		size= 2069
+		size= 201
 	}
 
 	artisans=
@@ -2945,7 +2945,7 @@
 	{
 		culture = nanfaren
 		religion = theravada
-		size= 2632
+		size= 261
 	}
 
 	artisans=
@@ -3003,7 +3003,7 @@
 	{
 		culture = miao
 		religion = animist
-		size= 8370
+		size= 831
 	}
 
 	artisans=
@@ -3059,7 +3059,7 @@
 	{
 		culture = nanfaren
 		religion = animist
-		size= 9078
+		size= 901
 	}
 
 	artisans=
@@ -3117,7 +3117,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 27107
+		size= 2711
 	}
 
 	artisans=
@@ -3182,7 +3182,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 8107
+		size= 811
 	}
 
 	artisans=
@@ -3231,7 +3231,7 @@
 	{
 		culture = beifaren
 		religion = hindu
-		size= 14629
+		size= 1461
 	}
 
 	artisans=
@@ -3289,7 +3289,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 30562
+		size= 3051
 	}
 
 	artisans=
@@ -3340,7 +3340,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 31665
+		size= 3161
 	}
 
 	artisans=
@@ -3391,7 +3391,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 8157
+		size= 811
 	}
 
 	artisans=
@@ -3440,7 +3440,7 @@
 	{
 		culture = beifaren
 		religion = hindu
-		size= 14719
+		size= 1471
 	}
 
 	artisans=
@@ -3498,7 +3498,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 28675
+		size= 2861
 	}
 
 	artisans=
@@ -3549,7 +3549,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 27158
+		size= 2711
 	}
 
 	artisans=
@@ -3600,7 +3600,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 29008
+		size= 2901
 	}
 
 	artisans=
@@ -3651,7 +3651,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 31087
+		size= 3101
 	}
 
 	artisans=
@@ -3702,7 +3702,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 38184
+		size= 3811
 	}
 
 	artisans=
@@ -3753,7 +3753,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 30636
+		size= 3061
 	}
 
 	artisans=
@@ -3804,7 +3804,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 23430
+		size= 2341
 	}
 
 	artisans=
@@ -3855,7 +3855,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 22848
+		size= 2281
 	}
 
 	artisans=
@@ -3906,7 +3906,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 8110
+		size= 811
 	}
 
 	artisans=
@@ -3964,7 +3964,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 30747
+		size= 3071
 	}
 
 	artisans=
@@ -4022,7 +4022,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 15400
+		size= 1541
 	}
 
 	artisans=
@@ -4078,7 +4078,7 @@
 	{
 		culture = nanfaren
 		religion = animist
-		size= 11116
+		size= 1111
 	}
 
 	artisans=
@@ -4136,7 +4136,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 28840
+		size= 2881
 	}
 
 	artisans=
@@ -4187,7 +4187,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 12999
+		size= 1291
 	}
 
 	artisans=
@@ -4236,7 +4236,7 @@
 	{
 		culture = miao
 		religion = animist
-		size= 1611
+		size= 161
 	}
 
 	artisans=
@@ -4285,7 +4285,7 @@
 	{
 		culture = nanfaren
 		religion = animist
-		size= 1722
+		size= 171
 	}
 
 	artisans=
@@ -4343,7 +4343,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 28486
+		size= 2841
 	}
 
 	artisans=
@@ -4399,7 +4399,7 @@
 	{
 		culture = miao
 		religion = animist
-		size= 3531
+		size= 351
 	}
 
 	artisans=
@@ -4455,7 +4455,7 @@
 	{
 		culture = nanfaren
 		religion = animist
-		size= 3773
+		size= 371
 	}
 
 	artisans=
@@ -4506,7 +4506,7 @@
 	{
 		culture = nanfaren
 		religion = animist
-		size= 26572
+		size= 2651
 	}
 
 	artisans=
@@ -4557,7 +4557,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 8372
+		size= 831
 	}
 
 	artisans=
@@ -4608,7 +4608,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 22293
+		size= 2221
 	}
 
 	artisans=
@@ -4657,7 +4657,7 @@
 	{
 		culture = miao
 		religion = animist
-		size= 2763
+		size= 271
 	}
 
 	artisans=
@@ -4706,7 +4706,7 @@
 	{
 		culture = nanfaren
 		religion = animist
-		size= 2953
+		size= 291
 	}
 
 	artisans=
@@ -4757,7 +4757,7 @@
 	{
 		culture = nanfaren
 		religion = animist
-		size= 20860
+		size= 2081
 	}
 
 	artisans=
@@ -4808,7 +4808,7 @@
 	{
 		culture = mongol
 		religion = gelugpa
-		size= 679
+		size= 61
 	}
 
 	artisans=
@@ -4857,7 +4857,7 @@
 	{
 		culture = beifaren
 		religion = gelugpa
-		size= 7233
+		size= 721
 	}
 
 	artisans=
@@ -4906,7 +4906,7 @@
 	{
 		culture = tibetan
 		religion = gelugpa
-		size= 258
+		size= 21
 	}
 
 	artisans=
@@ -4964,7 +4964,7 @@
 	{
 		culture = mongol
 		religion = gelugpa
-		size= 1089
+		size= 101
 	}
 
 	artisans=
@@ -5020,7 +5020,7 @@
 	{
 		culture = beifaren
 		religion = gelugpa
-		size= 7233
+		size= 721
 	}
 
 	artisans=
@@ -5076,7 +5076,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 469
+		size= 41
 	}
 
 	artisans=
@@ -5132,7 +5132,7 @@
 	{
 		culture = mongol
 		religion = tengri_pagan_reformed
-		size= 270
+		size= 21
 	}
 
 	artisans=
@@ -5188,7 +5188,7 @@
 	{
 		culture = beifaren
 		religion = tengri_pagan_reformed
-		size= 600
+		size= 61
 	}
 
 	artisans=
@@ -5239,7 +5239,7 @@
 	{
 		culture = mongol
 		religion = gelugpa
-		size= 10333
+		size= 1031
 	}
 
 	artisans=
@@ -5288,7 +5288,7 @@
 	{
 		culture = beifaren
 		religion = gelugpa
-		size= 295
+		size= 21
 	}
 
 	artisans=
@@ -5339,7 +5339,7 @@
 	{
 		culture = tibetan
 		religion = catholic
-		size= 412
+		size= 41
 	}
 
 	artisans=
@@ -5388,7 +5388,7 @@
 	{
 		culture = tibetan
 		religion = gelugpa
-		size= 2662
+		size= 261
 	}
 
 	artisans=
@@ -5437,7 +5437,7 @@
 	{
 		culture = mongol
 		religion = gelugpa
-		size= 118
+		size= 11
 	}
 
 	artisans=
@@ -5488,7 +5488,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 22036
+		size= 2201
 	}
 
 	artisans=
@@ -5546,7 +5546,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 42868
+		size= 4281
 	}
 
 	artisans=
@@ -5597,7 +5597,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 2812
+		size= 281
 	}
 
 	artisans=
@@ -5648,7 +5648,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 45954
+		size= 4591
 	}
 
 	artisans=
@@ -5699,7 +5699,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 38931
+		size= 3891
 	}
 
 	artisans=
@@ -5757,7 +5757,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 38640
+		size= 3861
 	}
 
 	artisans=
@@ -5808,7 +5808,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 12170
+		size= 1211
 	}
 
 	artisans=
@@ -5857,7 +5857,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 7775
+		size= 771
 	}
 
 	artisans=
@@ -5908,7 +5908,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 23436
+		size= 2341
 	}
 
 	artisans=
@@ -5959,7 +5959,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 22243
+		size= 2221
 	}
 
 	artisans=
@@ -6010,7 +6010,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 26030
+		size= 2601
 	}
 
 	artisans=
@@ -6061,7 +6061,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 20720
+		size= 2071
 	}
 
 	artisans=
@@ -6112,7 +6112,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 46637
+		size= 4661
 	}
 
 	artisans=
@@ -6163,7 +6163,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 11620
+		size= 1161
 	}
 
 	artisans=
@@ -6221,7 +6221,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 36321
+		size= 3631
 	}
 
 	artisans=
@@ -6279,7 +6279,7 @@
 	{
 		culture = hakka
 		religion = mahayana
-		size= 20407
+		size= 2041
 	}
 
 	artisans=
@@ -6335,7 +6335,7 @@
 	{
 		culture = hakka
 		religion = animist
-		size= 14173
+		size= 1411
 	}
 
 	artisans=
@@ -6386,7 +6386,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 20412
+		size= 2041
 	}
 
 	artisans=
@@ -6444,7 +6444,7 @@
 	{
 		culture = mongol
 		religion = tengri_pagan_reformed
-		size= 110
+		size= 11
 	}
 
 	artisans=
@@ -6500,7 +6500,7 @@
 	{
 		culture = beifaren
 		religion = tengri_pagan_reformed
-		size= 244
+		size= 21
 	}
 
 	artisans=
@@ -6556,7 +6556,7 @@
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 1387
+		size= 131
 	}
 
 	artisans=
@@ -6612,7 +6612,7 @@
 	{
 		culture = manchu
 		religion = gelugpa
-		size= 891
+		size= 81
 	}
 
 	artisans=
@@ -6670,7 +6670,7 @@
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 1258
+		size= 121
 	}
 
 	artisans=
@@ -6726,7 +6726,7 @@
 	{
 		culture = manchu
 		religion = gelugpa
-		size= 1446
+		size= 141
 	}
 
 	artisans=
@@ -6784,7 +6784,7 @@
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 763
+		size= 71
 	}
 
 	artisans=
@@ -6840,7 +6840,7 @@
 	{
 		culture = manchu
 		religion = mahayana
-		size= 1920
+		size= 191
 	}
 
 	artisans=
@@ -6896,7 +6896,7 @@
 	{
 		culture = nanfaren
 		religion = tengri_pagan_reformed
-		size= 533
+		size= 51
 	}
 
 	artisans=
@@ -6954,7 +6954,7 @@
 	{
 		culture = manchu
 		religion = mahayana
-		size= 2267
+		size= 221
 	}
 
 	artisans=
@@ -7010,7 +7010,7 @@
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 371
+		size= 31
 	}
 
 	artisans=
@@ -7068,7 +7068,7 @@
 	{
 		culture = tibetan
 		religion = gelugpa
-		size= 3058
+		size= 301
 	}
 
 	artisans=
@@ -7124,7 +7124,7 @@
 	{
 		culture = uighur
 		religion = gelugpa
-		size= 145
+		size= 11
 	}
 
 	artisans=
@@ -7175,7 +7175,7 @@
 	{
 		culture = tibetan
 		religion = gelugpa
-		size= 2460
+		size= 241
 	}
 
 	artisans=
@@ -7224,7 +7224,7 @@
 	{
 		culture = uighur
 		religion = gelugpa
-		size= 117
+		size= 11
 	}
 
 	artisans=
@@ -7282,7 +7282,7 @@
 	{
 		culture = tibetan
 		religion = gelugpa
-		size= 7774
+		size= 771
 	}
 
 	artisans=
@@ -7338,7 +7338,7 @@
 	{
 		culture = tibetan
 		religion = sunni
-		size= 92
+		size= 1
 	}
 
 	artisans=
@@ -7394,7 +7394,7 @@
 	{
 		culture = nepali
 		religion = sunni
-		size= 230
+		size= 21
 	}
 
 	artisans=
@@ -7452,7 +7452,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 22175
+		size= 2211
 	}
 
 	artisans=
@@ -7503,7 +7503,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 7644
+		size= 761
 	}
 
 	artisans=
@@ -7554,7 +7554,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 24472
+		size= 2441
 	}
 
 	artisans=
@@ -7605,7 +7605,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 54723
+		size= 5471
 	}
 
 	artisans=
@@ -7656,7 +7656,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 25936
+		size= 2591
 	}
 
 	artisans=
@@ -7714,7 +7714,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 25670
+		size= 2561
 	}
 
 	artisans=
@@ -7765,7 +7765,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 168
+		size= 11
 	}
 
 	artisans=
@@ -7823,7 +7823,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 27552
+		size= 2751
 	}
 
 	artisans=
@@ -7881,7 +7881,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 25816
+		size= 2581
 	}
 
 	artisans=
@@ -7932,7 +7932,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 196
+		size= 11
 	}
 
 	artisans=
@@ -7990,7 +7990,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 25872
+		size= 2581
 	}
 
 	artisans=
@@ -8048,7 +8048,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 27608
+		size= 2761
 	}
 
 	artisans=
@@ -8106,7 +8106,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 31052
+		size= 3101
 	}
 
 	artisans=
@@ -8157,7 +8157,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 8570
+		size= 851
 	}
 
 	artisans=
@@ -8208,7 +8208,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 26236
+		size= 2621
 	}
 
 	artisans=
@@ -8259,7 +8259,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 8480
+		size= 841
 	}
 
 	artisans=
@@ -8310,7 +8310,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 580
+		size= 51
 	}
 
 	artisans=
@@ -8361,7 +8361,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 26852
+		size= 2681
 	}
 
 	artisans=
@@ -8412,7 +8412,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 21608
+		size= 2161
 	}
 
 	artisans=
@@ -8470,7 +8470,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 32964
+		size= 3291
 	}
 
 	artisans=
@@ -8528,7 +8528,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 38092
+		size= 3801
 	}
 
 	artisans=
@@ -8579,7 +8579,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 30044
+		size= 3001
 	}
 
 	artisans=
@@ -8630,7 +8630,7 @@
 	{
 		culture = tibetan
 		religion = gelugpa
-		size= 7010
+		size= 701
 	}
 
 	artisans=
@@ -8681,7 +8681,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 31004
+		size= 3101
 	}
 
 	artisans=
@@ -8739,7 +8739,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 27972
+		size= 2791
 	}
 
 	artisans=
@@ -8790,7 +8790,7 @@
 	{
 		culture = yi
 		religion = animist
-		size= 9769
+		size= 971
 	}
 
 	artisans=
@@ -8839,7 +8839,7 @@
 	{
 		culture = nanfaren
 		religion = animist
-		size= 6652
+		size= 661
 	}
 
 	artisans=
@@ -8888,7 +8888,7 @@
 	{
 		culture = tibetan
 		religion = animist
-		size= 3850
+		size= 381
 	}
 
 	artisans=
@@ -8939,7 +8939,7 @@
 	{
 		culture = tibetan
 		religion = gelugpa
-		size= 6321
+		size= 631
 	}
 
 	artisans=
@@ -8990,7 +8990,7 @@
 	{
 		culture = bai
 		religion = theravada
-		size= 3252
+		size= 321
 	}
 
 	artisans=
@@ -9039,7 +9039,7 @@
 	{
 		culture = nanfaren
 		religion = theravada
-		size= 4137
+		size= 411
 	}
 
 	artisans=
@@ -9090,7 +9090,7 @@
 	{
 		culture = bai
 		religion = theravada
-		size= 1844
+		size= 181
 	}
 
 	artisans=
@@ -9139,7 +9139,7 @@
 	{
 		culture = tibetan
 		religion = theravada
-		size= 2308
+		size= 231
 	}
 
 	artisans=
@@ -9188,7 +9188,7 @@
 	{
 		culture = shan
 		religion = theravada
-		size= 4950
+		size= 491
 	}
 
 	artisans=
@@ -9239,7 +9239,7 @@
 	{
 		culture = shan
 		religion = theravada
-		size= 5499
+		size= 541
 	}
 
 	artisans=
@@ -9288,7 +9288,7 @@
 	{
 		culture = bai
 		religion = theravada
-		size= 2070
+		size= 201
 	}
 
 	artisans=
@@ -9337,7 +9337,7 @@
 	{
 		culture = nanfaren
 		religion = theravada
-		size= 1130
+		size= 111
 	}
 
 	artisans=
@@ -9386,7 +9386,7 @@
 	{
 		culture = tibetan
 		religion = theravada
-		size= 1242
+		size= 121
 	}
 
 	artisans=
@@ -9437,7 +9437,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 15838
+		size= 1581
 	}
 
 	artisans=
@@ -9488,7 +9488,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 3478
+		size= 341
 	}
 
 	artisans=
@@ -9539,7 +9539,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 3182
+		size= 311
 	}
 
 	artisans=
@@ -9597,7 +9597,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 14524
+		size= 1451
 	}
 
 	artisans=
@@ -9648,7 +9648,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 8064
+		size= 801
 	}
 
 	artisans=
@@ -9706,7 +9706,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 8055
+		size= 801
 	}
 
 	artisans=
@@ -9757,7 +9757,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 11788
+		size= 1171
 	}
 
 	artisans=
@@ -9808,7 +9808,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 12351
+		size= 1231
 	}
 
 	artisans=
@@ -9859,7 +9859,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 30631
+		size= 3061
 	}
 
 	artisans=
@@ -9908,7 +9908,7 @@
 	{
 		culture = mongol
 		religion = gelugpa
-		size= 750
+		size= 71
 	}
 
 	artisans=
@@ -9957,7 +9957,7 @@
 	{
 		culture = beifaren
 		religion = gelugpa
-		size= 2653
+		size= 261
 	}
 
 	artisans=
@@ -10008,7 +10008,7 @@
 	{
 		culture = mongol
 		religion = gelugpa
-		size= 3751
+		size= 371
 	}
 
 	artisans=
@@ -10057,7 +10057,7 @@
 	{
 		culture = beifaren
 		religion = gelugpa
-		size= 7909
+		size= 791
 	}
 
 	artisans=
@@ -10106,7 +10106,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 56833
+		size= 5681
 	}
 
 	artisans=
@@ -10164,7 +10164,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 28933
+		size= 2891
 	}
 
 	artisans=
@@ -10215,7 +10215,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 31472
+		size= 3141
 	}
 
 	artisans=
@@ -10273,7 +10273,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 29156
+		size= 2911
 	}
 
 	artisans=
@@ -10329,7 +10329,7 @@
 	{
 		culture = mongol
 		religion = gelugpa
-		size= 714
+		size= 71
 	}
 
 	artisans=
@@ -10385,7 +10385,7 @@
 	{
 		culture = beifaren
 		religion = gelugpa
-		size= 2526
+		size= 251
 	}
 
 	artisans=
@@ -10436,7 +10436,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 41748
+		size= 4171
 	}
 
 	artisans=
@@ -10487,7 +10487,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 36666
+		size= 3661
 	}
 
 	artisans=
@@ -10538,7 +10538,7 @@
 	{
 		culture = beifaren
 		religion = mahayana
-		size= 9495
+		size= 941
 	}
 
 	artisans=
@@ -10589,7 +10589,7 @@
 	{
 		culture = nanfaren
 		religion = mahayana
-		size= 32131
+		size= 3211
 	}
 
 	artisans=
@@ -10640,7 +10640,7 @@
 	{
 		culture = min
 		religion = mahayana
-		size= 664
+		size= 61
 	}
 
 	artisans=
@@ -10689,7 +10689,7 @@
 	{
 		culture = yue
 		religion = mahayana
-		size= 210
+		size= 21
 	}
 
 	artisans=

@@ -3,7 +3,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 770
+		size= 71
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 391
+		size= 31
 	}
 
 	artisans=
@@ -101,7 +101,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 348
+		size= 31
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 770
+		size= 71
 	}
 
 	artisans=
@@ -201,7 +201,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 391
+		size= 31
 	}
 
 	artisans=
@@ -250,7 +250,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 348
+		size= 31
 	}
 
 	artisans=

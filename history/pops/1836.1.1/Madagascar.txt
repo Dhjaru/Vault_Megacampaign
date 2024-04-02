@@ -3,7 +3,7 @@
 	{
 		culture = malagasy
 		religion = shamanism
-		size= 1290
+		size= 121
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = malagasy
 		religion = catholic
-		size= 412
+		size= 41
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = malagasy
 		religion = shamanism
-		size= 706
+		size= 71
 	}
 
 	artisans=
@@ -154,7 +154,7 @@
 	{
 		culture = malagasy
 		religion = shamanism
-		size= 1017
+		size= 101
 	}
 
 	artisans=
@@ -203,7 +203,7 @@
 	{
 		culture = malagasy
 		religion = sunni
-		size= 632
+		size= 61
 	}
 
 	artisans=
@@ -261,7 +261,7 @@
 	{
 		culture = malagasy
 		religion = sunni
-		size= 1599
+		size= 151
 	}
 
 	artisans=
@@ -319,7 +319,7 @@
 	{
 		culture = malagasy
 		religion = shamanism
-		size= 275
+		size= 21
 	}
 
 	artisans=
@@ -377,7 +377,7 @@
 	{
 		culture = malagasy
 		religion = shamanism
-		size= 4133
+		size= 411
 	}
 
 	artisans=
@@ -433,7 +433,7 @@
 	{
 		culture = malagasy
 		religion = sunni
-		size= 4133
+		size= 411
 	}
 
 	artisans=
@@ -491,7 +491,7 @@
 	{
 		culture = malagasy
 		religion = shamanism
-		size= 1458
+		size= 141
 	}
 
 	artisans=
@@ -547,7 +547,7 @@
 	{
 		culture = malagasy
 		religion = catholic
-		size= 442
+		size= 41
 	}
 
 	artisans=
@@ -605,7 +605,7 @@
 	{
 		culture = malagasy
 		religion = shamanism
-		size= 1707
+		size= 171
 	}
 
 	artisans=
@@ -661,7 +661,7 @@
 	{
 		culture = malagasy
 		religion = catholic
-		size= 176
+		size= 11
 	}
 
 	artisans=

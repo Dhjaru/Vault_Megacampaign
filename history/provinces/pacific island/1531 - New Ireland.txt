@@ -1,4 +1,2 @@
-owner=BYZ
-controller=BYZ
 trade_goods = coffee
 life_rating = 10

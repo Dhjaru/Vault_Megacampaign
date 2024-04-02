@@ -38,14 +38,14 @@
 	{
 		culture = bakongo
 		religion = animist
-		size= 3000
+		size= 301
 	}
 
 	soldiers=
 	{
 		culture = bakongo
 		religion = animist
-		size= 575
+		size= 51
 	}
 
 	farmers=
@@ -89,7 +89,7 @@
 	{
 		culture = bakongo
 		religion = animist
-		size= 1100
+		size= 111
 	}
 
 	farmers=
@@ -133,7 +133,7 @@
 	{
 		culture = lunda
 		religion = animist
-		size= 550
+		size= 51
 	}
 
 	farmers=
@@ -168,14 +168,14 @@
 	{
 		culture = kuba
 		religion = animist
-		size= 3000
+		size= 301
 	}
 
 	soldiers=
 	{
 		culture = kuba
 		religion = animist
-		size= 1675
+		size= 161
 	}
 
 	farmers=
@@ -219,7 +219,7 @@
 	{
 		culture = lunda
 		religion = animist
-		size= 1925
+		size= 191
 	}
 
 	farmers=
@@ -254,7 +254,7 @@
 	{
 		culture = chokwe
 		religion = animist
-		size= 1650
+		size= 161
 	}
 
 	farmers=
@@ -298,7 +298,7 @@
 	{
 		culture = luba
 		religion = animist
-		size= 1925
+		size= 191
 	}
 
 	farmers=
@@ -333,7 +333,7 @@
 	{
 		culture = kuba
 		religion = animist
-		size= 1575
+		size= 151
 	}
 
 	farmers=
@@ -398,14 +398,14 @@
 	{
 		culture = lunda
 		religion = animist
-		size= 3000
+		size= 301
 	}
 
 	soldiers=
 	{
 		culture = lunda
 		religion = animist
-		size= 1030
+		size= 101
 	}
 
 	farmers=
@@ -440,7 +440,7 @@
 	{
 		culture = south_forest_bantu
 		religion = animist
-		size= 1375
+		size= 131
 	}
 
 	farmers=
@@ -484,7 +484,7 @@
 	{
 		culture = lunda
 		religion = animist
-		size= 1925
+		size= 191
 	}
 
 	farmers=
@@ -519,7 +519,7 @@
 	{
 		culture = luba
 		religion = animist
-		size= 1100
+		size= 111
 	}
 
 	farmers=
@@ -563,7 +563,7 @@
 	{
 		culture = luba
 		religion = animist
-		size= 2775
+		size= 271
 	}
 
 	farmers=
@@ -598,7 +598,7 @@
 	{
 		culture = kingwana
 		religion = animist
-		size= 2200
+		size= 221
 	}
 
 	farmers=
@@ -642,7 +642,7 @@
 	{
 		culture = luba
 		religion = animist
-		size= 1375
+		size= 131
 	}
 
 	farmers=
@@ -677,7 +677,7 @@
 	{
 		culture = kingwana
 		religion = animist
-		size= 1375
+		size= 131
 	}
 
 	farmers=
@@ -721,7 +721,7 @@
 	{
 		culture = kingwana
 		religion = sunni
-		size= 2200
+		size= 221
 	}
 
 	farmers=
@@ -772,7 +772,7 @@
 	{
 		culture = mongo
 		religion = animist
-		size= 1100
+		size= 111
 	}
 
 	farmers=
@@ -816,7 +816,7 @@
 	{
 		culture = mongo
 		religion = animist
-		size= 1650
+		size= 161
 	}
 
 	farmers=
@@ -860,7 +860,7 @@
 	{
 		culture = kuba
 		religion = animist
-		size= 1650
+		size= 161
 	}
 
 	farmers=
@@ -911,7 +911,7 @@
 	{
 		culture = mongo
 		religion = animist
-		size= 1100
+		size= 111
 	}
 
 	farmers=
@@ -955,7 +955,7 @@
 	{
 		culture = lendu
 		religion = animist
-		size= 1470
+		size= 141
 	}
 
 	farmers=
@@ -999,7 +999,7 @@
 	{
 		culture = azande
 		religion = animist
-		size= 1100
+		size= 111
 	}
 
 	farmers=
@@ -1034,7 +1034,7 @@
 	{
 		culture = lendu
 		religion = animist
-		size= 1100
+		size= 111
 	}
 
 	farmers=
@@ -1092,14 +1092,14 @@
 	{
 		culture = azande
 		religion = animist
-		size= 3000
+		size= 301
 	}
 
 	soldiers=
 	{
 		culture = azande
 		religion = animist
-		size= 100
+		size= 11
 	}
 
 	farmers=

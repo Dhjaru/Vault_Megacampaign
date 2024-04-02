@@ -3,7 +3,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 5725
+		size= 571
 	}
 
 	artisans=

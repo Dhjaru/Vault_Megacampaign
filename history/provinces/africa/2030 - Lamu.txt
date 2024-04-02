@@ -1,7 +1,5 @@
-owner=ENG
-controller=ENG
 trade_goods = cattle
-life_rating = 35
+life_rating = 10
 terrain = savanna
 colonial=2
 fort = 1

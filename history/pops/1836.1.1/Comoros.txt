@@ -10,7 +10,7 @@
 	{
 		culture = kilombero
 		religion = sunni
-		size= 139
+		size= 11
 	}
 
 	artisans=
@@ -68,7 +68,7 @@
 	{
 		culture = kilombero
 		religion = sunni
-		size= 8
+		size=1
 	}
 
 	artisans=

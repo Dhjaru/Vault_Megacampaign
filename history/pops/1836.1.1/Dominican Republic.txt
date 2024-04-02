@@ -10,7 +10,7 @@
 	{
 		culture = carribean
 		religion = animist
-		size= 534
+		size= 51
 	}
 
 	farmers=
@@ -31,7 +31,7 @@
 	{
 		culture = nieuwereld
 		religion = catholic
-		size= 120
+		size= 11
 	}
 
 	farmers=
@@ -87,7 +87,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 5607
+		size= 561
 	}
 
 	artisans=
@@ -145,7 +145,7 @@
 	{
 		culture = carribean
 		religion = animist
-		size= 80
+		size= 1
 	}
 
 	farmers=
@@ -201,7 +201,7 @@
 	{
 		culture = nieuwereld
 		religion = catholic
-		size= 20
+		size= 1
 	}
 
 	officers=
@@ -222,7 +222,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 902
+		size= 91
 	}
 
 	artisans=

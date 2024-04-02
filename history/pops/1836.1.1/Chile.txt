@@ -3,7 +3,7 @@
 	{
 		culture = aimara
 		religion = animist
-		size= 29
+		size= 1
 	}
 
 	farmers=
@@ -59,7 +59,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 130
+		size= 11
 	}
 
 }
@@ -68,7 +68,7 @@
 	{
 		culture = aimara
 		religion = animist
-		size= 12
+		size= 1
 	}
 
 	farmers=
@@ -110,7 +110,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 29
+		size= 1
 	}
 
 	bureaucrats=
@@ -131,7 +131,7 @@
 	{
 		culture = silfrvazling
 		religion = catholic
-		size= 29
+		size= 1
 	}
 
 	artisans=
@@ -182,7 +182,7 @@
 	{
 		culture = aimara
 		religion = inti
-		size= 5
+		size=1
 	}
 
 	farmers=
@@ -217,7 +217,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 18
+		size= 1
 	}
 
 	clergymen=
@@ -245,7 +245,7 @@
 	{
 		culture = silfrvazling
 		religion = catholic
-		size= 20
+		size= 1
 	}
 
 	artisans=
@@ -296,7 +296,7 @@
 	{
 		culture = aimara
 		religion = animist
-		size= 13
+		size= 1
 	}
 
 	farmers=
@@ -338,7 +338,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 28
+		size= 1
 	}
 
 	bureaucrats=
@@ -359,7 +359,7 @@
 	{
 		culture = silfrvazling
 		religion = catholic
-		size= 30
+		size= 1
 	}
 
 	artisans=
@@ -410,7 +410,7 @@
 	{
 		culture = araucanian
 		religion = animist
-		size= 40
+		size= 1
 	}
 
 	farmers=
@@ -466,7 +466,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 174
+		size= 11
 	}
 
 }
@@ -475,7 +475,7 @@
 	{
 		culture = araucanian
 		religion = animist
-		size= 42
+		size= 1
 	}
 
 	farmers=
@@ -496,7 +496,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 137
+		size= 11
 	}
 
 	artisans=
@@ -540,7 +540,7 @@
 	{
 		culture = araucanian
 		religion = animist
-		size= 269
+		size= 21
 	}
 
 	farmers=
@@ -554,7 +554,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 104
+		size= 11
 	}
 
 	farmers=
@@ -603,7 +603,7 @@
 	{
 		culture = silfrvazling
 		religion = catholic
-		size= 834
+		size= 81
 	}
 
 	artisans=
@@ -654,7 +654,7 @@
 	{
 		culture = araucanian
 		religion = animist
-		size= 83
+		size= 1
 	}
 
 	farmers=
@@ -668,7 +668,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 30
+		size= 1
 	}
 
 	farmers=
@@ -717,7 +717,7 @@
 	{
 		culture = silfrvazling
 		religion = catholic
-		size= 256
+		size= 21
 	}
 
 	artisans=
@@ -768,7 +768,7 @@
 	{
 		culture = araucanian
 		religion = animist
-		size= 38
+		size= 1
 	}
 
 	farmers=
@@ -789,7 +789,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 123
+		size= 11
 	}
 
 	artisans=
@@ -833,7 +833,7 @@
 	{
 		culture = araucanian
 		religion = animist
-		size= 11
+		size= 1
 	}
 
 	farmers=
@@ -875,7 +875,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 4
+		size=1
 	}
 
 	bureaucrats=
@@ -896,7 +896,7 @@
 	{
 		culture = silfrvazling
 		religion = catholic
-		size= 34
+		size= 1
 	}
 
 	artisans=
@@ -947,7 +947,7 @@
 	{
 		culture = araucanian
 		religion = animist
-		size= 57
+		size= 1
 	}
 
 	farmers=
@@ -975,7 +975,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 17
+		size= 1
 	}
 
 	clergymen=
@@ -1010,7 +1010,7 @@
 	{
 		culture = silfrvazling
 		religion = catholic
-		size= 161
+		size= 11
 	}
 
 	artisans=
@@ -1061,7 +1061,7 @@
 	{
 		culture = araucanian
 		religion = animist
-		size= 22
+		size= 1
 	}
 
 	farmers=
@@ -1110,7 +1110,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 6
+		size=1
 	}
 
 	officers=
@@ -1124,7 +1124,7 @@
 	{
 		culture = silfrvazling
 		religion = catholic
-		size= 63
+		size= 1
 	}
 
 	artisans=
@@ -1175,7 +1175,7 @@
 	{
 		culture = araucanian
 		religion = animist
-		size= 38
+		size= 1
 	}
 
 	farmers=
@@ -1224,7 +1224,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 14
+		size= 1
 	}
 
 	officers=
@@ -1238,7 +1238,7 @@
 	{
 		culture = silfrvazling
 		religion = catholic
-		size= 116
+		size= 11
 	}
 
 	artisans=
@@ -1289,7 +1289,7 @@
 	{
 		culture = araucanian
 		religion = animist
-		size= 20
+		size= 1
 	}
 
 	farmers=
@@ -1338,7 +1338,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 7
+		size=1
 	}
 
 	officers=
@@ -1352,7 +1352,7 @@
 	{
 		culture = silfrvazling
 		religion = catholic
-		size= 61
+		size= 1
 	}
 
 	artisans=
@@ -1403,7 +1403,7 @@
 	{
 		culture = araucanian
 		religion = animist
-		size= 42
+		size= 1
 	}
 
 	farmers=
@@ -1445,7 +1445,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 12
+		size= 1
 	}
 
 	bureaucrats=
@@ -1466,7 +1466,7 @@
 	{
 		culture = silfrvazling
 		religion = catholic
-		size= 119
+		size= 11
 	}
 
 	artisans=
@@ -1517,7 +1517,7 @@
 	{
 		culture = patagonian
 		religion = animist
-		size= 7
+		size=1
 	}
 
 	farmers=
@@ -1559,14 +1559,14 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 1
+		size=1
 	}
 
 	soldiers=
 	{
 		culture = silfrvazling
 		religion = catholic
-		size= 16
+		size= 1
 	}
 
 	artisans=
@@ -1617,7 +1617,7 @@
 	{
 		culture = patagonian
 		religion = animist
-		size= 5
+		size=1
 	}
 
 	artisans=
@@ -1652,7 +1652,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 1
+		size=1
 	}
 
 	clergymen=
@@ -1673,7 +1673,7 @@
 	{
 		culture = silfrvazling
 		religion = catholic
-		size= 10
+		size= 1
 	}
 
 	artisans=
@@ -1724,7 +1724,7 @@
 	{
 		culture = patagonian
 		religion = animist
-		size= 2
+		size=1
 	}
 
 	farmers=
@@ -1759,7 +1759,7 @@
 	{
 		culture = deagostinian
 		religion = catholic
-		size= 5
+		size=1
 	}
 
 	clergymen=

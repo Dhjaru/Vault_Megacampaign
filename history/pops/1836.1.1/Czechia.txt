@@ -3,7 +3,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 9317
+		size= 931
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 460
+		size= 41
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 11813
+		size= 1181
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 561
+		size= 51
 	}
 
 	artisans=
@@ -203,7 +203,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 5695
+		size= 561
 	}
 
 	artisans=
@@ -252,7 +252,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 270
+		size= 21
 	}
 
 	artisans=
@@ -303,7 +303,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 6509
+		size= 651
 	}
 
 	artisans=
@@ -352,7 +352,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 322
+		size= 31
 	}
 
 	artisans=
@@ -403,7 +403,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 7511
+		size= 751
 	}
 
 	artisans=
@@ -452,7 +452,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 359
+		size= 31
 	}
 
 	artisans=
@@ -503,7 +503,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 5437
+		size= 541
 	}
 
 	artisans=
@@ -552,7 +552,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 528
+		size= 51
 	}
 
 	artisans=
@@ -603,7 +603,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 11853
+		size= 1181
 	}
 
 	artisans=
@@ -652,7 +652,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 868
+		size= 81
 	}
 
 	artisans=
@@ -703,7 +703,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 4038
+		size= 401
 	}
 
 	craftsmen=
@@ -773,7 +773,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 194
+		size= 11
 	}
 
 	craftsmen=
@@ -845,7 +845,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 4133
+		size= 411
 	}
 
 	artisans=
@@ -894,7 +894,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 198
+		size= 11
 	}
 
 	artisans=
@@ -945,7 +945,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 6112
+		size= 611
 	}
 
 	artisans=
@@ -994,7 +994,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 298
+		size= 21
 	}
 
 	artisans=

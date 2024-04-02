@@ -31,7 +31,7 @@
 	{
 		culture = fur
 		religion = sunni
-		size= 200
+		size= 21
 	}
 
 	farmers=
@@ -54,7 +54,7 @@
 	{
 		culture = sudanese
 		religion = catholic
-		size= 7
+		size=1
 	}
 
 	artisans=
@@ -75,7 +75,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 4
+		size=1
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = sudanese
 		religion = orthodox
-		size= 2
+		size=1
 	}
 
 	artisans=
@@ -138,7 +138,7 @@
 	{
 		culture = mavro
 		religion = orthodox
-		size= 4
+		size=1
 	}
 
 	artisans=
@@ -196,7 +196,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 589
+		size= 51
 	}
 
 	artisans=
@@ -252,7 +252,7 @@
 	{
 		culture = sudanese
 		religion = catholic
-		size= 263
+		size= 21
 	}
 
 	artisans=
@@ -310,7 +310,7 @@
 	{
 		culture = sudanese
 		religion = sunni
-		size= 108
+		size= 11
 	}
 
 	artisans=
@@ -366,7 +366,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 225
+		size= 21
 	}
 
 	artisans=
@@ -424,7 +424,7 @@
 	{
 		culture = beja
 		religion = sunni
-		size= 205
+		size= 21
 	}
 
 	artisans=
@@ -480,7 +480,7 @@
 	{
 		culture = beja
 		religion = coptic
-		size= 1033
+		size= 101
 	}
 
 	artisans=
@@ -538,7 +538,7 @@
 	{
 		culture = sudanese
 		religion = sunni
-		size= 119
+		size= 11
 	}
 
 	artisans=
@@ -594,7 +594,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 251
+		size= 21
 	}
 
 	artisans=
@@ -650,7 +650,7 @@
 	{
 		culture = sudanese
 		religion = catholic
-		size= 1
+		size=1
 	}
 
 	artisans=
@@ -701,7 +701,7 @@
 	{
 		culture = sudanese
 		religion = catholic
-		size= 101
+		size= 11
 	}
 
 	artisans=
@@ -757,7 +757,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 185
+		size= 11
 	}
 
 	artisans=
@@ -815,7 +815,7 @@
 	{
 		culture = nuer
 		religion = shamanism
-		size= 131
+		size= 11
 	}
 
 	artisans=
@@ -906,7 +906,7 @@
 	{
 		culture = amhara
 		religion = coptic
-		size= 243
+		size= 21
 	}
 
 	farmers=
@@ -929,7 +929,7 @@
 	{
 		culture = ifriqi
 		religion = catholic
-		size= 52
+		size= 1
 	}
 
 	artisans=
@@ -985,7 +985,7 @@
 	{
 		culture = ifriqi
 		religion = coptic
-		size= 97
+		size= 1
 	}
 
 	artisans=
@@ -1036,7 +1036,7 @@
 	{
 		culture = ifriqi
 		religion = catholic
-		size= 44
+		size= 1
 	}
 
 	artisans=
@@ -1085,7 +1085,7 @@
 	{
 		culture = ifriqi
 		religion = coptic
-		size= 64
+		size= 1
 	}
 
 	artisans=
@@ -1143,7 +1143,7 @@
 	{
 		culture = sudanese
 		religion = catholic
-		size= 212
+		size= 21
 	}
 
 	artisans=
@@ -1199,7 +1199,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 166
+		size= 11
 	}
 
 	artisans=
@@ -1255,7 +1255,7 @@
 	{
 		culture = sudanese
 		religion = orthodox
-		size= 54
+		size= 1
 	}
 
 	artisans=
@@ -1311,7 +1311,7 @@
 	{
 		culture = mavro
 		religion = orthodox
-		size= 145
+		size= 11
 	}
 
 	artisans=
@@ -1362,7 +1362,7 @@
 	{
 		culture = sudanese
 		religion = catholic
-		size= 215
+		size= 21
 	}
 
 	artisans=
@@ -1411,7 +1411,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 4133
+		size= 411
 	}
 
 	artisans=
@@ -1460,7 +1460,7 @@
 	{
 		culture = sudanese
 		religion = orthodox
-		size= 34
+		size= 1
 	}
 
 	artisans=
@@ -1509,7 +1509,7 @@
 	{
 		culture = mavro
 		religion = orthodox
-		size= 104
+		size= 11
 	}
 
 	artisans=
@@ -1560,7 +1560,7 @@
 	{
 		culture = sudanese
 		religion = catholic
-		size= 38
+		size= 1
 	}
 
 	artisans=
@@ -1609,7 +1609,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 59
+		size= 1
 	}
 
 	artisans=
@@ -1688,7 +1688,7 @@
 	{
 		culture = sudanese
 		religion = sunni
-		size= 450
+		size= 41
 	}
 
 	farmers=
@@ -1739,7 +1739,7 @@
 	{
 		culture = dinka
 		religion = animist
-		size= 425
+		size= 41
 	}
 
 	farmers=
@@ -1783,7 +1783,7 @@
 	{
 		culture = sudanese
 		religion = sunni
-		size= 200
+		size= 21
 	}
 
 	farmers=
@@ -1811,7 +1811,7 @@
 	{
 		culture = nuba
 		religion = animist
-		size= 300
+		size= 31
 	}
 
 	farmers=
@@ -1846,7 +1846,7 @@
 	{
 		culture = luo
 		religion = animist
-		size= 150
+		size= 11
 	}
 
 	farmers=
@@ -1897,7 +1897,7 @@
 	{
 		culture = fur
 		religion = sunni
-		size= 1250
+		size= 121
 	}
 
 	farmers=
@@ -1941,7 +1941,7 @@
 	{
 		culture = fur
 		religion = sunni
-		size= 1100
+		size= 111
 	}
 
 	farmers=
@@ -1983,7 +1983,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 50
+		size= 1
 	}
 
 	farmers=
@@ -2020,7 +2020,7 @@
 	{
 		culture = fur
 		religion = sunni
-		size= 100
+		size= 11
 	}
 
 	farmers=
@@ -2048,7 +2048,7 @@
 	{
 		culture = ubangian
 		religion = animist
-		size= 75
+		size= 1
 	}
 
 	farmers=
@@ -2083,7 +2083,7 @@
 	{
 		culture = nuba
 		religion = animist
-		size= 200
+		size= 21
 	}
 
 	farmers=
@@ -2127,7 +2127,7 @@
 	{
 		culture = sudanese
 		religion = sunni
-		size= 25
+		size= 1
 	}
 
 	farmers=
@@ -2155,7 +2155,7 @@
 	{
 		culture = dinka
 		religion = animist
-		size= 175
+		size= 11
 	}
 
 	farmers=
@@ -2183,7 +2183,7 @@
 	{
 		culture = nuer
 		religion = animist
-		size= 400
+		size= 41
 	}
 
 	farmers=
@@ -2211,7 +2211,7 @@
 	{
 		culture = luo
 		religion = animist
-		size= 275
+		size= 21
 	}
 
 	farmers=
@@ -2255,7 +2255,7 @@
 	{
 		culture = fur
 		religion = sunni
-		size= 25
+		size= 1
 	}
 
 	farmers=
@@ -2283,7 +2283,7 @@
 	{
 		culture = azande
 		religion = animist
-		size= 325
+		size= 31
 	}
 
 	farmers=
@@ -2327,7 +2327,7 @@
 	{
 		culture = azande
 		religion = animist
-		size= 250
+		size= 21
 	}
 
 	farmers=
@@ -2355,7 +2355,7 @@
 	{
 		culture = nuer
 		religion = animist
-		size= 200
+		size= 21
 	}
 
 	farmers=
@@ -2383,7 +2383,7 @@
 	{
 		culture = luo
 		religion = animist
-		size= 200
+		size= 21
 	}
 
 	farmers=
@@ -2420,7 +2420,7 @@
 	{
 		culture = luo
 		religion = animist
-		size= 300
+		size= 31
 	}
 
 	farmers=
@@ -2448,7 +2448,7 @@
 	{
 		culture = luo
 		religion = animist
-		size= 75
+		size= 1
 	}
 
 	farmers=
@@ -2492,7 +2492,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 25
+		size= 1
 	}
 
 	farmers=

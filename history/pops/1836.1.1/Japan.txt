@@ -3,7 +3,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 700
+		size= 71
 	}
 
 	artisans=
@@ -54,7 +54,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 4722
+		size= 471
 	}
 
 	artisans=
@@ -105,7 +105,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 3534
+		size= 351
 	}
 
 	artisans=
@@ -156,7 +156,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 13314
+		size= 1331
 	}
 
 	artisans=
@@ -207,7 +207,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 5069
+		size= 501
 	}
 
 	artisans=
@@ -258,7 +258,7 @@
 	{
 		culture = ainu
 		religion = animist
-		size= 38
+		size= 1
 	}
 
 	artisans=
@@ -307,7 +307,7 @@
 	{
 		culture = ainu
 		religion = shinto
-		size= 60
+		size= 1
 	}
 
 	artisans=
@@ -356,7 +356,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 70
+		size= 1
 	}
 
 	artisans=
@@ -407,7 +407,7 @@
 	{
 		culture = ainu
 		religion = animist
-		size= 19
+		size= 1
 	}
 
 	artisans=
@@ -477,7 +477,7 @@
 	{
 		culture = ainu
 		religion = shinto
-		size= 31
+		size= 1
 	}
 
 	bureaucrats=
@@ -500,7 +500,7 @@
 	{
 		culture = ainu
 		religion = animist
-		size= 43
+		size= 1
 	}
 
 	artisans=
@@ -542,7 +542,7 @@
 	{
 		culture = ainu
 		religion = shinto
-		size= 70
+		size= 1
 	}
 
 	artisans=
@@ -593,7 +593,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 6289
+		size= 621
 	}
 
 	artisans=
@@ -644,7 +644,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 2688
+		size= 261
 	}
 
 	artisans=
@@ -695,7 +695,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 760
+		size= 71
 	}
 
 	artisans=
@@ -746,7 +746,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 2464
+		size= 241
 	}
 
 	artisans=
@@ -797,7 +797,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 13860
+		size= 1381
 	}
 
 	artisans=
@@ -848,7 +848,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 4990
+		size= 491
 	}
 
 	artisans=
@@ -899,7 +899,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 5287
+		size= 521
 	}
 
 	artisans=
@@ -950,7 +950,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 10715
+		size= 1071
 	}
 
 	artisans=
@@ -1001,7 +1001,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 4113
+		size= 411
 	}
 
 	artisans=
@@ -1052,7 +1052,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 12747
+		size= 1271
 	}
 
 	artisans=
@@ -1103,7 +1103,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 7420
+		size= 741
 	}
 
 	artisans=
@@ -1154,7 +1154,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 16975
+		size= 1691
 	}
 
 	artisans=
@@ -1205,7 +1205,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 5516
+		size= 551
 	}
 
 	artisans=
@@ -1256,7 +1256,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 7812
+		size= 781
 	}
 
 	artisans=
@@ -1307,7 +1307,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 9343
+		size= 931
 	}
 
 	artisans=
@@ -1358,7 +1358,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 11638
+		size= 1161
 	}
 
 	artisans=
@@ -1409,7 +1409,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 4900
+		size= 491
 	}
 
 	artisans=
@@ -1460,7 +1460,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 2660
+		size= 261
 	}
 
 	artisans=
@@ -1511,7 +1511,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 5376
+		size= 531
 	}
 
 	artisans=
@@ -1562,7 +1562,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 16533
+		size= 1651
 	}
 
 	artisans=
@@ -1613,7 +1613,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 4133
+		size= 411
 	}
 
 	artisans=
@@ -1664,7 +1664,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 1755
+		size= 171
 	}
 
 	artisans=
@@ -1715,7 +1715,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 4500
+		size= 451
 	}
 
 	artisans=
@@ -1766,7 +1766,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 6972
+		size= 691
 	}
 
 	artisans=
@@ -1817,7 +1817,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 790
+		size= 71
 	}
 
 	artisans=
@@ -1868,7 +1868,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 2772
+		size= 271
 	}
 
 	artisans=
@@ -1919,7 +1919,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 932
+		size= 91
 	}
 
 	artisans=
@@ -1970,7 +1970,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 3671
+		size= 361
 	}
 
 	artisans=
@@ -2021,7 +2021,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 1484
+		size= 141
 	}
 
 	artisans=
@@ -2072,7 +2072,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 10594
+		size= 1051
 	}
 
 	artisans=
@@ -2123,7 +2123,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 4551
+		size= 451
 	}
 
 	artisans=
@@ -2174,7 +2174,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 9072
+		size= 901
 	}
 
 	artisans=
@@ -2225,7 +2225,7 @@
 	{
 		culture = japanese
 		religion = animist
-		size= 700
+		size= 71
 	}
 
 	artisans=
@@ -2276,7 +2276,7 @@
 	{
 		culture = japanese
 		religion = animist
-		size= 201
+		size= 21
 	}
 
 	artisans=
@@ -2327,7 +2327,7 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 116
+		size= 11
 	}
 
 	artisans=

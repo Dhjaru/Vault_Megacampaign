@@ -3,7 +3,7 @@
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 1580
+		size= 151
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = western_slavic
 		religion = orthodox
-		size= 696
+		size= 61
 	}
 
 	artisans=
@@ -101,7 +101,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 743
+		size= 71
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 809
+		size= 81
 	}
 
 	artisans=
@@ -201,7 +201,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 593
+		size= 51
 	}
 
 	artisans=
@@ -250,7 +250,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 714
+		size= 71
 	}
 
 	artisans=
@@ -301,7 +301,7 @@
 	{
 		culture = western_slavic
 		religion = orthodox
-		size= 1752
+		size= 171
 	}
 
 	artisans=
@@ -350,7 +350,7 @@
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 453
+		size= 41
 	}
 
 	artisans=
@@ -399,7 +399,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 941
+		size= 91
 	}
 
 	artisans=
@@ -450,7 +450,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 506
+		size= 51
 	}
 
 	artisans=
@@ -499,7 +499,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 224
+		size= 21
 	}
 
 	artisans=
@@ -550,7 +550,7 @@
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 1348
+		size= 131
 	}
 
 	artisans=
@@ -599,7 +599,7 @@
 	{
 		culture = western_slavic
 		religion = orthodox
-		size= 384
+		size= 31
 	}
 
 	artisans=
@@ -648,7 +648,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 913
+		size= 91
 	}
 
 	artisans=
@@ -699,7 +699,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 4188
+		size= 411
 	}
 
 	artisans=
@@ -748,7 +748,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 1244
+		size= 121
 	}
 
 	artisans=
@@ -797,7 +797,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 2389
+		size= 231
 	}
 
 	artisans=
@@ -848,7 +848,7 @@
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 5661
+		size= 561
 	}
 
 	artisans=
@@ -897,7 +897,7 @@
 	{
 		culture = western_slavic
 		religion = orthodox
-		size= 1489
+		size= 141
 	}
 
 	artisans=
@@ -946,7 +946,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 2974
+		size= 291
 	}
 
 	artisans=
@@ -997,7 +997,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 1282
+		size= 121
 	}
 
 	artisans=
@@ -1046,7 +1046,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 1501
+		size= 151
 	}
 
 	artisans=
@@ -1095,7 +1095,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 759
+		size= 71
 	}
 
 	artisans=
@@ -1146,7 +1146,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 5542
+		size= 551
 	}
 
 	artisans=
@@ -1195,7 +1195,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 3602
+		size= 361
 	}
 
 	artisans=
@@ -1244,7 +1244,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1277
+		size= 121
 	}
 
 	artisans=
@@ -1293,7 +1293,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1733
+		size= 171
 	}
 
 	artisans=
@@ -1344,7 +1344,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 1629
+		size= 161
 	}
 
 	artisans=
@@ -1393,7 +1393,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 688
+		size= 61
 	}
 
 	artisans=
@@ -1442,7 +1442,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 934
+		size= 91
 	}
 
 	artisans=
@@ -1493,7 +1493,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 2625
+		size= 261
 	}
 
 	artisans=
@@ -1542,7 +1542,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 1306
+		size= 131
 	}
 
 	artisans=
@@ -1591,7 +1591,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1489
+		size= 141
 	}
 
 	artisans=
@@ -1642,7 +1642,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 1240
+		size= 121
 	}
 
 	artisans=
@@ -1691,7 +1691,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 1091
+		size= 101
 	}
 
 	artisans=
@@ -1740,7 +1740,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1082
+		size= 101
 	}
 
 	artisans=
@@ -1791,7 +1791,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 1442
+		size= 141
 	}
 
 	artisans=
@@ -1840,7 +1840,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 1297
+		size= 121
 	}
 
 	artisans=
@@ -1889,7 +1889,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1226
+		size= 121
 	}
 
 	artisans=
@@ -1940,7 +1940,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 1669
+		size= 161
 	}
 
 	artisans=
@@ -1989,7 +1989,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 2083
+		size= 201
 	}
 
 	artisans=
@@ -2038,7 +2038,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 846
+		size= 81
 	}
 
 	artisans=
@@ -2089,7 +2089,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 1325
+		size= 131
 	}
 
 	craftsmen=
@@ -2159,7 +2159,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 1176
+		size= 111
 	}
 
 	craftsmen=
@@ -2229,7 +2229,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1147
+		size= 111
 	}
 
 	craftsmen=
@@ -2301,7 +2301,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 4448
+		size= 441
 	}
 
 	craftsmen=
@@ -2371,7 +2371,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 1822
+		size= 181
 	}
 
 	craftsmen=
@@ -2441,7 +2441,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 5760
+		size= 571
 	}
 
 	craftsmen=
@@ -2513,7 +2513,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 1821
+		size= 181
 	}
 
 	artisans=
@@ -2562,7 +2562,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 1421
+		size= 141
 	}
 
 	artisans=
@@ -2611,7 +2611,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 1005
+		size= 101
 	}
 
 	artisans=
@@ -2660,7 +2660,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 5191
+		size= 511
 	}
 
 	artisans=
@@ -2709,7 +2709,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 2356
+		size= 231
 	}
 
 	artisans=
@@ -2758,7 +2758,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 1572
+		size= 151
 	}
 
 	artisans=
@@ -2809,7 +2809,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 1221
+		size= 121
 	}
 
 	artisans=
@@ -2858,7 +2858,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1738
+		size= 171
 	}
 
 	artisans=
@@ -2909,7 +2909,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 326
+		size= 31
 	}
 
 	craftsmen=
@@ -2979,7 +2979,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 75
+		size= 1
 	}
 
 	craftsmen=
@@ -3049,7 +3049,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 199
+		size= 11
 	}
 
 	craftsmen=
@@ -3119,7 +3119,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 302
+		size= 31
 	}
 
 	craftsmen=
@@ -3191,7 +3191,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 1327
+		size= 131
 	}
 
 	artisans=
@@ -3240,7 +3240,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 484
+		size= 41
 	}
 
 	artisans=
@@ -3289,7 +3289,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1465
+		size= 141
 	}
 
 	artisans=
@@ -3340,7 +3340,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3275
+		size= 321
 	}
 
 	artisans=
@@ -3396,7 +3396,7 @@
 	{
 		culture = ashkenazi
 		religion = jewish
-		size= 100
+		size= 11
 	}
 
 	clergymen=
@@ -3426,7 +3426,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 197
+		size= 11
 	}
 
 	artisans=
@@ -3475,7 +3475,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 151
+		size= 11
 	}
 
 	artisans=
@@ -3524,7 +3524,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 156
+		size= 11
 	}
 
 	artisans=
@@ -3575,7 +3575,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 178
+		size= 11
 	}
 
 	artisans=
@@ -3624,7 +3624,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 136
+		size= 11
 	}
 
 	artisans=
@@ -3673,7 +3673,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 140
+		size= 11
 	}
 
 	artisans=
@@ -3724,7 +3724,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 403
+		size= 41
 	}
 
 	artisans=
@@ -3773,7 +3773,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 357
+		size= 31
 	}
 
 	artisans=
@@ -3822,7 +3822,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 355
+		size= 31
 	}
 
 	artisans=
@@ -3873,7 +3873,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 403
+		size= 41
 	}
 
 	artisans=
@@ -3922,7 +3922,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 357
+		size= 31
 	}
 
 	artisans=
@@ -3971,7 +3971,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 355
+		size= 31
 	}
 
 	artisans=
@@ -4022,7 +4022,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 338
+		size= 31
 	}
 
 	artisans=
@@ -4071,7 +4071,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 237
+		size= 21
 	}
 
 	artisans=
@@ -4120,7 +4120,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 306
+		size= 31
 	}
 
 	artisans=
@@ -4171,7 +4171,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 326
+		size= 31
 	}
 
 	artisans=
@@ -4220,7 +4220,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 75
+		size= 1
 	}
 
 	artisans=
@@ -4269,7 +4269,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 199
+		size= 11
 	}
 
 	artisans=
@@ -4318,7 +4318,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 302
+		size= 31
 	}
 
 	artisans=
@@ -4369,7 +4369,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 1033
+		size= 101
 	}
 
 	artisans=
@@ -4418,7 +4418,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 168
+		size= 11
 	}
 
 	artisans=
@@ -4467,7 +4467,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 451
+		size= 41
 	}
 
 	artisans=
@@ -4516,7 +4516,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 893
+		size= 81
 	}
 
 	artisans=
@@ -4567,7 +4567,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 695
+		size= 61
 	}
 
 	artisans=
@@ -4616,7 +4616,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 176
+		size= 11
 	}
 
 	artisans=
@@ -4665,7 +4665,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 301
+		size= 31
 	}
 
 	artisans=
@@ -4714,7 +4714,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 662
+		size= 61
 	}
 
 	artisans=
@@ -4765,7 +4765,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 695
+		size= 61
 	}
 
 	artisans=
@@ -4814,7 +4814,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 176
+		size= 11
 	}
 
 	artisans=
@@ -4863,7 +4863,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 301
+		size= 31
 	}
 
 	artisans=
@@ -4912,7 +4912,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 662
+		size= 61
 	}
 
 	artisans=
@@ -4963,7 +4963,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 1184
+		size= 111
 	}
 
 	artisans=
@@ -5012,7 +5012,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 123
+		size= 11
 	}
 
 	artisans=
@@ -5061,7 +5061,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1712
+		size= 171
 	}
 
 	artisans=
@@ -5112,7 +5112,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 1223
+		size= 121
 	}
 
 	artisans=
@@ -5161,7 +5161,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 127
+		size= 11
 	}
 
 	artisans=
@@ -5210,7 +5210,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1768
+		size= 171
 	}
 
 	artisans=

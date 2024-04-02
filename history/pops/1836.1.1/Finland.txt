@@ -3,7 +3,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 412
+		size= 41
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 7
+		size=1
 	}
 
 	artisans=
@@ -101,7 +101,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 690
+		size= 61
 	}
 
 	artisans=
@@ -150,7 +150,7 @@
 	{
 		culture = ruotsish
 		religion = protestant
-		size= 51
+		size= 1
 	}
 
 	artisans=
@@ -201,7 +201,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 510
+		size= 51
 	}
 
 	artisans=
@@ -250,7 +250,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 1072
+		size= 101
 	}
 
 	artisans=
@@ -301,7 +301,7 @@
 	{
 		culture = sami
 		religion = orthodox
-		size= 1789
+		size= 171
 	}
 
 	artisans=
@@ -350,7 +350,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 3695
+		size= 361
 	}
 
 	artisans=
@@ -401,7 +401,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 2086
+		size= 201
 	}
 
 	craftsmen=
@@ -471,7 +471,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 4498
+		size= 441
 	}
 
 	craftsmen=
@@ -543,7 +543,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 1102
+		size= 111
 	}
 
 	artisans=
@@ -592,7 +592,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 130
+		size= 11
 	}
 
 	artisans=
@@ -641,7 +641,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 1654
+		size= 161
 	}
 
 	artisans=
@@ -690,7 +690,7 @@
 	{
 		culture = ruotsish
 		religion = protestant
-		size= 146
+		size= 11
 	}
 
 	artisans=
@@ -741,7 +741,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 120
+		size= 11
 	}
 
 	artisans=
@@ -790,7 +790,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 16
+		size= 1
 	}
 
 	artisans=
@@ -839,7 +839,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 203
+		size= 21
 	}
 
 	artisans=
@@ -890,7 +890,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 120
+		size= 11
 	}
 
 	artisans=
@@ -939,7 +939,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 16
+		size= 1
 	}
 
 	artisans=
@@ -988,7 +988,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 203
+		size= 21
 	}
 
 	artisans=
@@ -1039,7 +1039,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 1102
+		size= 111
 	}
 
 	artisans=
@@ -1088,7 +1088,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 130
+		size= 11
 	}
 
 	artisans=
@@ -1137,7 +1137,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 1654
+		size= 161
 	}
 
 	artisans=
@@ -1186,7 +1186,7 @@
 	{
 		culture = ruotsish
 		religion = protestant
-		size= 146
+		size= 11
 	}
 
 	artisans=
@@ -1237,7 +1237,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 319
+		size= 31
 	}
 
 	artisans=
@@ -1286,7 +1286,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 26
+		size= 1
 	}
 
 	artisans=
@@ -1335,7 +1335,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 516
+		size= 51
 	}
 
 	artisans=
@@ -1384,7 +1384,7 @@
 	{
 		culture = ruotsish
 		religion = protestant
-		size= 42
+		size= 1
 	}
 
 	artisans=
@@ -1435,7 +1435,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 2917
+		size= 291
 	}
 
 	artisans=
@@ -1484,7 +1484,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 147
+		size= 11
 	}
 
 	artisans=
@@ -1533,7 +1533,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 4695
+		size= 461
 	}
 
 	artisans=
@@ -1582,7 +1582,7 @@
 	{
 		culture = ruotsish
 		religion = protestant
-		size= 384
+		size= 31
 	}
 
 	artisans=
@@ -1633,7 +1633,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 412
+		size= 41
 	}
 
 	artisans=
@@ -1682,7 +1682,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 7
+		size=1
 	}
 
 	artisans=
@@ -1731,7 +1731,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 690
+		size= 61
 	}
 
 	artisans=
@@ -1780,7 +1780,7 @@
 	{
 		culture = ruotsish
 		religion = protestant
-		size= 51
+		size= 1
 	}
 
 	artisans=
@@ -1831,7 +1831,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 827
+		size= 81
 	}
 
 	artisans=
@@ -1880,7 +1880,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 105
+		size= 11
 	}
 
 	artisans=
@@ -1929,7 +1929,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 1281
+		size= 121
 	}
 
 	artisans=
@@ -1978,7 +1978,7 @@
 	{
 		culture = ruotsish
 		religion = protestant
-		size= 108
+		size= 11
 	}
 
 	artisans=
@@ -2029,7 +2029,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 393
+		size= 31
 	}
 
 	artisans=
@@ -2078,7 +2078,7 @@
 	{
 		culture = swedish
 		religion = protestant
-		size= 383
+		size= 31
 	}
 
 	artisans=
@@ -2127,7 +2127,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 241
+		size= 21
 	}
 
 	artisans=

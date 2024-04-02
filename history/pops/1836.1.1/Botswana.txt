@@ -24,7 +24,7 @@
 	{
 		culture = tswana
 		religion = animist
-		size= 75
+		size= 1
 	}
 
 	farmers=
@@ -61,7 +61,7 @@
 	{
 		culture = nguni
 		religion = animist
-		size= 40
+		size= 1
 	}
 
 	farmers=
@@ -96,7 +96,7 @@
 	{
 		culture = tswana
 		religion = animist
-		size= 20
+		size= 1
 	}
 
 	farmers=
@@ -133,7 +133,7 @@
 	{
 		culture = tswana
 		religion = animist
-		size= 10
+		size= 1
 	}
 
 	farmers=
@@ -168,7 +168,7 @@
 	{
 		culture = herero
 		religion = animist
-		size= 25
+		size= 1
 	}
 
 	farmers=
@@ -205,7 +205,7 @@
 	{
 		culture = tswana
 		religion = animist
-		size= 25
+		size= 1
 	}
 
 	farmers=
@@ -240,7 +240,7 @@
 	{
 		culture = khoisan
 		religion = animist
-		size= 10
+		size= 1
 	}
 
 	farmers=
@@ -277,7 +277,7 @@
 	{
 		culture = tswana
 		religion = animist
-		size= 50
+		size= 1
 	}
 
 	farmers=

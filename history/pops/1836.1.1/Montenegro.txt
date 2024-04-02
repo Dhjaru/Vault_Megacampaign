@@ -3,7 +3,7 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 280
+		size= 21
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 117
+		size= 11
 	}
 
 	artisans=
@@ -101,7 +101,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 341
+		size= 31
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 280
+		size= 21
 	}
 
 	artisans=
@@ -201,7 +201,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 117
+		size= 11
 	}
 
 	artisans=
@@ -250,7 +250,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 341
+		size= 31
 	}
 
 	artisans=
@@ -301,7 +301,7 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 280
+		size= 21
 	}
 
 	artisans=
@@ -350,7 +350,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 117
+		size= 11
 	}
 
 	artisans=
@@ -399,7 +399,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 341
+		size= 31
 	}
 
 	artisans=
@@ -450,7 +450,7 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 1564
+		size= 151
 	}
 
 	artisans=
@@ -499,7 +499,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 666
+		size= 61
 	}
 
 	artisans=
@@ -548,7 +548,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1927
+		size= 191
 	}
 
 	artisans=
@@ -599,7 +599,7 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 280
+		size= 21
 	}
 
 	artisans=
@@ -648,7 +648,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 117
+		size= 11
 	}
 
 	artisans=
@@ -697,7 +697,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 341
+		size= 31
 	}
 
 	artisans=

@@ -3,7 +3,7 @@
 	{
 		culture = chibchan
 		religion = animist
-		size= 17
+		size= 1
 	}
 
 	farmers=
@@ -52,7 +52,7 @@
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 112
+		size= 11
 	}
 
 	officers=
@@ -68,7 +68,7 @@
 	{
 		culture = chibchan
 		religion = animist
-		size= 12
+		size= 1
 	}
 
 	farmers=
@@ -110,7 +110,7 @@
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 23
+		size= 1
 	}
 
 	bureaucrats=
@@ -131,7 +131,7 @@
 	{
 		culture = nouvellien
 		religion = protestant
-		size= 62
+		size= 1
 	}
 
 	artisans=
@@ -182,7 +182,7 @@
 	{
 		culture = chibchan
 		religion = animist
-		size= 3
+		size=1
 	}
 
 	farmers=
@@ -224,7 +224,7 @@
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 25
+		size= 1
 	}
 
 	bureaucrats=

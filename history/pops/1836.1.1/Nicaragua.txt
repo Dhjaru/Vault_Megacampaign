@@ -3,7 +3,7 @@
 	{
 		culture = chibchan
 		religion = animist
-		size= 88
+		size= 1
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 275
+		size= 21
 	}
 
 	artisans=
@@ -87,7 +87,7 @@
 	{
 		culture = nouvellien
 		religion = protestant
-		size= 640
+		size= 61
 	}
 
 	artisans=
@@ -145,7 +145,7 @@
 	{
 		culture = chibchan
 		religion = animist
-		size= 18
+		size= 1
 	}
 
 	artisans=
@@ -173,7 +173,7 @@
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 55
+		size= 1
 	}
 
 	artisans=
@@ -208,7 +208,7 @@
 	{
 		culture = nouvellien
 		religion = protestant
-		size= 128
+		size= 11
 	}
 
 	artisans=
@@ -273,7 +273,7 @@
 	{
 		culture = chibchan
 		religion = animist
-		size= 134
+		size= 11
 	}
 
 	farmers=
@@ -287,7 +287,7 @@
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 324
+		size= 31
 	}
 
 	farmers=
@@ -336,7 +336,7 @@
 	{
 		culture = nouvellien
 		religion = protestant
-		size= 792
+		size= 71
 	}
 
 	artisans=
@@ -394,7 +394,7 @@
 	{
 		culture = chibchan
 		religion = animist
-		size= 13
+		size= 1
 	}
 
 	farmers=
@@ -429,7 +429,7 @@
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 46
+		size= 1
 	}
 
 	clergymen=
@@ -464,7 +464,7 @@
 	{
 		culture = nouvellien
 		religion = protestant
-		size= 108
+		size= 11
 	}
 
 	artisans=

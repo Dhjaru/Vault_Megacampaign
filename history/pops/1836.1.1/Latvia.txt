@@ -3,7 +3,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 305
+		size= 31
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 248
+		size= 21
 	}
 
 	artisans=
@@ -101,7 +101,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 176
+		size= 11
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 1342
+		size= 131
 	}
 
 	artisans=
@@ -201,7 +201,7 @@
 	{
 		culture = marisbaltican
 		religion = orthodox
-		size= 4454
+		size= 441
 	}
 
 	artisans=
@@ -250,7 +250,7 @@
 	{
 		culture = marisbaltican
 		religion = protestant
-		size= 106
+		size= 11
 	}
 
 	artisans=
@@ -299,7 +299,7 @@
 	{
 		culture = latvian
 		religion = orthodox
-		size= 855
+		size= 81
 	}
 
 	artisans=
@@ -350,7 +350,7 @@
 	{
 		culture = latvian
 		religion = orthodox
-		size= 194
+		size= 11
 	}
 
 	artisans=
@@ -399,7 +399,7 @@
 	{
 		culture = marisbaltican
 		religion = orthodox
-		size= 385
+		size= 31
 	}
 
 	artisans=
@@ -450,7 +450,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 369
+		size= 31
 	}
 
 	artisans=
@@ -499,7 +499,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 303
+		size= 31
 	}
 
 	artisans=
@@ -548,7 +548,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 246
+		size= 21
 	}
 
 	artisans=
@@ -599,7 +599,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 640
+		size= 61
 	}
 
 	artisans=
@@ -648,7 +648,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 629
+		size= 61
 	}
 
 	artisans=
@@ -697,7 +697,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 162
+		size= 11
 	}
 
 	artisans=
@@ -748,7 +748,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 640
+		size= 61
 	}
 
 	artisans=
@@ -797,7 +797,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 629
+		size= 61
 	}
 
 	artisans=
@@ -846,7 +846,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 162
+		size= 11
 	}
 
 	artisans=

@@ -3,7 +3,7 @@
 	{
 		culture = marisbaltican
 		religion = orthodox
-		size= 3624
+		size= 361
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = marisbaltican
 		religion = protestant
-		size= 175
+		size= 11
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = marisbaltican
 		religion = orthodox
-		size= 3226
+		size= 321
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = marisbaltican
 		religion = protestant
-		size= 152
+		size= 11
 	}
 
 	artisans=
@@ -203,7 +203,7 @@
 	{
 		culture = marisbaltican
 		religion = orthodox
-		size= 3719
+		size= 371
 	}
 
 	artisans=
@@ -252,7 +252,7 @@
 	{
 		culture = marisbaltican
 		religion = protestant
-		size= 179
+		size= 11
 	}
 
 	artisans=
@@ -303,7 +303,7 @@
 	{
 		culture = marisbaltican
 		religion = orthodox
-		size= 3226
+		size= 321
 	}
 
 	artisans=
@@ -352,7 +352,7 @@
 	{
 		culture = marisbaltican
 		religion = protestant
-		size= 152
+		size= 11
 	}
 
 	artisans=
@@ -403,7 +403,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 1737
+		size= 171
 	}
 
 	artisans=
@@ -452,7 +452,7 @@
 	{
 		culture = marisbaltican
 		religion = orthodox
-		size= 3390
+		size= 331
 	}
 
 	artisans=
@@ -501,7 +501,7 @@
 	{
 		culture = marisbaltican
 		religion = protestant
-		size= 244
+		size= 21
 	}
 
 	artisans=

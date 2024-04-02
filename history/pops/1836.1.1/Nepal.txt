@@ -10,7 +10,7 @@
 	{
 		culture = nepali
 		religion = hindu
-		size= 299
+		size= 21
 	}
 
 	artisans=
@@ -66,7 +66,7 @@
 	{
 		culture = nepali
 		religion = gelugpa
-		size= 266
+		size= 21
 	}
 
 	artisans=
@@ -122,7 +122,7 @@
 	{
 		culture = nepali
 		religion = sunni
-		size= 7233
+		size= 721
 	}
 
 	artisans=
@@ -178,7 +178,7 @@
 	{
 		culture = nepali
 		religion = theravada
-		size= 17
+		size= 1
 	}
 
 	artisans=
@@ -236,7 +236,7 @@
 	{
 		culture = nepali
 		religion = hindu
-		size= 375
+		size= 31
 	}
 
 	artisans=
@@ -292,7 +292,7 @@
 	{
 		culture = nepali
 		religion = gelugpa
-		size= 422
+		size= 41
 	}
 
 	artisans=
@@ -348,7 +348,7 @@
 	{
 		culture = nepali
 		religion = sunni
-		size= 312
+		size= 31
 	}
 
 	artisans=

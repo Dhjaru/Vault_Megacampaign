@@ -1,6 +1,3 @@
-owner=NOR
-controller=NOR
-add_core=NOR
 trade_goods = fish
 life_rating = 10
 terrain = small_island

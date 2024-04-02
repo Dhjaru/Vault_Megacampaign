@@ -3,7 +3,7 @@
 	{
 		culture = azerbaijani
 		religion = orthodox
-		size= 863
+		size= 81
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 644
+		size= 61
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 1017
+		size= 101
 	}
 
 	artisans=
@@ -154,7 +154,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 4874
+		size= 481
 	}
 
 	artisans=
@@ -203,7 +203,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3668
+		size= 361
 	}
 
 	artisans=
@@ -254,7 +254,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 300
+		size= 31
 	}
 
 	artisans=
@@ -303,7 +303,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 154
+		size= 11
 	}
 
 	artisans=
@@ -352,7 +352,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 375
+		size= 31
 	}
 
 	artisans=
@@ -403,7 +403,7 @@
 	{
 		culture = turkish
 		religion = orthodox
-		size= 820
+		size= 81
 	}
 
 	artisans=
@@ -452,7 +452,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 649
+		size= 61
 	}
 
 	artisans=
@@ -503,7 +503,7 @@
 	{
 		culture = turkish
 		religion = orthodox
-		size= 574
+		size= 51
 	}
 
 	artisans=
@@ -552,7 +552,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 133
+		size= 11
 	}
 
 	artisans=
@@ -601,7 +601,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 574
+		size= 51
 	}
 
 	artisans=
@@ -652,7 +652,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 716
+		size= 71
 	}
 
 	artisans=

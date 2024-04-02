@@ -10,7 +10,7 @@
 	{
 		culture = amhara
 		religion = jewish
-		size= 1207
+		size= 120
 	}
 
 	artisans=
@@ -66,7 +66,7 @@
 	{
 		culture = amhara
 		religion = coptic
-		size= 1293
+		size= 129
 	}
 
 	artisans=
@@ -122,7 +122,7 @@
 	{
 		culture = amhara
 		religion = orthodox
-		size= 260
+		size= 26
 	}
 
 	artisans=
@@ -178,7 +178,7 @@
 	{
 		culture = mavro
 		religion = orthodox
-		size= 807
+		size= 80
 	}
 
 	artisans=
@@ -236,7 +236,7 @@
 	{
 		culture = amhara
 		religion = coptic
-		size= 7233
+		size= 723
 	}
 
 	artisans=
@@ -294,7 +294,7 @@
 	{
 		culture = amhara
 		religion = jewish
-		size= 528
+		size= 52
 	}
 
 	artisans=
@@ -350,7 +350,7 @@
 	{
 		culture = amhara
 		religion = coptic
-		size= 1014
+		size= 101
 	}
 
 	artisans=
@@ -408,7 +408,7 @@
 	{
 		culture = amhara
 		religion = coptic
-		size= 2580
+		size= 258
 	}
 
 	artisans=
@@ -466,7 +466,7 @@
 	{
 		culture = tigray
 		religion = coptic
-		size= 502
+		size= 50
 	}
 
 	artisans=
@@ -522,7 +522,7 @@
 	{
 		culture = tigray
 		religion = orthodox
-		size= 61
+		size= 6
 	}
 
 	artisans=
@@ -578,7 +578,7 @@
 	{
 		culture = mavro
 		religion = orthodox
-		size= 205
+		size= 20
 	}
 
 	artisans=
@@ -636,7 +636,7 @@
 	{
 		culture = amhara
 		religion = coptic
-		size= 502
+		size= 50
 	}
 
 	artisans=
@@ -692,7 +692,7 @@
 	{
 		culture = amhara
 		religion = orthodox
-		size= 47
+		size= 4
 	}
 
 	artisans=
@@ -748,7 +748,7 @@
 	{
 		culture = mavro
 		religion = orthodox
-		size= 163
+		size= 16
 	}
 
 	artisans=
@@ -806,7 +806,7 @@
 	{
 		culture = afar
 		religion = sunni
-		size= 48
+		size= 4
 	}
 
 	artisans=
@@ -848,7 +848,7 @@
 	{
 		culture = afar
 		religion = coptic
-		size= 1033
+		size= 103
 	}
 
 	artisans=
@@ -920,7 +920,7 @@
 	{
 		culture = amhara
 		religion = sunni
-		size= 1154
+		size= 115
 	}
 
 	artisans=
@@ -976,7 +976,7 @@
 	{
 		culture = amhara
 		religion = coptic
-		size= 2248
+		size= 224
 	}
 
 	artisans=
@@ -1034,7 +1034,7 @@
 	{
 		culture = sidama
 		religion = sunni
-		size= 260
+		size= 26
 	}
 
 	artisans=
@@ -1090,7 +1090,7 @@
 	{
 		culture = sidama
 		religion = coptic
-		size= 315
+		size= 31
 	}
 
 	artisans=
@@ -1146,7 +1146,7 @@
 	{
 		culture = oromo
 		religion = shamanism
-		size= 122
+		size= 12
 	}
 
 	artisans=
@@ -1202,7 +1202,7 @@
 	{
 		culture = oromo
 		religion = coptic
-		size= 260
+		size= 26
 	}
 
 	artisans=
@@ -1258,7 +1258,7 @@
 	{
 		culture = sidama
 		religion = shamanism
-		size= 95
+		size= 9
 	}
 
 	artisans=
@@ -1316,7 +1316,7 @@
 	{
 		culture = amhara
 		religion = sunni
-		size= 293
+		size= 29
 	}
 
 	artisans=
@@ -1372,7 +1372,7 @@
 	{
 		culture = amhara
 		religion = coptic
-		size= 147
+		size= 14
 	}
 
 	artisans=
@@ -1428,7 +1428,7 @@
 	{
 		culture = oromo
 		religion = shamanism
-		size= 43
+		size= 4
 	}
 
 	artisans=
@@ -1484,7 +1484,7 @@
 	{
 		culture = oromo
 		religion = coptic
-		size= 411
+		size= 41
 	}
 
 	artisans=
@@ -1542,7 +1542,7 @@
 	{
 		culture = sidama
 		religion = coptic
-		size= 2200
+		size= 220
 	}
 
 	artisans=
@@ -1598,7 +1598,7 @@
 	{
 		culture = sidama
 		religion = shamanism
-		size= 97
+		size= 9
 	}
 
 	artisans=
@@ -1656,7 +1656,7 @@
 	{
 		culture = amhara
 		religion = coptic
-		size= 1700
+		size= 170
 	}
 
 	artisans=
@@ -1712,7 +1712,7 @@
 	{
 		culture = amhara
 		religion = catholic
-		size= 2
+		size= 1
 	}
 
 	artisans=
@@ -1763,7 +1763,7 @@
 	{
 		culture = sidama
 		religion = shamanism
-		size= 227
+		size= 22
 	}
 
 	artisans=
@@ -1812,7 +1812,7 @@
 	{
 		culture = sidama
 		religion = coptic
-		size= 349
+		size= 34
 	}
 
 	artisans=
@@ -1868,7 +1868,7 @@
 	{
 		culture = oromo
 		religion = shamanism
-		size= 35
+		size= 3
 	}
 
 	artisans=
@@ -1924,7 +1924,7 @@
 	{
 		culture = oromo
 		religion = coptic
-		size= 82
+		size= 8
 	}
 
 	artisans=
@@ -1989,7 +1989,7 @@
 	{
 		culture = harari
 		religion = sunni
-		size= 351
+		size= 35
 	}
 
 	artisans=
@@ -2045,7 +2045,7 @@
 	{
 		culture = harari
 		religion = coptic
-		size= 246
+		size= 24
 	}
 
 	artisans=
@@ -2101,7 +2101,7 @@
 	{
 		culture = oromo
 		religion = shamanism
-		size= 121
+		size= 12
 	}
 
 	artisans=
@@ -2157,7 +2157,7 @@
 	{
 		culture = oromo
 		religion = coptic
-		size= 218
+		size= 21
 	}
 
 	artisans=
@@ -2215,7 +2215,7 @@
 	{
 		culture = harari
 		religion = sunni
-		size= 40
+		size= 4
 	}
 
 	artisans=
@@ -2257,7 +2257,7 @@
 	{
 		culture = harari
 		religion = coptic
-		size= 16
+		size= 1
 	}
 
 	artisans=
@@ -2306,7 +2306,7 @@
 	{
 		culture = oromo
 		religion = shamanism
-		size= 14
+		size= 1
 	}
 
 	artisans=
@@ -2362,7 +2362,7 @@
 	{
 		culture = oromo
 		religion = coptic
-		size= 179
+		size= 17
 	}
 
 	artisans=
@@ -2418,7 +2418,7 @@
 	{
 		culture = somali
 		religion = sunni
-		size= 93
+		size= 9
 	}
 
 	artisans=
@@ -2474,7 +2474,7 @@
 	{
 		culture = somali
 		religion = coptic
-		size= 37
+		size= 3
 	}
 
 	artisans=
@@ -2532,7 +2532,7 @@
 	{
 		culture = somali
 		religion = sunni
-		size= 1024
+		size= 102
 	}
 
 	artisans=
@@ -2581,7 +2581,7 @@
 	{
 		culture = somali
 		religion = coptic
-		size= 427
+		size= 42
 	}
 
 	artisans=
@@ -2637,7 +2637,7 @@
 	{
 		culture = oromo
 		religion = shamanism
-		size= 133
+		size= 13
 	}
 
 	artisans=
@@ -2693,7 +2693,7 @@
 	{
 		culture = oromo
 		religion = coptic
-		size= 476
+		size= 47
 	}
 
 	artisans=
@@ -2749,7 +2749,7 @@
 	{
 		culture = oromo
 		religion = orthodox
-		size= 204
+		size= 20
 	}
 
 	artisans=
@@ -2805,7 +2805,7 @@
 	{
 		culture = mavro
 		religion = orthodox
-		size= 668
+		size= 66
 	}
 
 	artisans=

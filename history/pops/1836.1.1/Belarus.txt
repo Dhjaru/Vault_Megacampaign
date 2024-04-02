@@ -3,7 +3,7 @@
 	{
 		culture = byelorussian
 		religion = catholic
-		size= 1353
+		size= 131
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = byelorussian
 		religion = orthodox
-		size= 235
+		size= 21
 	}
 
 	artisans=
@@ -101,7 +101,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 830
+		size= 81
 	}
 
 	artisans=
@@ -150,7 +150,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1126
+		size= 111
 	}
 
 	artisans=
@@ -201,7 +201,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 437
+		size= 41
 	}
 
 	artisans=
@@ -243,7 +243,7 @@
 	{
 		culture = lithuanian
 		religion = orthodox
-		size= 75
+		size= 1
 	}
 
 	artisans=
@@ -285,7 +285,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 362
+		size= 31
 	}
 
 	artisans=
@@ -327,7 +327,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 270
+		size= 21
 	}
 
 	artisans=
@@ -371,7 +371,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 569
+		size= 51
 	}
 
 	artisans=
@@ -420,7 +420,7 @@
 	{
 		culture = ukrainian
 		religion = protestant
-		size= 173
+		size= 11
 	}
 
 	artisans=
@@ -471,7 +471,7 @@
 	{
 		culture = byelorussian
 		religion = catholic
-		size= 1087
+		size= 101
 	}
 
 	artisans=
@@ -520,7 +520,7 @@
 	{
 		culture = byelorussian
 		religion = orthodox
-		size= 305
+		size= 31
 	}
 
 	artisans=
@@ -569,7 +569,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 600
+		size= 61
 	}
 
 	artisans=
@@ -618,7 +618,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 861
+		size= 81
 	}
 
 	artisans=
@@ -669,7 +669,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 1266
+		size= 121
 	}
 
 	artisans=
@@ -718,7 +718,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 1315
+		size= 131
 	}
 
 	artisans=
@@ -767,7 +767,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1011
+		size= 101
 	}
 
 	artisans=
@@ -818,7 +818,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 1033
+		size= 101
 	}
 
 	artisans=
@@ -867,7 +867,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 729
+		size= 71
 	}
 
 	artisans=
@@ -916,7 +916,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 643
+		size= 61
 	}
 
 	artisans=
@@ -967,7 +967,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 815
+		size= 81
 	}
 
 	artisans=
@@ -1016,7 +1016,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 430
+		size= 41
 	}
 
 	artisans=
@@ -1065,7 +1065,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 237
+		size= 21
 	}
 
 	artisans=
@@ -1116,7 +1116,7 @@
 	{
 		culture = byelorussian
 		religion = catholic
-		size= 690
+		size= 61
 	}
 
 	artisans=
@@ -1165,7 +1165,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 1115
+		size= 111
 	}
 
 	artisans=
@@ -1214,7 +1214,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 1496
+		size= 141
 	}
 
 	artisans=
@@ -1263,7 +1263,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1559
+		size= 151
 	}
 
 	artisans=
@@ -1314,7 +1314,7 @@
 	{
 		culture = byelorussian
 		religion = catholic
-		size= 1027
+		size= 101
 	}
 
 	artisans=
@@ -1363,7 +1363,7 @@
 	{
 		culture = byelorussian
 		religion = orthodox
-		size= 107
+		size= 11
 	}
 
 	artisans=
@@ -1412,7 +1412,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1800
+		size= 181
 	}
 
 	artisans=
@@ -1463,7 +1463,7 @@
 	{
 		culture = byelorussian
 		religion = orthodox
-		size= 806
+		size= 81
 	}
 
 	artisans=
@@ -1512,7 +1512,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1731
+		size= 171
 	}
 
 	artisans=
@@ -1563,7 +1563,7 @@
 	{
 		culture = byelorussian
 		religion = orthodox
-		size= 275
+		size= 21
 	}
 
 	artisans=
@@ -1612,7 +1612,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 580
+		size= 51
 	}
 
 	artisans=
@@ -1663,7 +1663,7 @@
 	{
 		culture = byelorussian
 		religion = orthodox
-		size= 307
+		size= 31
 	}
 
 	artisans=
@@ -1712,7 +1712,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 648
+		size= 61
 	}
 
 	artisans=
@@ -1763,7 +1763,7 @@
 	{
 		culture = byelorussian
 		religion = catholic
-		size= 2093
+		size= 201
 	}
 
 	artisans=
@@ -1812,7 +1812,7 @@
 	{
 		culture = byelorussian
 		religion = orthodox
-		size= 264
+		size= 21
 	}
 
 	artisans=
@@ -1861,7 +1861,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 3607
+		size= 361
 	}
 
 	artisans=
@@ -1912,7 +1912,7 @@
 	{
 		culture = byelorussian
 		religion = catholic
-		size= 1009
+		size= 101
 	}
 
 	artisans=
@@ -1961,7 +1961,7 @@
 	{
 		culture = byelorussian
 		religion = orthodox
-		size= 105
+		size= 11
 	}
 
 	artisans=
@@ -2010,7 +2010,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1769
+		size= 171
 	}
 
 	artisans=

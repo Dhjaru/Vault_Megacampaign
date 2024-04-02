@@ -3,7 +3,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 3919
+		size= 391
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 194
+		size= 11
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 2049
+		size= 201
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1490
+		size= 141
 	}
 
 	artisans=
@@ -203,7 +203,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 2049
+		size= 201
 	}
 
 	artisans=
@@ -252,7 +252,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1490
+		size= 141
 	}
 
 	artisans=
@@ -303,7 +303,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 1945
+		size= 191
 	}
 
 	artisans=
@@ -352,7 +352,7 @@
 	{
 		culture = croat
 		religion = protestant
-		size= 166
+		size= 11
 	}
 
 	artisans=
@@ -401,7 +401,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1528
+		size= 151
 	}
 
 	artisans=
@@ -452,7 +452,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 3364
+		size= 331
 	}
 
 	artisans=
@@ -501,7 +501,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 2180
+		size= 211
 	}
 
 	artisans=
@@ -552,7 +552,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 4055
+		size= 401
 	}
 
 	artisans=
@@ -601,7 +601,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 2950
+		size= 291
 	}
 
 	artisans=
@@ -652,7 +652,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 1817
+		size= 181
 	}
 
 	artisans=
@@ -701,7 +701,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1116
+		size= 111
 	}
 
 	artisans=
@@ -752,7 +752,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 1878
+		size= 181
 	}
 
 	artisans=
@@ -801,7 +801,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1154
+		size= 111
 	}
 
 	artisans=
@@ -852,7 +852,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 1945
+		size= 191
 	}
 
 	artisans=
@@ -901,7 +901,7 @@
 	{
 		culture = croat
 		religion = protestant
-		size= 166
+		size= 11
 	}
 
 	artisans=
@@ -950,7 +950,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1528
+		size= 151
 	}
 
 	artisans=
@@ -1001,7 +1001,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 2086
+		size= 201
 	}
 
 	artisans=
@@ -1050,7 +1050,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1032
+		size= 101
 	}
 
 	artisans=
@@ -1101,7 +1101,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 2419
+		size= 241
 	}
 
 	artisans=
@@ -1150,7 +1150,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1166
+		size= 111
 	}
 
 	artisans=
@@ -1201,7 +1201,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 1984
+		size= 191
 	}
 
 	artisans=
@@ -1250,7 +1250,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 969
+		size= 91
 	}
 
 	artisans=
@@ -1301,7 +1301,7 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 1615
+		size= 161
 	}
 
 	artisans=
@@ -1350,7 +1350,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 600
+		size= 61
 	}
 
 	artisans=
@@ -1399,7 +1399,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1054
+		size= 101
 	}
 
 	artisans=
@@ -1450,7 +1450,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 2086
+		size= 201
 	}
 
 	artisans=
@@ -1499,7 +1499,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1032
+		size= 101
 	}
 
 	artisans=

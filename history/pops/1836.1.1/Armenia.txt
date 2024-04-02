@@ -3,7 +3,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 2459
+		size= 241
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = armenian
 		religion = zoroastrian
-		size= 2392
+		size= 231
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 2459
+		size= 241
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = armenian
 		religion = zoroastrian
-		size= 2392
+		size= 231
 	}
 
 	artisans=
@@ -203,7 +203,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 2199
+		size= 211
 	}
 
 	artisans=
@@ -252,7 +252,7 @@
 	{
 		culture = armenian
 		religion = zoroastrian
-		size= 2305
+		size= 231
 	}
 
 	artisans=
@@ -303,7 +303,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 2199
+		size= 211
 	}
 
 	artisans=
@@ -352,7 +352,7 @@
 	{
 		culture = armenian
 		religion = zoroastrian
-		size= 2305
+		size= 231
 	}
 
 	artisans=

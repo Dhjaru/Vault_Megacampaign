@@ -3,7 +3,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 2486
+		size= 241
 	}
 
 	artisans=
@@ -54,7 +54,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 1205
+		size= 121
 	}
 
 	artisans=
@@ -105,7 +105,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 1431
+		size= 141
 	}
 
 	artisans=
@@ -156,7 +156,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 2787
+		size= 271
 	}
 
 	artisans=
@@ -207,7 +207,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 2561
+		size= 251
 	}
 
 	artisans=
@@ -258,7 +258,7 @@
 	{
 		culture = andalucian
 		religion = zikri
-		size= 930
+		size= 91
 	}
 
 	artisans=
@@ -307,7 +307,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 1405
+		size= 141
 	}
 
 	artisans=
@@ -358,7 +358,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 3480
+		size= 341
 	}
 
 	artisans=
@@ -409,7 +409,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 2109
+		size= 211
 	}
 
 	artisans=
@@ -460,7 +460,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 3480
+		size= 341
 	}
 
 	artisans=
@@ -511,7 +511,7 @@
 	{
 		culture = andalucian
 		religion = zikri
-		size= 2856
+		size= 281
 	}
 
 	artisans=
@@ -560,7 +560,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 4315
+		size= 431
 	}
 
 	artisans=
@@ -611,7 +611,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 969
+		size= 91
 	}
 
 	artisans=
@@ -662,7 +662,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 534
+		size= 51
 	}
 
 	artisans=

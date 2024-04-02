@@ -10,7 +10,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 2677
+		size= 261
 	}
 
 	artisans=
@@ -66,7 +66,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 350
+		size= 31
 	}
 
 	artisans=
@@ -122,7 +122,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2514
+		size= 251
 	}
 
 	artisans=
@@ -178,7 +178,7 @@
 	{
 		culture = bedouin
 		religion = shiite
-		size= 366
+		size= 31
 	}
 
 	artisans=
@@ -236,7 +236,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 1962
+		size= 191
 	}
 
 	artisans=
@@ -292,7 +292,7 @@
 	{
 		culture = bedouin
 		religion = shiite
-		size= 11
+		size= 1
 	}
 
 	artisans=
@@ -348,7 +348,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 197
+		size= 11
 	}
 
 	artisans=
@@ -404,7 +404,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1733
+		size= 171
 	}
 
 	artisans=
@@ -462,7 +462,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 583
+		size= 51
 	}
 
 	artisans=
@@ -518,7 +518,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 92
+		size= 1
 	}
 
 	artisans=
@@ -574,7 +574,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 515
+		size= 51
 	}
 
 	artisans=
@@ -630,7 +630,7 @@
 	{
 		culture = bedouin
 		religion = coptic
-		size= 15
+		size= 1
 	}
 
 	artisans=
@@ -681,7 +681,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 613
+		size= 61
 	}
 
 	artisans=
@@ -730,7 +730,7 @@
 	{
 		culture = bedouin
 		religion = coptic
-		size= 122
+		size= 11
 	}
 
 	artisans=
@@ -779,7 +779,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 80
+		size= 1
 	}
 
 	artisans=
@@ -828,7 +828,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4133
+		size= 411
 	}
 
 	artisans=
@@ -886,7 +886,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 7147
+		size= 711
 	}
 
 	artisans=
@@ -942,7 +942,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 204
+		size= 21
 	}
 
 	artisans=
@@ -991,7 +991,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2880
+		size= 281
 	}
 
 	artisans=
@@ -1049,7 +1049,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 59
+		size= 1
 	}
 
 	artisans=
@@ -1098,7 +1098,7 @@
 	{
 		culture = bedouin
 		religion = coptic
-		size= 53
+		size= 1
 	}
 
 	artisans=
@@ -1147,7 +1147,7 @@
 	{
 		culture = bedouin
 		religion = zoroastrian
-		size= 38
+		size= 1
 	}
 
 	artisans=
@@ -1205,7 +1205,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 2503
+		size= 251
 	}
 
 	artisans=
@@ -1261,7 +1261,7 @@
 	{
 		culture = bedouin
 		religion = zoroastrian
-		size= 260
+		size= 21
 	}
 
 	artisans=
@@ -1310,7 +1310,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 1599
+		size= 151
 	}
 
 	artisans=
@@ -1366,7 +1366,7 @@
 	{
 		culture = bedouin
 		religion = druze
-		size= 7
+		size=1
 	}
 
 	artisans=
@@ -1410,7 +1410,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 630
+		size= 61
 	}
 
 	artisans=
@@ -1459,7 +1459,7 @@
 	{
 		culture = bedouin
 		religion = zoroastrian
-		size= 54
+		size= 1
 	}
 
 	artisans=
@@ -1508,7 +1508,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 521
+		size= 51
 	}
 
 	artisans=
@@ -1559,7 +1559,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 1906
+		size= 191
 	}
 
 	artisans=
@@ -1608,7 +1608,7 @@
 	{
 		culture = bedouin
 		religion = zoroastrian
-		size= 194
+		size= 11
 	}
 
 	artisans=
@@ -1657,7 +1657,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 1214
+		size= 121
 	}
 
 	artisans=
@@ -1715,7 +1715,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 2657
+		size= 261
 	}
 
 	artisans=
@@ -1771,7 +1771,7 @@
 	{
 		culture = bedouin
 		religion = zoroastrian
-		size= 264
+		size= 21
 	}
 
 	artisans=
@@ -1820,7 +1820,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 2141
+		size= 211
 	}
 
 	artisans=
@@ -1871,56 +1871,56 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 5689
+		size= 561
 	}
 
 	artisans=
 	{
 		culture = bedouin
 		religion = sunni
-		size= 3555
+		size= 355
 	}
 
 	clergymen=
 	{
 		culture = bedouin
 		religion = sunni
-		size= 330
+		size= 33
 	}
 
 	bureaucrats=
 	{
 		culture = bedouin
 		religion = sunni
-		size= 46
+		size= 4
 	}
 
 	officers=
 	{
 		culture = bedouin
 		religion = sunni
-		size= 54
+		size= 5
 	}
 
 	aristocrats=
 	{
 		culture = bedouin
 		religion = sunni
-		size= 426
+		size= 42
 	}
 
 	farmers=
 	{
 		culture = bedouin
 		religion = sunni
-		size= 91489
+		size= 9148
 	}
 
 	soldiers=
 	{
 		culture = bedouin
 		religion = zoroastrian
-		size= 591
+		size= 51
 	}
 
 	artisans=
@@ -1969,49 +1969,49 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 3633
+		size= 361
 	}
 
 	artisans=
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 16933
+		size= 169
 	}
 
 	clergymen=
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 1572
+		size= 15
 	}
 
 	bureaucrats=
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 218
+		size= 21
 	}
 
 	officers=
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 254
+		size= 25
 	}
 
 	aristocrats=
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 2032
+		size= 20
 	}
 
 	farmers=
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 40234
+		size= 2402
 	}
 
 }
@@ -2027,7 +2027,7 @@
 	{
 		culture = bedouin
 		religion = druze
-		size= 6822
+		size= 681
 	}
 
 	artisans=
@@ -2083,7 +2083,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 2347
+		size= 231
 	}
 
 	artisans=
@@ -2139,7 +2139,7 @@
 	{
 		culture = bedouin
 		religion = zoroastrian
-		size= 423
+		size= 41
 	}
 
 	artisans=
@@ -2188,7 +2188,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 7386
+		size= 731
 	}
 
 	artisans=
@@ -2239,7 +2239,7 @@
 	{
 		culture = bedouin
 		religion = druze
-		size= 1887
+		size= 181
 	}
 
 	artisans=
@@ -2288,7 +2288,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 724
+		size= 71
 	}
 
 	artisans=
@@ -2337,7 +2337,7 @@
 	{
 		culture = bedouin
 		religion = zoroastrian
-		size= 124
+		size= 11
 	}
 
 	artisans=
@@ -2379,7 +2379,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 2115
+		size= 211
 	}
 
 	artisans=
@@ -2430,7 +2430,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 8155
+		size= 811
 	}
 
 	artisans=
@@ -2472,14 +2472,14 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 76867
+		size= 7686
 	}
 
 	soldiers=
 	{
 		culture = bedouin
 		religion = druze
-		size= 280
+		size= 21
 	}
 
 	artisans=
@@ -2528,7 +2528,7 @@
 	{
 		culture = bedouin
 		religion = zoroastrian
-		size= 953
+		size= 91
 	}
 
 	artisans=
@@ -2577,14 +2577,14 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 5859
+		size= 58
 	}
 
 	artisans=
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 16059
+		size= 160
 	}
 
 	clergymen=
@@ -2605,21 +2605,21 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 333
+		size= 30
 	}
 
 	aristocrats=
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 1927
+		size= 19
 	}
 
 	farmers=
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 37813
+		size= 378
 	}
 
 }

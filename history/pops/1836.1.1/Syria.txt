@@ -3,7 +3,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 3036
+		size= 301
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 1708
+		size= 171
 	}
 
 	artisans=
@@ -101,7 +101,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3572
+		size= 351
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 1168
+		size= 111
 	}
 
 	artisans=
@@ -203,7 +203,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 1872
+		size= 181
 	}
 
 	artisans=
@@ -252,7 +252,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 915
+		size= 91
 	}
 
 	artisans=
@@ -301,7 +301,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1958
+		size= 191
 	}
 
 	artisans=
@@ -352,7 +352,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 3052
+		size= 301
 	}
 
 	artisans=
@@ -401,7 +401,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 1460
+		size= 141
 	}
 
 	artisans=
@@ -450,7 +450,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3284
+		size= 321
 	}
 
 	artisans=
@@ -501,7 +501,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 2996
+		size= 291
 	}
 
 	artisans=
@@ -550,7 +550,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 1316
+		size= 131
 	}
 
 	artisans=
@@ -599,7 +599,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3311
+		size= 331
 	}
 
 	artisans=
@@ -650,7 +650,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 2073
+		size= 201
 	}
 
 	artisans=
@@ -699,7 +699,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3516
+		size= 351
 	}
 
 	artisans=
@@ -750,7 +750,7 @@
 	{
 		culture = mashriqi
 		religion = catholic
-		size= 343
+		size= 31
 	}
 
 	artisans=
@@ -799,7 +799,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 115
+		size= 11
 	}
 
 	artisans=
@@ -848,7 +848,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 371
+		size= 31
 	}
 
 	artisans=
@@ -899,7 +899,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 5179
+		size= 511
 	}
 
 	artisans=
@@ -948,7 +948,7 @@
 	{
 		culture = assyrian
 		religion = sunni
-		size= 2676
+		size= 261
 	}
 
 	artisans=
@@ -997,7 +997,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 3754
+		size= 371
 	}
 
 	artisans=
@@ -1048,7 +1048,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 1667
+		size= 161
 	}
 
 	artisans=
@@ -1097,7 +1097,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 1497
+		size= 141
 	}
 
 	artisans=

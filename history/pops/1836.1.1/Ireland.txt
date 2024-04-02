@@ -3,7 +3,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 1439
+		size= 141
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 2
+		size=1
 	}
 
 	artisans=
@@ -94,7 +94,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 2024
+		size= 201
 	}
 
 	artisans=
@@ -145,7 +145,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 2656
+		size= 261
 	}
 
 	artisans=
@@ -194,7 +194,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 6
+		size=1
 	}
 
 	artisans=
@@ -236,7 +236,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 3748
+		size= 371
 	}
 
 	artisans=
@@ -278,7 +278,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 70288
+		size= 50288
 	}
 
 }
@@ -287,7 +287,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 1439
+		size= 141
 	}
 
 	artisans=
@@ -336,7 +336,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 2
+		size=1
 	}
 
 	artisans=
@@ -378,7 +378,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 2024
+		size= 201
 	}
 
 	artisans=
@@ -420,7 +420,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 37448
+		size= 33448
 	}
 
 }
@@ -429,7 +429,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 2711
+		size= 271
 	}
 
 	artisans=
@@ -478,7 +478,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 6
+		size=1
 	}
 
 	artisans=
@@ -520,7 +520,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 3867
+		size= 381
 	}
 
 	artisans=
@@ -571,7 +571,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 1650
+		size= 161
 	}
 
 	artisans=
@@ -620,7 +620,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 6
+		size=1
 	}
 
 	artisans=
@@ -662,7 +662,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 2351
+		size= 231
 	}
 
 	artisans=
@@ -704,7 +704,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 61748
+		size= 31748
 	}
 
 }
@@ -713,7 +713,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 1824
+		size= 181
 	}
 
 	artisans=
@@ -762,7 +762,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 7
+		size=1
 	}
 
 	artisans=
@@ -804,7 +804,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 2599
+		size= 251
 	}
 
 	artisans=
@@ -846,7 +846,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 81853
+		size= 51853
 	}
 
 }
@@ -855,7 +855,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 2985
+		size= 291
 	}
 
 	artisans=
@@ -904,7 +904,7 @@
 	{
 		culture = irish
 		religion = protestant
-		size= 115
+		size= 11
 	}
 
 	artisans=
@@ -946,7 +946,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 4176
+		size= 411
 	}
 
 	artisans=
@@ -988,7 +988,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 65770
+		size= 45770
 	}
 
 }
@@ -997,7 +997,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 2728
+		size= 271
 	}
 
 	artisans=
@@ -1046,7 +1046,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 74
+		size= 1
 	}
 
 	artisans=
@@ -1088,7 +1088,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 3782
+		size= 371
 	}
 
 	artisans=
@@ -1130,7 +1130,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 70351
+		size= 45351
 	}
 
 	farmers=
@@ -1146,7 +1146,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 3667
+		size= 361
 	}
 
 	artisans=
@@ -1195,7 +1195,7 @@
 	{
 		culture = irish
 		religion = protestant
-		size= 128
+		size= 11
 	}
 
 	artisans=
@@ -1244,7 +1244,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 5042
+		size= 501
 	}
 
 	artisans=
@@ -1286,7 +1286,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 79312
+		size= 55312
 	}
 
 }
@@ -1295,7 +1295,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 3028
+		size= 301
 	}
 
 	craftsmen=
@@ -1365,7 +1365,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 8
+		size=1
 	}
 
 	craftsmen=
@@ -1428,7 +1428,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 4240
+		size= 421
 	}
 
 	craftsmen=
@@ -1500,7 +1500,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 3296
+		size= 321
 	}
 
 	artisans=
@@ -1549,7 +1549,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 9
+		size=1
 	}
 
 	artisans=
@@ -1591,14 +1591,14 @@
 	{
 		culture = english
 		religion = protestant
-		size= 4709
+		size= 471
 	}
 
 	artisans=
 	{
 		culture = english
 		religion = protestant
-		size= 31811
+		size= 11811
 	}
 
 	clergymen=
@@ -1633,7 +1633,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 123726
+		size= 43726
 	}
 
 }
@@ -1642,7 +1642,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 5810
+		size= 581
 	}
 
 	artisans=
@@ -1691,7 +1691,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 5
+		size=1
 	}
 
 	artisans=
@@ -1733,14 +1733,14 @@
 	{
 		culture = english
 		religion = protestant
-		size= 8120
+		size= 811
 	}
 
 	artisans=
 	{
 		culture = english
 		religion = protestant
-		size= 33711
+		size= 23711
 	}
 
 	clergymen=
@@ -1775,14 +1775,14 @@
 	{
 		culture = english
 		religion = protestant
-		size= 126069
+		size= 86069
 	}
 
 	soldiers=
 	{
 		culture = irish
 		religion = protestant
-		size= 99
+		size= 1
 	}
 
 	artisans=

@@ -3,3 +3,4 @@ controller=BYZ
 add_core=EGY
 trade_goods = grain
 life_rating = 10
+colonial=2

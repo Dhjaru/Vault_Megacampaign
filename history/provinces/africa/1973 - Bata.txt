@@ -1,5 +1,2 @@
-owner=MOR
-controller=MOR
-add_core=MOR
 trade_goods = timber
-life_rating = 5
+life_rating = 10

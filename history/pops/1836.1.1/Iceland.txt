@@ -3,7 +3,7 @@
 	{
 		culture = icelandic
 		religion = catholic
-		size= 1817
+		size= 181
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 4
+		size=1
 	}
 
 	artisans=
@@ -94,7 +94,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 2609
+		size= 261
 	}
 
 	artisans=

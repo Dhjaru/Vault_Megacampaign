@@ -10,7 +10,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 8941
+		size= 891
 	}
 
 	craftsmen=
@@ -87,7 +87,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 1192
+		size= 111
 	}
 
 	craftsmen=
@@ -164,7 +164,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4286
+		size= 421
 	}
 
 	craftsmen=
@@ -236,7 +236,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 1279
+		size= 121
 	}
 
 	artisans=
@@ -285,7 +285,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 452
+		size= 41
 	}
 
 	artisans=
@@ -334,7 +334,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2914
+		size= 291
 	}
 
 	artisans=
@@ -383,7 +383,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 1549
+		size= 151
 	}
 
 	artisans=
@@ -432,7 +432,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 464
+		size= 41
 	}
 
 	artisans=
@@ -483,7 +483,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 1654
+		size= 161
 	}
 
 	artisans=
@@ -532,7 +532,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 91
+		size= 1
 	}
 
 	artisans=
@@ -581,7 +581,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 923
+		size= 91
 	}
 
 	artisans=
@@ -632,7 +632,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 2034
+		size= 201
 	}
 
 	artisans=
@@ -681,7 +681,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 74
+		size= 1
 	}
 
 	artisans=
@@ -723,7 +723,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1160
+		size= 111
 	}
 
 	artisans=
@@ -774,7 +774,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 1881
+		size= 181
 	}
 
 	artisans=
@@ -823,7 +823,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 251
+		size= 21
 	}
 
 	artisans=
@@ -872,7 +872,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 902
+		size= 91
 	}
 
 	artisans=
@@ -923,7 +923,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 1573
+		size= 151
 	}
 
 	artisans=
@@ -972,7 +972,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 87
+		size= 1
 	}
 
 	artisans=
@@ -1021,7 +1021,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 878
+		size= 81
 	}
 
 	artisans=
@@ -1079,7 +1079,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 3448
+		size= 341
 	}
 
 	artisans=
@@ -1135,7 +1135,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 1268
+		size= 121
 	}
 
 	artisans=
@@ -1191,7 +1191,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3378
+		size= 331
 	}
 
 	artisans=
@@ -1242,7 +1242,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 48
+		size= 1
 	}
 
 	artisans=
@@ -1291,7 +1291,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 98
+		size= 1
 	}
 
 	artisans=
@@ -1342,7 +1342,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 16
+		size= 1
 	}
 
 	artisans=
@@ -1391,7 +1391,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 32
+		size= 1
 	}
 
 	artisans=
@@ -1442,7 +1442,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 11
+		size= 1
 	}
 
 	artisans=
@@ -1491,7 +1491,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 22
+		size= 1
 	}
 
 	artisans=
@@ -1542,7 +1542,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 519
+		size= 51
 	}
 
 	artisans=
@@ -1591,7 +1591,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 5027
+		size= 501
 	}
 
 	artisans=
@@ -1640,7 +1640,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 305
+		size= 31
 	}
 
 	artisans=
@@ -1689,7 +1689,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3505
+		size= 351
 	}
 
 	artisans=
@@ -1740,7 +1740,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 455
+		size= 41
 	}
 
 	artisans=
@@ -1789,7 +1789,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 456
+		size= 41
 	}
 
 	artisans=
@@ -1838,7 +1838,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 7
+		size=1
 	}
 
 	artisans=
@@ -1880,7 +1880,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 401
+		size= 41
 	}
 
 	artisans=
@@ -1931,7 +1931,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 65
+		size= 1
 	}
 
 	artisans=
@@ -1980,7 +1980,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 20
+		size= 1
 	}
 
 	artisans=
@@ -2029,7 +2029,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 14
+		size= 1
 	}
 
 	artisans=
@@ -2078,7 +2078,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 90
+		size= 1
 	}
 
 	artisans=
@@ -2150,7 +2150,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 25
+		size= 1
 	}
 
 	farmers=
@@ -2166,7 +2166,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 24
+		size= 1
 	}
 
 	artisans=
@@ -2217,7 +2217,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 12
+		size= 1
 	}
 
 	artisans=
@@ -2266,7 +2266,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 26
+		size= 1
 	}
 
 	artisans=
@@ -2317,7 +2317,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 10
+		size= 1
 	}
 
 	artisans=
@@ -2359,7 +2359,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 21
+		size= 1
 	}
 
 	artisans=
@@ -2410,7 +2410,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 299
+		size= 21
 	}
 
 	artisans=
@@ -2459,7 +2459,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 46
+		size= 1
 	}
 
 	artisans=
@@ -2508,7 +2508,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 281
+		size= 21
 	}
 
 	artisans=
@@ -2559,7 +2559,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 489
+		size= 41
 	}
 
 	artisans=
@@ -2608,7 +2608,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 148
+		size= 11
 	}
 
 	artisans=
@@ -2657,7 +2657,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 451
+		size= 41
 	}
 
 	artisans=
@@ -2708,7 +2708,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 366
+		size= 31
 	}
 
 	artisans=
@@ -2757,7 +2757,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 82
+		size= 1
 	}
 
 	artisans=
@@ -2806,7 +2806,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 323
+		size= 31
 	}
 
 	artisans=
@@ -2857,7 +2857,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 1040
+		size= 101
 	}
 
 	artisans=
@@ -2906,7 +2906,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 513
+		size= 51
 	}
 
 	artisans=
@@ -2955,7 +2955,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 761
+		size= 71
 	}
 
 	artisans=
@@ -3006,7 +3006,7 @@
 	{
 		culture = sudanese
 		religion = catholic
-		size= 44
+		size= 1
 	}
 
 	artisans=
@@ -3048,7 +3048,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 8
+		size=1
 	}
 
 	artisans=
@@ -3097,7 +3097,7 @@
 	{
 		culture = sudanese
 		religion = orthodox
-		size= 6
+		size=1
 	}
 
 	artisans=
@@ -3146,7 +3146,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 51
+		size= 1
 	}
 
 	artisans=
@@ -3197,7 +3197,7 @@
 	{
 		culture = copts
 		religion = catholic
-		size= 56
+		size= 1
 	}
 
 	artisans=
@@ -3246,7 +3246,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 20
+		size= 1
 	}
 
 	artisans=
@@ -3295,7 +3295,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 12
+		size= 1
 	}
 
 	artisans=
@@ -3344,7 +3344,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 73
+		size= 1
 	}
 
 	artisans=
@@ -3395,7 +3395,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 77
+		size= 1
 	}
 
 	artisans=
@@ -3444,7 +3444,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 13
+		size= 1
 	}
 
 	artisans=
@@ -3493,7 +3493,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 12
+		size= 1
 	}
 
 	artisans=
@@ -3542,7 +3542,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 87
+		size= 1
 	}
 
 	artisans=
@@ -3593,7 +3593,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 45
+		size= 1
 	}
 
 	artisans=
@@ -3642,7 +3642,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 15
+		size= 1
 	}
 
 	artisans=
@@ -3691,7 +3691,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 7
+		size=1
 	}
 
 	artisans=
@@ -3740,7 +3740,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 59
+		size= 1
 	}
 
 	artisans=
@@ -3791,7 +3791,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 10
+		size= 1
 	}
 
 	artisans=
@@ -3840,7 +3840,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 15
+		size= 1
 	}
 
 	artisans=
@@ -3891,7 +3891,7 @@
 	{
 		culture = ifriqi
 		religion = catholic
-		size= 16
+		size= 1
 	}
 
 	artisans=
@@ -3940,7 +3940,7 @@
 	{
 		culture = ifriqi
 		religion = coptic
-		size= 24
+		size= 1
 	}
 
 	artisans=
@@ -3991,7 +3991,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 8
+		size=1
 	}
 
 	artisans=
@@ -4033,7 +4033,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 1033
+		size= 101
 	}
 
 	artisans=
@@ -4084,7 +4084,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 106
+		size= 11
 	}
 
 	artisans=
@@ -4133,7 +4133,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 14
+		size= 1
 	}
 
 	artisans=
@@ -4182,7 +4182,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 104
+		size= 11
 	}
 
 	artisans=

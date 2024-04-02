@@ -3,7 +3,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 4120
+		size= 411
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 6523
+		size= 651
 	}
 
 	artisans=

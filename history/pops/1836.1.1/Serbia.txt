@@ -3,7 +3,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 5332
+		size= 531
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 2291
+		size= 221
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 3873
+		size= 381
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1845
+		size= 181
 	}
 
 	artisans=
@@ -203,7 +203,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 545
+		size= 51
 	}
 
 	artisans=
@@ -252,7 +252,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 788
+		size= 71
 	}
 
 	artisans=
@@ -303,7 +303,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 1446
+		size= 141
 	}
 
 	artisans=
@@ -352,7 +352,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2245
+		size= 221
 	}
 
 	artisans=
@@ -403,7 +403,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 2201
+		size= 221
 	}
 
 	artisans=
@@ -452,7 +452,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3170
+		size= 311
 	}
 
 	artisans=
@@ -503,7 +503,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 2194
+		size= 211
 	}
 
 	artisans=
@@ -552,7 +552,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3177
+		size= 311
 	}
 
 	artisans=
@@ -603,7 +603,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1424
+		size= 141
 	}
 
 	craftsmen=
@@ -675,7 +675,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1424
+		size= 141
 	}
 
 	artisans=
@@ -726,7 +726,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4505
+		size= 451
 	}
 
 	artisans=
@@ -784,7 +784,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4505
+		size= 451
 	}
 
 	artisans=
@@ -842,7 +842,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2215
+		size= 221
 	}
 
 	artisans=
@@ -893,7 +893,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 3934
+		size= 391
 	}
 
 	artisans=
@@ -942,7 +942,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 2031
+		size= 201
 	}
 
 	artisans=

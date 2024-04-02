@@ -3,7 +3,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 4073
+		size= 401
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 4686
+		size= 461
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 13504
+		size= 1351
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 20799
+		size= 2071
 	}
 
 	artisans=
@@ -203,7 +203,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 8389
+		size= 831
 	}
 
 	artisans=
@@ -252,7 +252,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 12748
+		size= 1271
 	}
 
 	artisans=
@@ -303,7 +303,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 2352
+		size= 231
 	}
 
 	artisans=
@@ -352,7 +352,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 2288
+		size= 221
 	}
 
 	artisans=
@@ -403,7 +403,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 3738
+		size= 371
 	}
 
 	artisans=
@@ -452,7 +452,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 4924
+		size= 491
 	}
 
 	artisans=
@@ -503,7 +503,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 3738
+		size= 371
 	}
 
 	artisans=
@@ -552,7 +552,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 4924
+		size= 491
 	}
 
 	artisans=
@@ -603,7 +603,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 6808
+		size= 681
 	}
 
 	artisans=
@@ -652,7 +652,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 8784
+		size= 871
 	}
 
 	artisans=
@@ -703,7 +703,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 2196
+		size= 211
 	}
 
 	artisans=
@@ -752,7 +752,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 2181
+		size= 211
 	}
 
 	artisans=
@@ -803,7 +803,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 2196
+		size= 211
 	}
 
 	artisans=
@@ -852,7 +852,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 2181
+		size= 211
 	}
 
 	artisans=

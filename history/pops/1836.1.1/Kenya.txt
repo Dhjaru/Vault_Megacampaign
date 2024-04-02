@@ -24,7 +24,7 @@
 	{
 		culture = kikuyu
 		religion = animist
-		size= 500
+		size= 51
 	}
 
 	farmers=
@@ -59,7 +59,7 @@
 	{
 		culture = nilotic
 		religion = animist
-		size= 125
+		size= 11
 	}
 
 	farmers=
@@ -94,7 +94,7 @@
 	{
 		culture = maasai
 		religion = animist
-		size= 50
+		size= 1
 	}
 
 	farmers=
@@ -131,7 +131,7 @@
 	{
 		culture = kikuyu
 		religion = animist
-		size= 125
+		size= 11
 	}
 
 	farmers=
@@ -166,7 +166,7 @@
 	{
 		culture = oromo
 		religion = coptic
-		size= 100
+		size= 11
 	}
 
 	farmers=
@@ -203,7 +203,7 @@
 	{
 		culture = luo
 		religion = animist
-		size= 75
+		size= 1
 	}
 
 	farmers=
@@ -238,7 +238,7 @@
 	{
 		culture = maasai
 		religion = animist
-		size= 25
+		size= 1
 	}
 
 	farmers=
@@ -282,7 +282,7 @@
 	{
 		culture = kikuyu
 		religion = animist
-		size= 75
+		size= 1
 	}
 
 	farmers=
@@ -317,7 +317,7 @@
 	{
 		culture = maasai
 		religion = animist
-		size= 175
+		size= 11
 	}
 
 	farmers=
@@ -352,7 +352,7 @@
 	{
 		culture = nilotic
 		religion = animist
-		size= 75
+		size= 1
 	}
 
 	farmers=
@@ -396,7 +396,7 @@
 	{
 		culture = luo
 		religion = animist
-		size= 300
+		size= 31
 	}
 
 	farmers=
@@ -431,7 +431,7 @@
 	{
 		culture = lacustrine_bantu
 		religion = animist
-		size= 200
+		size= 21
 	}
 
 	farmers=
@@ -461,7 +461,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 732
+		size= 71
 	}
 
 	artisans=
@@ -519,7 +519,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 818
+		size= 81
 	}
 
 	artisans=
@@ -575,7 +575,7 @@
 	{
 		culture = swahili
 		religion = protestant
-		size= 372
+		size= 31
 	}
 
 	artisans=
@@ -647,7 +647,7 @@
 	{
 		culture = somali
 		religion = sunni
-		size= 225
+		size= 21
 	}
 
 	farmers=
@@ -682,7 +682,7 @@
 	{
 		culture = cushitic
 		religion = animist
-		size= 50
+		size= 1
 	}
 
 	farmers=
@@ -726,7 +726,7 @@
 	{
 		culture = kikuyu
 		religion = animist
-		size= 350
+		size= 31
 	}
 
 	farmers=
@@ -761,7 +761,7 @@
 	{
 		culture = somali
 		religion = sunni
-		size= 100
+		size= 11
 	}
 
 	farmers=
@@ -798,7 +798,7 @@
 	{
 		culture = kikuyu
 		religion = animist
-		size= 250
+		size= 21
 	}
 
 	farmers=

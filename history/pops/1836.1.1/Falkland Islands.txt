@@ -10,7 +10,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 1
+		size=1
 	}
 
 	artisans=

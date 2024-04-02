@@ -1,11 +1,5 @@
 capital = 300
 primary_culture = english
-culture = british
-culture = guillaumois
-culture = irish
-culture = pictish
-culture = scottish
-culture = welsh
 culture = zzz_religion_protestant
 religion = protestant
 government = democracy

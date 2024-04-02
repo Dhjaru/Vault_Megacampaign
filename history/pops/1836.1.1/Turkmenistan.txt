@@ -3,7 +3,7 @@
 	{
 		culture = tajik
 		religion = sunni
-		size= 765
+		size= 71
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = tajik
 		religion = orthodox
-		size= 113
+		size= 11
 	}
 
 	artisans=
@@ -101,56 +101,56 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 3217
+		size= 31
 	}
 
 	artisans=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 28077
+		size= 1
 	}
 
 	clergymen=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 2607
+		size= 260
 	}
 
 	bureaucrats=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 441
+		size= 44
 	}
 
 	officers=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 421
+		size= 42
 	}
 
 	aristocrats=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 3370
+		size= 337
 	}
 
 	farmers=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 76726
+		size= 7672
 	}
 
 	soldiers=
 	{
 		culture = persian
 		religion = sunni
-		size= 3256
+		size= 31
 	}
 
 	artisans=
@@ -199,7 +199,7 @@
 	{
 		culture = persian
 		religion = orthodox
-		size= 533
+		size= 51
 	}
 
 	artisans=
@@ -248,7 +248,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 131
+		size= 11
 	}
 
 	artisans=
@@ -299,7 +299,7 @@
 	{
 		culture = turkmen
 		religion = sunni
-		size= 181
+		size= 11
 	}
 
 	artisans=
@@ -348,7 +348,7 @@
 	{
 		culture = turkmen
 		religion = orthodox
-		size= 3
+		size=1
 	}
 
 	artisans=
@@ -390,49 +390,49 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 419
+		size= 1
 	}
 
 	artisans=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 7148
+		size= 714
 	}
 
 	clergymen=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 664
+		size= 66
 	}
 
 	bureaucrats=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 112
+		size= 11
 	}
 
 	officers=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 66
+		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 429
+		size= 42
 	}
 
 	farmers=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 33013
+		size= 3301
 	}
 
 }
@@ -441,7 +441,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 3429
+		size= 341
 	}
 
 	artisans=
@@ -490,7 +490,7 @@
 	{
 		culture = turkish
 		religion = shiite
-		size= 1222
+		size= 121
 	}
 
 	artisans=
@@ -539,7 +539,7 @@
 	{
 		culture = turkish
 		religion = zoroastrian
-		size= 313
+		size= 31
 	}
 
 	artisans=
@@ -588,7 +588,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 4218
+		size= 421
 	}
 
 	artisans=
@@ -639,7 +639,7 @@
 	{
 		culture = tajik
 		religion = sunni
-		size= 499
+		size= 41
 	}
 
 	artisans=
@@ -688,7 +688,7 @@
 	{
 		culture = tajik
 		religion = orthodox
-		size= 94
+		size= 1
 	}
 
 	artisans=
@@ -737,49 +737,49 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 801
+		size= 1
 	}
 
 	artisans=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 15364
+		size= 1536
 	}
 
 	clergymen=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1426
+		size= 142
 	}
 
 	bureaucrats=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 242
+		size= 24
 	}
 
 	officers=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 143
+		size= 14
 	}
 
 	aristocrats=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1844
+		size= 184
 	}
 
 	farmers=
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 60313
+		size= 6031
 	}
 
 }
@@ -788,7 +788,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 1756
+		size= 11
 	}
 
 	artisans=
@@ -837,7 +837,7 @@
 	{
 		culture = persian
 		religion = shiite
-		size= 44
+		size= 1
 	}
 
 	artisans=
@@ -886,7 +886,7 @@
 	{
 		culture = persian
 		religion = orthodox
-		size= 319
+		size= 31
 	}
 
 	artisans=
@@ -935,7 +935,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1044
+		size= 11
 	}
 
 	artisans=

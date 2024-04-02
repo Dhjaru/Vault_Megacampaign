@@ -3,7 +3,7 @@
 	{
 		culture = maori
 		religion = animist
-		size= 28
+		size= 1
 	}
 
 	farmers=
@@ -52,7 +52,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 1033
+		size= 101
 	}
 
 	officers=
@@ -68,7 +68,7 @@
 	{
 		culture = maori
 		religion = animist
-		size= 11
+		size= 1
 	}
 
 	farmers=
@@ -110,7 +110,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 71
+		size= 1
 	}
 
 	bureaucrats=
@@ -133,7 +133,7 @@
 	{
 		culture = maori
 		religion = animist
-		size= 4
+		size=1
 	}
 
 	farmers=
@@ -175,7 +175,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 22
+		size= 1
 	}
 
 	bureaucrats=
@@ -198,7 +198,7 @@
 	{
 		culture = maori
 		religion = animist
-		size= 11
+		size= 1
 	}
 
 	farmers=
@@ -240,7 +240,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 68
+		size= 1
 	}
 
 	bureaucrats=
@@ -263,7 +263,7 @@
 	{
 		culture = maori
 		religion = animist
-		size= 6
+		size=1
 	}
 
 	farmers=
@@ -291,7 +291,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 20
+		size= 1
 	}
 
 	clergymen=
@@ -328,7 +328,7 @@
 	{
 		culture = maori
 		religion = animist
-		size= 6
+		size=1
 	}
 
 	farmers=
@@ -356,7 +356,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 20
+		size= 1
 	}
 
 	clergymen=
@@ -393,7 +393,7 @@
 	{
 		culture = maori
 		religion = animist
-		size= 14
+		size= 1
 	}
 
 	artisans=
@@ -428,7 +428,7 @@
 	{
 		culture = maori
 		religion = protestant
-		size= 41
+		size= 1
 	}
 
 	artisans=
@@ -479,7 +479,7 @@
 	{
 		culture = maori
 		religion = animist
-		size= 11
+		size= 1
 	}
 
 	farmers=
@@ -521,7 +521,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 68
+		size= 1
 	}
 
 	bureaucrats=
@@ -544,7 +544,7 @@
 	{
 		culture = maori
 		religion = animist
-		size= 7
+		size=1
 	}
 
 	farmers=
@@ -579,7 +579,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 43
+		size= 1
 	}
 
 	clergymen=
@@ -609,7 +609,7 @@
 	{
 		culture = maori
 		religion = animist
-		size= 7
+		size=1
 	}
 
 	farmers=
@@ -644,7 +644,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 45
+		size= 1
 	}
 
 	clergymen=

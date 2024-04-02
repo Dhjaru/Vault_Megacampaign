@@ -10,7 +10,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 123
+		size= 11
 	}
 
 	farmers=
@@ -38,7 +38,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 710
+		size= 71
 	}
 
 	artisans=
@@ -89,7 +89,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 36
+		size= 1
 	}
 
 	farmers=
@@ -138,7 +138,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 184
+		size= 11
 	}
 
 	bureaucrats=
@@ -161,7 +161,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 17
+		size= 1
 	}
 
 	farmers=
@@ -210,7 +210,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 108
+		size= 11
 	}
 
 	officers=
@@ -226,7 +226,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 37
+		size= 1
 	}
 
 	farmers=
@@ -282,7 +282,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 231
+		size= 21
 	}
 
 }
@@ -291,7 +291,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 14
+		size= 1
 	}
 
 	farmers=
@@ -340,7 +340,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 160
+		size= 11
 	}
 
 	officers=
@@ -354,7 +354,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 12
+		size= 1
 	}
 
 	farmers=
@@ -377,7 +377,7 @@
 	{
 		culture = chibchan
 		religion = animist
-		size= 52
+		size= 1
 	}
 
 	farmers=
@@ -398,7 +398,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 603
+		size= 61
 	}
 
 	farmers=
@@ -454,7 +454,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 34
+		size= 1
 	}
 
 	farmers=
@@ -510,7 +510,7 @@
 	{
 		culture = antartique
 		religion = protestant
-		size= 3
+		size=1
 	}
 
 	officers=
@@ -533,7 +533,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 16
+		size= 1
 	}
 
 	farmers=
@@ -582,7 +582,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 93
+		size= 1
 	}
 
 	bureaucrats=
@@ -654,7 +654,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 61
+		size= 1
 	}
 
 	farmers=
@@ -703,7 +703,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 200
+		size= 21
 	}
 
 	bureaucrats=
@@ -731,7 +731,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 234
+		size= 21
 	}
 
 	artisans=
@@ -829,7 +829,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 173
+		size= 11
 	}
 
 	artisans=
@@ -887,7 +887,7 @@
 	{
 		culture = chibchan
 		religion = animist
-		size= 28
+		size= 1
 	}
 
 	farmers=
@@ -943,7 +943,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 768
+		size= 71
 	}
 
 	officers=
@@ -964,7 +964,7 @@
 	{
 		culture = antartique
 		religion = protestant
-		size= 293
+		size= 21
 	}
 
 	artisans=
@@ -1020,7 +1020,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 66
+		size= 1
 	}
 
 	artisans=
@@ -1050,7 +1050,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 35
+		size= 1
 	}
 
 	farmers=
@@ -1113,7 +1113,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 179
+		size= 11
 	}
 
 }
@@ -1122,7 +1122,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 27
+		size= 1
 	}
 
 	farmers=
@@ -1178,7 +1178,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 140
+		size= 11
 	}
 
 }
@@ -1194,7 +1194,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 16
+		size= 1
 	}
 
 	farmers=
@@ -1250,7 +1250,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 85
+		size= 1
 	}
 
 	officers=
@@ -1266,7 +1266,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 15
+		size= 1
 	}
 
 	farmers=
@@ -1315,7 +1315,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 146
+		size= 11
 	}
 
 	officers=
@@ -1329,7 +1329,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 15
+		size= 1
 	}
 
 	farmers=
@@ -1345,7 +1345,7 @@
 	{
 		culture = maranon
 		religion = animist
-		size= 7
+		size=1
 	}
 
 	farmers=
@@ -1387,7 +1387,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 61
+		size= 1
 	}
 
 	bureaucrats=
@@ -1408,7 +1408,7 @@
 	{
 		culture = carribean
 		religion = animist
-		size= 8
+		size=1
 	}
 
 	farmers=
@@ -1422,7 +1422,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 29
+		size= 1
 	}
 
 	farmers=
@@ -1471,7 +1471,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 46
+		size= 1
 	}
 
 	officers=
@@ -1485,7 +1485,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 77
+		size= 1
 	}
 
 	artisans=
@@ -1536,7 +1536,7 @@
 	{
 		culture = maranon
 		religion = animist
-		size= 4
+		size=1
 	}
 
 	farmers=
@@ -1571,7 +1571,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 34
+		size= 1
 	}
 
 	clergymen=
@@ -1599,7 +1599,7 @@
 	{
 		culture = carribean
 		religion = animist
-		size= 4
+		size=1
 	}
 
 	farmers=
@@ -1613,7 +1613,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 16
+		size= 1
 	}
 
 	farmers=
@@ -1655,7 +1655,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 26
+		size= 1
 	}
 
 	bureaucrats=
@@ -1676,7 +1676,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 43
+		size= 1
 	}
 
 	artisans=
@@ -1734,7 +1734,7 @@
 	{
 		culture = carribean
 		religion = animist
-		size= 7
+		size=1
 	}
 
 	farmers=
@@ -1797,7 +1797,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 50
+		size= 1
 	}
 
 	artisans=
@@ -1853,7 +1853,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 18
+		size= 1
 	}
 
 	farmers=
@@ -1909,7 +1909,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 23
+		size= 1
 	}
 
 	officers=
@@ -1930,7 +1930,7 @@
 	{
 		culture = ealimi
 		religion = protestant
-		size= 37
+		size= 1
 	}
 
 	artisans=
@@ -1981,7 +1981,7 @@
 	{
 		culture = maranon
 		religion = animist
-		size= 3
+		size=1
 	}
 
 	farmers=
@@ -2023,7 +2023,7 @@
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 12
+		size= 1
 	}
 
 	bureaucrats=
@@ -2044,7 +2044,7 @@
 	{
 		culture = guajiro
 		religion = animist
-		size= 2
+		size=1
 	}
 
 	farmers=
@@ -2079,7 +2079,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 9
+		size=1
 	}
 
 	clergymen=

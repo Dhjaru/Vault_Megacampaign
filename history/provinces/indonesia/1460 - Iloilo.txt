@@ -1,6 +1,5 @@
 owner=ZHO
 controller=ZHO
 add_core=PHL
-add_core=ZHO
 trade_goods = fruit
 life_rating = 35

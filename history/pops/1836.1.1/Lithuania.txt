@@ -3,7 +3,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 2502
+		size= 251
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = lithuanian
 		religion = orthodox
-		size= 168
+		size= 11
 	}
 
 	artisans=
@@ -101,7 +101,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 1942
+		size= 191
 	}
 
 	artisans=
@@ -150,7 +150,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 2745
+		size= 271
 	}
 
 	artisans=
@@ -199,7 +199,7 @@
 	{
 		culture = byelorussian
 		religion = catholic
-		size= 2290
+		size= 221
 	}
 
 	artisans=
@@ -248,7 +248,7 @@
 	{
 		culture = byelorussian
 		religion = orthodox
-		size= 345
+		size= 31
 	}
 
 	artisans=
@@ -297,7 +297,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 618
+		size= 61
 	}
 
 	artisans=
@@ -348,7 +348,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 1659
+		size= 161
 	}
 
 	artisans=
@@ -397,7 +397,7 @@
 	{
 		culture = lithuanian
 		religion = orthodox
-		size= 97
+		size= 1
 	}
 
 	artisans=
@@ -446,7 +446,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 859
+		size= 81
 	}
 
 	artisans=
@@ -495,7 +495,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 977
+		size= 91
 	}
 
 	artisans=
@@ -546,7 +546,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 749
+		size= 71
 	}
 
 	artisans=
@@ -595,7 +595,7 @@
 	{
 		culture = lithuanian
 		religion = orthodox
-		size= 77
+		size= 1
 	}
 
 	artisans=
@@ -644,7 +644,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 320
+		size= 31
 	}
 
 	artisans=
@@ -693,7 +693,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 550
+		size= 51
 	}
 
 	artisans=
@@ -744,7 +744,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 182
+		size= 11
 	}
 
 	clergymen=
@@ -786,7 +786,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 107
+		size= 11
 	}
 
 	clergymen=
@@ -828,7 +828,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 139
+		size= 11
 	}
 
 	clergymen=
@@ -872,7 +872,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 67
+		size= 1
 	}
 
 	clergymen=
@@ -907,7 +907,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 60
+		size= 1
 	}
 
 	clergymen=
@@ -956,7 +956,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 19
+		size= 1
 	}
 
 	clergymen=
@@ -1000,7 +1000,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 67
+		size= 1
 	}
 
 	artisans=
@@ -1042,7 +1042,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 60
+		size= 1
 	}
 
 	artisans=
@@ -1098,7 +1098,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 19
+		size= 1
 	}
 
 	artisans=
@@ -1149,7 +1149,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 337
+		size= 31
 	}
 
 	artisans=
@@ -1198,7 +1198,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 277
+		size= 21
 	}
 
 	artisans=
@@ -1247,7 +1247,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 228
+		size= 21
 	}
 
 	artisans=

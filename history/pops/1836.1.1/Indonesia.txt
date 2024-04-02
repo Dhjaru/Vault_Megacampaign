@@ -10,7 +10,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 193
+		size= 11
 	}
 
 	craftsmen=
@@ -87,7 +87,7 @@
 	{
 		culture = malay
 		religion = protestant
-		size= 107
+		size= 11
 	}
 
 	craftsmen=
@@ -166,7 +166,7 @@
 	{
 		culture = malay
 		religion = hindu
-		size= 929
+		size= 91
 	}
 
 	artisans=
@@ -222,7 +222,7 @@
 	{
 		culture = malay
 		religion = protestant
-		size= 423
+		size= 41
 	}
 
 	artisans=
@@ -273,7 +273,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 752
+		size= 71
 	}
 
 	artisans=
@@ -322,7 +322,7 @@
 	{
 		culture = malay
 		religion = protestant
-		size= 135
+		size= 11
 	}
 
 	artisans=
@@ -380,7 +380,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 391
+		size= 31
 	}
 
 	artisans=
@@ -431,7 +431,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 163
+		size= 11
 	}
 
 	artisans=
@@ -480,7 +480,7 @@
 	{
 		culture = malay
 		religion = protestant
-		size= 88
+		size= 1
 	}
 
 	artisans=
@@ -538,7 +538,7 @@
 	{
 		culture = malay
 		religion = hindu
-		size= 946
+		size= 91
 	}
 
 	artisans=
@@ -594,7 +594,7 @@
 	{
 		culture = malay
 		religion = protestant
-		size= 435
+		size= 41
 	}
 
 	artisans=
@@ -645,7 +645,7 @@
 	{
 		culture = malay
 		religion = hindu
-		size= 92
+		size= 1
 	}
 
 	artisans=
@@ -694,7 +694,7 @@
 	{
 		culture = malay
 		religion = protestant
-		size= 26
+		size= 1
 	}
 
 	artisans=
@@ -785,7 +785,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 56
+		size= 1
 	}
 
 }
@@ -801,7 +801,7 @@
 	{
 		culture = javan
 		religion = sunni
-		size= 302
+		size= 31
 	}
 
 	artisans=
@@ -852,7 +852,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 1224
+		size= 121
 	}
 
 	artisans=
@@ -901,7 +901,7 @@
 	{
 		culture = javan
 		religion = sunni
-		size= 89
+		size= 1
 	}
 
 	artisans=
@@ -950,7 +950,7 @@
 	{
 		culture = javan
 		religion = shiite
-		size= 174
+		size= 11
 	}
 
 	artisans=
@@ -1001,7 +1001,7 @@
 	{
 		culture = javan
 		religion = sunni
-		size= 412
+		size= 41
 	}
 
 	artisans=
@@ -1050,7 +1050,7 @@
 	{
 		culture = malay
 		religion = hindu
-		size= 209
+		size= 21
 	}
 
 	artisans=
@@ -1099,7 +1099,7 @@
 	{
 		culture = malay
 		religion = protestant
-		size= 120
+		size= 11
 	}
 
 	artisans=
@@ -1157,7 +1157,7 @@
 	{
 		culture = malay
 		religion = hindu
-		size= 803
+		size= 81
 	}
 
 	artisans=
@@ -1213,7 +1213,7 @@
 	{
 		culture = malay
 		religion = protestant
-		size= 606
+		size= 61
 	}
 
 	artisans=
@@ -1269,7 +1269,7 @@
 	{
 		culture = malay
 		religion = theravada
-		size= 285
+		size= 21
 	}
 
 	artisans=
@@ -1327,7 +1327,7 @@
 	{
 		culture = malay
 		religion = hindu
-		size= 850
+		size= 81
 	}
 
 	artisans=
@@ -1383,7 +1383,7 @@
 	{
 		culture = malay
 		religion = protestant
-		size= 500
+		size= 51
 	}
 
 	artisans=
@@ -1434,7 +1434,7 @@
 	{
 		culture = malay
 		religion = hindu
-		size= 214
+		size= 21
 	}
 
 	artisans=
@@ -1483,7 +1483,7 @@
 	{
 		culture = malay
 		religion = protestant
-		size= 87
+		size= 1
 	}
 
 	artisans=
@@ -1534,7 +1534,7 @@
 	{
 		culture = malay
 		religion = hindu
-		size= 67
+		size= 1
 	}
 
 	farmers=
@@ -1590,7 +1590,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 51
+		size= 1
 	}
 
 	artisans=
@@ -1604,7 +1604,7 @@
 	{
 		culture = mashriqi
 		religion = protestant
-		size= 7
+		size=1
 	}
 
 	artisans=
@@ -1653,7 +1653,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 44
+		size= 1
 	}
 
 	artisans=
@@ -1711,7 +1711,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 5592
+		size= 551
 	}
 
 	artisans=
@@ -1762,7 +1762,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 4769
+		size= 471
 	}
 
 	artisans=
@@ -1811,7 +1811,7 @@
 	{
 		culture = javan
 		religion = protestant
-		size= 466
+		size= 41
 	}
 
 	artisans=
@@ -1862,7 +1862,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 3065
+		size= 301
 	}
 
 	artisans=
@@ -1911,7 +1911,7 @@
 	{
 		culture = javan
 		religion = protestant
-		size= 1269
+		size= 121
 	}
 
 	artisans=
@@ -1960,7 +1960,7 @@
 	{
 		culture = javan
 		religion = sunni
-		size= 76
+		size= 1
 	}
 
 	artisans=
@@ -2011,7 +2011,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 456
+		size= 41
 	}
 
 	artisans=
@@ -2060,7 +2060,7 @@
 	{
 		culture = javan
 		religion = sunni
-		size= 491
+		size= 41
 	}
 
 	artisans=
@@ -2109,7 +2109,7 @@
 	{
 		culture = javan
 		religion = protestant
-		size= 505
+		size= 51
 	}
 
 	artisans=
@@ -2160,7 +2160,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 1256
+		size= 121
 	}
 
 	artisans=
@@ -2209,7 +2209,7 @@
 	{
 		culture = javan
 		religion = sunni
-		size= 705
+		size= 71
 	}
 
 	artisans=
@@ -2258,7 +2258,7 @@
 	{
 		culture = javan
 		religion = protestant
-		size= 829
+		size= 81
 	}
 
 	artisans=
@@ -2309,7 +2309,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 1249
+		size= 121
 	}
 
 	craftsmen=
@@ -2379,7 +2379,7 @@
 	{
 		culture = javan
 		religion = sunni
-		size= 687
+		size= 61
 	}
 
 	craftsmen=
@@ -2449,7 +2449,7 @@
 	{
 		culture = javan
 		religion = protestant
-		size= 795
+		size= 71
 	}
 
 	craftsmen=
@@ -2521,7 +2521,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 296
+		size= 21
 	}
 
 	artisans=
@@ -2570,7 +2570,7 @@
 	{
 		culture = javan
 		religion = sunni
-		size= 328
+		size= 31
 	}
 
 	artisans=
@@ -2619,7 +2619,7 @@
 	{
 		culture = javan
 		religion = protestant
-		size= 275
+		size= 21
 	}
 
 	artisans=
@@ -2668,7 +2668,7 @@
 	{
 		culture = javan
 		religion = shiite
-		size= 2
+		size=1
 	}
 
 	artisans=
@@ -2726,7 +2726,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 995
+		size= 91
 	}
 
 	artisans=
@@ -2782,7 +2782,7 @@
 	{
 		culture = javan
 		religion = protestant
-		size= 577
+		size= 51
 	}
 
 	artisans=
@@ -2838,7 +2838,7 @@
 	{
 		culture = javan
 		religion = sunni
-		size= 198
+		size= 11
 	}
 
 	artisans=
@@ -2889,7 +2889,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 399
+		size= 31
 	}
 
 	artisans=
@@ -2938,7 +2938,7 @@
 	{
 		culture = javan
 		religion = sunni
-		size= 553
+		size= 51
 	}
 
 	artisans=
@@ -2987,7 +2987,7 @@
 	{
 		culture = javan
 		religion = protestant
-		size= 289
+		size= 21
 	}
 
 	artisans=
@@ -3045,7 +3045,7 @@
 	{
 		culture = bornean
 		religion = hindu
-		size= 169
+		size= 11
 	}
 
 	artisans=
@@ -3101,7 +3101,7 @@
 	{
 		culture = bornean
 		religion = protestant
-		size= 91
+		size= 1
 	}
 
 	artisans=
@@ -3152,7 +3152,7 @@
 	{
 		culture = bornean
 		religion = hindu
-		size= 332
+		size= 31
 	}
 
 	artisans=
@@ -3201,7 +3201,7 @@
 	{
 		culture = bornean
 		religion = protestant
-		size= 126
+		size= 11
 	}
 
 	artisans=
@@ -3252,7 +3252,7 @@
 	{
 		culture = bornean
 		religion = hindu
-		size= 116
+		size= 11
 	}
 
 	artisans=
@@ -3301,7 +3301,7 @@
 	{
 		culture = bornean
 		religion = protestant
-		size= 44
+		size= 1
 	}
 
 	artisans=
@@ -3359,7 +3359,7 @@
 	{
 		culture = bornean
 		religion = hindu
-		size= 154
+		size= 11
 	}
 
 	artisans=
@@ -3415,7 +3415,7 @@
 	{
 		culture = bornean
 		religion = protestant
-		size= 87
+		size= 1
 	}
 
 	artisans=
@@ -3466,7 +3466,7 @@
 	{
 		culture = bornean
 		religion = hindu
-		size= 760
+		size= 71
 	}
 
 	artisans=
@@ -3515,7 +3515,7 @@
 	{
 		culture = bornean
 		religion = protestant
-		size= 209
+		size= 21
 	}
 
 	artisans=
@@ -3564,7 +3564,7 @@
 	{
 		culture = hakka
 		religion = mahayana
-		size= 320
+		size= 31
 	}
 
 	artisans=
@@ -3613,7 +3613,7 @@
 	{
 		culture = hakka
 		religion = protestant
-		size= 182
+		size= 11
 	}
 
 	artisans=
@@ -3662,7 +3662,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 344
+		size= 31
 	}
 
 	artisans=
@@ -3720,7 +3720,7 @@
 	{
 		culture = bornean
 		religion = hindu
-		size= 258
+		size= 21
 	}
 
 	artisans=
@@ -3776,7 +3776,7 @@
 	{
 		culture = bornean
 		religion = protestant
-		size= 134
+		size= 11
 	}
 
 	artisans=
@@ -3834,7 +3834,7 @@
 	{
 		culture = bornean
 		religion = hindu
-		size= 111
+		size= 11
 	}
 
 	artisans=
@@ -3890,7 +3890,7 @@
 	{
 		culture = bornean
 		religion = protestant
-		size= 57
+		size= 1
 	}
 
 	artisans=
@@ -3948,7 +3948,7 @@
 	{
 		culture = bornean
 		religion = hindu
-		size= 210
+		size= 21
 	}
 
 	artisans=
@@ -4004,7 +4004,7 @@
 	{
 		culture = bornean
 		religion = protestant
-		size= 112
+		size= 11
 	}
 
 	artisans=
@@ -4062,7 +4062,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 557
+		size= 51
 	}
 
 	artisans=
@@ -4120,7 +4120,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 360
+		size= 31
 	}
 
 	artisans=
@@ -4178,7 +4178,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 1184
+		size= 111
 	}
 
 	artisans=
@@ -4236,7 +4236,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 670
+		size= 61
 	}
 
 	artisans=
@@ -4294,7 +4294,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 250
+		size= 21
 	}
 
 	artisans=
@@ -4352,7 +4352,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 250
+		size= 21
 	}
 
 	artisans=
@@ -4403,7 +4403,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 4133
+		size= 411
 	}
 
 	artisans=
@@ -4454,7 +4454,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 228
+		size= 21
 	}
 
 	artisans=
@@ -4512,7 +4512,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 1593
+		size= 151
 	}
 
 	artisans=
@@ -4570,7 +4570,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 382
+		size= 31
 	}
 
 	artisans=
@@ -4626,7 +4626,7 @@
 	{
 		culture = javan
 		religion = protestant
-		size= 158
+		size= 11
 	}
 
 	artisans=
@@ -4677,7 +4677,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 610
+		size= 61
 	}
 
 	artisans=
@@ -4728,7 +4728,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 233
+		size= 21
 	}
 
 	farmers=
@@ -4770,7 +4770,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 274
+		size= 21
 	}
 
 	bureaucrats=
@@ -4793,7 +4793,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 1014
+		size= 101
 	}
 
 	artisans=
@@ -4842,7 +4842,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 886
+		size= 81
 	}
 
 	artisans=
@@ -4893,7 +4893,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 33
+		size= 1
 	}
 
 	artisans=
@@ -4942,7 +4942,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 27
+		size= 1
 	}
 
 	artisans=
@@ -4993,7 +4993,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 64
+		size= 1
 	}
 
 	artisans=
@@ -5042,7 +5042,7 @@
 	{
 		culture = javan
 		religion = protestant
-		size= 26
+		size= 1
 	}
 
 	artisans=
@@ -5093,7 +5093,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 34
+		size= 1
 	}
 
 	artisans=
@@ -5142,7 +5142,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 28
+		size= 1
 	}
 
 	artisans=
@@ -5193,7 +5193,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 121
+		size= 11
 	}
 
 	artisans=
@@ -5242,7 +5242,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 100
+		size= 11
 	}
 
 	artisans=
@@ -5300,7 +5300,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 174
+		size= 11
 	}
 
 	artisans=
@@ -5356,7 +5356,7 @@
 	{
 		culture = moluccan
 		religion = protestant
-		size= 75
+		size= 1
 	}
 
 	artisans=
@@ -5447,7 +5447,7 @@
 	{
 		culture = kanauji
 		religion = sunni
-		size= 32
+		size= 1
 	}
 
 	officers=
@@ -5468,7 +5468,7 @@
 	{
 		culture = kanauji
 		religion = protestant
-		size= 19
+		size= 1
 	}
 
 	artisans=
@@ -5519,7 +5519,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 58
+		size= 1
 	}
 
 	artisans=
@@ -5568,7 +5568,7 @@
 	{
 		culture = moluccan
 		religion = protestant
-		size= 33
+		size= 1
 	}
 
 	artisans=
@@ -5619,7 +5619,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 20
+		size= 1
 	}
 
 	artisans=
@@ -5661,7 +5661,7 @@
 	{
 		culture = kanauji
 		religion = sunni
-		size= 10
+		size= 1
 	}
 
 	bureaucrats=
@@ -5717,7 +5717,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 5
+		size=1
 	}
 
 	bureaucrats=
@@ -5731,7 +5731,7 @@
 	{
 		culture = persian
 		religion = protestant
-		size= 6
+		size=1
 	}
 
 	artisans=
@@ -5782,7 +5782,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 90
+		size= 1
 	}
 
 	artisans=
@@ -5831,7 +5831,7 @@
 	{
 		culture = moluccan
 		religion = protestant
-		size= 50
+		size= 1
 	}
 
 	artisans=
@@ -5882,7 +5882,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 28
+		size= 1
 	}
 
 	artisans=
@@ -5973,7 +5973,7 @@
 	{
 		culture = kanauji
 		religion = sunni
-		size= 10
+		size= 1
 	}
 
 	officers=
@@ -5994,7 +5994,7 @@
 	{
 		culture = kanauji
 		religion = protestant
-		size= 15
+		size= 1
 	}
 
 	artisans=
@@ -6050,7 +6050,7 @@
 	{
 		culture = moluccan
 		religion = protestant
-		size= 6
+		size=1
 	}
 
 	artisans=
@@ -6101,7 +6101,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 50
+		size= 1
 	}
 
 	artisans=
@@ -6143,7 +6143,7 @@
 	{
 		culture = melanesian
 		religion = protestant
-		size= 31
+		size= 1
 	}
 
 	artisans=
@@ -6201,7 +6201,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 137
+		size= 11
 	}
 
 	artisans=
@@ -6250,7 +6250,7 @@
 	{
 		culture = melanesian
 		religion = protestant
-		size= 82
+		size= 1
 	}
 
 	artisans=
@@ -6308,7 +6308,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 269
+		size= 21
 	}
 
 	artisans=
@@ -6364,7 +6364,7 @@
 	{
 		culture = melanesian
 		religion = protestant
-		size= 161
+		size= 11
 	}
 
 	artisans=
@@ -6415,7 +6415,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 219
+		size= 21
 	}
 
 	artisans=
@@ -6464,7 +6464,7 @@
 	{
 		culture = melanesian
 		religion = protestant
-		size= 130
+		size= 11
 	}
 
 	artisans=
@@ -6515,7 +6515,7 @@
 	{
 		culture = bornean
 		religion = hindu
-		size= 87
+		size= 1
 	}
 
 	artisans=
@@ -6564,7 +6564,7 @@
 	{
 		culture = bornean
 		religion = protestant
-		size= 24
+		size= 1
 	}
 
 	artisans=
@@ -6613,7 +6613,7 @@
 	{
 		culture = hakka
 		religion = mahayana
-		size= 36
+		size= 1
 	}
 
 	artisans=
@@ -6662,7 +6662,7 @@
 	{
 		culture = hakka
 		religion = protestant
-		size= 21
+		size= 1
 	}
 
 	artisans=
@@ -6711,7 +6711,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 39
+		size= 1
 	}
 
 	artisans=
@@ -6762,7 +6762,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 7
+		size=1
 	}
 
 	artisans=
@@ -6804,7 +6804,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 6
+		size=1
 	}
 
 	artisans=

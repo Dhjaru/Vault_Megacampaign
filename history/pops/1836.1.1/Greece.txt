@@ -3,7 +3,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2885
+		size= 281
 	}
 
 	clergymen=
@@ -59,7 +59,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 1100
+		size= 111
 	}
 
 	farmers=
@@ -75,7 +75,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1318
+		size= 131
 	}
 
 	artisans=
@@ -126,7 +126,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1318
+		size= 131
 	}
 
 	artisans=
@@ -177,7 +177,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3985
+		size= 391
 	}
 
 	artisans=
@@ -228,7 +228,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 9529
+		size= 951
 	}
 
 	artisans=
@@ -279,7 +279,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1748
+		size= 171
 	}
 
 	artisans=
@@ -328,7 +328,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 100
+		size= 11
 	}
 
 	clergymen=
@@ -358,7 +358,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 540
+		size= 51
 	}
 
 	artisans=
@@ -407,7 +407,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 100
+		size= 11
 	}
 
 	clergymen=
@@ -437,7 +437,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 640
+		size= 61
 	}
 
 	artisans=
@@ -488,7 +488,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2379
+		size= 231
 	}
 
 	artisans=
@@ -537,7 +537,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 2
+		size=1
 	}
 
 	artisans=
@@ -588,7 +588,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2531
+		size= 251
 	}
 
 	artisans=
@@ -639,7 +639,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1848
+		size= 181
 	}
 
 	artisans=
@@ -690,7 +690,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1848
+		size= 181
 	}
 
 	artisans=
@@ -741,7 +741,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1906
+		size= 191
 	}
 
 	artisans=
@@ -792,7 +792,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1806
+		size= 181
 	}
 
 	artisans=
@@ -848,7 +848,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 100
+		size= 11
 	}
 
 	clergymen=
@@ -878,7 +878,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1906
+		size= 191
 	}
 
 	artisans=
@@ -929,7 +929,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4405
+		size= 441
 	}
 
 	artisans=
@@ -985,7 +985,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 100
+		size= 11
 	}
 
 	clergymen=
@@ -1015,7 +1015,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4505
+		size= 451
 	}
 
 	artisans=
@@ -1066,7 +1066,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1906
+		size= 191
 	}
 
 	artisans=
@@ -1117,7 +1117,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3164
+		size= 311
 	}
 
 	artisans=
@@ -1168,7 +1168,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2320
+		size= 231
 	}
 
 	artisans=
@@ -1219,7 +1219,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4640
+		size= 461
 	}
 
 	artisans=
@@ -1270,7 +1270,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 10049
+		size= 1001
 	}
 
 	artisans=
@@ -1321,7 +1321,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3725
+		size= 371
 	}
 
 	artisans=
@@ -1372,7 +1372,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3725
+		size= 371
 	}
 
 	artisans=
@@ -1423,7 +1423,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3480
+		size= 341
 	}
 
 	artisans=
@@ -1474,7 +1474,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4851
+		size= 481
 	}
 
 	artisans=
@@ -1525,7 +1525,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1281
+		size= 121
 	}
 
 	artisans=
@@ -1576,7 +1576,7 @@
 	{
 		culture = turkish
 		religion = orthodox
-		size= 814
+		size= 81
 	}
 
 	artisans=
@@ -1625,7 +1625,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1512
+		size= 151
 	}
 
 	artisans=
@@ -1683,7 +1683,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2685
+		size= 261
 	}
 
 	artisans=
@@ -1734,7 +1734,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2685
+		size= 261
 	}
 
 	artisans=
