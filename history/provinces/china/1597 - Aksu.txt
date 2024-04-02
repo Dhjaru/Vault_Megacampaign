@@ -4,3 +4,4 @@ add_core=X05
 trade_goods = sulphur
 life_rating = 32
 fort = 1
+colonial=2

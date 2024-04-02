@@ -3,3 +3,4 @@ controller=RUS
 trade_goods = opium
 life_rating = 15
 terrain = desert
+colonial=2

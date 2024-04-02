@@ -905,6 +905,12 @@ RGO_template_farmers = {
 			effect = throughput
 			amount = 1
 		}
+
+        {
+            poptype = serfs
+            effect = throughput
+            amount = 1
+        }
 		{ 
 			poptype = slaves 
 			effect = output
@@ -929,6 +935,12 @@ RGO_template_labourers = {
 			effect = throughput
 			amount = 1
 		}
+
+        {
+            poptype = serfs
+            effect = throughput
+            amount = 1
+        }
 		{ 
 			poptype = slaves 
 			effect = output
@@ -939,26 +951,6 @@ RGO_template_labourers = {
 	type = rgo
 	workforce = 40000
 }
-
-RGO_template_bankers = {
-	owner =
-	{
-		poptype = bankers
-		effect = output
-	}
-		
-	employees = {
-		{ 
-			poptype = bankers
-			effect = throughput
-			amount = 1
-		}
-	}
-	
-	type = rgo
-	workforce = 40000
-}
-
 
 cattle_ranch = {
 	template = RGO_template_farmers
@@ -1038,14 +1030,14 @@ orchard = {
 }
 
 precious_metal_mine = {
-    template = RGO_template_mines
+    template = RGO_template_labourers
     output_goods = precious_metal
     value = 3
     mine = yes
 }
 
 precious_goods_market = {
-    template = RGO_template_mines
+    template = RGO_template_labourers
     output_goods = precious_goods
     value = 3
     mine = yes
