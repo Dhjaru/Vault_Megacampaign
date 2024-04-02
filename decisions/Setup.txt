@@ -1022,6 +1022,55 @@ political_decisions = {
         }
 
         effect = {
+        NET = {
+            any_owned = {
+            any_pop = {
+                    reduce_pop = 0.70
+            }   
+            }
+        }
+        FRA = {
+            any_owned = {
+            any_pop = {
+                    reduce_pop = 0.70
+            }   
+            }
+        }
+        KUK = {
+            any_owned = {
+            any_pop = {
+                    reduce_pop = 0.65
+            }   
+            }
+        }
+        LUB = {
+            any_owned = {
+            any_pop = {
+                    reduce_pop = 0.6
+            }   
+            }
+        }
+        ITA = {
+            any_owned = {
+            any_pop = {
+                    reduce_pop = 0.7
+            }   
+            }
+        }
+        BYZ = {
+            any_owned = {
+            any_pop = {
+                    reduce_pop = 0.65
+            }   
+            }
+        }
+        PER = {
+            any_owned = {
+            any_pop = {
+                    reduce_pop = 0.7
+            }   
+            }
+        }
             1008 = { set_province_flag = moscow_city }
             1008 = { any_pop = { literacy = 0.1 } }
             994 = { any_pop = { literacy = 0.1 } }
@@ -1082,60 +1131,6 @@ political_decisions = {
                 militancy = -9
                 consciousness = -9
                 literacy = -0.99
-            }
-
-            any_owned = {
-                limit = {
-                    OR = {
-                        is_core = RUS
-                        is_core = UKR
-                        is_core = BYE
-                    }
-                    NOT = {
-                        OR = {
-                            is_core = POL
-                            is_core = LAT
-                            is_core = FIN
-                            is_core = EST
-                            is_core = LIT
-                            is_core = TUR
-                            is_core = CHY
-                            is_core = CIR
-                        }
-                    }
-                    OR = {
-                        NOT = { terrain = boreal }
-                        NOT = { terrain = arctic }
-                        NOT = { terrain = desert }
-                        NOT = { terrain = steppe }
-                        NOT = { terrain = montane_tundra }
-                        NOT = { terrain = marsh }
-                    }
-                }
-                add_province_modifier = { name = small_baby_boom duration = 4745 }
-            }
-            any_owned = { limit = { is_core = POL } add_province_modifier = { name = small_baby_boom duration = 1095 } }
-
-            any_country = {
-                any_owned = {
-                    limit = {
-                        OR = {
-                            is_core = LAT
-                            is_core = LIT
-                            is_core = EST
-                        }
-                        OR = {
-                            NOT = { terrain = boreal }
-                            NOT = { terrain = arctic }
-                            NOT = { terrain = desert }
-                            NOT = { terrain = steppe }
-                            NOT = { terrain = montane_tundra }
-                            NOT = { terrain = marsh }
-                        }
-                        NOT = { is_core = GER }
-                    }
-                    add_province_modifier = { name = small_baby_boom duration = 1095 }
-                }
             }
         }
     }
