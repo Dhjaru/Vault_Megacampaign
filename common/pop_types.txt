@@ -1059,8 +1059,8 @@ assimilation_chance = {
                     OR = {
                         continent = north_america
                         continent = south_america
-                        continent = australia
-                        continent = polynesia_micronesia
+                        continent = australia_new_zealand
+                        continent = polynesia
                     }
                 }
             }
@@ -1070,13 +1070,10 @@ assimilation_chance = {
                 }
                 NOT = {
                     OR = {
-                        has_pop_culture = nilo_saharan
-                        has_pop_culture = bantu
-                        has_pop_culture = niger_congo_a
-                        has_pop_culture = khoisan
-                        has_pop_culture = afro_asiatic
-                        has_pop_culture = malagasy
                         is_culture_group = arab
+                        is_culture_group = central_african
+                        is_culture_group = east_african
+                        is_culture_group = west_african
                     }
                 }
             }
@@ -1089,14 +1086,12 @@ assimilation_chance = {
             has_country_flag = new_world_nation
         }
         OR = {
-            AND = {
-                location = {
-                    OR = {
-                        continent = north_america
-                        continent = south_america
-                        continent = australia
-                        continent = polynesia_micronesia
-                    }
+            location = {
+                OR = {
+                    continent = north_america
+                    continent = south_america
+                    continent = australia_new_zealand
+                    continent = polynesia
                 }
             }
             AND = {         
@@ -1105,13 +1100,10 @@ assimilation_chance = {
                 }
                 NOT = {
                     OR = {
-                        has_pop_culture = nilo_saharan
-                        has_pop_culture = bantu
-                        has_pop_culture = niger_congo_a
-                        has_pop_culture = khoisan
-                        has_pop_culture = afro_asiatic
-                        has_pop_culture = malagasy
                         is_culture_group = arab
+                        is_culture_group = central_african
+                        is_culture_group = east_african
+                        is_culture_group = west_african
                     }
                 }
             }
@@ -1363,7 +1355,7 @@ assimilation_chance = {
             has_culture_core = no
         }
     }
-    group =
+    group = {
         modifier = {
             factor = 0.25
             everyday_needs = 0.2
@@ -1683,7 +1675,7 @@ assimilation_chance = {
             unemployment = 0.99
             has_culture_core = no
         }
-    }   
+    }
 #EQUALITY NATIONAL VALUE BONUS - 50% more base assimilation rate for nations with the equality national value. (0.000198 + base)(new rate = 0.000594)
     group = {
         modifier = {
