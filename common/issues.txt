@@ -486,8 +486,8 @@ political_reforms = {
     conscription = {
         next_step_only = yes
         mandatory_service = {
-            mobilisation_size = 0.06
-            mobilisation_economy_impact = 1
+            mobilisation_size = 0.02
+            mobilisation_economy_impact = 0.5
             land_unit_start_experience = 10
             global_immigrant_attract = -0.1
             education_efficiency_modifier = -0.01
@@ -496,25 +496,24 @@ political_reforms = {
             }
         }
         four_year_draft = {
-            mobilisation_size = 0.04
-            mobilisation_economy_impact = 0.1
+            mobilisation_size = 0.01
+            mobilisation_economy_impact = 0.25
             land_unit_start_experience = 5
             global_immigrant_attract = -0.05
+            land_unit_start_experience = 5
             allow = {
                 NOT = { has_country_flag = government_busy_with_something }
             }
         }
         two_year_draft = {
-            mobilisation_size = 0.02
-            mobilisation_economy_impact = 0.05
             allow = {
                 NOT = { has_country_flag = government_busy_with_something }
             }
         }
         one_year_draft = {
-            mobilisation_size = 0.01
+            mobilisation_size = -0.01
             global_immigrant_attract = 0.01
-            land_unit_start_experience = -2
+            land_unit_start_experience = 2
             allow = {
                 NOT = { has_country_flag = government_busy_with_something }
                 OR = {
@@ -524,8 +523,8 @@ political_reforms = {
             }
         }
         no_draft = {
+            mobilisation_size = -0.02
             global_immigrant_attract = 0.03
-            land_unit_start_experience = -5
             allow = {
                 NOT = { has_country_flag = government_busy_with_something }
                 OR = {
