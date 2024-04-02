@@ -1,0 +1,6 @@
+owner=YUC
+controller=YUC
+add_core=YUC
+trade_goods = cattle
+life_rating = 31
+terrain = new_world_semidesert

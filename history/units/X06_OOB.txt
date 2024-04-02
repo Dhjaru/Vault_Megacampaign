@@ -1,0 +1,389 @@
+#Sphere of Influence
+
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 13
+	level = 2
+}
+CCQ = {
+	value = 0
+	level = 2
+}
+CHK = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 4
+	military_access = yes
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTR = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KUK = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 32
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = -12
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = -9
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 20
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NGP = {
+	value = -11
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+RIG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = -9
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = -1
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+YUC = {
+	value = 0
+	level = 2
+}
+ZHO = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Geoffrey Albemarle"
+	date="1745.12.23"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Guy Dampier"
+	date="1754.11.9"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Joseph Frobisher"
+	date="1761.8.3"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Henry Braddock"
+	date="1764.9.22"
+	type=land
+	personality="intuitive"
+	background="war_college"
+}
+
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=2470
+	ship = {
+		name="1st Geraldton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Perth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Geraldton Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2605
+	regiment = {
+		name="1st Port Essington Infantry"
+		type=infantry
+		home=2505
+	}
+	regiment = {
+		name="1st Toowoomba Infantry"
+		type=infantry
+		home=2486
+	}
+	regiment = {
+		name="1st Port Macquarie Infantry"
+		type=infantry
+		home=2470
+	}
+	regiment = {
+		name="1st Tennant Creek Infantry"
+		type=infantry
+		home=2506
+	}
+	regiment = {
+		name="1st Sydney Infantry"
+		type=infantry
+		home=2468
+	}
+	regiment = {
+		name="1st Van Diemen's Land Artillery"
+		type=artillery
+		home=2482
+	}
+	regiment = {
+		name="1st Newcastle Infantry"
+		type=infantry
+		home=2469
+	}
+	regiment = {
+		name="1st Auckland Artillery"
+		type=artillery
+		home=2509
+	}
+}
+

@@ -1,0 +1,2175 @@
+336 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 412
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 129
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 14146
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 133
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 80
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 690
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 4777
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 444
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 62
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 286
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 18336
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 762
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 10
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 856
+	}
+
+}
+337 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 510
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 820
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 118
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 16
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 16660
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 1072
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 4265
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 616
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 85
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 398
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 31739
+	}
+
+}
+338 = {
+	soldiers=
+	{
+		culture = sami
+		religion = orthodox
+		size= 1789
+	}
+
+	artisans=
+	{
+		culture = sami
+		religion = orthodox
+		size= 4472
+	}
+
+	clergymen=
+	{
+		culture = sami
+		religion = orthodox
+		size= 415
+	}
+
+	bureaucrats=
+	{
+		culture = sami
+		religion = orthodox
+		size= 58
+	}
+
+	officers=
+	{
+		culture = sami
+		religion = orthodox
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = sami
+		religion = orthodox
+		size= 269
+	}
+
+	farmers=
+	{
+		culture = sami
+		religion = orthodox
+		size= 56812
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 3695
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 22947
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 2131
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 295
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 345
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 1377
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 101178
+	}
+
+}
+339 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 2086
+	}
+
+	craftsmen=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 2588
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 2040
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 295
+	}
+
+	clerks=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 50
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 66
+	}
+
+	capitalists=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 191
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 37890
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 4498
+	}
+
+	craftsmen=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 5582
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 10840
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 1566
+	}
+
+	clerks=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 415
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 265
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 350
+	}
+
+	capitalists=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 318
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 1012
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 72931
+	}
+
+}
+340 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 1102
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 22678
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 130
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 167
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 2491
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 1654
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 4763
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 688
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 116
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 154
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 445
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 28134
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 146
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 867
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 21
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 1899
+	}
+
+}
+341 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 120
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 420
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 11379
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 531
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 951
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 203
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 3795
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 352
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 60
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 228
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 15638
+	}
+
+}
+342 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 120
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 420
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 11379
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 531
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 951
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 203
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 3795
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 352
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 60
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 228
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 15638
+	}
+
+}
+343 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 1102
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 22678
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 130
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 167
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 2491
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 1654
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 4763
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 688
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 116
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 154
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 445
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 28134
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 146
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 867
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 21
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 1899
+	}
+
+}
+344 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 319
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 70
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 31538
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 81
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 2511
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 516
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 10479
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 973
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 135
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 628
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 39147
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 2025
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 188
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 26
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 3432
+	}
+
+}
+345 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 2917
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 555
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 59783
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 147
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 611
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 10
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 2259
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 4695
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 20207
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 1876
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 317
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 418
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 3234
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 71316
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 384
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 3410
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 317
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 54
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 546
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 3562
+	}
+
+}
+346 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 412
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 129
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 14146
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 133
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 80
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 690
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 4777
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 444
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 62
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 286
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 18336
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 762
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 10
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 856
+	}
+
+}
+347 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 827
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 258
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 28402
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 105
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 324
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 3247
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 1281
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 9378
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 871
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 120
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 141
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 562
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = orthodox
+		size= 33392
+	}
+
+	soldiers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 108
+	}
+
+	artisans=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 1640
+	}
+
+	clergymen=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 152
+	}
+
+	bureaucrats=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 21
+	}
+
+	officers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = ruotsish
+		religion = protestant
+		size= 1801
+	}
+
+}
+348 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = catholic
+		size= 393
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = catholic
+		size= 442
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = catholic
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = catholic
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = catholic
+		size= 38356
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 383
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = protestant
+		size= 3048
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = protestant
+		size= 441
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 88
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 284
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 33985
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 241
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 5661
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 818
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 164
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 528
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 16658
+	}
+
+}

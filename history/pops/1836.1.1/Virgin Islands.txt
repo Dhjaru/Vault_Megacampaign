@@ -1,0 +1,79 @@
+2223 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 120
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 247
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 868
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 222
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 26
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 1
+	}
+
+}

@@ -1,0 +1,886 @@
+#Sphere of Influence
+
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 272
+	military_access = yes
+	influence_value = 105
+	level = 5
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 76
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 50
+	level = 3
+}
+CCQ = {
+	value = 0
+	level = 2
+}
+CHK = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 69
+	influence_value = 4
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 25
+	level = 2
+}
+ITA = {
+	value = -63
+	level = 3
+}
+JAP = {
+	value = 50
+	level = 3
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 22
+	level = 2
+}
+KTR = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KUK = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 130
+	military_access = yes
+	influence_value = 70
+	level = 5
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = -65
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 20
+	level = 2
+}
+NET = {
+	value = -15
+	level = 2
+}
+NGP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+NOV = {
+	value = -94
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+RIG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 50
+	level = 3
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SOL = {
+	value = -46
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+X09 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X10 = {
+	value = 37
+	level = 2
+}
+YUC = {
+	value = -125
+	level = 2
+}
+ZHO = {
+	value = 43
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Hermenegildo Álvarez de Toledo"
+	date="1736.10.10"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Juan José Coronado"
+	date="1755.12.24"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Guillermo de Figueroa"
+	date="1757.5.29"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Alonso Cagigal de la Vega"
+	date="1757.6.14"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="MONARCH_NAME_RAMON Fadrique de "
+	date="1763.12.24"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+
+#Armies
+army = {
+	name="Ejército de Huelva"
+	location=477
+	regiment = {
+		name="1st Almería Infantry"
+		type=infantry
+		home=515
+	}
+	regiment = {
+		name="1st Murcia Infantry"
+		type=infantry
+		home=507
+	}
+	regiment = {
+		name="1st Madrid Infantry"
+		type=infantry
+		home=487
+	}
+	regiment = {
+		name="1st Huelva Artillery"
+		type=artillery
+		home=511
+	}
+	regiment = {
+		name="2nd Huelva Artillery"
+		type=artillery
+		home=511
+	}
+	regiment = {
+		name="1st Badajoz Artillery"
+		type=artillery
+		home=484
+	}
+	regiment = {
+		name="1st Cartagena Infantry"
+		type=infantry
+		home=506
+	}
+}
+
+navy = {
+	name="Flota de Tondo"
+	location=2987
+	ship = {
+		name="Águila"
+		type=clipper_transport
+	}
+	ship = {
+		name="Águila de Nantes"
+		type=clipper_transport
+	}
+	ship = {
+		name="Águila Volante"
+		type=clipper_transport
+	}
+	ship = {
+		name="Astrolabio"
+		type=clipper_transport
+	}
+	ship = {
+		name="Aurora"
+		type=clipper_transport
+	}
+	ship = {
+		name="Concepción"
+		type=clipper_transport
+	}
+	ship = {
+		name="Cornelia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Cortes"
+		type=clipper_transport
+	}
+	ship = {
+		name="Diana"
+		type=clipper_transport
+	}
+	ship = {
+		name="Esmeralda"
+		type=clipper_transport
+	}
+	ship = {
+		name="Esperanza"
+		type=clipper_transport
+	}
+	ship = {
+		name="Fama"
+		type=clipper_transport
+	}
+	ship = {
+		name="Fénix"
+		type=clipper_transport
+	}
+	ship = {
+		name="Fidela"
+		type=clipper_transport
+	}
+	ship = {
+		name="Flecha"
+		type=clipper_transport
+	}
+	ship = {
+		name="Flora"
+		type=clipper_transport
+	}
+	ship = {
+		name="Gloria"
+		type=clipper_transport
+	}
+	ship = {
+		name="Gusana"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hermione"
+		type=clipper_transport
+	}
+	ship = {
+		name="Iberia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Ifigenia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Iris"
+		type=clipper_transport
+	}
+	ship = {
+		name="Juno"
+		type=clipper_transport
+	}
+	ship = {
+		name="Ligera"
+		type=clipper_transport
+	}
+	ship = {
+		name="Mahonesa"
+		type=clipper_transport
+	}
+	ship = {
+		name="María Isabel"
+		type=clipper_transport
+	}
+	ship = {
+		name="Medea"
+		type=clipper_transport
+	}
+	ship = {
+		name="Mercurio"
+		type=clipper_transport
+	}
+	ship = {
+		name="Minerva"
+		type=clipper_transport
+	}
+	ship = {
+		name="Ninfa"
+		type=clipper_transport
+	}
+	ship = {
+		name="Ntra. Sra. de Aránzazu"
+		type=clipper_transport
+	}
+	ship = {
+		name="Ntra. Sra. de Atocha"
+		type=clipper_transport
+	}
+	ship = {
+		name="Pronta"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2747
+	ship = {
+		name="Almirante Cervera"
+		type=frigate
+	}
+	ship = {
+		name="Andalucía"
+		type=frigate
+	}
+	ship = {
+		name="Asturias"
+		type=frigate
+	}
+	ship = {
+		name="Atrevida"
+		type=frigate
+	}
+	ship = {
+		name="Baleares"
+		type=frigate
+	}
+	ship = {
+		name="Blas de Lezo"
+		type=frigate
+	}
+	ship = {
+		name="Canarias"
+		type=frigate
+	}
+	ship = {
+		name="Eolo"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Flota de Lixbuna"
+	location=1458
+	ship = {
+		name="América"
+		type=manowar
+	}
+	ship = {
+		name="Ángel de la Guarda"
+		type=manowar
+	}
+	ship = {
+		name="Aquíles"
+		type=manowar
+	}
+	ship = {
+		name="Argonauta"
+		type=manowar
+	}
+	ship = {
+		name="Buen Consejo"
+		type=manowar
+	}
+	ship = {
+		name="Conquistador"
+		type=manowar
+	}
+	ship = {
+		name="Firme"
+		type=manowar
+	}
+	ship = {
+		name="Glorioso"
+		type=manowar
+	}
+	ship = {
+		name="Héroe"
+		type=manowar
+	}
+	ship = {
+		name="Intrépido"
+		type=manowar
+	}
+	ship = {
+		name="Isabel II"
+		type=manowar
+	}
+	ship = {
+		name="Monarca"
+		type=manowar
+	}
+	ship = {
+		name="2nd Gibraltar Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1691
+	ship = {
+		name="Ntra. Sra. del Patrocinio"
+		type=manowar
+	}
+	ship = {
+		name="Real Familia"
+		type=manowar
+	}
+	ship = {
+		name="Rey Francisco de Asís"
+		type=manowar
+	}
+	ship = {
+		name="San Bernardo"
+		type=manowar
+	}
+	ship = {
+		name="San Carlos"
+		type=manowar
+	}
+	ship = {
+		name="San Fermín"
+		type=manowar
+	}
+	ship = {
+		name="San Fernando"
+		type=manowar
+	}
+	ship = {
+		name="San Francisco de Paula"
+		type=manowar
+	}
+	ship = {
+		name="San Gregorio"
+		type=manowar
+	}
+	ship = {
+		name="San Idelfonso"
+		type=manowar
+	}
+	ship = {
+		name="San Isidro"
+		type=manowar
+	}
+	ship = {
+		name="San José"
+		type=manowar
+	}
+	ship = {
+		name="3rd Ceuta Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="Flota de Jabal Tariq"
+	location=515
+	ship = {
+		name="Ntra. Sra. de Guadalupe"
+		type=clipper_transport
+	}
+	ship = {
+		name="Ntra. Sra. del Pilar"
+		type=clipper_transport
+	}
+	ship = {
+		name="Ntra. Sra. del Rosario"
+		type=clipper_transport
+	}
+	ship = {
+		name="Palas"
+		type=clipper_transport
+	}
+	ship = {
+		name="Paloma"
+		type=clipper_transport
+	}
+	ship = {
+		name="Perla"
+		type=clipper_transport
+	}
+	ship = {
+		name="Perla de España"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Armada Real"
+	location=1461
+	ship = {
+		name="San Juan Bautista"
+		type=manowar
+	}
+	ship = {
+		name="San Julián"
+		type=manowar
+	}
+	ship = {
+		name="San Leandro"
+		type=manowar
+	}
+	ship = {
+		name="San Telmo"
+		type=manowar
+	}
+	ship = {
+		name="Santiago"
+		type=manowar
+	}
+	ship = {
+		name="Victorioso"
+		type=manowar
+	}
+	ship = {
+		name="3rd Faro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bilbao Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bilbao Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Yangzhou Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Huelva Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Trujillo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Lisbon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Almería Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Vigo Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="Flota de Isbiliya"
+	location=527
+	ship = {
+		name="4th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Ceuta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Tangier Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Spanish Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Huelva Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cartagena Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Faro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Huelva Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Coimbra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Coimbra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Coimbra Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Ejército de New Swacultopia"
+	location=513
+	regiment = {
+		name="1st Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="2nd Almería Infantry"
+		type=infantry
+		home=515
+	}
+	regiment = {
+		name="1st Setubal Infantry"
+		type=infantry
+		home=524
+	}
+	regiment = {
+		name="1st Gibraltar Infantry"
+		type=infantry
+		home=517
+	}
+	regiment = {
+		name="1st Jaén Artillery"
+		type=artillery
+		home=516
+	}
+	regiment = {
+		name="1st Seville Artillery"
+		type=artillery
+		home=509
+	}
+	regiment = {
+		name="1st Málaga Artillery"
+		type=artillery
+		home=514
+	}
+}
+

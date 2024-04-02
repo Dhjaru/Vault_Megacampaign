@@ -1,0 +1,12 @@
+owner=NOV
+controller=NOV
+add_core=NOV
+trade_goods = grain
+life_rating = 31
+terrain = forest
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}

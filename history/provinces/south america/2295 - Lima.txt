@@ -1,0 +1,6 @@
+owner=CLM
+controller=CLM
+add_core=CLM
+add_core=ICM
+trade_goods = sulphur
+life_rating = 39

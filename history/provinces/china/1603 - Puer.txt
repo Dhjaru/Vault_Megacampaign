@@ -1,0 +1,8 @@
+owner=LXA
+controller=ZHO
+add_core=BUR
+add_core=IDO
+add_core=LXA
+add_core=SHA
+trade_goods = tea
+life_rating = 32

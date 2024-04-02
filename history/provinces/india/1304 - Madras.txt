@@ -1,0 +1,14 @@
+owner=ENG
+controller=ENG
+add_core=HND
+add_core=XMA
+trade_goods = cotton
+life_rating = 32
+colonial=2
+fort = 1
+state_building=
+{
+	level=2
+	building = fabric_factory
+	upgrade = yes
+}

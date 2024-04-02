@@ -1,0 +1,6 @@
+owner=KHA
+controller=KHA
+add_core=MGL
+add_core=ZUN
+trade_goods = cotton
+life_rating = 32

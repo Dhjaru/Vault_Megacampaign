@@ -1,0 +1,375 @@
+2191 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 136
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 119
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 6511
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 337
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 5691
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 482
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 58
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 1053
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 8309
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 772
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 107
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 997
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 41364
+	}
+
+}
+2192 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 90
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 79
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4319
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 223
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 3773
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 320
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 38
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 698
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 5510
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 512
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 71
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 661
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 27427
+	}
+
+}

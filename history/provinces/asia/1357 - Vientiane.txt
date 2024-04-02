@@ -1,0 +1,6 @@
+owner=LXA
+controller=DAI
+add_core=IDO
+add_core=LUA
+trade_goods = wool
+life_rating = 35

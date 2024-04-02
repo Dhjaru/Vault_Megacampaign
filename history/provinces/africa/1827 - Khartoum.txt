@@ -1,0 +1,5 @@
+owner=BYZ
+controller=BYZ
+add_core=NUB
+trade_goods = tropical_wood
+life_rating = 35

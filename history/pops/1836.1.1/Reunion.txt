@@ -1,0 +1,114 @@
+2126 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 5941
+	}
+
+	soldiers=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 3861
+	}
+
+	artisans=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 728
+	}
+
+	aristocrats=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 87
+	}
+
+	clergymen=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = anglo_african
+		religion = catholic
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 8413
+	}
+
+	soldiers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 147
+	}
+
+	artisans=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 2789
+	}
+
+	clergymen=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 259
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 72
+	}
+
+	officers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 335
+	}
+
+	farmers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 2691
+	}
+
+}

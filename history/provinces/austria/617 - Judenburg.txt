@@ -1,0 +1,6 @@
+owner=KUK
+controller=KUK
+add_core=GER
+add_core=KUK
+trade_goods = iron
+life_rating = 35

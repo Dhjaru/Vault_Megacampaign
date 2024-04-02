@@ -1,0 +1,291 @@
+2454 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 130
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4512
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 8066
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 1705
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = protestant
+		size= 157
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 101
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 288
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 43
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = sunni
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = sunni
+		size= 107
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = sunni
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = sunni
+		size= 7
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = protestant
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 3874
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 141
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 1017
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 94
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 26
+	}
+
+	officers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 11
+	}
+
+}
+2520 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 410
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = protestant
+		size= 154
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = protestant
+		size= 732
+	}
+
+	artisans=
+	{
+		culture = australian
+		religion = sunni
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = australian
+		religion = sunni
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = australian
+		religion = protestant
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = protestant
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 4
+	}
+
+	officers=
+	{
+		culture = australian
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 352
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 92
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = australian
+		religion = sunni
+		size= 1
+	}
+
+}

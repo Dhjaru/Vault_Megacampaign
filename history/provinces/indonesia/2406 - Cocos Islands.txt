@@ -1,0 +1,5 @@
+owner=ZHO
+controller=ZHO
+add_core=ZHO
+trade_goods = fish
+life_rating = 32

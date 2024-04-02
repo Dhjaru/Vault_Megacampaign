@@ -1,0 +1,5 @@
+owner=LSK
+controller=REB
+add_core=LSK
+trade_goods = coal
+life_rating = 31

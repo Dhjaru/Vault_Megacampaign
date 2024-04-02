@@ -1,0 +1,7 @@
+owner=MYS
+controller=ENG
+add_core=HND
+add_core=KLN
+add_core=VIJ
+trade_goods = coffee
+life_rating = 32

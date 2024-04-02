@@ -1,0 +1,128 @@
+alliance=
+{
+	first="SIA"
+	second="ZHO"
+	start_date="1624.10.31"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SIA"
+	second="MUG"
+	start_date="1763.7.6"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BTN"
+	second="LUW"
+	start_date="1444.11.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PER"
+	second="KUK"
+	start_date="1751.10.8"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="FRA"
+	second="KUK"
+	start_date="1748.2.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ITA"
+	second="SPA"
+	start_date="1721.6.25"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ITA"
+	second="FRA"
+	start_date="1767.2.28"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="KHA"
+	second="GUG"
+	start_date="1675.6.4"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="LUW"
+	second="ZHO"
+	start_date="1586.6.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="LXA"
+	second="SIA"
+	start_date="1717.10.16"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="RUS"
+	second="BYZ"
+	start_date="1747.8.30"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="RUS"
+	second="SPA"
+	start_date="1766.2.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SPA"
+	second="BYZ"
+	start_date="1766.2.3"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BRZ"
+	second="HAI"
+	start_date="1725.1.25"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="LOU"
+	second="ARG"
+	start_date="1741.2.16"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BOL"
+	second="ARG"
+	start_date="1768.7.30"
+	end_date="1936.1.1"
+}
+

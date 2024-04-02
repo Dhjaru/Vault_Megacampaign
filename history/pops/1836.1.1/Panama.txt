@@ -1,0 +1,528 @@
+1723 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 266
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 126
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = protestant
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = protestant
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = protestant
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = protestant
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 1675
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 109
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 69
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 582
+	}
+
+}
+2204 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 555
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1182
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = protestant
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = protestant
+		size= 67
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = protestant
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = protestant
+		size= 23
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = protestant
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = protestant
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 3486
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 223
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 484
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 305
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 6520
+	}
+
+}
+2205 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 117
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 679
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 843
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 4533
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 266
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 55
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 116
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 8
+	}
+
+}
+2206 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 122
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 596
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = protestant
+		size= 40
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = protestant
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = protestant
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = protestant
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 837
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 217
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 3768
+	}
+
+}
+2208 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 368
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = protestant
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = protestant
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = antartique
+		religion = catholic
+		size= 99
+	}
+
+	clergymen=
+	{
+		culture = antartique
+		religion = catholic
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = antartique
+		religion = catholic
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = antartique
+		religion = catholic
+		size= 2073
+	}
+
+}

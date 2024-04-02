@@ -1,0 +1,5 @@
+owner=ENG
+controller=REB
+trade_goods = fish
+life_rating = 20
+terrain = small_island

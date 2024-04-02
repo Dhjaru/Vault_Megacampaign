@@ -1,0 +1,6 @@
+owner=BYZ
+controller=BYZ
+trade_goods = grain
+life_rating = 10
+terrain = dryhills
+colonial=2

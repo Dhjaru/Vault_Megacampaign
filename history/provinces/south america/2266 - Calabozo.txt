@@ -1,0 +1,5 @@
+owner=YUC
+controller=CLM
+add_core=RGS
+trade_goods = grain
+life_rating = 31

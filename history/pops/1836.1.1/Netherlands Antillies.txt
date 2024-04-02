@@ -1,0 +1,293 @@
+2234 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 61
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 94
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 829
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 59
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 124
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 1835
+	}
+
+}
+2235 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 28
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = catholic
+		size= 17
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 161
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 24
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 342
+	}
+
+}
+2236 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 80
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 131
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 271
+	}
+
+}

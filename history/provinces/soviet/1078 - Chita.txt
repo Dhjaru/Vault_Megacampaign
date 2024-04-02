@@ -1,0 +1,4 @@
+owner=ZHO
+controller=ZHO
+trade_goods = timber
+life_rating = 35

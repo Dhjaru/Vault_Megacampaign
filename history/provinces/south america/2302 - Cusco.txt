@@ -1,0 +1,7 @@
+owner=CLM
+controller=BOL
+add_core=CRA
+add_core=CSU
+trade_goods = wool
+life_rating = 37
+colonial=2

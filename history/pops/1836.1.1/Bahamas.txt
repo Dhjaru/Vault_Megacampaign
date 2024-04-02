@@ -1,0 +1,214 @@
+2219 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 342
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 23
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 167
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = protestant
+		size= 3896
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 422
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 195
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 13
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 82
+	}
+
+}
+2220 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 56
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = protestant
+		size= 675
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 24
+	}
+
+}

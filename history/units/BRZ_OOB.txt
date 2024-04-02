@@ -1,0 +1,450 @@
+#Sphere of Influence
+
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 13
+	level = 2
+}
+CCQ = {
+	value = 0
+	level = 2
+}
+CHK = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 50
+	level = 3
+}
+HES = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 21
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTR = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KUK = {
+	value = 44
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = -11
+	level = 2
+}
+LUB = {
+	value = -11
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 20
+	level = 2
+}
+NET = {
+	value = 7
+	military_access = yes
+	level = 2
+}
+NGP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+RIG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -1
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 6
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = -12
+	level = 2
+}
+X09 = {
+	value = -7
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+YUC = {
+	value = 7
+	level = 2
+}
+ZHO = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Gabriel Van Noort"
+	date="1736.4.2"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Constantijn Coen"
+	date="1753.11.12"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Laurens Van Ilpendam"
+	date="1754.2.27"
+	type=land
+	personality="tactful"
+	background="pawn"
+}
+
+leader = {
+	name="Cornelis Van Rechteren"
+	date="1767.5.28"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=2410
+	regiment = {
+		name="1st Paraíba Infantry"
+		type=infantry
+		home=2428
+	}
+	regiment = {
+		name="1st Belém Cavalry"
+		type=cavalry
+		home=2410
+	}
+	regiment = {
+		name="1st Natal Artillery"
+		type=artillery
+		home=2431
+	}
+	regiment = {
+		name="2nd Paraíba Infantry"
+		type=infantry
+		home=2428
+	}
+	regiment = {
+		name="1st Rio de Janeiro Cavalry"
+		type=cavalry
+		home=2447
+	}
+	regiment = {
+		name="1st Rio de Janeiro Artillery"
+		type=artillery
+		home=2447
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2410
+	ship = {
+		name="Primeiro De Março"
+		type=manowar
+	}
+	ship = {
+		name="1st Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Paraíba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Paraíba"
+		type=manowar
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2982
+	ship = {
+		name="Almirante Saldanha"
+		type=frigate
+	}
+	ship = {
+		name="Frontin"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2982
+	ship = {
+		name="Pernambuco"
+		type=frigate
+	}
+	ship = {
+		name="Jaceguay"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2966
+	ship = {
+		name="Inhauma"
+		type=frigate
+	}
+	ship = {
+		name="Julio De Noronha"
+		type=frigate
+	}
+}
+

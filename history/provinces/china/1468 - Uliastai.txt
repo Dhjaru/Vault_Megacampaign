@@ -1,0 +1,5 @@
+owner=KHA
+controller=RUS
+add_core=MGL
+trade_goods = grain
+life_rating = 32

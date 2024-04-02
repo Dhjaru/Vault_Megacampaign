@@ -1,0 +1,1077 @@
+#Sphere of Influence
+
+AJU = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+BRZ = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+BTN = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CCQ = {
+	value = 0
+	level = 2
+}
+CHK = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 12
+	level = 2
+}
+FRA = {
+	value = -9
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 54
+	influence_value = 1
+	level = 2
+}
+ITA = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+JAP = {
+	value = 7
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTR = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KUK = {
+	value = -42
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+LUB = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+LUW = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+LXA = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+MEW = {
+	value = -23
+	level = 2
+}
+MLW = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+MYS = {
+	value = -13
+	level = 2
+}
+NDO = {
+	value = 20
+	level = 2
+}
+NET = {
+	value = -13
+	level = 2
+}
+NGP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+NOV = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+PAT = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = -105
+	level = 2
+}
+RUS = {
+	value = 75
+	influence_value = 6
+	level = 3
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+SOL = {
+	value = 48
+	level = 2
+}
+SPA = {
+	value = 110
+	influence_value = 15
+	level = 4
+}
+SWI = {
+	value = 2
+	level = 2
+}
+TMB = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+USA = {
+	value = 65
+	influence_value = 3
+	level = 2
+}
+UTS = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X06 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X08 = {
+	value = 160
+	military_access = yes
+	influence_value = 77
+	level = 5
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+YUC = {
+	value = -11
+	level = 2
+}
+ZHO = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+ZIM = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Theodosius Phrangopoulos"
+	date="1739.9.19"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Tiberius Iagaris"
+	date="1749.10.23"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Berkiyaruk Komnenos"
+	date="1750.5.1"
+	type=sea
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Justinian Diogenes"
+	date="1750.11.28"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Quintillus Zimisces"
+	date="1752.7.19"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Heliogabalus Angelos"
+	date="1753.12.5"
+	type=land
+	personality="stalwart"
+	background="brownnoser"
+}
+
+leader = {
+	name="Valerian Basileous"
+	date="1759.3.27"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Gallus Laskaris"
+	date="1761.2.14"
+	type=land
+	personality="disciplined"
+	background="bootlicker"
+}
+
+leader = {
+	name="Nero Diogenes"
+	date="1761.8.12"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Herakleios Paraspondylos"
+	date="1763.7.14"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Leontios Komnenos"
+	date="1764.11.29"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Pelagios Kaukadenos"
+	date="1769.6.20"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies
+navy = {
+	name="Thema Cibyrraeoton"
+	location=822
+	ship = {
+		name="1st Istanbul Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Massawa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Istanbul Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Abha Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Assab Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kairouan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Istanbul Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Istanbul Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Massawa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cyclades Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chios Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cyclades Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jeddah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Istanbul Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Thema Macedonia"
+	location=820
+	regiment = {
+		name="1st Edessa Infantry"
+		type=infantry
+		home=821
+	}
+	regiment = {
+		name="1st Petrich Infantry"
+		type=infantry
+		home=808
+	}
+	regiment = {
+		name="1st Amfissa Infantry"
+		type=infantry
+		home=835
+	}
+	regiment = {
+		name="1st Salonika Infantry"
+		type=infantry
+		home=805
+	}
+	regiment = {
+		name="1st Missolonghi Infantry"
+		type=infantry
+		home=837
+	}
+	regiment = {
+		name="1st Dedeagatch Infantry"
+		type=infantry
+		home=830
+	}
+}
+
+army = {
+	name="Thema Beledweyne"
+	location=860
+	regiment = {
+		name="1st Fayyum Infantry"
+		type=infantry
+		home=1765
+	}
+	regiment = {
+		name="1st Balikesir Infantry"
+		type=infantry
+		home=864
+	}
+	regiment = {
+		name="1st Jerash Infantry"
+		type=infantry
+		home=909
+	}
+	regiment = {
+		name="1st Manisa Infantry"
+		type=infantry
+		home=870
+	}
+	regiment = {
+		name="1st Edirne Infantry"
+		type=infantry
+		home=828
+	}
+	regiment = {
+		name="1st Pleven Artillery"
+		type=artillery
+		home=812
+	}
+	regiment = {
+		name="1st Istanbul Artillery"
+		type=artillery
+		home=860
+	}
+	regiment = {
+		name="1st Erzincan Artillery"
+		type=artillery
+		home=888
+	}
+	regiment = {
+		name="1st Aleppo Artillery"
+		type=artillery
+		home=897
+	}
+	regiment = {
+		name="1st Tabuk Artillery"
+		type=artillery
+		home=1154
+	}
+	regiment = {
+		name="1st Erzurum Artillery"
+		type=artillery
+		home=887
+	}
+	regiment = {
+		name="2nd Istanbul Artillery"
+		type=artillery
+		home=860
+	}
+	regiment = {
+		name="1st Mersin Infantry"
+		type=infantry
+		home=895
+	}
+	regiment = {
+		name="2nd Tabuk Artillery"
+		type=artillery
+		home=1154
+	}
+}
+
+navy = {
+	name="Thema Sicelias"
+	location=2788
+	ship = {
+		name="Hellas"
+		type=frigate
+	}
+	ship = {
+		name="Navarino"
+		type=frigate
+	}
+	ship = {
+		name="Psara"
+		type=frigate
+	}
+	ship = {
+		name="Prinkips Maximilianos"
+		type=frigate
+	}
+	ship = {
+		name="Maxamillianos"
+		type=frigate
+	}
+	ship = {
+		name="Mount Othrys"
+		type=frigate
+	}
+	ship = {
+		name="Thíva"
+		type=frigate
+	}
+	ship = {
+		name="Skirka"
+		type=frigate
+	}
+	ship = {
+		name="Heratos"
+		type=frigate
+	}
+	ship = {
+		name="Aeolus"
+		type=frigate
+	}
+	ship = {
+		name="1st Dumyat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mukalla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ghayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hodeida Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Duqm Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Salalah Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Salalah Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mukalla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Duqm Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Taizz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Salalah Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Suez Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Taizz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Aden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mukalla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ghayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Ghayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Ghayda Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Thema Optimaton"
+	location=894
+	regiment = {
+		name="1st Istanbul Infantry"
+		type=infantry
+		home=860
+	}
+	regiment = {
+		name="1st Kütahya Infantry"
+		type=infantry
+		home=867
+	}
+	regiment = {
+		name="1st Burgas Infantry"
+		type=infantry
+		home=817
+	}
+	regiment = {
+		name="1st Sivas Infantry"
+		type=infantry
+		home=879
+	}
+	regiment = {
+		name="1st Xanthe Infantry"
+		type=infantry
+		home=829
+	}
+	regiment = {
+		name="1st Bolu Infantry"
+		type=infantry
+		home=881
+	}
+	regiment = {
+		name="1st Myteline Artillery"
+		type=artillery
+		home=844
+	}
+	regiment = {
+		name="1st Manisa Artillery"
+		type=artillery
+		home=870
+	}
+	regiment = {
+		name="1st Üsküdar Artillery"
+		type=artillery
+		home=861
+	}
+	regiment = {
+		name="1st Izmir Artillery"
+		type=artillery
+		home=869
+	}
+	regiment = {
+		name="1st Chios Artillery"
+		type=artillery
+		home=843
+	}
+	regiment = {
+		name="2nd Izmir Artillery"
+		type=artillery
+		home=869
+	}
+	regiment = {
+		name="3rd Izmir Artillery"
+		type=artillery
+		home=869
+	}
+}
+
+army = {
+	name="Thema Sahra an Nübyah"
+	location=866
+	regiment = {
+		name="1st Asaita Infantry"
+		type=infantry
+		home=1858
+	}
+	regiment = {
+		name="1st Ras Gharib Infantry"
+		type=infantry
+		home=1772
+	}
+	regiment = {
+		name="1st Kassala Infantry"
+		type=infantry
+		home=1829
+	}
+	regiment = {
+		name="1st Hayya Infantry"
+		type=infantry
+		home=1836
+	}
+	regiment = {
+		name="2nd Hayya Infantry"
+		type=infantry
+		home=1836
+	}
+	regiment = {
+		name="1st Konya Infantry"
+		type=infantry
+		home=873
+	}
+}
+
+navy = {
+	name="Thema Cypriakon"
+	location=1725
+	ship = {
+		name="Nikolis Apostolis"
+		type=manowar
+	}
+	ship = {
+		name="Tombazis"
+		type=manowar
+	}
+	ship = {
+		name="Poros"
+		type=manowar
+	}
+	ship = {
+		name="Andreas Vokos"
+		type=manowar
+	}
+	ship = {
+		name="Laskarina Bouboulina"
+		type=manowar
+	}
+	ship = {
+		name="Constantine Kanaris"
+		type=manowar
+	}
+	ship = {
+		name="Plixavra"
+		type=manowar
+	}
+	ship = {
+		name="Averof"
+		type=manowar
+	}
+	ship = {
+		name="1st Tabuk Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Jeddah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Taizz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Suakin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hodeida Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Suakin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Berbera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Halaib Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Jeddah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Suakin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tabuk Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Hodeida Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Suakin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Jeddah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Suez Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Assab Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Qusayr Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Suez Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Suakin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Aqaba Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Berbera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Tabuk Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Taizz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Berbera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Tabuk Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Aqaba Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Suakin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Jeddah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Berbera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Jeddah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Zeyla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Jeddah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Suakin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Istanbul Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Djibuti Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Jeddah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Suakin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Marsa Alam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Hodeida Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Jeddah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Sharm al-Shaykh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Berbera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Djibuti Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Suakin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Massawa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Aqaba Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Hodeida Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Marsa Alam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Istanbul Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kairouan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bougie Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gabes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Gabes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sinop Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Gabes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Gabes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Misratah Frigate"
+		type=frigate
+	}
+}
+

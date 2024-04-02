@@ -1,0 +1,13 @@
+name = "2nd French Mexico Purge of Colombian Heresy"
+
+1767.9.7 = {
+	add_attacker = YUC
+	add_defender = CLM
+
+	war_goal = {
+		casus_belli = cut_down_to_size
+		actor = YUC
+		receiver = CLM
+		state_province_id = 2255
+	}
+}

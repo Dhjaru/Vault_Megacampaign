@@ -1,0 +1,476 @@
+#Sphere of Influence
+
+AJU = {
+	value = 34
+	level = 2
+}
+ARG = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+BAL = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+BRZ = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+BTN = {
+	value = 52
+	level = 2
+}
+BYZ = {
+	value = -27
+	level = 2
+}
+CCQ = {
+	value = 0
+	level = 2
+}
+CHK = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 43
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+DAI = {
+	value = 57
+	influence_value = 1
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 13
+	level = 2
+}
+FRA = {
+	value = 158
+	influence_value = 27
+	level = 3
+}
+FUL = {
+	value = 10
+	level = 2
+}
+GUG = {
+	value = 34
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTR = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KUK = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = -1
+	level = 2
+}
+LUB = {
+	value = -642
+	level = 2
+}
+LUW = {
+	value = 66
+	influence_value = 4
+	level = 2
+}
+LXA = {
+	value = 48
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = -77
+	level = 2
+}
+MLW = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+MOR = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+MUG = {
+	value = 13
+	level = 2
+}
+MYS = {
+	value = -54
+	level = 2
+}
+NDO = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+NET = {
+	value = -10
+	level = 2
+}
+NGP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 25
+	level = 2
+}
+NOV = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+PAT = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+PER = {
+	value = 50
+	level = 3
+}
+RUS = {
+	value = -79
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+SIA = {
+	value = 49
+	level = 2
+}
+SOL = {
+	value = 25
+	level = 2
+}
+SPA = {
+	value = -24
+	level = 2
+}
+SWI = {
+	value = 99
+	influence_value = 12
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 19
+	level = 2
+}
+X06 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X08 = {
+	value = -12
+	level = 2
+}
+X09 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+YUC = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+ZHO = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+ZIM = {
+	value = 93
+	influence_value = 10
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Albrecht Casper"
+	date="1752.4.12"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Johann von Hohenberg"
+	date="1752.4.14"
+	type=land
+	personality="resolute"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Jakob Stichsenstein"
+	date="1759.7.18"
+	type=land
+	personality="resolute"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ludwig von Waldstein"
+	date="1760.10.27"
+	type=land
+	personality="resolute"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Georg Erlmayr"
+	date="1766.9.3"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Adolf von Stauffenberg"
+	date="1766.9.3"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="Habsburgische Armee"
+	location=622
+	regiment = {
+		name="1st Miskolc Infantry"
+		type=infantry
+		home=646
+	}
+	regiment = {
+		name="1st Varaždin Infantry"
+		type=infantry
+		home=775
+	}
+	regiment = {
+		name="1st Pancevo Infantry"
+		type=infantry
+		home=792
+	}
+	regiment = {
+		name="1st Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="1st Košice Infantry"
+		type=infantry
+		home=637
+	}
+	regiment = {
+		name="1st Bielsko Infantry"
+		type=infantry
+		home=2584
+	}
+}
+
+army = {
+	name="Armee von Neuhaus"
+	location=615
+	regiment = {
+		name="1st Székesfehérvár Infantry"
+		type=infantry
+		home=643
+	}
+	regiment = {
+		name="1st Pest Infantry"
+		type=infantry
+		home=641
+	}
+	regiment = {
+		name="1st Pécs Infantry"
+		type=infantry
+		home=640
+	}
+	regiment = {
+		name="1st Gyor Infantry"
+		type=infantry
+		home=642
+	}
+	regiment = {
+		name="1st Szeged Infantry"
+		type=infantry
+		home=649
+	}
+	regiment = {
+		name="1st Novi Sad Infantry"
+		type=infantry
+		home=2538
+	}
+}
+
+army = {
+	name="Armee von Varasd"
+	location=623
+	regiment = {
+		name="1st Požega Infantry"
+		type=infantry
+		home=777
+	}
+	regiment = {
+		name="1st Trencín Infantry"
+		type=infantry
+		home=634
+	}
+	regiment = {
+		name="1st Linz Infantry"
+		type=infantry
+		home=622
+	}
+	regiment = {
+		name="1st Sisak Infantry"
+		type=infantry
+		home=772
+	}
+	regiment = {
+		name="1st Banská Bystrica Infantry"
+		type=infantry
+		home=636
+	}
+	regiment = {
+		name="1st Maribor Infantry"
+		type=infantry
+		home=767
+	}
+}
+
+army = {
+	name="Armee von Oppeln"
+	location=703
+	regiment = {
+		name="1st Radom Infantry"
+		type=infantry
+		home=713
+	}
+	regiment = {
+		name="1st Stanislavov Infantry"
+		type=infantry
+		home=953
+	}
+	regiment = {
+		name="1st Warsaw Infantry"
+		type=infantry
+		home=706
+	}
+	regiment = {
+		name="1st Skierniewice Infantry"
+		type=infantry
+		home=710
+	}
+	regiment = {
+		name="2nd Trencín Infantry"
+		type=infantry
+		home=634
+	}
+	regiment = {
+		name="1st Prešov Infantry"
+		type=infantry
+		home=638
+	}
+}
+

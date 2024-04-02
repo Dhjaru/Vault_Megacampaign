@@ -1,0 +1,12 @@
+owner=KUK
+controller=KUK
+add_core=GER
+add_core=KUK
+trade_goods = cattle
+life_rating = 40
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

@@ -1,0 +1,453 @@
+#Sphere of Influence
+
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 12
+	level = 2
+}
+CHK = {
+	value = -20
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -61
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GRJ = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KKU = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTR = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KUK = {
+	value = 22
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = -4
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = -24
+	level = 2
+}
+NGP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+OTM = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 26
+	level = 2
+}
+RUS = {
+	value = 7
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = -25
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+YUC = {
+	value = 0
+	level = 2
+}
+ZHO = {
+	value = 193
+	military_access = yes
+	influence_value = 35
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Dang Dung Ta"
+	date="1752.3.3"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Kinh Vu Quyen"
+	date="1762.4.2"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Duy Phuong Ly"
+	date="1762.4.3"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Han Thuong Thach"
+	date="1762.6.3"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=1374
+	ship = {
+		name="Tran Canh"
+		type=frigate
+	}
+	ship = {
+		name="Tran Hoang"
+		type=frigate
+	}
+	ship = {
+		name="Tran Khâm"
+		type=frigate
+	}
+	ship = {
+		name="Tran Thuyên"
+		type=frigate
+	}
+	ship = {
+		name="Tran Manh"
+		type=frigate
+	}
+	ship = {
+		name="Tran Vuong"
+		type=frigate
+	}
+	ship = {
+		name="Tran Hao"
+		type=frigate
+	}
+	ship = {
+		name="Tran Hien"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1370
+	regiment = {
+		name="1st Da Nang Irregulars"
+		type=irregular
+		home=1377
+	}
+	regiment = {
+		name="1st Son La Irregulars"
+		type=irregular
+		home=1372
+	}
+	regiment = {
+		name="1st Cao Bang Artillery"
+		type=artillery
+		home=1371
+	}
+	regiment = {
+		name="2nd Cao Bang Artillery"
+		type=artillery
+		home=1371
+	}
+	regiment = {
+		name="1st Vinh Irregulars"
+		type=irregular
+		home=1376
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2824
+	ship = {
+		name="Duong Nhat Le"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1377
+	regiment = {
+		name="1st Hai Phong Irregulars"
+		type=irregular
+		home=1370
+	}
+	regiment = {
+		name="2nd Son La Irregulars"
+		type=irregular
+		home=1372
+	}
+	regiment = {
+		name="1st Son La Cavalry"
+		type=cavalry
+		home=1372
+	}
+	regiment = {
+		name="3rd Cao Bang Artillery"
+		type=artillery
+		home=1371
+	}
+	regiment = {
+		name="1st Hanoi Cavalry"
+		type=cavalry
+		home=1369
+	}
+	regiment = {
+		name="2nd Hanoi Cavalry"
+		type=cavalry
+		home=1369
+	}
+	regiment = {
+		name="1st Son La Artillery"
+		type=artillery
+		home=1372
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2825
+	ship = {
+		name="Tran Phu"
+		type=frigate
+	}
+	ship = {
+		name="Tran Kính"
+		type=frigate
+	}
+}
+

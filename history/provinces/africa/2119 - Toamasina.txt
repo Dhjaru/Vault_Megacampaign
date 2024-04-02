@@ -1,0 +1,8 @@
+owner=LUB
+controller=LUB
+add_core=MAD
+add_core=SWA
+trade_goods = fruit
+life_rating = 35
+terrain = jungle
+colonial=2

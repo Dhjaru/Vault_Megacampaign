@@ -1,0 +1,200 @@
+2534 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 89
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 32
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3032
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = orthodox
+		size= 35
+	}
+
+	soldiers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 208
+	}
+
+	artisans=
+	{
+		culture = notios
+		religion = orthodox
+		size= 362
+	}
+
+	clergymen=
+	{
+		culture = notios
+		religion = orthodox
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 9
+	}
+
+	officers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = notios
+		religion = orthodox
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = notios
+		religion = orthodox
+		size= 6697
+	}
+
+}
+2536 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 52
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1192
+	}
+
+}

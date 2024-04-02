@@ -1,0 +1,780 @@
+#Sphere of Influence
+
+AJU = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 50
+	level = 3
+}
+CHK = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+ENG = {
+	value = -6
+	level = 2
+}
+ETH = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+FRA = {
+	value = -9
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 125
+	influence_value = 18
+	level = 2
+}
+HAI = {
+	value = -11
+	level = 2
+}
+ITA = {
+	value = -46
+	level = 2
+}
+JAP = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+KTR = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KUK = {
+	value = -10
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 157
+	military_access = yes
+	influence_value = 76
+	level = 5
+}
+LUB = {
+	value = -55
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 25
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 20
+	level = 2
+}
+NET = {
+	value = -13
+	level = 2
+}
+NGP = {
+	value = 34
+	level = 2
+}
+NOR = {
+	value = 34
+	level = 2
+}
+NOV = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = -11
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+RIG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SOL = {
+	value = 42
+	level = 2
+}
+SPA = {
+	value = 50
+	level = 3
+}
+SWI = {
+	value = -105
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -11
+	level = 2
+}
+UTS = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+YUC = {
+	value = 89
+	influence_value = 9
+	level = 2
+}
+ZHO = {
+	value = -23
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+ZUN = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="historical_score Gylta"
+	date="1762.11.16"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Tyke Cronstedt"
+	date="1751.6.21"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Albrikt Munk"
+	date="1751.10.19"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Borkvard Tre Rosor"
+	date="1752.3.31"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Astrad Tre Rosor"
+	date="1753.11.22"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Patrik Bratt"
+	date="1758.7.1"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Nicholas Ulfsax"
+	date="1765.12.29"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Marcus Horn"
+	date="1766.12.11"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Sigvard B�llja"
+	date="1766.12.13"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Sigvard B�llja"
+	date="1766.12.13"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+
+#Armies
+army = {
+	name="Army of Poland"
+	location=996
+	regiment = {
+		name="1st St Petersburg Infantry"
+		type=infantry
+		home=994
+	}
+	regiment = {
+		name="2nd St Petersburg Infantry"
+		type=infantry
+		home=994
+	}
+	regiment = {
+		name="3rd St Petersburg Infantry"
+		type=infantry
+		home=994
+	}
+	regiment = {
+		name="1st Novgorod Infantry"
+		type=infantry
+		home=1003
+	}
+	regiment = {
+		name="1st Vyazma Infantry"
+		type=infantry
+		home=1014
+	}
+	regiment = {
+		name="1st Kostorma Artillery"
+		type=artillery
+		home=1023
+	}
+	regiment = {
+		name="2nd Yaroslavl Artillery"
+		type=artillery
+		home=1001
+	}
+}
+
+navy = {
+	name="Baltic Squadron"
+	location=2716
+	ship = {
+		name="Kulevtcha"
+		type=frigate
+	}
+	ship = {
+		name="Kagul"
+		type=frigate
+	}
+	ship = {
+		name="Kamchatka"
+		type=frigate
+	}
+	ship = {
+		name="Odessa"
+		type=frigate
+	}
+	ship = {
+		name="Arkhimed"
+		type=frigate
+	}
+	ship = {
+		name="Polkan"
+		type=frigate
+	}
+	ship = {
+		name="Vladimir"
+		type=frigate
+	}
+	ship = {
+		name="Svetlana"
+		type=frigate
+	}
+	ship = {
+		name="Ilya Muromets"
+		type=frigate
+	}
+	ship = {
+		name="Medved"
+		type=frigate
+	}
+	ship = {
+		name="Rynda"
+		type=frigate
+	}
+	ship = {
+		name="Vityaz"
+		type=frigate
+	}
+	ship = {
+		name="Neva"
+		type=frigate
+	}
+	ship = {
+		name="Vilagosh"
+		type=frigate
+	}
+	ship = {
+		name="Flora"
+		type=frigate
+	}
+}
+
+army = {
+	name="123rd Army"
+	location=1200
+	regiment = {
+		name="1st Kostorma Infantry"
+		type=infantry
+		home=1023
+	}
+	regiment = {
+		name="1st Sarapul Infantry"
+		type=infantry
+		home=1031
+	}
+	regiment = {
+		name="1st Vetluga Infantry"
+		type=infantry
+		home=1027
+	}
+	regiment = {
+		name="1st Uglich Infantry"
+		type=infantry
+		home=991
+	}
+	regiment = {
+		name="1st Vladimir Infantry"
+		type=infantry
+		home=1013
+	}
+	regiment = {
+		name="1st Belozersk Artillery"
+		type=artillery
+		home=992
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Artillery"
+		type=artillery
+		home=1020
+	}
+	regiment = {
+		name="1st Kazan Artillery"
+		type=artillery
+		home=1030
+	}
+	regiment = {
+		name="1st Yaroslavl Artillery"
+		type=artillery
+		home=1001
+	}
+	regiment = {
+		name="1st Penza Artillery"
+		type=artillery
+		home=1021
+	}
+	regiment = {
+		name="1st Samara Artillery"
+		type=artillery
+		home=1034
+	}
+	regiment = {
+		name="1st Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+}
+
+army = {
+	name="Army of Crimea"
+	location=1195
+	regiment = {
+		name="1st Krasnoyarsk Infantry"
+		type=infantry
+		home=1077
+	}
+	regiment = {
+		name="4th St Petersburg Infantry"
+		type=infantry
+		home=994
+	}
+	regiment = {
+		name="5th St Petersburg Infantry"
+		type=infantry
+		home=994
+	}
+	regiment = {
+		name="2nd Krasnoyarsk Infantry"
+		type=infantry
+		home=1077
+	}
+	regiment = {
+		name="7th St Petersburg Infantry"
+		type=infantry
+		home=994
+	}
+}
+
+army = {
+	name="Army of the Baltic"
+	location=958
+	regiment = {
+		name="6th St Petersburg Infantry"
+		type=infantry
+		home=994
+	}
+	regiment = {
+		name="1st Borodino Infantry"
+		type=infantry
+		home=1009
+	}
+	regiment = {
+		name="1st Yaroslavl Infantry"
+		type=infantry
+		home=1001
+	}
+	regiment = {
+		name="1st Moscow Infantry"
+		type=infantry
+		home=1008
+	}
+	regiment = {
+		name="1st Migulinskaya Infantry"
+		type=infantry
+		home=1045
+	}
+	regiment = {
+		name="2nd Borodino Infantry"
+		type=infantry
+		home=1009
+	}
+	regiment = {
+		name="2nd Ryazan Infantry"
+		type=infantry
+		home=1012
+	}
+}
+
+army = {
+	name="16th Army"
+	location=345
+	regiment = {
+		name="1st Simbirsk Infantry"
+		type=infantry
+		home=1033
+	}
+	regiment = {
+		name="1st Ryazan Infantry"
+		type=infantry
+		home=1012
+	}
+	regiment = {
+		name="1st Penza Infantry"
+		type=infantry
+		home=1021
+	}
+	regiment = {
+		name="2nd Migulinskaya Infantry"
+		type=infantry
+		home=1045
+	}
+	regiment = {
+		name="1st Saratov Infantry"
+		type=infantry
+		home=1037
+	}
+	regiment = {
+		name="1st Rzhev Artillery"
+		type=artillery
+		home=999
+	}
+	regiment = {
+		name="1st Poltava Artillery"
+		type=artillery
+		home=963
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1001
+	regiment = {
+		name="1st Kursk Infantry"
+		type=infantry
+		home=977
+	}
+	regiment = {
+		name="2nd Saratov Infantry"
+		type=infantry
+		home=1037
+	}
+	regiment = {
+		name="1st Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Infantry"
+		type=infantry
+		home=1020
+	}
+	regiment = {
+		name="1st Bachmut Infantry"
+		type=infantry
+		home=974
+	}
+	regiment = {
+		name="1st Luhansk Infantry"
+		type=infantry
+		home=980
+	}
+	regiment = {
+		name="1st Bryansk Infantry"
+		type=infantry
+		home=1016
+	}
+	regiment = {
+		name="3rd Poltava Infantry"
+		type=infantry
+		home=963
+	}
+}
+
+army = {
+	name="38th Army"
+	location=1062
+	regiment = {
+		name="1st Uralsk Infantry"
+		type=infantry
+		home=2610
+	}
+	regiment = {
+		name="1st Belgorod Infantry"
+		type=infantry
+		home=1018
+	}
+	regiment = {
+		name="1st Pinsk Infantry"
+		type=infantry
+		home=940
+	}
+	regiment = {
+		name="1st Adygei Infantry"
+		type=infantry
+		home=1051
+	}
+	regiment = {
+		name="1st Guryev Infantry"
+		type=infantry
+		home=1182
+	}
+}
+
+army = {
+	name="Army of Ukraine"
+	location=1008
+	regiment = {
+		name="2nd Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="2nd Uralsk Infantry"
+		type=infantry
+		home=2610
+	}
+	regiment = {
+		name="1st Stavropol Infantry"
+		type=infantry
+		home=1050
+	}
+	regiment = {
+		name="1st Chistopol Infantry"
+		type=infantry
+		home=1032
+	}
+	regiment = {
+		name="1st Arkhangelsk Infantry"
+		type=infantry
+		home=981
+	}
+	regiment = {
+		name="1st Glasov Infantry"
+		type=infantry
+		home=1029
+	}
+}
+

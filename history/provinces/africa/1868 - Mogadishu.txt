@@ -1,0 +1,8 @@
+owner=BYZ
+controller=BYZ
+add_core=AJU
+add_core=SOM
+trade_goods = grain
+life_rating = 35
+terrain = savanna
+colonial=2

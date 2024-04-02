@@ -1,0 +1,8 @@
+owner=CLM
+controller=CLM
+add_core=BOL
+add_core=CLM
+add_core=CYA
+trade_goods = wool
+life_rating = 31
+terrain = jungle

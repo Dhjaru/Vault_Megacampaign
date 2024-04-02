@@ -1,0 +1,7 @@
+owner=ZHO
+controller=ZHO
+add_core=CHI
+add_core=SHU
+add_core=ZHO
+trade_goods = tea
+life_rating = 32

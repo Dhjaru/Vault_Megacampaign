@@ -1,0 +1,624 @@
+1364 = {
+	slaves=
+	{
+		culture = khmer
+		religion = theravada
+		size= 2785
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 1399
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = theravada
+		size= 2079
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = theravada
+		size= 150
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = theravada
+		size= 39
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = theravada
+		size= 387
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 29949
+	}
+
+	slaves=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 4798
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 2411
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 8210
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 593
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 156
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 156
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 1532
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 45593
+	}
+
+	slaves=
+	{
+		culture = khmer
+		religion = hindu
+		size= 1416
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 711
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = hindu
+		size= 422
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = hindu
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = hindu
+		size= 8
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = hindu
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 16050
+	}
+
+}
+1366 = {
+	slaves=
+	{
+		culture = khmer
+		religion = hindu
+		size= 582
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 188
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = hindu
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = hindu
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = hindu
+		size= 4
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = hindu
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = hindu
+		size= 8392
+	}
+
+	slaves=
+	{
+		culture = khmer
+		religion = theravada
+		size= 1758
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 568
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = theravada
+		size= 2440
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = theravada
+		size= 176
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = theravada
+		size= 46
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = theravada
+		size= 228
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 23158
+	}
+
+	slaves=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 759
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 245
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 1858
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 135
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 35
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 174
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 9044
+	}
+
+}
+1367 = {
+	slaves=
+	{
+		culture = khmer
+		religion = theravada
+		size= 1717
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 493
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = theravada
+		size= 1328
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = theravada
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = theravada
+		size= 25
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = theravada
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 20876
+	}
+
+	slaves=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 1282
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 368
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 2550
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 185
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 48
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 238
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 13875
+	}
+
+}
+1368 = {
+	slaves=
+	{
+		culture = khmer
+		religion = animist
+		size= 637
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = animist
+		size= 147
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = animist
+		size= 165
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = animist
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = animist
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = animist
+		size= 6344
+	}
+
+	slaves=
+	{
+		culture = khmer
+		religion = theravada
+		size= 389
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 89
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = theravada
+		size= 366
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = theravada
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = theravada
+		size= 7
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = theravada
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 3547
+	}
+
+	slaves=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 975
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 224
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 1539
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 29
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 143
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = mahayana
+		size= 8169
+	}
+
+}

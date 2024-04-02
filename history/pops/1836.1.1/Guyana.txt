@@ -1,0 +1,449 @@
+1979 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 293
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 453
+	}
+
+}
+2239 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1195
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 30
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 4826
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size= 7915
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 166
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 457
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 149
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 23
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 96
+	}
+
+}
+2242 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 140
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 235
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 473
+	}
+
+}
+2243 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 728
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 42
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 3351
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 191
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 83
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size= 4919
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 283
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 286
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = protestant
+		size= 60
+	}
+
+}

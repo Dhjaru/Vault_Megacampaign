@@ -1,0 +1,11 @@
+owner=YUC
+controller=YUC
+add_core=YUC
+trade_goods = cattle
+life_rating = 35
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

@@ -1,0 +1,1759 @@
+29 = {
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 131
+	}
+
+	craftsmen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 728
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 458
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 43
+	}
+
+	clerks=
+	{
+		culture = tajik
+		religion = sunni
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 7
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 4
+	}
+
+	capitalists=
+	{
+		culture = tajik
+		religion = sunni
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 11643
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 5
+	}
+
+	craftsmen=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 490
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 46
+	}
+
+	clerks=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 5
+	}
+
+	capitalists=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 59
+	}
+
+	soldiers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 966
+	}
+
+	craftsmen=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 5375
+	}
+
+	artisans=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 17047
+	}
+
+	clergymen=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 1582
+	}
+
+	clerks=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 409
+	}
+
+	bureaucrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 268
+	}
+
+	officers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 158
+	}
+
+	capitalists=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 313
+	}
+
+	aristocrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 2045
+	}
+
+	farmers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 68484
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 290
+	}
+
+	craftsmen=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 1615
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 1017
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 94
+	}
+
+	clerks=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 9
+	}
+
+	capitalists=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 25838
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 76
+	}
+
+	craftsmen=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 1552
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 144
+	}
+
+	clerks=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 24
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 14
+	}
+
+	capitalists=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 186
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 5162
+	}
+
+}
+1191 = {
+	slaves=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 12672
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 1987
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 1320
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 191
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 32
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 247
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 54487
+	}
+
+	slaves=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 1613
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 253
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 2065
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 298
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 50
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 385
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 4566
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = orthodox
+		size= 32982
+	}
+
+	soldiers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 5172
+	}
+
+	artisans=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 20345
+	}
+
+	clergymen=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 2939
+	}
+
+	bureaucrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 497
+	}
+
+	officers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 475
+	}
+
+	aristocrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 3798
+	}
+
+	farmers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 118491
+	}
+
+	slaves=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 485
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 76
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 338
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 1689
+	}
+
+}
+1192 = {
+	slaves=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 1989
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 158
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 552
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = catholic
+		size= 12929
+	}
+
+	slaves=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 338
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 739
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 10
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 1401
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = orthodox
+		size= 3378
+	}
+
+	soldiers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 268
+	}
+
+	artisans=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 5037
+	}
+
+	clergymen=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 468
+	}
+
+	bureaucrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 65
+	}
+
+	officers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 604
+	}
+
+	farmers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 16892
+	}
+
+}
+1195 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 1155
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 1554
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 1182
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 142
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 29595
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 286
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 385
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 1768
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 28
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 212
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 5480
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = orthodox
+		size= 3195
+	}
+
+	soldiers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 4299
+	}
+
+	artisans=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 16033
+	}
+
+	clergymen=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 1489
+	}
+
+	bureaucrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 252
+	}
+
+	officers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 332
+	}
+
+	aristocrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 1924
+	}
+
+	farmers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 65924
+	}
+
+}
+1198 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 3510
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = catholic
+		size= 210
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = catholic
+		size= 81
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = catholic
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = catholic
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = catholic
+		size= 16885
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 596
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 108
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 15
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = orthodox
+		size= 2443
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = orthodox
+		size= 9134
+	}
+
+	soldiers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 546
+	}
+
+	artisans=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 1026
+	}
+
+	clergymen=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 827
+	}
+
+	bureaucrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 147
+	}
+
+	officers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 842
+	}
+
+	farmers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 40269
+	}
+
+}
+1199 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 4058
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 296
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 667
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 24400
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 569
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 854
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 21
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 2411
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = orthodox
+		size= 9815
+	}
+
+	soldiers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 717
+	}
+
+	artisans=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 7971
+	}
+
+	clergymen=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 1151
+	}
+
+	bureaucrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 195
+	}
+
+	officers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 115
+	}
+
+	aristocrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 1116
+	}
+
+	farmers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 50591
+	}
+
+}
+1200 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 4423
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 1209
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 1511
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 140
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 272
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = catholic
+		size= 35578
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 738
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 202
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 2016
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 187
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 32
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 363
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 3641
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = orthodox
+		size= 18623
+	}
+
+	soldiers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 5091
+	}
+
+	artisans=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 31709
+	}
+
+	clergymen=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 2944
+	}
+
+	bureaucrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 497
+	}
+
+	officers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 475
+	}
+
+	aristocrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 5707
+	}
+
+	farmers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 116762
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 2295
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 627
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 392
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 6
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = sunni
+		size= 18972
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = hindu
+		size= 893
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 244
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 697
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 11
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = hindu
+		size= 6669
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = orthodox
+		size= 806
+	}
+
+	soldiers=
+	{
+		culture = pashtun
+		religion = orthodox
+		size= 220
+	}
+
+	artisans=
+	{
+		culture = pashtun
+		religion = orthodox
+		size= 1640
+	}
+
+	clergymen=
+	{
+		culture = pashtun
+		religion = orthodox
+		size= 152
+	}
+
+	bureaucrats=
+	{
+		culture = pashtun
+		religion = orthodox
+		size= 26
+	}
+
+	officers=
+	{
+		culture = pashtun
+		religion = orthodox
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = pashtun
+		religion = orthodox
+		size= 295
+	}
+
+	farmers=
+	{
+		culture = pashtun
+		religion = orthodox
+		size= 4700
+	}
+
+}
+1202 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 2112
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 500
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 6
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = gelugpa
+		size= 11185
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 541
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 103
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 756
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 10
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 2127
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = orthodox
+		size= 5141
+	}
+
+	soldiers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 974
+	}
+
+	artisans=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 6126
+	}
+
+	clergymen=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 569
+	}
+
+	bureaucrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 79
+	}
+
+	officers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 368
+	}
+
+	farmers=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 21430
+	}
+
+}

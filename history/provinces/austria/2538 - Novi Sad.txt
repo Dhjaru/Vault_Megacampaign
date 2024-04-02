@@ -1,0 +1,7 @@
+owner=KUK
+controller=KUK
+add_core=BOS
+add_core=KUK
+add_core=YUG
+trade_goods = wool
+life_rating = 35

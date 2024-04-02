@@ -1,0 +1,4 @@
+owner=YUC
+controller=YUC
+trade_goods = timber
+life_rating = 31

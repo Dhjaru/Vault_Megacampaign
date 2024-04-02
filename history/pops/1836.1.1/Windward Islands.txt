@@ -1,0 +1,563 @@
+2229 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1420
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 192
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 1168
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 215
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 61
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 20584
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1128
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 3647
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 339
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 73
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 438
+	}
+
+}
+2231 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 309
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 188
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 8
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 3977
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 194
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 626
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 13
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 75
+	}
+
+}
+2232 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 595
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 35
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 4041
+	}
+
+	artisans=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 684
+	}
+
+	clergymen=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 237
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 9
+	}
+
+	officers=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 7
+	}
+
+}
+2233 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 470
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 351
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 6541
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 322
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1043
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 21
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 125
+	}
+
+}
+2409 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 336
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 251
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 4672
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 226
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 730
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 15
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 88
+	}
+
+}

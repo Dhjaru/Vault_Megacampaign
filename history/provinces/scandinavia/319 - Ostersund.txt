@@ -1,0 +1,8 @@
+owner=LUB
+controller=LUB
+add_core=LUB
+add_core=NOR
+add_core=SCA
+trade_goods = iron
+life_rating = 20
+terrain = montane_tundra

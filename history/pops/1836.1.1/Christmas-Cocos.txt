@@ -1,0 +1,30 @@
+2244 = {
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 3
+	}
+
+}

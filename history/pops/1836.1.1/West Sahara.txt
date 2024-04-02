@@ -1,0 +1,186 @@
+1773 = {
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = sunni
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = sunni
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = berber
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = sunni
+		size= 800
+	}
+
+}
+1774 = {
+	soldiers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 8
+	}
+
+	craftsmen=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 4497
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 1
+	}
+
+	clerks=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 136
+	}
+
+	capitalists=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 7
+	}
+
+	craftsmen=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 3673
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 3
+	}
+
+	clerks=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 357
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 1
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 1
+	}
+
+	capitalists=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 9
+	}
+
+}

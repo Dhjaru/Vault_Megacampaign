@@ -1,0 +1,6 @@
+owner=NOV
+controller=NOV
+add_core=NOV
+add_core=USA
+trade_goods = tobacco
+life_rating = 35

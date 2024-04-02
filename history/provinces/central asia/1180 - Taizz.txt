@@ -1,0 +1,5 @@
+owner=BYZ
+controller=BYZ
+add_core=ARA
+trade_goods = coffee
+life_rating = 35

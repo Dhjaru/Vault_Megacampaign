@@ -1,0 +1,8 @@
+owner=LUB
+controller=LUB
+add_core=LUB
+add_core=SCA
+add_core=SMI
+trade_goods = timber
+life_rating = 10
+terrain = boreal

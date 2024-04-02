@@ -1,0 +1,5 @@
+owner=KOR
+controller=ZHO
+add_core=KOR
+trade_goods = cattle
+life_rating = 31

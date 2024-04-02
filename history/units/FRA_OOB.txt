@@ -1,0 +1,699 @@
+#Sphere of Influence
+
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -59
+	level = 2
+}
+BTN = {
+	value = 19
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = -10
+	level = 2
+}
+CCQ = {
+	value = 0
+	level = 2
+}
+CHK = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 156
+	influence_value = 26
+	level = 2
+}
+DAI = {
+	value = 1
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 31
+	level = 2
+}
+ITA = {
+	value = 50
+	level = 3
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTR = {
+	value = 19
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KUK = {
+	value = 73
+	influence_value = 5
+	level = 3
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = -11
+	level = 2
+}
+LUB = {
+	value = -26
+	level = 2
+}
+LUW = {
+	value = 43
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 22
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 20
+	level = 2
+}
+NET = {
+	value = -15
+	level = 2
+}
+NGP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+NOV = {
+	value = 31
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -78
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 43
+	level = 2
+}
+SIA = {
+	value = 31
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 166
+	military_access = yes
+	influence_value = 79
+	level = 5
+}
+TMB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 11
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 4
+	level = 2
+}
+X08 = {
+	value = -12
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+YUC = {
+	value = 222
+	military_access = yes
+	influence_value = 93
+	level = 5
+}
+ZHO = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+ZIM = {
+	value = 19
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Asclettin de Chambly"
+	date="1754.7.27"
+	type=land
+	personality="resolute"
+	background="bootlicker"
+}
+
+leader = {
+	name="Amaury de La Mothe"
+	date="1755.6.1"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Charles du Valentinois"
+	date="1757.6.14"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Asclettin de Chevigny"
+	date="1758.5.24"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Radolf Le Tellier"
+	date="1758.5.25"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Théoderic de Vibien"
+	date="1764.4.18"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Childéric d'Estrées"
+	date="1764.5.7"
+	type=land
+	personality="chivalrous"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Eustache de La Barthe"
+	date="1764.11.27"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Childéric de Beauharnais"
+	date="1764.12.3"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Childéric de Beauharnais"
+	date="1764.12.3"
+	type=land
+	personality="resolute"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Clovis de Béthune"
+	date="1764.12.3"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+
+#Armies
+navy = {
+	name="Escadre Blanche"
+	location=2962
+	ship = {
+		name="Condor"
+		type=frigate
+	}
+	ship = {
+		name="Epervier"
+		type=frigate
+	}
+	ship = {
+		name="Faucon"
+		type=frigate
+	}
+	ship = {
+		name="Vautour"
+		type=frigate
+	}
+	ship = {
+		name="Wattignies"
+		type=frigate
+	}
+	ship = {
+		name="Levrier"
+		type=frigate
+	}
+	ship = {
+		name="Casablanca"
+		type=frigate
+	}
+	ship = {
+		name="D'Iberville"
+		type=frigate
+	}
+	ship = {
+		name="Magicienne"
+		type=frigate
+	}
+	ship = {
+		name="Flore"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Escadre Rouge"
+	location=2972
+	ship = {
+		name="1st Channel Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tarragona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vannes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Brest Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Perpignan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tarragona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bahamas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bahamas Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Escadre de Gascogne"
+	location=2959
+	ship = {
+		name="Cassini"
+		type=frigate
+	}
+	ship = {
+		name="Lahire"
+		type=frigate
+	}
+	ship = {
+		name="Circé"
+		type=frigate
+	}
+	ship = {
+		name="Hermione"
+		type=frigate
+	}
+	ship = {
+		name="Pallas"
+		type=frigate
+	}
+	ship = {
+		name="Sémiramis"
+		type=frigate
+	}
+	ship = {
+		name="Armorique"
+		type=frigate
+	}
+	ship = {
+		name="Junon"
+		type=frigate
+	}
+	ship = {
+		name="Thémis"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armée des Alpes"
+	location=418
+	regiment = {
+		name="1st Troyes Infantry"
+		type=infantry
+		home=406
+	}
+	regiment = {
+		name="1st Besançon Infantry"
+		type=infantry
+		home=432
+	}
+}
+
+army = {
+	name="17th Army"
+	location=416
+	regiment = {
+		name="1st Laval Infantry"
+		type=infantry
+		home=435
+	}
+	regiment = {
+		name="1st Vannes Infantry"
+		type=infantry
+		home=422
+	}
+}
+
+army = {
+	name="Armée de Berry"
+	location=503
+	regiment = {
+		name="1st Metz Infantry"
+		type=infantry
+		home=412
+	}
+}
+
+army = {
+	name="Armée de Roussillon"
+	location=501
+	regiment = {
+		name="1st Tulle Infantry"
+		type=infantry
+		home=447
+	}
+	regiment = {
+		name="2nd Tulle Infantry"
+		type=infantry
+		home=447
+	}
+	regiment = {
+		name="1st La Rochelle Infantry"
+		type=infantry
+		home=442
+	}
+}
+
+army = {
+	name="Armée des Flandres"
+	location=425
+	regiment = {
+		name="1st Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="1st Tarragona Infantry"
+		type=infantry
+		home=501
+	}
+	regiment = {
+		name="3rd Tulle Infantry"
+		type=infantry
+		home=447
+	}
+	regiment = {
+		name="1st Sitten Infantry"
+		type=infantry
+		home=609
+	}
+	regiment = {
+		name="1st Cahors Infantry"
+		type=infantry
+		home=450
+	}
+}
+
+army = {
+	name="Armée de Valois"
+	location=2570
+	regiment = {
+		name="2nd Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="1st Bordeaux Infantry"
+		type=infantry
+		home=458
+	}
+	regiment = {
+		name="1st Tours Infantry"
+		type=infantry
+		home=441
+	}
+	regiment = {
+		name="1st Poitiers Infantry"
+		type=infantry
+		home=443
+	}
+	regiment = {
+		name="2nd Troyes Infantry"
+		type=infantry
+		home=406
+	}
+}
+
+army = {
+	name="Armée d'Italie"
+	location=458
+	regiment = {
+		name="1st Colmar Infantry"
+		type=infantry
+		home=410
+	}
+	regiment = {
+		name="1st Alençon Infantry"
+		type=infantry
+		home=417
+	}
+}
+
+army = {
+	name="Armée de Valence"
+	location=503
+	regiment = {
+		name="1st Le Mans Infantry"
+		type=infantry
+		home=436
+	}
+}
+
+army = {
+	name="Armée de Chartres"
+	location=426
+	regiment = {
+		name="1st Bern Infantry"
+		type=infantry
+		home=605
+	}
+	regiment = {
+		name="4th Tulle Infantry"
+		type=infantry
+		home=447
+	}
+	regiment = {
+		name="1st Annecy Infantry"
+		type=infantry
+		home=465
+	}
+}
+
+army = {
+	name="Armée de Armagnac"
+	location=459
+	regiment = {
+		name="2nd Bordeaux Infantry"
+		type=infantry
+		home=458
+	}
+	regiment = {
+		name="1st Aurillac Infantry"
+		type=infantry
+		home=449
+	}
+	regiment = {
+		name="1st Macon Artillery"
+		type=artillery
+		home=431
+	}
+	regiment = {
+		name="3rd Bordeaux Infantry"
+		type=infantry
+		home=458
+	}
+	regiment = {
+		name="1st Lons Artillery"
+		type=artillery
+		home=433
+	}
+	regiment = {
+		name="1st Valence Artillery"
+		type=artillery
+		home=453
+	}
+	regiment = {
+		name="1st Dijon Artillery"
+		type=artillery
+		home=428
+	}
+	regiment = {
+		name="1st St Étienne Artillery"
+		type=artillery
+		home=452
+	}
+}
+

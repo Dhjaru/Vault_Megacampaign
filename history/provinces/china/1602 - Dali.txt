@@ -1,0 +1,9 @@
+owner=LXA
+controller=ZHO
+add_core=BUR
+add_core=IDO
+add_core=LXA
+add_core=MMA
+add_core=SHA
+trade_goods = timber
+life_rating = 32

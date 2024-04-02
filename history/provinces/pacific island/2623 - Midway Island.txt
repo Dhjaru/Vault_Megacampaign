@@ -1,0 +1,4 @@
+owner=MUG
+controller=MUG
+trade_goods = sulphur
+life_rating = 10

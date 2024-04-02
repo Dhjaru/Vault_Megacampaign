@@ -1,0 +1,435 @@
+#Sphere of Influence
+
+AJU = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CHK = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -3
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = -87
+	level = 2
+}
+KTR = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KUK = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 0
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NGP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+RIG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 8
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 10
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+YUC = {
+	value = 0
+	level = 2
+}
+ZHO = {
+	value = 212
+	military_access = yes
+	influence_value = 40
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Ieshige Amago"
+	date="1740.5.13"
+	type=land
+	personality="tactful"
+	background="pawn"
+}
+
+leader = {
+	name="Ieyoshi Otomo"
+	date="1746.7.31"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Yoshiharu Takeda"
+	date="1759.6.10"
+	type=sea
+	personality="polite"
+	background="pawn"
+}
+
+
+#Armies
+army = {
+	name="Kyoto Dan"
+	location=1676
+	regiment = {
+		name="1st Osaka Irregulars"
+		type=irregular
+		home=1655
+	}
+	regiment = {
+		name="1st Kochi Cavalry"
+		type=cavalry
+		home=1665
+	}
+	regiment = {
+		name="1st Kochi Artillery"
+		type=artillery
+		home=1665
+	}
+	regiment = {
+		name="1st Matsuyama Artillery"
+		type=artillery
+		home=1666
+	}
+	regiment = {
+		name="2nd Kochi Artillery"
+		type=artillery
+		home=1665
+	}
+	regiment = {
+		name="1st Kochi Irregulars"
+		type=irregular
+		home=1665
+	}
+	regiment = {
+		name="2nd Kochi Cavalry"
+		type=cavalry
+		home=1665
+	}
+	regiment = {
+		name="3rd Kochi Artillery"
+		type=artillery
+		home=1665
+	}
+}
+
+navy = {
+	name="Oshima Sendan"
+	location=2844
+	ship = {
+		name="Shohei Maru"
+		type=manowar
+	}
+	ship = {
+		name="Kaiyo Maru"
+		type=manowar
+	}
+	ship = {
+		name="Takao"
+		type=frigate
+	}
+	ship = {
+		name="Aviso"
+		type=frigate
+	}
+	ship = {
+		name="1st Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chiba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kumamoto Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kobe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Inchon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kumamoto Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Fujisan"
+		type=frigate
+	}
+	ship = {
+		name="1st Hamhung Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Jeju Dan"
+	location=1660
+	regiment = {
+		name="1st Hiroshima Irregulars"
+		type=irregular
+		home=1638
+	}
+	regiment = {
+		name="1st Yamaguchi Irregulars"
+		type=irregular
+		home=1640
+	}
+	regiment = {
+		name="1st Kobe Irregulars"
+		type=irregular
+		home=1659
+	}
+	regiment = {
+		name="1st Matsuyama Irregulars"
+		type=irregular
+		home=1666
+	}
+}
+

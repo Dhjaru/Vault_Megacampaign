@@ -1,0 +1,628 @@
+#Sphere of Influence
+
+AJU = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARK = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BTU = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = -42
+	level = 2
+}
+CCQ = {
+	value = 0
+	level = 2
+}
+CHK = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+ENG = {
+	value = 196
+	influence_value = 36
+	level = 2
+}
+ETH = {
+	value = 57
+	influence_value = 1
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GRJ = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTR = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KUK = {
+	value = 50
+	level = 3
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = -11
+	level = 2
+}
+LUB = {
+	value = -11
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+LXA = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+MED = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MUG = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 99
+	influence_value = 12
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NGP = {
+	value = 31
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+OTM = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -25
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+SOL = {
+	value = 12
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = -12
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+YUC = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+ZHO = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="'Âdel Shahy"
+	date="1749.6.7"
+	type=land
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Abu'l Fath Daei"
+	date="1749.11.30"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Loft Ali Ansari"
+	date="1756.3.26"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Abdol Shahy"
+	date="1758.3.8"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Ismâ'îl Azizi"
+	date="1759.4.4"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Amanollah Daei"
+	date="1764.10.4"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=926
+	regiment = {
+		name="1st Dehkord Infantry"
+		type=infantry
+		home=1134
+	}
+	regiment = {
+		name="1st Riyadh Infantry"
+		type=infantry
+		home=1157
+	}
+	regiment = {
+		name="1st Basra Infantry"
+		type=infantry
+		home=932
+	}
+	regiment = {
+		name="1st Kangan Infantry"
+		type=infantry
+		home=1138
+	}
+	regiment = {
+		name="1st Kuwait Infantry"
+		type=infantry
+		home=935
+	}
+	regiment = {
+		name="2nd Riyadh Infantry"
+		type=infantry
+		home=1157
+	}
+	regiment = {
+		name="1st Abadan Infantry"
+		type=infantry
+		home=1132
+	}
+	regiment = {
+		name="1st Samawah Infantry"
+		type=infantry
+		home=934
+	}
+	regiment = {
+		name="1st Qom Infantry"
+		type=infantry
+		home=1125
+	}
+	regiment = {
+		name="1st Isfahan Infantry"
+		type=infantry
+		home=1127
+	}
+	regiment = {
+		name="1st Baghdad Infantry"
+		type=infantry
+		home=926
+	}
+	regiment = {
+		name="1st Shiraz Artillery"
+		type=artillery
+		home=1135
+	}
+	regiment = {
+		name="1st Bushire Artillery"
+		type=artillery
+		home=1136
+	}
+	regiment = {
+		name="1st Dehkord Artillery"
+		type=artillery
+		home=1134
+	}
+	regiment = {
+		name="1st Nasiriyya Artillery"
+		type=artillery
+		home=933
+	}
+	regiment = {
+		name="1st Basra Artillery"
+		type=artillery
+		home=932
+	}
+	regiment = {
+		name="2nd Shiraz Artillery"
+		type=artillery
+		home=1135
+	}
+	regiment = {
+		name="2nd Samawah Infantry"
+		type=infantry
+		home=934
+	}
+	regiment = {
+		name="2nd Isfahan Infantry"
+		type=infantry
+		home=1127
+	}
+	regiment = {
+		name="1st Kut Infantry"
+		type=infantry
+		home=930
+	}
+	regiment = {
+		name="3rd Isfahan Infantry"
+		type=infantry
+		home=1127
+	}
+	regiment = {
+		name="1st Ahvaz Infantry"
+		type=infantry
+		home=1131
+	}
+	regiment = {
+		name="1st Qatif Infantry"
+		type=infantry
+		home=1163
+	}
+	regiment = {
+		name="4th Isfahan Infantry"
+		type=infantry
+		home=1127
+	}
+	regiment = {
+		name="2nd Kuwait Infantry"
+		type=infantry
+		home=935
+	}
+	regiment = {
+		name="1st Sanandaj Infantry"
+		type=infantry
+		home=1118
+	}
+	regiment = {
+		name="2nd Basra Infantry"
+		type=infantry
+		home=932
+	}
+	regiment = {
+		name="1st Khoramabad Infantry"
+		type=infantry
+		home=1120
+	}
+	regiment = {
+		name="2nd Kangan Infantry"
+		type=infantry
+		home=1138
+	}
+	regiment = {
+		name="5th Isfahan Infantry"
+		type=infantry
+		home=1127
+	}
+	regiment = {
+		name="1st Yazd Infantry"
+		type=infantry
+		home=1130
+	}
+	regiment = {
+		name="1st Arak Infantry"
+		type=infantry
+		home=1128
+	}
+	regiment = {
+		name="6th Isfahan Infantry"
+		type=infantry
+		home=1127
+	}
+	regiment = {
+		name="1st Nasiriyya Infantry"
+		type=infantry
+		home=933
+	}
+	regiment = {
+		name="7th Isfahan Infantry"
+		type=infantry
+		home=1127
+	}
+	regiment = {
+		name="8th Isfahan Infantry"
+		type=infantry
+		home=1127
+	}
+	regiment = {
+		name="3rd Kuwait Infantry"
+		type=infantry
+		home=935
+	}
+	regiment = {
+		name="2nd Baghdad Infantry"
+		type=infantry
+		home=926
+	}
+	regiment = {
+		name="1st Rutbah Infantry"
+		type=infantry
+		home=931
+	}
+	regiment = {
+		name="9th Isfahan Infantry"
+		type=infantry
+		home=1127
+	}
+	regiment = {
+		name="2nd Ahvaz Infantry"
+		type=infantry
+		home=1131
+	}
+	regiment = {
+		name="3rd Ahvaz Infantry"
+		type=infantry
+		home=1131
+	}
+	regiment = {
+		name="3rd Baghdad Infantry"
+		type=infantry
+		home=926
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1138
+	ship = {
+		name="Karun"
+		type=frigate
+	}
+	ship = {
+		name="Zab"
+		type=frigate
+	}
+	ship = {
+		name="Aras"
+		type=frigate
+	}
+	ship = {
+		name="Helmand"
+		type=frigate
+	}
+	ship = {
+		name="Diyala"
+		type=frigate
+	}
+	ship = {
+		name="Zab-e Kuchek"
+		type=frigate
+	}
+	ship = {
+		name="Zayande"
+		type=frigate
+	}
+	ship = {
+		name="Atrek"
+		type=frigate
+	}
+	ship = {
+		name="Alamut"
+		type=frigate
+	}
+	ship = {
+		name="1st Hufuf Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bahrain Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Bushire Frigate"
+		type=frigate
+	}
+}
+

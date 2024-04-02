@@ -1,0 +1,198 @@
+854 = {
+	soldiers=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 2297
+	}
+
+	artisans=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 1436
+	}
+
+	clergymen=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = magnagreek
+		religion = catholic
+		size= 78027
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1206
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2942
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 273
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 76
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 177
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 38346
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 532
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 5707
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 530
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 147
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 342
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 11669
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size= 1028
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 15224
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size= 1414
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size= 391
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size= 174
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size= 913
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 17563
+	}
+
+}
