@@ -5,4 +5,4 @@ add_core=KUK
 add_core=LUB
 add_core=X01
 trade_goods = sulphur
-life_rating = 40
+life_rating = 35

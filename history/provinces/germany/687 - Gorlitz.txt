@@ -3,5 +3,5 @@ controller=KUK
 add_core=GER
 add_core=KUK
 trade_goods = coal
-life_rating = 40
+life_rating = 35
 fort = 1

@@ -3,7 +3,7 @@ controller=KUK
 add_core=GER
 add_core=KUK
 trade_goods = cattle
-life_rating = 40
+life_rating = 35
 state_building=
 {
 	level=1

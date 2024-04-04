@@ -4,4 +4,4 @@ add_core=KUK
 add_core=SLV
 add_core=WSF
 trade_goods = coal
-life_rating = 40
+life_rating = 35
