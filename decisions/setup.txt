@@ -1,0 +1,19 @@
+political_decisions = {
+	RUS_setup_1836 = {
+		potential = {
+			NOT = {
+				has_global_flag = setup_done
+			}
+		}
+		
+		allow = {
+		}
+		
+		effect = {		
+			set_global_flag = setup_done
+			X10 = {
+				country_event = 104293
+			}
+		}
+	}
+}

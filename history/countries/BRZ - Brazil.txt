@@ -70,6 +70,7 @@ the_command_principle = 1
 prestige=0
 oob = "BRZ_OOB.txt"
 set_country_flag = new_world_nation
+set_country_flag = south_american_immigrant_nation
 set_country_flag = religi
 decision = BRZ_1836_setup
 set_country_flag = vic2_country_BRZ

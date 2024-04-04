@@ -1,0 +1,36 @@
+#Contents and brief summary
+
+#100000 = notification to country requesting aid that request is made
+
+#10000(2,4,6,8,11) = Receiving country notified giving country will give aid. Ascending, logarithmic, 1000-10 million
+
+country_event = {
+
+	
+	id = 104293
+	
+	title = "Gaming"
+	
+	desc = "MORE MONEY."
+	
+	is_triggered_only = yes	
+	
+	allow_multiple_instances = yes	
+
+
+	option = {
+		name = "It is out of our hands."
+		any_country = {
+			add_tax_relative_income = 500
+			any_pop = {
+				money = 100
+			}
+		}
+		NET = {
+			treasury = 100000
+		}
+		ai_chance = {factor = 100} 
+		set_global_flag = setup_done
+	}	
+
+}

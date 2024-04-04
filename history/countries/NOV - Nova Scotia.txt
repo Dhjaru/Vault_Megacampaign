@@ -64,6 +64,7 @@ the_command_principle = 1
 prestige=0
 oob = "NOV_OOB.txt"
 set_country_flag = new_world_nation
+set_country_flag = north_american_immigrant_nation
 set_country_flag = religi
 set_country_flag = vic2_country_NOV
 set_country_flag = eu4_country_C02

@@ -67,6 +67,7 @@ the_command_principle = 1
 prestige=0.0181507
 oob = "CLM_OOB.txt"
 set_country_flag = new_world_nation
+set_country_flag = south_american_immigrant_nation
 set_country_flag = post_colonial_country
 set_country_flag = postcol_1
 set_country_flag = religi

@@ -70,6 +70,7 @@ prestige=0
 }
 oob = "ARG_OOB.txt"
 set_country_flag = new_world_nation
+set_country_flag = south_american_immigrant_nation
 set_country_flag = religi
 set_country_flag = vic2_country_ARG
 set_country_flag = eu4_country_C11

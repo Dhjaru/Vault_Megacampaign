@@ -64,7 +64,6 @@ private_banks = 1
 the_command_principle = 1
 prestige=0
 oob = "X08_OOB.txt"
-set_country_flag = new_world_nation
 set_country_flag = religi
 set_country_flag = vic2_country_X08
 set_country_flag = eu4_country_C21

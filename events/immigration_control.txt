@@ -6,8 +6,6 @@ country_event = {
 	picture = "deliberation"
 	
 	trigger = {
-		num_of_cities = 20
-		num_of_ports = 1
 		capital_scope ={
 			continent = north_america
 		}
@@ -32,8 +30,6 @@ country_event = {
 	picture = "deliberation"
 	
 	trigger = {
-		num_of_cities = 20
-		num_of_ports = 1
 		capital_scope ={
 			OR = {
 				continent = south_america
