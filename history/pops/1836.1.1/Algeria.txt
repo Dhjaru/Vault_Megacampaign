@@ -171,7 +171,7 @@
 1701 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 1935
 	}
@@ -227,7 +227,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = catholic
 		size= 1976
 	}
@@ -283,7 +283,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = orthodox
 		size= 1296
 	}
@@ -341,7 +341,7 @@
 1702 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 2322
 	}
@@ -397,7 +397,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = catholic
 		size= 2371
 	}
@@ -453,7 +453,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = orthodox
 		size= 1555
 	}
@@ -648,7 +648,7 @@
 1705 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = catholic
 		size= 6247
 	}
@@ -704,7 +704,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = orthodox
 		size= 2071
 	}
@@ -762,7 +762,7 @@
 1706 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = catholic
 		size= 1860
 	}
@@ -1987,7 +1987,7 @@
 1713 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 896
 	}
@@ -2043,7 +2043,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = catholic
 		size= 948
 	}
@@ -2099,7 +2099,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = orthodox
 		size= 36
 	}

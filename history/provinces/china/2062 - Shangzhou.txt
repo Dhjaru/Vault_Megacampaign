@@ -3,5 +3,5 @@ controller=ZHO
 add_core=CHI
 add_core=CSH
 add_core=ZHO
-trade_goods = precious_metal
+trade_goods = coal
 life_rating = 31

@@ -1828,7 +1828,7 @@
 1121 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = shiite
 		size= 6372
 	}
@@ -1884,7 +1884,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = yazidi
 		size= 2034
 	}
@@ -1940,7 +1940,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = zoroastrian
 		size= 8739
 	}
@@ -2834,7 +2834,7 @@
 1127 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 16550
 	}
@@ -2890,7 +2890,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = zoroastrian
 		size= 18255
 	}
@@ -4054,7 +4054,7 @@
 1135 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 10929
 	}
@@ -4110,7 +4110,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = zoroastrian
 		size= 13330
 	}
@@ -4166,7 +4166,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = shiite
 		size= 2613
 	}
@@ -4922,7 +4922,7 @@
 1142 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = shiite
 		size= 10005
 	}
@@ -4978,7 +4978,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 3824
 	}
@@ -5034,7 +5034,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = zoroastrian
 		size= 13977
 	}
@@ -5441,7 +5441,7 @@
 1146 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 7832
 	}
@@ -5497,7 +5497,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = zoroastrian
 		size= 6480
 	}
@@ -5555,7 +5555,7 @@
 1147 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 18780
 	}
@@ -5611,7 +5611,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = zoroastrian
 		size= 16535
 	}

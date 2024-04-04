@@ -162,7 +162,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = catholic
 		size= 1881
 	}
@@ -218,7 +218,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = orthodox
 		size= 15
 	}
@@ -269,7 +269,7 @@
 1732 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 705
 	}
@@ -318,7 +318,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = catholic
 		size= 444
 	}
@@ -374,7 +374,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = orthodox
 		size= 93
 	}
@@ -649,7 +649,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = catholic
 		size= 1447
 	}
@@ -705,7 +705,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = orthodox
 		size= 12
 	}
@@ -756,7 +756,7 @@
 1734 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 1518
 	}
@@ -812,7 +812,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = catholic
 		size= 1014
 	}
@@ -868,7 +868,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = orthodox
 		size= 23
 	}
@@ -975,7 +975,7 @@
 1735 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = catholic
 		size= 2477
 	}
@@ -1031,7 +1031,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = coptic
 		size= 3661
 	}
@@ -1089,7 +1089,7 @@
 1736 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = catholic
 		size= 684
 	}
@@ -1145,7 +1145,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = coptic
 		size= 1176
 	}
@@ -1203,7 +1203,7 @@
 1737 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = catholic
 		size= 899
 	}
@@ -1259,7 +1259,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = coptic
 		size= 1846
 	}
@@ -1338,14 +1338,14 @@
 
 	soldiers=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 2750
 	}
@@ -1566,7 +1566,7 @@
 1741 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 264
 	}
@@ -1608,7 +1608,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = catholic
 		size= 145
 	}
@@ -1664,7 +1664,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = orthodox
 		size= 39
 	}
@@ -1855,14 +1855,14 @@
 
 	soldiers=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 900
 	}
@@ -1913,7 +1913,7 @@
 1744 = {
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 963
 	}
@@ -1962,7 +1962,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = catholic
 		size= 594
 	}
@@ -2018,7 +2018,7 @@
 
 	slaves=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = orthodox
 		size= 129
 	}
@@ -2167,35 +2167,35 @@
 
 	aristocrats=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 15
 	}
 
 	clergymen=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 50
 	}
 
 	soldiers=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = bantu
+		culture = bedouin
 		religion = sunni
 		size= 500
 	}
