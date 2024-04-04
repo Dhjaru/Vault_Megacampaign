@@ -1,0 +1,58 @@
+#prevents pop growth in world bank / ghost nation
+country_event = {
+	id = 994191
+	title = "A Brave New World"
+	desc = "Helps spread out immigration"
+	picture = "deliberation"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		num_of_cities = 20
+		num_of_ports = 1
+		capital_scope ={
+			continent = north_america
+		}
+		NOT = { has_country_flag = north_american_immigrant_nation }
+		NOT = { has_country_flag = south_american_immigrant_nation }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Alright, sounds good."
+		set_country_flag = north_american_immigrant_nation
+	}
+}
+country_event = {
+	id = 994192
+	title = "A Brave New World"
+	desc = "Helps spread out immigration"
+	picture = "deliberation"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		num_of_cities = 20
+		num_of_ports = 1
+		capital_scope ={
+			OR = {
+				continent = south_america
+				continent = australia
+			}
+		}
+		NOT = { has_country_flag = north_american_immigrant_nation }
+		NOT = { has_country_flag = south_american_immigrant_nation }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Alright, sounds good."
+		set_country_flag = south_american_immigrant_nation
+	}
+}
