@@ -5,8 +5,6 @@ country_event = {
 	desc = "Helps spread out immigration"
 	picture = "deliberation"
 	
-	fire_only_once = yes
-	
 	trigger = {
 		num_of_cities = 20
 		num_of_ports = 1
@@ -18,12 +16,13 @@ country_event = {
 	}
 	
 	mean_time_to_happen = {
-		days = 1
+		months = 1
 	}
 	
 	option = {
 		name = "Alright, sounds good."
 		set_country_flag = north_american_immigrant_nation
+		set_country_flag = new_world_nation
 	}
 }
 country_event = {
@@ -31,8 +30,6 @@ country_event = {
 	title = "A Brave New World"
 	desc = "Helps spread out immigration"
 	picture = "deliberation"
-	
-	fire_only_once = yes
 	
 	trigger = {
 		num_of_cities = 20
@@ -48,11 +45,12 @@ country_event = {
 	}
 	
 	mean_time_to_happen = {
-		days = 1
+		months = 1
 	}
 	
 	option = {
 		name = "Alright, sounds good."
 		set_country_flag = south_american_immigrant_nation
+		set_country_flag = new_world_nation
 	}
 }
