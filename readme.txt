@@ -1,0 +1,1 @@
+take out the file called "Vault_Megacampaign.mod" out of this folder and put both this folder and "Vault_Megacampaign.mod" into your steamapps/common/Victoria2/mod/ folder 

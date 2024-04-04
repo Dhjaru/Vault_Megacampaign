@@ -21,13 +21,10 @@ country_event = {
 	option = {
 		name = "It is out of our hands."
 		any_country = {
-			add_tax_relative_income = 500
+			add_tax_relative_income = 50
 			any_pop = {
 				money = 100
 			}
-		}
-		NET = {
-			treasury = 100000
 		}
 		ai_chance = {factor = 100} 
 		set_global_flag = setup_done
