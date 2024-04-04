@@ -46,6 +46,9 @@ consciousness = 1.6179
 nonstate_consciousness= 0
 
 # Technologies
+publishing_industry = 1
+mechanized_mining = 1
+water_wheel_power = 1
 basic_chemistry = 1
 bronze_muzzle_loaded_artillery = 1
 classicism_n_early_romanticism = 1

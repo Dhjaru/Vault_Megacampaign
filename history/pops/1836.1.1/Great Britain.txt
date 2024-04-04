@@ -2157,6 +2157,13 @@
 
 }
 281 = {
+	craftsmen=
+	{
+		culture = english
+		religion = protestant
+		size= 35250
+	}
+
 	soldiers=
 	{
 		culture = english
@@ -2310,7 +2317,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 581
+		size= 3581
 	}
 
 	artisans=
@@ -2352,7 +2359,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 92776
+		size= 62776
 	}
 
 }
@@ -2857,6 +2864,14 @@
 
 }
 288 = {
+
+	craftsmen=
+	{
+		culture = english
+		religion = protestant
+		size= 20755
+	}
+
 	soldiers=
 	{
 		culture = english
@@ -2903,7 +2918,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 96507
+		size= 76507
 	}
 
 	soldiers=

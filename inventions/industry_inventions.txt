@@ -918,7 +918,6 @@ stainless_steel = {
 		}
 	}
 	effect = {
-		#pop_growth = -0.0001
 		factory_goods_output = {
 			steel = 0.04
 		}
@@ -1026,7 +1025,7 @@ genetics:_heredity = {
 		}
 	}
 	effect = {
-		pop_growth = 0.0001
+		land_attrition = -0.05  
 	}
 }
 clinical_thermometers_and_binaural_stethoscopes = {
@@ -1049,7 +1048,7 @@ clinical_thermometers_and_binaural_stethoscopes = {
 		}
 	}
 	effect = {
-		pop_growth = 0.0001
+		land_attrition = -0.05  
 	}
 }
 prophylaxis_against_malaria = {
@@ -1276,7 +1275,6 @@ x_rays = {
 		}
 	}
 	effect = {
-		#pop_growth = 0.0002
 		land_attrition = -0.02 
 	}
 }

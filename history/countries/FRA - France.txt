@@ -47,6 +47,9 @@ consciousness = 1.69195
 nonstate_consciousness= 0.0502001
 
 # Technologies
+publishing_industry = 1
+mechanized_mining = 1
+water_wheel_power = 1
 army_command_principle = 1
 basic_chemistry = 1
 bronze_muzzle_loaded_artillery = 1

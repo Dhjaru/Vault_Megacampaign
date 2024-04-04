@@ -6,9 +6,3 @@ trade_goods = sulphur
 life_rating = 35
 colonial=2
 naval_base = 1
-state_building=
-{
-	level=1
-	building = ammunition_factory
-	upgrade = yes
-}

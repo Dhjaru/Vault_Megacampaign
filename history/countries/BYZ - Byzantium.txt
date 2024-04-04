@@ -45,6 +45,9 @@ consciousness = 1
 nonstate_consciousness= 0.23911
 
 # Technologies
+publishing_industry = 1
+mechanized_mining = 1
+water_wheel_power = 1
 ad_hoc_money_bill_printing = 1
 army_command_principle = 1
 army_professionalism = 1
