@@ -1,126 +1,126 @@
 2019 = {
 	aristocrats=
 	{
-		culture = baganda
+		culture = bantu
 		religion = animist
 		size= 1000
 	}
 
 	aristocrats=
 	{
-		culture = baganda
+		culture = bantu
 		religion = sunni
 		size= 350
 	}
 
 	bureaucrats=
 	{
-		culture = baganda
+		culture = bantu
 		religion = sunni
 		size= 50
 	}
 
 	officers=
 	{
-		culture = baganda
+		culture = bantu
 		religion = animist
 		size= 50
 	}
 
 	officers=
 	{
-		culture = baganda
+		culture = bantu
 		religion = sunni
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = baganda
+		culture = bantu
 		religion = sunni
 		size= 725
 	}
 
 	artisans=
 	{
-		culture = baganda
+		culture = bantu
 		religion = animist
 		size= 1800
 	}
 
 	artisans=
 	{
-		culture = baganda
+		culture = bantu
 		religion = sunni
 		size= 1000
 	}
 
 	soldiers=
 	{
-		culture = baganda
+		culture = bantu
 		religion = animist
 		size= 1000
 	}
 
 	soldiers=
 	{
-		culture = baganda
+		culture = bantu
 		religion = sunni
 		size= 1000
 	}
 
 	farmers=
 	{
-		culture = baganda
+		culture = bantu
 		religion = animist
 		size= 48025
 	}
 
 	farmers=
 	{
-		culture = baganda
+		culture = bantu
 		religion = sunni
 		size= 15000
 	}
 
 	aristocrats=
 	{
-		culture = lacustrine_bantu
+		culture = bantu
 		religion = animist
 		size= 575
 	}
 
 	clergymen=
 	{
-		culture = lacustrine_bantu
+		culture = bantu
 		religion = animist
 		size= 300
 	}
 
 	artisans=
 	{
-		culture = lacustrine_bantu
+		culture = bantu
 		religion = animist
 		size= 1500
 	}
 
 	soldiers=
 	{
-		culture = lacustrine_bantu
+		culture = bantu
 		religion = animist
 		size= 300
 	}
 
 	farmers=
 	{
-		culture = lacustrine_bantu
+		culture = bantu
 		religion = animist
 		size= 10325
 	}
 
 	slaves=
 	{
-		culture = lacustrine_bantu
+		culture = bantu
 		religion = animist
 		size= 7000
 	}
@@ -129,91 +129,91 @@
 2020 = {
 	aristocrats=
 	{
-		culture = baganda
+		culture = bantu
 		religion = animist
 		size= 650
 	}
 
 	clergymen=
 	{
-		culture = baganda
+		culture = bantu
 		religion = animist
 		size= 350
 	}
 
 	artisans=
 	{
-		culture = baganda
+		culture = bantu
 		religion = animist
 		size= 1650
 	}
 
 	soldiers=
 	{
-		culture = baganda
+		culture = bantu
 		religion = animist
 		size= 1350
 	}
 
 	farmers=
 	{
-		culture = baganda
+		culture = bantu
 		religion = animist
 		size= 41920
 	}
 
 	farmers=
 	{
-		culture = ruanda
+		culture = bantu
 		religion = animist
 		size= 4000
 	}
 
 	farmers=
 	{
-		culture = baganda
+		culture = bantu
 		religion = sunni
 		size= 2080
 	}
 
 	slaves=
 	{
-		culture = lacustrine_bantu
+		culture = bantu
 		religion = animist
 		size= 4000
 	}
 
 	aristocrats=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 350
 	}
 
 	clergymen=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 175
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 725
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 200
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 8550
 	}
@@ -222,84 +222,84 @@
 2021 = {
 	aristocrats=
 	{
-		culture = luo
+		culture = bantu
 		religion = sunni
 		size= 550
 	}
 
 	clergymen=
 	{
-		culture = luo
+		culture = bantu
 		religion = sunni
 		size= 300
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = bantu
 		religion = sunni
 		size= 300
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = bantu
 		religion = sunni
 		size= 700
 	}
 
 	artisans=
 	{
-		culture = nilotic
+		culture = nilo_saharan
 		religion = animist
 		size= 1450
 	}
 
 	farmers=
 	{
-		culture = nilotic
+		culture = nilo_saharan
 		religion = animist
 		size= 3700
 	}
 
 	slaves=
 	{
-		culture = nilotic
+		culture = nilo_saharan
 		religion = animist
 		size= 4000
 	}
 
 	aristocrats=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 375
 	}
 
 	clergymen=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 200
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 775
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 200
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 20450
 	}
@@ -308,84 +308,84 @@
 2022 = {
 	aristocrats=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 375
 	}
 
 	clergymen=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 200
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 775
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 200
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 24450
 	}
 
 	aristocrats=
 	{
-		culture = luo
+		culture = bantu
 		religion = sunni
 		size= 125
 	}
 
 	clergymen=
 	{
-		culture = luo
+		culture = bantu
 		religion = sunni
 		size= 75
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = bantu
 		religion = sunni
 		size= 350
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = bantu
 		religion = sunni
 		size= 75
 	}
 
 	farmers=
 	{
-		culture = nilotic
+		culture = nilo_saharan
 		religion = animist
 		size= 5075
 	}
 
 	farmers=
 	{
-		culture = nilotic
+		culture = nilo_saharan
 		religion = sunni
 		size= 2700
 	}
 
 	slaves=
 	{
-		culture = nilotic
+		culture = nilo_saharan
 		religion = animist
 		size= 3300
 	}
@@ -394,91 +394,91 @@
 2023 = {
 	aristocrats=
 	{
-		culture = baganda
+		culture = bantu
 		religion = animist
 		size= 275
 	}
 
 	clergymen=
 	{
-		culture = baganda
+		culture = bantu
 		religion = animist
 		size= 150
 	}
 
 	aristocrats=
 	{
-		culture = baganda
+		culture = bantu
 		religion = sunni
 		size= 750
 	}
 
 	clergymen=
 	{
-		culture = baganda
+		culture = bantu
 		religion = sunni
 		size= 375
 	}
 
 	artisans=
 	{
-		culture = baganda
+		culture = bantu
 		religion = animist
 		size= 575
 	}
 
 	soldiers=
 	{
-		culture = baganda
+		culture = bantu
 		religion = animist
 		size= 150
 	}
 
 	soldiers=
 	{
-		culture = baganda
+		culture = bantu
 		religion = sunni
 		size= 375
 	}
 
 	farmers=
 	{
-		culture = baganda
+		culture = bantu
 		religion = animist
 		size= 52850
 	}
 
 	farmers=
 	{
-		culture = baganda
+		culture = bantu
 		religion = sunni
 		size= 9000
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 1900
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 4400
 	}
 
 	artisans=
 	{
-		culture = lacustrine_bantu
+		culture = bantu
 		religion = animist
 		size= 200
 	}
 
 	slaves=
 	{
-		culture = lacustrine_bantu
+		culture = bantu
 		religion = animist
 		size= 6000
 	}

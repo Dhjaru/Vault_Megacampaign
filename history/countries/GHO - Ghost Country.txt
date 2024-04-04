@@ -1,0 +1,14 @@
+capital = 1128
+primary_culture = polar_bears
+religion = protestant
+government = hms_government
+plurality = 0
+nationalvalue = nv_order
+literacy = 0.9
+civilized = no
+
+basic_chemistry = 1
+medicine = 1
+
+set_country_flag = world_bank_off
+set_country_flag = ghostland

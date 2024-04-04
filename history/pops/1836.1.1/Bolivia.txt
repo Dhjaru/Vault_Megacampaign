@@ -101,14 +101,14 @@
 2311 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = aimara
 		religion = animist
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = aimara
 		religion = animist
 		size= 14864
 	}
@@ -601,14 +601,14 @@
 2316 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = aimara
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = aimara
 		religion = animist
 		size= 682
 	}
@@ -666,14 +666,14 @@
 2317 = {
 	soldiers=
 	{
-		culture = amazonian
+		culture = aimara
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = amazonian
+		culture = aimara
 		religion = animist
 		size= 948
 	}
@@ -731,14 +731,14 @@
 2318 = {
 	soldiers=
 	{
-		culture = chacoan
+		culture = aimara
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = chacoan
+		culture = aimara
 		religion = animist
 		size= 720
 	}
@@ -796,14 +796,14 @@
 2319 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = aimara
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = aimara
 		religion = animist
 		size= 4207
 	}
@@ -861,14 +861,14 @@
 2320 = {
 	soldiers=
 	{
-		culture = amazonian
+		culture = aimara
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = amazonian
+		culture = aimara
 		religion = animist
 		size= 554
 	}
@@ -926,14 +926,14 @@
 2321 = {
 	soldiers=
 	{
-		culture = amazonian
+		culture = aimara
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = amazonian
+		culture = aimara
 		religion = animist
 		size= 1294
 	}

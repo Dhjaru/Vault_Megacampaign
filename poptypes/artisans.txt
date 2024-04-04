@@ -98,6 +98,26 @@ country_migration_target =
 		NOT = { has_country_flag = new_world_nation }
 	}
 	modifier = {
+		factor = 0.1
+		num_of_cities = 10
+	}
+	modifier = {
+		factor = 0.1
+		num_of_cities = 20
+	}
+	modifier = {
+		factor = 0.2
+		num_of_cities = 30
+	}
+	modifier = {
+		factor = 0.2
+		num_of_cities = 40
+	}
+	modifier = {
+		factor = 0.3
+		num_of_cities = 50
+	}
+	modifier = {
 		factor = 4.0
 		THIS = { religion = jewish }
 		any_owned_province = { is_core = ISR }
@@ -882,88 +902,6 @@ promote_to =
 				factor = -2
 				consciousness = 8
 			}
-		}
-		group = {
-			modifier = {
-				factor = 1
-				country = { ai = yes }
-			}
-			modifier = {
-				factor = 25
-				NOT = { literacy = 0.8 }
-				location = { is_colonial = no }
-				country = { ai = yes capital_scope = { continent = europe } }
-			}
-			modifier = {
-				factor = -2
-				clergymen = 0.004
-				NOT = { literacy = 0.8 }
-				location = { is_colonial = no }
-				country = { ai = yes capital_scope = { continent = europe } }
-			}
-			modifier = {
-				factor = -2
-				clergymen = 0.008
-				NOT = { literacy = 0.8 }
-				location = { is_colonial = no }
-				country = { ai = yes capital_scope = { continent = europe } }
-			}
-			modifier = {
-				factor = -2
-				clergymen = 0.012
-				NOT = { literacy = 0.8 }
-				location = { is_colonial = no }
-				country = { ai = yes capital_scope = { continent = europe } }
-			}			
-			modifier = {
-				factor = -2
-				clergymen = 0.016
-				NOT = { literacy = 0.8 }
-				location = { is_colonial = no }
-				country = { ai = yes capital_scope = { continent = europe } }
-			}			
-			modifier = {
-				factor = -2
-				clergymen = 0.02
-				NOT = { literacy = 0.8 }
-				location = { is_colonial = no }
-				country = { ai = yes capital_scope = { continent = europe } }
-			}			
-			modifier = {
-				factor = -2
-				clergymen = 0.022
-				NOT = { literacy = 0.8 }
-				location = { is_colonial = no }
-				country = { ai = yes capital_scope = { continent = europe } }
-			}			
-			modifier = {
-				factor = -2
-				clergymen = 0.024
-				NOT = { literacy = 0.8 }
-				location = { is_colonial = no }
-				country = { ai = yes capital_scope = { continent = europe } }
-			}			
-			modifier = {
-				factor = -2
-				clergymen = 0.026
-				NOT = { literacy = 0.8 }
-				location = { is_colonial = no }
-				country = { ai = yes capital_scope = { continent = europe } }
-			}			
-			modifier = {
-				factor = -2
-				clergymen = 0.028
-				NOT = { literacy = 0.8 }
-				location = { is_colonial = no }
-				country = { ai = yes capital_scope = { continent = europe } }
-			}			
-			modifier = {
-				factor = -10
-				clergymen = 0.03
-				NOT = { literacy = 0.8 }
-				location = { is_colonial = no }
-				country = { ai = yes capital_scope = { continent = europe } }
-			}						
 		}
 	}
 	capitalists = 

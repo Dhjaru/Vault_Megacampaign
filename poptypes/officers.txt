@@ -115,6 +115,26 @@ country_migration_target =
 		NOT = { has_country_flag = new_world_nation }
 	}
 	modifier = {
+		factor = 0.1
+		num_of_cities = 10
+	}
+	modifier = {
+		factor = 0.1
+		num_of_cities = 20
+	}
+	modifier = {
+		factor = 0.2
+		num_of_cities = 30
+	}
+	modifier = {
+		factor = 0.2
+		num_of_cities = 40
+	}
+	modifier = {
+		factor = 0.3
+		num_of_cities = 50
+	}
+	modifier = {
 		factor = 4.0
 		THIS = { religion = jewish }
 		any_owned_province = { is_core = ISR }

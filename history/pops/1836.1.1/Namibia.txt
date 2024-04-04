@@ -1,42 +1,42 @@
 2078 = {
 	aristocrats=
 	{
-		culture = herero
+		culture = khoisan
 		religion = animist
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = herero
+		culture = khoisan
 		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = herero
+		culture = khoisan
 		religion = animist
 		size= 300
 	}
 
 	soldiers=
 	{
-		culture = herero
+		culture = khoisan
 		religion = animist
 		size= 75
 	}
 
 	farmers=
 	{
-		culture = herero
+		culture = khoisan
 		religion = animist
 		size= 5175
 	}
 
 	farmers=
 	{
-		culture = herero
+		culture = khoisan
 		religion = protestant
 		size= 300
 	}
@@ -87,70 +87,70 @@
 2079 = {
 	aristocrats=
 	{
-		culture = herero
+		culture = khoisan
 		religion = animist
 		size= 150
 	}
 
 	clergymen=
 	{
-		culture = herero
+		culture = khoisan
 		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = herero
+		culture = khoisan
 		religion = animist
 		size= 450
 	}
 
 	soldiers=
 	{
-		culture = herero
+		culture = khoisan
 		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = herero
+		culture = khoisan
 		religion = animist
 		size= 8200
 	}
 
 	aristocrats=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 200
 	}
 
 	soldiers=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 3650
 	}
@@ -159,35 +159,35 @@
 2080 = {
 	aristocrats=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 300
 	}
 
 	soldiers=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 75
 	}
 
 	farmers=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 5475
 	}
@@ -196,70 +196,70 @@
 2081 = {
 	aristocrats=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 150
 	}
 
 	soldiers=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 2700
 	}
 
 	aristocrats=
 	{
-		culture = lunda
+		culture = bantu
 		religion = animist
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = lunda
+		culture = bantu
 		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = lunda
+		culture = bantu
 		religion = animist
 		size= 100
 	}
 
 	soldiers=
 	{
-		culture = lunda
+		culture = bantu
 		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = lunda
+		culture = bantu
 		religion = animist
 		size= 900
 	}
@@ -268,70 +268,70 @@
 2082 = {
 	aristocrats=
 	{
-		culture = herero
+		culture = khoisan
 		religion = animist
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = herero
+		culture = khoisan
 		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = herero
+		culture = khoisan
 		religion = animist
 		size= 300
 	}
 
 	soldiers=
 	{
-		culture = herero
+		culture = khoisan
 		religion = animist
 		size= 75
 	}
 
 	farmers=
 	{
-		culture = herero
+		culture = khoisan
 		religion = animist
 		size= 5475
 	}
 
 	aristocrats=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 75
 	}
 
 	clergymen=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 250
 	}
 
 	soldiers=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = kavango
+		culture = bantu
 		religion = animist
 		size= 4575
 	}
@@ -340,49 +340,49 @@
 2083 = {
 	soldiers=
 	{
-		culture = herero
+		culture = khoisan
 		religion = shamanism
 		size= 35
 	}
 
 	artisans=
 	{
-		culture = herero
+		culture = khoisan
 		religion = shamanism
 		size= 244
 	}
 
 	clergymen=
 	{
-		culture = herero
+		culture = khoisan
 		religion = shamanism
 		size= 26
 	}
 
 	bureaucrats=
 	{
-		culture = herero
+		culture = khoisan
 		religion = shamanism
 		size= 3
 	}
 
 	officers=
 	{
-		culture = herero
+		culture = khoisan
 		religion = shamanism
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = herero
+		culture = khoisan
 		religion = shamanism
 		size= 58
 	}
 
 	farmers=
 	{
-		culture = herero
+		culture = khoisan
 		religion = shamanism
 		size= 1373
 	}
@@ -463,35 +463,35 @@
 
 	aristocrats=
 	{
-		culture = tswana
+		culture = khoisan
 		religion = animist
 		size= 15
 	}
 
 	clergymen=
 	{
-		culture = tswana
+		culture = khoisan
 		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = tswana
+		culture = khoisan
 		religion = animist
 		size= 50
 	}
 
 	soldiers=
 	{
-		culture = tswana
+		culture = khoisan
 		religion = animist
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = tswana
+		culture = khoisan
 		religion = animist
 		size= 900
 	}
@@ -535,35 +535,35 @@
 
 	aristocrats=
 	{
-		culture = tswana
+		culture = khoisan
 		religion = animist
 		size= 15
 	}
 
 	clergymen=
 	{
-		culture = tswana
+		culture = khoisan
 		religion = animist
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = tswana
+		culture = khoisan
 		religion = animist
 		size= 50
 	}
 
 	soldiers=
 	{
-		culture = tswana
+		culture = khoisan
 		religion = animist
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = tswana
+		culture = khoisan
 		religion = animist
 		size= 900
 	}

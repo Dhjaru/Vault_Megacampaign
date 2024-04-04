@@ -1,6 +1,5 @@
 capital = 37
-primary_culture = metis
-culture = zzz_religion_catholic
+primary_culture =native_american_minorculture = zzz_religion_catholic
 religion = catholic
 government = democracy
 plurality = 0

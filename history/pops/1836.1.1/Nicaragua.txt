@@ -1,42 +1,42 @@
 2197 = {
 	soldiers=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 38
 	}
 
 	clergymen=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 4254
 	}
@@ -143,28 +143,28 @@
 2198 = {
 	soldiers=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 8
 	}
 
 	clergymen=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 851
 	}
@@ -271,14 +271,14 @@
 2199 = {
 	soldiers=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 1319
 	}
@@ -385,21 +385,21 @@
 2200 = {
 	slaves=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 47
 	}
 
 	soldiers=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 180
 	}

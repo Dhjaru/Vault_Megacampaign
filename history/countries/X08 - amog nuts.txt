@@ -1,6 +1,6 @@
 capital = 40
 primary_culture = neokosmi
-culture = siouan
+culture = native_american_minor
 culture = zzz_religion_orthodox
 religion = orthodox
 government = presidential_dictatorship

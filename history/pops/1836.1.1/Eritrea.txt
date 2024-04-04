@@ -1,112 +1,112 @@
 1848 = {
 	slaves=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 372
 	}
 
 	soldiers=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 71
 	}
 
 	artisans=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 304
 	}
 
 	clergymen=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 50
 	}
 
 	bureaucrats=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 17
 	}
 
 	officers=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 64
 	}
 
 	farmers=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 14031
 	}
 
 	slaves=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 33
 	}
 
 	soldiers=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 134
 	}
 
 	clergymen=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 21
 	}
 
 	bureaucrats=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 7
 	}
 
 	officers=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 28
 	}
 
 	farmers=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 1067
 	}
@@ -171,49 +171,49 @@
 1849 = {
 	soldiers=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 602
 	}
 
 	clergymen=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 43
 	}
 
 	bureaucrats=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 9
 	}
 
 	officers=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 56
 	}
 
 	farmers=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 5898
 	}
@@ -222,112 +222,112 @@
 1850 = {
 	slaves=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 733
 	}
 
 	soldiers=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 114
 	}
 
 	clergymen=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 19
 	}
 
 	bureaucrats=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 6
 	}
 
 	officers=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = tigray
+		culture = amhara
 		religion = coptic
 		size= 4688
 	}
 
 	slaves=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 64
 	}
 
 	soldiers=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 3
 	}
 
 	officers=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = tigray
+		culture = amhara
 		religion = orthodox
 		size= 349
 	}
@@ -392,98 +392,98 @@
 1851 = {
 	soldiers=
 	{
-		culture = afar
+		culture = amhara
 		religion = sunni
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = afar
+		culture = amhara
 		religion = sunni
 		size= 296
 	}
 
 	clergymen=
 	{
-		culture = afar
+		culture = amhara
 		religion = sunni
 		size= 14
 	}
 
 	bureaucrats=
 	{
-		culture = afar
+		culture = amhara
 		religion = sunni
 		size= 2
 	}
 
 	officers=
 	{
-		culture = afar
+		culture = amhara
 		religion = sunni
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = afar
+		culture = amhara
 		religion = sunni
 		size= 53
 	}
 
 	farmers=
 	{
-		culture = afar
+		culture = amhara
 		religion = sunni
 		size= 3815
 	}
 
 	soldiers=
 	{
-		culture = afar
+		culture = amhara
 		religion = coptic
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = afar
+		culture = amhara
 		religion = coptic
 		size= 1236
 	}
 
 	clergymen=
 	{
-		culture = afar
+		culture = amhara
 		religion = coptic
 		size= 57
 	}
 
 	bureaucrats=
 	{
-		culture = afar
+		culture = amhara
 		religion = coptic
 		size= 9
 	}
 
 	officers=
 	{
-		culture = afar
+		culture = amhara
 		religion = coptic
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = afar
+		culture = amhara
 		religion = coptic
 		size= 222
 	}
 
 	farmers=
 	{
-		culture = afar
+		culture = amhara
 		religion = coptic
 		size= 5113
 	}

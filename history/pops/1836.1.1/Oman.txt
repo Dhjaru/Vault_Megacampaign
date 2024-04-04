@@ -1,161 +1,161 @@
 1166 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = ibadi
 		size= 4082
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 633
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 554
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 51
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 9
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 26251
 	}
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 781
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 121
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 765
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 71
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 12
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 69
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 4226
 	}
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = zoroastrian
 		size= 3885
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 40
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 1458
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 135
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 23
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 131
 	}
@@ -213,196 +213,196 @@
 1169 = {
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 5073
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 908
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 84
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 14
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 109
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 48933
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = shiite
 		size= 187
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = shiite
 		size= 94
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = shiite
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = shiite
 		size= 1
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = shiite
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = shiite
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = shiite
 		size= 1730
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 829
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 1316
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 123
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 21
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 27
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 157
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 6529
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 746
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 2884
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 267
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 45
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 59
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 346
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 3759
 	}
@@ -460,147 +460,147 @@
 1170 = {
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 6708
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 1276
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 118
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 16
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 77
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 64687
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 1550
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 1866
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 173
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 24
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 39
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 112
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 13084
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 1384
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 4194
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 389
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 54
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 87
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 252
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 8681
 	}
@@ -658,168 +658,168 @@
 1171 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = ibadi
 		size= 24106
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 12298
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 2339
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 217
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 30
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 48
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 281
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 94361
 	}
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 7862
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 4012
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 3865
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 359
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 50
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 80
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 464
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 26907
 	}
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = zoroastrian
 		size= 21687
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 2011
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 7735
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 719
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 99
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 160
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 928
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 6265
 	}
@@ -877,140 +877,140 @@
 1172 = {
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 423
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 739
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 34
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 6
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 44
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 40970
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 257
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 1641
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 76
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 12
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 98
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 23677
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = orthodox
 		size= 10
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = orthodox
 		size= 2456
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = orthodox
 		size= 114
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = orthodox
 		size= 18
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = orthodox
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = orthodox
 		size= 148
 	}
@@ -1068,189 +1068,189 @@
 1174 = {
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = druze
 		size= 75
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = druze
 		size= 19
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = druze
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = druze
 		size= 1
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = druze
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = druze
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = druze
 		size= 7378
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 22
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 30
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 1
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 2109
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 60
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 109
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 18
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 4
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 23
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 5817
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = orthodox
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = orthodox
 		size= 160
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = orthodox
 		size= 26
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = orthodox
 		size= 6
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = orthodox
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = orthodox
 		size= 34
 	}
@@ -1308,133 +1308,133 @@
 2640 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = ibadi
 		size= 47
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 15
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 13
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 672
 	}
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 9
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 18
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 109
 	}
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = zoroastrian
 		size= 44
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 35
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 1
 	}
@@ -1492,196 +1492,196 @@
 2664 = {
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 5073
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 908
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 84
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 14
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 109
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = ibadi
 		size= 48933
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = shiite
 		size= 187
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = shiite
 		size= 94
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = shiite
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = shiite
 		size= 1
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = shiite
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = shiite
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = shiite
 		size= 1730
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 829
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 1316
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 123
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 21
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 27
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 157
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 6529
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 746
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 2884
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 267
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 45
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 59
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 346
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = zoroastrian
 		size= 3759
 	}

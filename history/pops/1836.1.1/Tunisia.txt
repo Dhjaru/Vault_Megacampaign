@@ -164,7 +164,7 @@
 1726 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 1266
 	}
@@ -220,7 +220,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = orthodox
 		size= 37
 	}
@@ -334,7 +334,7 @@
 1727 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 818
 	}
@@ -390,7 +390,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = orthodox
 		size= 47
 	}
@@ -502,7 +502,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 1045
 	}
@@ -560,7 +560,7 @@
 1728 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 7677
 	}
@@ -616,7 +616,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = orthodox
 		size= 166
 	}
@@ -723,7 +723,7 @@
 1729 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 1472
 	}
@@ -779,7 +779,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 1259
 	}
@@ -835,7 +835,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = orthodox
 		size= 25
 	}
@@ -1103,7 +1103,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 1243
 	}
@@ -1159,7 +1159,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = orthodox
 		size= 11
 	}

@@ -2321,7 +2321,7 @@
 890 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 691
 	}
@@ -2426,7 +2426,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = zoroastrian
 		size= 41
 	}

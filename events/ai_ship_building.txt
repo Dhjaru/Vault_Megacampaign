@@ -1,0 +1,137 @@
+province_event = {
+	id = 1111111
+	title = "Shipbuilder builds Ironclad"
+	desc = "Private investments has built a ironclad"
+	
+	trigger = {
+		any_core = {
+			is_coastal = yes
+			port = yes
+		}
+		owner = {
+			invention = ironclads
+			NOT = { 
+				OR = {
+					invention = protected_cruisers
+					invention = pre_dreadnought
+				}
+			}
+			ai = yes
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 20
+	}
+	
+	option = {
+		name = "Invest!"
+		sub_unit = { 
+			type = steam_transport
+			value = 1
+		}
+		sub_unit = { 
+			type = ironclad
+			value = 1
+		}
+	}
+}
+province_event = {
+	id = 1111112
+	title = "Shipbuilder builds Cruiser"
+	desc = "Private investments has built a Cruiser"
+	
+	trigger = {
+		any_core = {
+			is_coastal = yes
+			port = yes
+		}
+		owner = {
+			invention = protected_cruisers
+			ai = yes
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 24
+	}
+	
+	option = {
+		name = "Invest!"
+		sub_unit = { 
+			type = steam_transport
+			value = 1
+		}
+		sub_unit = { 
+			type = cruiser
+			value = 1
+		}
+	}
+}
+province_event = {
+	id = 1111112
+	title = "Shipbuilder builds Battleship"
+	desc = "Private investments has built a Battleship"
+	
+	trigger = {
+		any_core = {
+			is_coastal = yes
+			port = yes
+		}
+		owner = {
+			invention = pre_dreadnought
+			NOT = { 
+				invention = dreadnoughts
+			}
+			ai = yes
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 36
+	}
+	
+	option = {
+		name = "Invest!"
+		sub_unit = { 
+			type = steam_transport
+			value = 1
+		}
+		sub_unit = { 
+			type = battleship
+			value = 1
+		}
+	}
+}
+province_event = {
+	id = 1111112
+	title = "Shipbuilder builds Battleship"
+	desc = "Private investments has built a Battleship"
+	
+	trigger = {
+		any_core = {
+			is_coastal = yes
+			port = yes
+		}
+		owner = {
+			invention = dreadnoughts
+			ai = yes
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 36
+	}
+	
+	option = {
+		name = "Invest!"
+		sub_unit = { 
+			type = steam_transport
+			value = 1
+		}
+		sub_unit = { 
+			type = dreadnought
+			value = 1
+		}
+	}
+}

@@ -1420,7 +1420,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 2295
 	}
@@ -1476,7 +1476,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = hindu
 		size= 893
 	}
@@ -1532,7 +1532,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = orthodox
 		size= 806
 	}

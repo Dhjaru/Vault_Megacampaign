@@ -69,6 +69,3 @@ birthrate_push_high;State Enforced Birthing Campaign;;;;;;;;;;;;x,,,,,,,
 birthrate_push_high_desc;State Enforced Birthing Campaign;;;;;;;;;;;;x,,,,,,,
 recently_selected_birthrate;Recently Selected a Growth Campaign;;;;;;;;;;;;x,,,,,,,
 recently_selected_birthrate_desc;Due to recently selecting a growth-campaign, you are unable to remove the ongoing campaign till this modifier expires.;;;;;;;;;;;;x,,,,,,,
-canal_notification;Canal Control!;;;;;;;;;;;;;
-land_crossing_notification;Non-Blockadeable Strait!;;;;;;;;;;;;;
-sea_crossing_notification;Blockadeable Strait!;;;;;;;;;;;;;

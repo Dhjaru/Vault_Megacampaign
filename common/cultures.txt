@@ -1,3 +1,5 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
 african_diaspora_cultures = {
 	leader = african
 	is_overseas = no
@@ -1003,6 +1005,22 @@ central_african = {
 	is_overseas = no
 	unit = AfricanGC
 	
+	nilo_saharan = {
+		color = {229 212 43}
+		first_names = { Abdul Abu-Sekkin Burkomanda Ngarmane "Abd al-Rahman" Uthman Muhammad Malam Ngarmaba
+		}
+
+		last_names = { Ermanala Gawrang Qadir as-Saghir Mohammed al-Mahdi al-Kabir Bira
+		}
+	}
+	bantu = {
+		color = {154 83 201}
+		first_names = { Poaty Loembe M'voudoukousala Pratt N'Gangue M'voumbe Mfutila Kivuzi Nteve Kenje
+		}
+
+		last_names = { "Ma Nombo" "Ma N'Sangou" N'Gombi Matou Mvemba Lukeni Mpanzu Nimi Nsindi
+		}
+	}
 	african_minor = {
 		color = { 74 155 164 }
 		
@@ -4559,6 +4577,26 @@ south_asian = {
 	leader = indian
 	unit = IndianGC
 	
+	indo_aryan = {
+		color = {190 220 10}
+		first_names = { Lokendra Raghuraj Vijay Vishvanath Pheran Jugal Parbhu Narayan Ishvari Udit Prasan Mahip
+			
+		}
+		
+		last_names = { Singh
+               
+		}
+	}
+	dravidian = {
+		color = {180 23 75}
+		first_names = { Ramayyan Seshayya Ramiengar Seshadri Shungrasoobyer Rajagopalachari Shanmukham Ramaswami Dheeran Subramania Chidambaram Sathyamurthy Vanchinathan Champakaraman
+			
+		}
+		
+		last_names = { Mudaliar Krishnamachari Rajapopalachari Sastri Dalawa
+               
+		}
+	}
 	assamese = {
 		color = { 112 134 156 }
 		
@@ -5068,7 +5106,7 @@ southern_african = {
 		
 	}
 	southern_bantu = {
-		color = { 165 111 17 }
+		color = { 242 73 195 }
 		
 		first_names = { "Kinjikitile" "Fambaltate" "Songea" "Ebabruma" "Mputa" "Mbemchapa" "Atepa" "Matola" "Magobi" "Rjoroza" "Wasesse" "Rinyizea" "Chapwanya" "Chakoma" "Kapola" "Kapungu" "Kindunda" "Kinjalla" "Kiwanga" "Mahengu" "Mburu" "Mhavanginonya" "Namkina" "Ngosingosi" "Schabruma" "Sentambandu" "Uawula" "Ulanga" }
 		
@@ -5386,6 +5424,14 @@ west_african = {
 	is_overseas = no
 	unit = AfricanGC
 	
+	niger_congo_a = {
+		color = {140 46 100}
+		first_names = { Amanquatia Agyeman Onsei Kwaku Kofi Atakora Kwabena Mensa Owusu Akyampon Kwame Opoku 
+		}
+
+		last_names = { Prempeh Bonsu Dua Karikari Dwomo Panyin Sekyere Fofie Asiba
+		}
+	}
 	akan = {
 		color = { 88 68 147 }
 		
@@ -6307,4 +6353,3 @@ zzz_religions = {
 	}
 	
 }
-

@@ -1,5 +1,5 @@
 capital = 1074
-primary_culture = russian
+primary_culture = ukrainian
 culture = zzz_religion_orthodox
 religion = orthodox
 government = absolute_monarchy

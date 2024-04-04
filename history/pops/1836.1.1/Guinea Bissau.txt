@@ -1,112 +1,112 @@
 1877 = {
 	slaves=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 1244
 	}
 
 	soldiers=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 436
 	}
 
 	artisans=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 1089
 	}
 
 	clergymen=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 101
 	}
 
 	bureaucrats=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 22
 	}
 
 	officers=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 98
 	}
 
 	farmers=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 12561
 	}
 
 	slaves=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 812
 	}
 
 	soldiers=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 284
 	}
 
 	artisans=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 2511
 	}
 
 	clergymen=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 233
 	}
 
 	bureaucrats=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 50
 	}
 
 	officers=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 29
 	}
 
 	aristocrats=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 226
 	}
 
 	farmers=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 6012
 	}
@@ -115,112 +115,112 @@
 1878 = {
 	slaves=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 1123
 	}
 
 	soldiers=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 354
 	}
 
 	artisans=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 884
 	}
 
 	clergymen=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 82
 	}
 
 	bureaucrats=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 18
 	}
 
 	officers=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 80
 	}
 
 	farmers=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = shamanism
 		size= 10079
 	}
 
 	slaves=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 733
 	}
 
 	soldiers=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 231
 	}
 
 	artisans=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 2038
 	}
 
 	clergymen=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 189
 	}
 
 	bureaucrats=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 41
 	}
 
 	officers=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 23
 	}
 
 	aristocrats=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 183
 	}
 
 	farmers=
 	{
-		culture = wolof
+		culture = niger_congo_a
 		religion = protestant
 		size= 4806
 	}

@@ -1,21 +1,21 @@
 2344 = {
 	slaves=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 862
 	}
 
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 38
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 2862
 	}
@@ -80,14 +80,14 @@
 2345 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 497
 	}
@@ -180,14 +180,14 @@
 2346 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 13
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1251
 	}
@@ -245,14 +245,14 @@
 2347 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 9
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 849
 	}

@@ -1,14 +1,14 @@
 2305 = {
 	soldiers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = animist
 		size= 2822
 	}
@@ -66,14 +66,14 @@
 2307 = {
 	soldiers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = animist
 		size= 1230
 	}
@@ -294,14 +294,14 @@
 2309 = {
 	soldiers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = animist
 		size= 1244
 	}
@@ -408,14 +408,14 @@
 2322 = {
 	soldiers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 3969
 	}
@@ -473,14 +473,14 @@
 2323 = {
 	soldiers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 4154
 	}
@@ -538,14 +538,14 @@
 2324 = {
 	soldiers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 26604
 	}
@@ -652,14 +652,14 @@
 2325 = {
 	soldiers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 8186
 	}
@@ -766,14 +766,14 @@
 2326 = {
 	soldiers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 3750
 	}
@@ -831,14 +831,14 @@
 2327 = {
 	soldiers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 1098
 	}
@@ -945,14 +945,14 @@
 2328 = {
 	soldiers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 5625
 	}
@@ -1059,14 +1059,14 @@
 2329 = {
 	soldiers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 2190
 	}
@@ -1173,14 +1173,14 @@
 2330 = {
 	soldiers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 3754
 	}
@@ -1287,14 +1287,14 @@
 2331 = {
 	soldiers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 1976
 	}
@@ -1401,14 +1401,14 @@
 2332 = {
 	soldiers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = araucanian
+		culture = native_american_minor
 		religion = animist
 		size= 4135
 	}
@@ -1515,14 +1515,14 @@
 2333 = {
 	soldiers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size= 672
 	}
@@ -1615,21 +1615,21 @@
 2334 = {
 	soldiers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	artisans=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size= 468
 	}
@@ -1722,14 +1722,14 @@
 2335 = {
 	soldiers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = patagonian
+		culture = native_american_minor
 		religion = animist
 		size= 238
 	}

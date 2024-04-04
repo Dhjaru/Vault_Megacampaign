@@ -1063,25 +1063,45 @@
 
 }
 2552 = {
-	soldiers=
-	{
-		culture = polynesian
+	bankers = {
+		culture = polar_bears
 		religion = animist
-		size= 1
+		size = 10000
 	}
-
-	artisans=
-	{
-		culture = polynesian
-		religion = animist
-		size= 1
+	bankers = {
+		culture = polar_bears
+		religion = catholic
+		size = 10000
 	}
-
-	farmers=
-	{
-		culture = polynesian
-		religion = animist
-		size= 22
+	bankers = {
+		culture = polar_bears
+		religion = protestant
+		size = 10000
+	}
+	bankers = {
+		culture = polar_bears
+		religion = sunni
+		size = 10000
+	}
+	bankers = {
+		culture = polar_bears
+		religion = shiite
+		size = 10000
+	}
+	bankers = {
+		culture = polar_bears
+		religion = mahayana
+		size = 10000
+	}
+	bankers = {
+		culture = polar_bears
+		religion = shinto
+		size = 10000
+	}
+	bankers = {
+		culture = polar_bears
+		religion = hindu
+		size = 10000
 	}
 
 }

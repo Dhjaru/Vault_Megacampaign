@@ -8,49 +8,49 @@
 
 	soldiers=
 	{
-		culture = kilombero
+		culture = bantu
 		religion = sunni
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = kilombero
+		culture = bantu
 		religion = sunni
 		size= 1947
 	}
 
 	clergymen=
 	{
-		culture = kilombero
+		culture = bantu
 		religion = sunni
 		size= 181
 	}
 
 	bureaucrats=
 	{
-		culture = kilombero
+		culture = bantu
 		religion = sunni
 		size= 25
 	}
 
 	officers=
 	{
-		culture = kilombero
+		culture = bantu
 		religion = sunni
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = kilombero
+		culture = bantu
 		religion = sunni
 		size= 117
 	}
 
 	farmers=
 	{
-		culture = kilombero
+		culture = bantu
 		religion = sunni
 		size= 11206
 	}
@@ -66,49 +66,49 @@
 
 	soldiers=
 	{
-		culture = kilombero
+		culture = bantu
 		religion = sunni
 		size=1
 	}
 
 	artisans=
 	{
-		culture = kilombero
+		culture = bantu
 		religion = sunni
 		size= 118
 	}
 
 	clergymen=
 	{
-		culture = kilombero
+		culture = bantu
 		religion = sunni
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = kilombero
+		culture = bantu
 		religion = sunni
 		size= 2
 	}
 
 	officers=
 	{
-		culture = kilombero
+		culture = bantu
 		religion = sunni
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = kilombero
+		culture = bantu
 		religion = sunni
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = kilombero
+		culture = bantu
 		religion = sunni
 		size= 447
 	}

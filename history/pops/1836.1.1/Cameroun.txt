@@ -1,119 +1,119 @@
 1956 = {
 	slaves=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 7319
 	}
 
 	soldiers=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 41
 	}
 
 	artisans=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 429
 	}
 
 	clergymen=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 80
 	}
 
 	bureaucrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 26
 	}
 
 	officers=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 180
 	}
 
 	farmers=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 34395
 	}
 
 	slaves=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 1188
 	}
 
 	soldiers=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 568
 	}
 
 	clergymen=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 106
 	}
 
 	bureaucrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 34
 	}
 
 	officers=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 238
 	}
 
 	farmers=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 4742
 	}
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 3526
 	}
@@ -171,56 +171,56 @@
 1957 = {
 	slaves=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 10957
 	}
 
 	soldiers=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 141
 	}
 
 	artisans=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 7158
 	}
 
 	clergymen=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 665
 	}
 
 	bureaucrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 143
 	}
 
 	officers=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 82
 	}
 
 	aristocrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 644
 	}
 
 	farmers=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 30048
 	}
@@ -229,119 +229,119 @@
 1958 = {
 	slaves=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 4182
 	}
 
 	soldiers=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 230
 	}
 
 	clergymen=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 43
 	}
 
 	bureaucrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 14
 	}
 
 	officers=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 97
 	}
 
 	farmers=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 18201
 	}
 
 	slaves=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 679
 	}
 
 	soldiers=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 305
 	}
 
 	clergymen=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 57
 	}
 
 	bureaucrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 18
 	}
 
 	officers=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 128
 	}
 
 	farmers=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 2503
 	}
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 2015
 	}
@@ -399,84 +399,84 @@
 1959 = {
 	aristocrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = animist
 		size= 525
 	}
 
 	clergymen=
 	{
-		culture = fang
+		culture = bantu
 		religion = animist
 		size= 275
 	}
 
 	artisans=
 	{
-		culture = fang
+		culture = bantu
 		religion = animist
 		size= 1125
 	}
 
 	soldiers=
 	{
-		culture = fang
+		culture = bantu
 		religion = animist
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = fang
+		culture = bantu
 		religion = animist
 		size= 16800
 	}
 
 	slaves=
 	{
-		culture = fang
+		culture = bantu
 		religion = animist
 		size= 9000
 	}
 
 	aristocrats=
 	{
-		culture = forest_bantu
+		culture = bantu
 		religion = animist
 		size= 1150
 	}
 
 	clergymen=
 	{
-		culture = forest_bantu
+		culture = bantu
 		religion = animist
 		size= 575
 	}
 
 	artisans=
 	{
-		culture = forest_bantu
+		culture = bantu
 		religion = animist
 		size= 2325
 	}
 
 	soldiers=
 	{
-		culture = forest_bantu
+		culture = bantu
 		religion = animist
 		size= 61
 	}
 
 	farmers=
 	{
-		culture = forest_bantu
+		culture = bantu
 		religion = animist
 		size= 39350
 	}
 
 	slaves=
 	{
-		culture = tiv
+		culture = niger_congo_a
 		religion = animist
 		size= 14000
 	}
@@ -485,42 +485,42 @@
 1960 = {
 	aristocrats=
 	{
-		culture = tiv
+		culture = niger_congo_a
 		religion = sunni
 		size= 1375
 	}
 
 	clergymen=
 	{
-		culture = tiv
+		culture = niger_congo_a
 		religion = sunni
 		size= 700
 	}
 
 	artisans=
 	{
-		culture = tiv
+		culture = niger_congo_a
 		religion = sunni
 		size= 2775
 	}
 
 	soldiers=
 	{
-		culture = tiv
+		culture = niger_congo_a
 		religion = sunni
 		size= 71
 	}
 
 	farmers=
 	{
-		culture = tiv
+		culture = niger_congo_a
 		religion = sunni
 		size= 44450
 	}
 
 	slaves=
 	{
-		culture = tiv
+		culture = niger_congo_a
 		religion = animist
 		size= 19000
 	}
@@ -529,42 +529,42 @@
 1961 = {
 	aristocrats=
 	{
-		culture = tiv
+		culture = niger_congo_a
 		religion = animist
 		size= 1850
 	}
 
 	clergymen=
 	{
-		culture = tiv
+		culture = niger_congo_a
 		religion = animist
 		size= 950
 	}
 
 	artisans=
 	{
-		culture = tiv
+		culture = niger_congo_a
 		religion = animist
 		size= 3725
 	}
 
 	soldiers=
 	{
-		culture = tiv
+		culture = niger_congo_a
 		religion = animist
 		size= 91
 	}
 
 	farmers=
 	{
-		culture = tiv
+		culture = niger_congo_a
 		religion = animist
 		size= 75575
 	}
 
 	slaves=
 	{
-		culture = ibibio
+		culture = niger_congo_a
 		religion = animist
 		size= 10000
 	}
@@ -573,84 +573,84 @@
 1962 = {
 	aristocrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = animist
 		size= 1225
 	}
 
 	clergymen=
 	{
-		culture = fang
+		culture = bantu
 		religion = animist
 		size= 625
 	}
 
 	artisans=
 	{
-		culture = fang
+		culture = bantu
 		religion = animist
 		size= 2500
 	}
 
 	soldiers=
 	{
-		culture = fang
+		culture = bantu
 		religion = animist
 		size= 61
 	}
 
 	farmers=
 	{
-		culture = fang
+		culture = bantu
 		religion = animist
 		size= 34025
 	}
 
 	slaves=
 	{
-		culture = fang
+		culture = bantu
 		religion = animist
 		size= 17000
 	}
 
 	aristocrats=
 	{
-		culture = forest_bantu
+		culture = bantu
 		religion = animist
 		size= 325
 	}
 
 	clergymen=
 	{
-		culture = forest_bantu
+		culture = bantu
 		religion = animist
 		size= 175
 	}
 
 	artisans=
 	{
-		culture = forest_bantu
+		culture = bantu
 		religion = animist
 		size= 725
 	}
 
 	soldiers=
 	{
-		culture = forest_bantu
+		culture = bantu
 		religion = animist
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = forest_bantu
+		culture = bantu
 		religion = animist
 		size= 10600
 	}
 
 	slaves=
 	{
-		culture = ubangian
+		culture = bantu
 		religion = animist
 		size= 6000
 	}
@@ -659,91 +659,91 @@
 1963 = {
 	aristocrats=
 	{
-		culture = fulbe
+		culture = niger_congo_a
 		religion = sunni
 		size= 500
 	}
 
 	bureaucrats=
 	{
-		culture = fulbe
+		culture = niger_congo_a
 		religion = sunni
 		size= 25
 	}
 
 	officers=
 	{
-		culture = fulbe
+		culture = niger_congo_a
 		religion = sunni
 		size= 75
 	}
 
 	clergymen=
 	{
-		culture = fulbe
+		culture = niger_congo_a
 		religion = sunni
 		size= 250
 	}
 
 	artisans=
 	{
-		culture = fulbe
+		culture = niger_congo_a
 		religion = sunni
 		size= 1050
 	}
 
 	soldiers=
 	{
-		culture = fulbe
+		culture = niger_congo_a
 		religion = sunni
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = fulbe
+		culture = niger_congo_a
 		religion = sunni
 		size= 19825
 	}
 
 	aristocrats=
 	{
-		culture = ubangian
+		culture = bantu
 		religion = animist
 		size= 275
 	}
 
 	clergymen=
 	{
-		culture = ubangian
+		culture = bantu
 		religion = animist
 		size= 150
 	}
 
 	artisans=
 	{
-		culture = ubangian
+		culture = bantu
 		religion = animist
 		size= 575
 	}
 
 	soldiers=
 	{
-		culture = ubangian
+		culture = bantu
 		religion = animist
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = ubangian
+		culture = bantu
 		religion = animist
 		size= 12850
 	}
 
 	slaves=
 	{
-		culture = tiv
+		culture = niger_congo_a
 		religion = animist
 		size= 4000
 	}
@@ -752,154 +752,154 @@
 1964 = {
 	aristocrats=
 	{
-		culture = fulbe
+		culture = niger_congo_a
 		religion = sunni
 		size= 700
 	}
 
 	clergymen=
 	{
-		culture = fulbe
+		culture = niger_congo_a
 		religion = sunni
 		size= 800
 	}
 
 	artisans=
 	{
-		culture = fulbe
+		culture = niger_congo_a
 		religion = sunni
 		size= 700
 	}
 
 	soldiers=
 	{
-		culture = fulbe
+		culture = niger_congo_a
 		religion = sunni
 		size= 41
 	}
 
 	farmers=
 	{
-		culture = fulbe
+		culture = niger_congo_a
 		religion = sunni
 		size= 27400
 	}
 
 	aristocrats=
 	{
-		culture = hausa
+		culture = niger_congo_a
 		religion = sunni
 		size= 200
 	}
 
 	clergymen=
 	{
-		culture = hausa
+		culture = niger_congo_a
 		religion = sunni
 		size= 200
 	}
 
 	artisans=
 	{
-		culture = hausa
+		culture = niger_congo_a
 		religion = sunni
 		size= 800
 	}
 
 	soldiers=
 	{
-		culture = hausa
+		culture = niger_congo_a
 		religion = sunni
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = hausa
+		culture = niger_congo_a
 		religion = sunni
 		size= 20600
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 300
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 200
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 1100
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 18300
 	}
 
 	aristocrats=
 	{
-		culture = baguirmi
+		culture = bantu
 		religion = animist
 		size= 700
 	}
 
 	clergymen=
 	{
-		culture = baguirmi
+		culture = bantu
 		religion = animist
 		size= 400
 	}
 
 	artisans=
 	{
-		culture = baguirmi
+		culture = bantu
 		religion = animist
 		size= 1800
 	}
 
 	soldiers=
 	{
-		culture = baguirmi
+		culture = bantu
 		religion = animist
 		size= 41
 	}
 
 	farmers=
 	{
-		culture = baguirmi
+		culture = bantu
 		religion = animist
 		size= 23100
 	}
 
 	slaves=
 	{
-		culture = kanuri
+		culture = bantu
 		religion = sunni
 		size= 6000
 	}
 
 	slaves=
 	{
-		culture = sara
+		culture = bantu
 		religion = sunni
 		size= 6000
 	}

@@ -1,5 +1,5 @@
 capital = 251
-primary_culture = eskaleut
+primary_culture = native_american_minor
 culture = zzz_religion_protestant
 religion = protestant
 government = democracy

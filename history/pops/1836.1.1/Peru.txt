@@ -1,15 +1,13 @@
 2286 = {
 	soldiers=
 	{
-		culture = maranon
-		religion = animist
+		culture =aimara		religion = animist
 		size= 34
 	}
 
 	farmers=
 	{
-		culture = maranon
-		religion = animist
+		culture =aimara		religion = animist
 		size= 3324
 	}
 
@@ -159,15 +157,13 @@
 2288 = {
 	soldiers=
 	{
-		culture = maranon
-		religion = animist
+		culture =aimara		religion = animist
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = maranon
-		religion = animist
+		culture =aimara		religion = animist
 		size= 629
 	}
 
@@ -224,15 +220,13 @@
 2289 = {
 	soldiers=
 	{
-		culture = maranon
-		religion = animist
+		culture =aimara		religion = animist
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = maranon
-		religion = animist
+		culture =aimara		religion = animist
 		size= 312
 	}
 
@@ -287,14 +281,14 @@
 
 	soldiers=
 	{
-		culture = guajiro
+		culture = aimara
 		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = guajiro
+		culture = aimara
 		religion = animist
 		size= 205
 	}
@@ -780,50 +774,43 @@
 2294 = {
 	soldiers=
 	{
-		culture = maranon
-		religion = inti
+		culture =aimara		religion = inti
 		size= 61
 	}
 
 	artisans=
 	{
-		culture = maranon
-		religion = inti
+		culture =aimara		religion = inti
 		size= 243
 	}
 
 	clergymen=
 	{
-		culture = maranon
-		religion = inti
+		culture =aimara		religion = inti
 		size= 39
 	}
 
 	bureaucrats=
 	{
-		culture = maranon
-		religion = inti
+		culture =aimara		religion = inti
 		size= 12
 	}
 
 	officers=
 	{
-		culture = maranon
-		religion = inti
+		culture =aimara		religion = inti
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = maranon
-		religion = inti
+		culture =aimara		religion = inti
 		size= 102
 	}
 
 	farmers=
 	{
-		culture = maranon
-		religion = inti
+		culture =aimara		religion = inti
 		size= 5601
 	}
 
@@ -1233,112 +1220,98 @@
 2300 = {
 	soldiers=
 	{
-		culture = maranon
-		religion = inti
+		culture =aimara		religion = inti
 		size= 13
 	}
 
 	artisans=
 	{
-		culture = maranon
-		religion = inti
+		culture =aimara		religion = inti
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = maranon
-		religion = inti
+		culture =aimara		religion = inti
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = maranon
-		religion = inti
+		culture =aimara		religion = inti
 		size= 2
 	}
 
 	officers=
 	{
-		culture = maranon
-		religion = inti
+		culture =aimara		religion = inti
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = maranon
-		religion = inti
+		culture =aimara		religion = inti
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = maranon
-		religion = inti
+		culture =aimara		religion = inti
 		size= 1207
 	}
 
 	soldiers=
 	{
-		culture = maranon
-		religion = catholic
+		culture =aimara		religion = catholic
 		size= 51
 	}
 
 	artisans=
 	{
-		culture = maranon
-		religion = catholic
+		culture =aimara		religion = catholic
 		size= 230
 	}
 
 	clergymen=
 	{
-		culture = maranon
-		religion = catholic
+		culture =aimara		religion = catholic
 		size= 37
 	}
 
 	bureaucrats=
 	{
-		culture = maranon
-		religion = catholic
+		culture =aimara		religion = catholic
 		size= 20
 	}
 
 	officers=
 	{
-		culture = maranon
-		religion = catholic
+		culture =aimara		religion = catholic
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = maranon
-		religion = catholic
+		culture =aimara		religion = catholic
 		size= 96
 	}
 
 	farmers=
 	{
-		culture = maranon
-		religion = catholic
+		culture =aimara		religion = catholic
 		size= 4670
 	}
 
 	soldiers=
 	{
-		culture = amazonian
+		culture = aimara
 		religion = inti
 		size= 18
 	}
 
 	farmers=
 	{
-		culture = amazonian
+		culture = aimara
 		religion = inti
 		size= 1759
 	}
@@ -1515,49 +1488,49 @@
 
 	soldiers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 48
 	}
 
 	clergymen=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 3
 	}
 
 	officers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 987
 	}
@@ -1734,56 +1707,56 @@
 
 	slaves=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 1857
 	}
 
 	soldiers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 212
 	}
 
 	artisans=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 944
 	}
 
 	clergymen=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 153
 	}
 
 	bureaucrats=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 57
 	}
 
 	officers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 396
 	}
 
 	farmers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 17572
 	}
@@ -1834,49 +1807,49 @@
 
 	soldiers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 111
 	}
 
 	artisans=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 502
 	}
 
 	clergymen=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 82
 	}
 
 	bureaucrats=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 30
 	}
 
 	officers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 106
 	}
 
 	farmers=
 	{
-		culture = aimara
+		culture = native_american_minor
 		religion = catholic
 		size= 10304
 	}
@@ -2023,14 +1996,14 @@
 
 	soldiers=
 	{
-		culture = amazonian
+		culture = aimara
 		religion = animist
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = amazonian
+		culture = aimara
 		religion = animist
 		size= 733
 	}

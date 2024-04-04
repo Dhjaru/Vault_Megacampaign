@@ -1,105 +1,105 @@
 2049 = {
 	slaves=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 2910
 	}
 
 	soldiers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 378
 	}
 
 	artisans=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 1324
 	}
 
 	clergymen=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 123
 	}
 
 	bureaucrats=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 26
 	}
 
 	officers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 79
 	}
 
 	farmers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 32978
 	}
 
 	slaves=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = protestant
 		size= 137
 	}
 
 	soldiers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = protestant
 		size= 18
 	}
 
 	artisans=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = protestant
 		size= 1449
 	}
 
 	clergymen=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = protestant
 		size= 135
 	}
 
 	bureaucrats=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = protestant
 		size= 29
 	}
 
 	officers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = protestant
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = protestant
 		size= 87
 	}
@@ -164,105 +164,105 @@
 2050 = {
 	slaves=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 10184
 	}
 
 	soldiers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 335
 	}
 
 	artisans=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 1171
 	}
 
 	clergymen=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 109
 	}
 
 	bureaucrats=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 23
 	}
 
 	officers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 70
 	}
 
 	farmers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 21563
 	}
 
 	slaves=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = protestant
 		size= 480
 	}
 
 	soldiers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = protestant
 		size= 16
 	}
 
 	artisans=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = protestant
 		size= 1282
 	}
 
 	clergymen=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = protestant
 		size= 119
 	}
 
 	bureaucrats=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = protestant
 		size= 26
 	}
 
 	officers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = protestant
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = protestant
 		size= 77
 	}
@@ -327,56 +327,56 @@
 2051 = {
 	slaves=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 7195
 	}
 
 	soldiers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 689
 	}
 
 	artisans=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 9641
 	}
 
 	clergymen=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 895
 	}
 
 	bureaucrats=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 96
 	}
 
 	officers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 55
 	}
 
 	aristocrats=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 868
 	}
 
 	farmers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 49428
 	}
@@ -385,77 +385,77 @@
 2052 = {
 	aristocrats=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = animist
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = animist
 		size= 500
 	}
 
 	artisans=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = animist
 		size= 200
 	}
 
 	soldiers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = animist
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = animist
 		size= 3650
 	}
 
 	aristocrats=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 350
 	}
 
 	clergymen=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 375
 	}
 
 	artisans=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 1800
 	}
 
 	soldiers=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 400
 	}
 
 	farmers=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 39375
 	}
 
 	slaves=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 22700
 	}
@@ -499,84 +499,84 @@
 
 	aristocrats=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 150
 	}
 
 	clergymen=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 150
 	}
 
 	artisans=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 700
 	}
 
 	soldiers=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 150
 	}
 
 	farmers=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 10850
 	}
 
 	slaves=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 3000
 	}
 
 	aristocrats=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 250
 	}
 
 	clergymen=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 200
 	}
 
 	artisans=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 1100
 	}
 
 	soldiers=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 250
 	}
 
 	farmers=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 42700
 	}
 
 	slaves=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 2500
 	}
@@ -613,119 +613,119 @@
 2054 = {
 	aristocrats=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 125
 	}
 
 	artisans=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 500
 	}
 
 	soldiers=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 150
 	}
 
 	farmers=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 7125
 	}
 
 	slaves=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 3000
 	}
 
 	aristocrats=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 400
 	}
 
 	soldiers=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 4850
 	}
 
 	slaves=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 2500
 	}
 
 	aristocrats=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 350
 	}
 
 	soldiers=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 6425
 	}
@@ -734,42 +734,42 @@
 2055 = {
 	aristocrats=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 450
 	}
 
 	clergymen=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 400
 	}
 
 	artisans=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 2000
 	}
 
 	soldiers=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 450
 	}
 
 	farmers=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 50700
 	}
 
 	slaves=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 2000
 	}
@@ -778,119 +778,119 @@
 2056 = {
 	aristocrats=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 400
 	}
 
 	clergymen=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 500
 	}
 
 	soldiers=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 10100
 	}
 
 	slaves=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 2100
 	}
 
 	aristocrats=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 550
 	}
 
 	clergymen=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 125
 	}
 
 	artisans=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 650
 	}
 
 	soldiers=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 150
 	}
 
 	farmers=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 35925
 	}
 
 	slaves=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 3000
 	}
 
 	aristocrats=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 500
 	}
 
 	clergymen=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 150
 	}
 
 	soldiers=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 12710
 	}
@@ -899,112 +899,112 @@
 2057 = {
 	slaves=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = sunni
 		size= 2936
 	}
 
 	soldiers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = sunni
 		size= 375
 	}
 
 	artisans=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = sunni
 		size= 749
 	}
 
 	clergymen=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = sunni
 		size= 122
 	}
 
 	bureaucrats=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = sunni
 		size= 34
 	}
 
 	officers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = sunni
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = sunni
 		size= 236
 	}
 
 	farmers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = sunni
 		size= 32991
 	}
 
 	slaves=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 2587
 	}
 
 	soldiers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 330
 	}
 
 	artisans=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 2069
 	}
 
 	clergymen=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 336
 	}
 
 	bureaucrats=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 93
 	}
 
 	officers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 41
 	}
 
 	aristocrats=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 652
 	}
 
 	farmers=
 	{
-		culture = nguni
+		culture = southern_bantu
 		religion = shamanism
 		size= 26899
 	}
@@ -1013,42 +1013,42 @@
 2058 = {
 	aristocrats=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 3350
 	}
 
 	clergymen=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 375
 	}
 
 	artisans=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 1750
 	}
 
 	soldiers=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 350
 	}
 
 	farmers=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 50275
 	}
 
 	slaves=
 	{
-		culture = shona
+		culture = southern_bantu
 		religion = animist
 		size= 3000
 	}
@@ -1057,112 +1057,112 @@
 2059 = {
 	slaves=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = sunni
 		size= 2818
 	}
 
 	soldiers=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = sunni
 		size= 88
 	}
 
 	artisans=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = sunni
 		size= 464
 	}
 
 	clergymen=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = sunni
 		size= 21
 	}
 
 	bureaucrats=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = sunni
 		size= 7
 	}
 
 	officers=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = sunni
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = sunni
 		size= 42
 	}
 
 	farmers=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = sunni
 		size= 5615
 	}
 
 	slaves=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = shamanism
 		size= 4421
 	}
 
 	artisans=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = shamanism
 		size= 2690
 	}
 
 	clergymen=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = shamanism
 		size= 125
 	}
 
 	bureaucrats=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = shamanism
 		size= 42
 	}
 
 	officers=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = shamanism
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = shamanism
 		size= 242
 	}
 
 	soldiers=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = shamanism
 		size= 137
 	}
 
 	farmers=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = shamanism
 		size= 6238
 	}
@@ -1513,91 +1513,91 @@
 2064 = {
 	aristocrats=
 	{
-		culture = yao
+		culture = southern_bantu
 		religion = sunni
 		size= 250
 	}
 
 	clergymen=
 	{
-		culture = yao
+		culture = southern_bantu
 		religion = sunni
 		size= 250
 	}
 
 	artisans=
 	{
-		culture = yao
+		culture = southern_bantu
 		religion = sunni
 		size= 1250
 	}
 
 	soldiers=
 	{
-		culture = yao
+		culture = southern_bantu
 		religion = sunni
 		size= 300
 	}
 
 	farmers=
 	{
-		culture = yao
+		culture = southern_bantu
 		religion = sunni
 		size= 21950
 	}
 
 	slaves=
 	{
-		culture = yao
+		culture = southern_bantu
 		religion = animist
 		size= 1100
 	}
 
 	aristocrats=
 	{
-		culture = makua
+		culture = southern_bantu
 		religion = animist
 		size= 200
 	}
 
 	clergymen=
 	{
-		culture = makua
+		culture = southern_bantu
 		religion = animist
 		size= 200
 	}
 
 	artisans=
 	{
-		culture = makua
+		culture = southern_bantu
 		religion = animist
 		size= 900
 	}
 
 	soldiers=
 	{
-		culture = makua
+		culture = southern_bantu
 		religion = animist
 		size= 200
 	}
 
 	farmers=
 	{
-		culture = makua
+		culture = southern_bantu
 		religion = animist
 		size= 40500
 	}
 
 	slaves=
 	{
-		culture = makua
+		culture = southern_bantu
 		religion = animist
 		size= 1000
 	}
 
 	slaves=
 	{
-		culture = yao
+		culture = southern_bantu
 		religion = animist
 		size= 3000
 	}
@@ -1606,84 +1606,84 @@
 2065 = {
 	aristocrats=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 250
 	}
 
 	clergymen=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 250
 	}
 
 	artisans=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 1250
 	}
 
 	soldiers=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 300
 	}
 
 	farmers=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 18450
 	}
 
 	slaves=
 	{
-		culture = sena
+		culture = southern_bantu
 		religion = animist
 		size= 3500
 	}
 
 	aristocrats=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 150
 	}
 
 	soldiers=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 750
 	}
 
 	slaves=
 	{
-		culture = nyasa
+		culture = southern_bantu
 		religion = animist
 		size= 2000
 	}
@@ -1692,49 +1692,49 @@
 2581 = {
 	aristocrats=
 	{
-		culture = yao
+		culture = southern_bantu
 		religion = sunni
 		size= 450
 	}
 
 	clergymen=
 	{
-		culture = yao
+		culture = southern_bantu
 		religion = sunni
 		size= 400
 	}
 
 	artisans=
 	{
-		culture = yao
+		culture = southern_bantu
 		religion = sunni
 		size= 2100
 	}
 
 	soldiers=
 	{
-		culture = yao
+		culture = southern_bantu
 		religion = sunni
 		size= 450
 	}
 
 	farmers=
 	{
-		culture = yao
+		culture = southern_bantu
 		religion = sunni
 		size= 35600
 	}
 
 	slaves=
 	{
-		culture = yao
+		culture = southern_bantu
 		religion = animist
 		size= 2000
 	}
 
 	slaves=
 	{
-		culture = yao
+		culture = southern_bantu
 		religion = animist
 		size= 15000
 	}

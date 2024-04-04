@@ -1,28 +1,28 @@
 1954 = {
 	slaves=
 	{
-		culture = yoruba
+		culture = niger_congo_a
 		religion = shamanism
 		size= 1369
 	}
 
 	soldiers=
 	{
-		culture = yoruba
+		culture = niger_congo_a
 		religion = shamanism
 		size= 35
 	}
 
 	farmers=
 	{
-		culture = yoruba
+		culture = niger_congo_a
 		religion = shamanism
 		size= 338
 	}
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 1977
 	}

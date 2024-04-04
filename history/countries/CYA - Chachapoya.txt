@@ -1,6 +1,5 @@
 capital = 2294
-primary_culture = maranon
-culture = zzz_religion_inti
+primary_culture =native_american_minorculture = zzz_religion_inti
 religion = inti
 government = absolute_monarchy
 plurality = 0

@@ -75,14 +75,14 @@
 9 = {
 	soldiers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = totemism
 		size= 349
 	}
@@ -175,7 +175,7 @@
 
 	farmers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = animist
 		size= 150
 	}
@@ -184,14 +184,14 @@
 13 = {
 	soldiers=
 	{
-		culture = penutian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = penutian
+		culture = native_american_minor
 		religion = totemism
 		size= 558
 	}
@@ -249,14 +249,14 @@
 14 = {
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = totemism
 		size= 521
 	}
@@ -314,14 +314,14 @@
 15 = {
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = totemism
 		size= 164
 	}
@@ -377,29 +377,27 @@
 
 	soldiers=
 	{
-		culture = penutian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = penutian
+		culture = native_american_minor
 		religion = totemism
 		size= 393
 	}
 
 	soldiers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size= 113
 	}
 
@@ -481,15 +479,13 @@
 18 = {
 	soldiers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size= 154
 	}
 
@@ -546,15 +542,13 @@
 19 = {
 	soldiers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size= 490
 	}
 
@@ -611,14 +605,14 @@
 20 = {
 	soldiers=
 	{
-		culture = penutian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = penutian
+		culture = native_american_minor
 		religion = totemism
 		size= 477
 	}
@@ -676,14 +670,14 @@
 21 = {
 	soldiers=
 	{
-		culture = sonoran
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = sonoran
+		culture = native_american_minor
 		religion = totemism
 		size= 507
 	}
@@ -741,15 +735,13 @@
 22 = {
 	soldiers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size= 824
 	}
 
@@ -806,15 +798,13 @@
 23 = {
 	soldiers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size= 354
 	}
 
@@ -871,14 +861,14 @@
 24 = {
 	soldiers=
 	{
-		culture = plains_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 64
 	}
@@ -936,14 +926,14 @@
 25 = {
 	soldiers=
 	{
-		culture = plains_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 632
 	}
@@ -1001,14 +991,14 @@
 26 = {
 	soldiers=
 	{
-		culture = plains_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 279
 	}
@@ -1066,14 +1056,14 @@
 27 = {
 	soldiers=
 	{
-		culture = plains_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 224
 	}
@@ -1129,8 +1119,7 @@
 
 	aristocrats=
 	{
-		culture = metis
-		religion = orthodox
+		culture =native_american_minor		religion = orthodox
 		size= 5
 	}
 
@@ -1138,15 +1127,13 @@
 28 = {
 	soldiers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size= 466
 	}
 
@@ -1203,14 +1190,14 @@
 30 = {
 	soldiers=
 	{
-		culture = plains_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 268
 	}
@@ -1266,14 +1253,14 @@
 
 	soldiers=
 	{
-		culture = siouan
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = siouan
+		culture = native_american_minor
 		religion = totemism
 		size= 419
 	}
@@ -1368,14 +1355,14 @@
 32 = {
 	soldiers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size= 148
 	}
@@ -1424,29 +1411,25 @@
 
 	soldiers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size=1
 	}
 
 	artisans=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size= 115
 	}
 
@@ -1454,15 +1437,13 @@
 33 = {
 	soldiers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size= 272
 	}
 
@@ -1519,14 +1500,14 @@
 34 = {
 	soldiers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size= 305
 	}
@@ -1584,14 +1565,14 @@
 35 = {
 	soldiers=
 	{
-		culture = plains_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 271
 	}
@@ -1649,14 +1630,14 @@
 36 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	craftsmen=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 3706
 	}
@@ -1728,14 +1709,14 @@
 37 = {
 	soldiers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size= 175
 	}
@@ -1819,14 +1800,14 @@
 
 	soldiers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = totemism
 		size= 151
 	}
@@ -1835,14 +1816,14 @@
 38 = {
 	soldiers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size= 299
 	}
@@ -1935,14 +1916,14 @@
 39 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 262
 	}
@@ -2021,14 +2002,14 @@
 40 = {
 	soldiers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size= 379
 	}
@@ -2086,15 +2067,13 @@
 41 = {
 	soldiers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size= 170
 	}
 
@@ -2149,14 +2128,14 @@
 
 	soldiers=
 	{
-		culture = siouan
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = siouan
+		culture = native_american_minor
 		religion = totemism
 		size= 136
 	}
@@ -2165,14 +2144,14 @@
 42 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 409
 	}
@@ -2228,8 +2207,7 @@
 
 	aristocrats=
 	{
-		culture = metis
-		religion = protestant
+		culture =native_american_minor		religion = protestant
 		size= 5
 	}
 
@@ -2237,14 +2215,14 @@
 46 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 10704
 	}
@@ -2302,14 +2280,14 @@
 47 = {
 	soldiers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size= 133
 	}
@@ -2416,14 +2394,14 @@
 48 = {
 	soldiers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size= 263
 	}
@@ -2509,14 +2487,14 @@
 49 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 622
 	}
@@ -2572,8 +2550,7 @@
 
 	aristocrats=
 	{
-		culture = metis
-		religion = protestant
+		culture =native_american_minor		religion = protestant
 		size= 5
 	}
 
@@ -2581,14 +2558,14 @@
 50 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 437
 	}
@@ -2646,14 +2623,14 @@
 51 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 280
 	}
@@ -2709,14 +2686,14 @@
 
 	soldiers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size= 234
 	}
@@ -2858,28 +2835,28 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 125
 	}
 
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 134
 	}
@@ -2888,14 +2865,14 @@
 53 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 120
 	}
@@ -2944,14 +2921,14 @@
 
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 136
 	}
@@ -2960,14 +2937,14 @@
 54 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 2185
 	}
@@ -3025,14 +3002,14 @@
 55 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 4152
 	}
@@ -3090,14 +3067,14 @@
 56 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 3547
 	}
@@ -3155,14 +3132,14 @@
 57 = {
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 2178
 	}
@@ -3220,14 +3197,14 @@
 58 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 9321
 	}
@@ -3285,14 +3262,14 @@
 59 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 129
 	}
@@ -3350,14 +3327,14 @@
 61 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 323
 	}
@@ -3415,14 +3392,14 @@
 62 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 280
 	}
@@ -3480,14 +3457,14 @@
 63 = {
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 744
 	}
@@ -3552,14 +3529,14 @@
 64 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 2748
 	}
@@ -3617,14 +3594,14 @@
 65 = {
 	soldiers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 5334
 	}
@@ -3682,14 +3659,14 @@
 66 = {
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 975
 	}
@@ -3745,14 +3722,14 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = native_american_minor
 		religion = totemism
 		size= 1454
 	}
@@ -3761,14 +3738,14 @@
 67 = {
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 504
 	}
@@ -3833,14 +3810,14 @@
 68 = {
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 2190
 	}
@@ -3959,7 +3936,7 @@
 
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 2
 	}
@@ -3968,14 +3945,14 @@
 69 = {
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 822
 	}
@@ -4061,14 +4038,14 @@
 70 = {
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 663
 	}
@@ -4140,14 +4117,14 @@
 
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 1806
 	}
@@ -4212,14 +4189,14 @@
 72 = {
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 955
 	}
@@ -4310,7 +4287,7 @@
 
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 2
 	}
@@ -4319,14 +4296,14 @@
 73 = {
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 439
 	}
@@ -4412,14 +4389,14 @@
 74 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 963
 	}
@@ -4540,14 +4517,14 @@
 75 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 438
 	}
@@ -4647,14 +4624,14 @@
 76 = {
 	soldiers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = totemism
 		size= 307
 	}
@@ -4712,7 +4689,7 @@
 77 = {
 	farmers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 7
 	}
@@ -4770,14 +4747,14 @@
 2592 = {
 	soldiers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = totemism
 		size= 237
 	}
@@ -4835,14 +4812,14 @@
 2593 = {
 	soldiers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size= 113
 	}
@@ -4893,14 +4870,14 @@
 2594 = {
 	soldiers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = totemism
 		size= 148
 	}
@@ -4958,7 +4935,7 @@
 
 	aristocrats=
 	{
-		culture = cree
+		culture = native_american_minor
 		religion = protestant
 		size= 5
 	}
@@ -4993,7 +4970,7 @@
 
 	farmers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = animist
 		size= 1135
 	}
@@ -5037,7 +5014,7 @@
 
 	farmers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = animist
 		size= 500
 	}
@@ -5046,22 +5023,19 @@
 2597 = {
 	soldiers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size=1
 	}
 
 	artisans=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = na_dene
-		religion = totemism
+		culture =native_american_minor		religion = totemism
 		size= 219
 	}
 
@@ -5148,14 +5122,14 @@
 2625 = {
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = native_american_minor
 		religion = totemism
 		size= 229
 	}
@@ -5213,14 +5187,14 @@
 2626 = {
 	soldiers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = totemism
 		size=1
 	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = totemism
 		size= 234
 	}

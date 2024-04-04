@@ -171,7 +171,7 @@
 1701 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 1935
 	}
@@ -227,7 +227,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 1976
 	}
@@ -283,7 +283,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = orthodox
 		size= 1296
 	}
@@ -341,7 +341,7 @@
 1702 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 2322
 	}
@@ -397,7 +397,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 2371
 	}
@@ -453,7 +453,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = orthodox
 		size= 1555
 	}
@@ -648,7 +648,7 @@
 1705 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 6247
 	}
@@ -704,7 +704,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = orthodox
 		size= 2071
 	}
@@ -762,7 +762,7 @@
 1706 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 1860
 	}
@@ -1987,7 +1987,7 @@
 1713 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 896
 	}
@@ -2043,7 +2043,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 948
 	}
@@ -2099,7 +2099,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = orthodox
 		size= 36
 	}
@@ -2411,28 +2411,28 @@
 1716 = {
 	aristocrats=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 15
 	}
 
 	soldiers=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 1900
 	}
@@ -2441,28 +2441,28 @@
 1717 = {
 	aristocrats=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 15
 	}
 
 	soldiers=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 1900
 	}
@@ -2499,28 +2499,28 @@
 
 	aristocrats=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 30
 	}
 
 	soldiers=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 3800
 	}
@@ -2529,28 +2529,28 @@
 1719 = {
 	aristocrats=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 15
 	}
 
 	soldiers=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 1900
 	}
@@ -2559,28 +2559,28 @@
 1720 = {
 	aristocrats=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 75
 	}
 
 	clergymen=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 45
 	}
 
 	soldiers=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 121
 	}
 
 	farmers=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 4700
 	}
@@ -2645,28 +2645,28 @@
 1721 = {
 	aristocrats=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 15
 	}
 
 	soldiers=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 1900
 	}
@@ -2675,28 +2675,28 @@
 1722 = {
 	aristocrats=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 100
 	}
 
 	soldiers=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tuareg
+		culture = nilo_saharan
 		religion = sunni
 		size= 3800
 	}

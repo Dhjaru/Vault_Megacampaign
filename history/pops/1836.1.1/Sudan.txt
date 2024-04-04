@@ -1,49 +1,49 @@
 1739 = {
 	aristocrats=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 25
 	}
 
 	officers=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 100
 	}
 
 	soldiers=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 500
 	}
 
 	slaves=
 	{
-		culture = fur
+		culture = bantu
 		religion = animist
 		size= 200
 	}
@@ -415,112 +415,112 @@
 1829 = {
 	slaves=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = sunni
 		size= 2936
 	}
 
 	soldiers=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = sunni
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = sunni
 		size= 1438
 	}
 
 	clergymen=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = sunni
 		size= 67
 	}
 
 	bureaucrats=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = sunni
 		size= 10
 	}
 
 	officers=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = sunni
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = sunni
 		size= 173
 	}
 
 	farmers=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = sunni
 		size= 15700
 	}
 
 	slaves=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = coptic
 		size= 5658
 	}
 
 	soldiers=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = coptic
 		size= 101
 	}
 
 	artisans=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = coptic
 		size= 6981
 	}
 
 	clergymen=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = coptic
 		size= 324
 	}
 
 	bureaucrats=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = coptic
 		size= 50
 	}
 
 	officers=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = coptic
 		size= 65
 	}
 
 	aristocrats=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = coptic
 		size= 838
 	}
 
 	farmers=
 	{
-		culture = beja
+		culture = nilo_saharan
 		religion = coptic
 		size= 24643
 	}
@@ -920,7 +920,7 @@
 1833 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 696
 	}
@@ -976,7 +976,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = coptic
 		size= 1293
 	}
@@ -1723,35 +1723,35 @@
 
 	aristocrats=
 	{
-		culture = dinka
+		culture = bantu
 		religion = animist
 		size= 475
 	}
 
 	artisans=
 	{
-		culture = dinka
+		culture = bantu
 		religion = animist
 		size= 1100
 	}
 
 	soldiers=
 	{
-		culture = dinka
+		culture = bantu
 		religion = animist
 		size= 41
 	}
 
 	farmers=
 	{
-		culture = dinka
+		culture = bantu
 		religion = animist
 		size= 24900
 	}
 
 	slaves=
 	{
-		culture = nilotic
+		culture = nilo_saharan
 		religion = animist
 		size= 15000
 	}
@@ -1795,63 +1795,63 @@
 
 	aristocrats=
 	{
-		culture = nuba
+		culture = nilo_saharan
 		religion = animist
 		size= 350
 	}
 
 	artisans=
 	{
-		culture = nuba
+		culture = nilo_saharan
 		religion = animist
 		size= 725
 	}
 
 	soldiers=
 	{
-		culture = nuba
+		culture = nilo_saharan
 		religion = animist
 		size= 31
 	}
 
 	farmers=
 	{
-		culture = nuba
+		culture = nilo_saharan
 		religion = animist
 		size= 16650
 	}
 
 	slaves=
 	{
-		culture = nuba
+		culture = nilo_saharan
 		religion = animist
 		size= 10000
 	}
 
 	aristocrats=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 275
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 800
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 14775
 	}
@@ -1860,56 +1860,56 @@
 1841 = {
 	aristocrats=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 1200
 	}
 
 	bureaucrats=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 100
 	}
 
 	officers=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 200
 	}
 
 	clergymen=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 2600
 	}
 
 	soldiers=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 121
 	}
 
 	farmers=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 58600
 	}
 
 	slaves=
 	{
-		culture = teda
+		culture = nilo_saharan
 		religion = sunni
 		size= 4000
 	}
@@ -1918,77 +1918,77 @@
 1842 = {
 	aristocrats=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 650
 	}
 
 	clergymen=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 1500
 	}
 
 	soldiers=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 111
 	}
 
 	farmers=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 32300
 	}
 
 	slaves=
 	{
-		culture = teda
+		culture = nilo_saharan
 		religion = sunni
 		size= 10400
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 200
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 3650
 	}
@@ -1997,105 +1997,105 @@
 1843 = {
 	aristocrats=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 125
 	}
 
 	clergymen=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 75
 	}
 
 	artisans=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 350
 	}
 
 	soldiers=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 6350
 	}
 
 	aristocrats=
 	{
-		culture = ubangian
+		culture = bantu
 		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = ubangian
+		culture = bantu
 		religion = animist
 		size= 300
 	}
 
 	soldiers=
 	{
-		culture = ubangian
+		culture = bantu
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = ubangian
+		culture = bantu
 		religion = animist
 		size= 5525
 	}
 
 	slaves=
 	{
-		culture = ubangian
+		culture = bantu
 		religion = animist
 		size= 4000
 	}
 
 	aristocrats=
 	{
-		culture = nuba
+		culture = nilo_saharan
 		religion = animist
 		size= 200
 	}
 
 	artisans=
 	{
-		culture = nuba
+		culture = nilo_saharan
 		religion = animist
 		size= 450
 	}
 
 	soldiers=
 	{
-		culture = nuba
+		culture = nilo_saharan
 		religion = animist
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = nuba
+		culture = nilo_saharan
 		religion = animist
 		size= 10150
 	}
 
 	slaves=
 	{
-		culture = nuba
+		culture = nilo_saharan
 		religion = animist
 		size= 7000
 	}
@@ -2139,28 +2139,28 @@
 
 	aristocrats=
 	{
-		culture = dinka
+		culture = bantu
 		religion = animist
 		size= 325
 	}
 
 	artisans=
 	{
-		culture = dinka
+		culture = bantu
 		religion = animist
 		size= 850
 	}
 
 	soldiers=
 	{
-		culture = dinka
+		culture = bantu
 		religion = animist
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = dinka
+		culture = bantu
 		religion = animist
 		size= 15650
 	}
@@ -2195,35 +2195,35 @@
 
 	aristocrats=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 300
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 675
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 15775
 	}
 
 	slaves=
 	{
-		culture = nilotic
+		culture = nilo_saharan
 		religion = animist
 		size= 10000
 	}
@@ -2232,77 +2232,77 @@
 1845 = {
 	aristocrats=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 75
 	}
 
 	clergymen=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 200
 	}
 
 	soldiers=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = fur
+		culture = bantu
 		religion = sunni
 		size= 3650
 	}
 
 	aristocrats=
 	{
-		culture = azande
+		culture = bantu
 		religion = animist
 		size= 450
 	}
 
 	artisans=
 	{
-		culture = azande
+		culture = bantu
 		religion = animist
 		size= 900
 	}
 
 	soldiers=
 	{
-		culture = azande
+		culture = bantu
 		religion = animist
 		size= 31
 	}
 
 	farmers=
 	{
-		culture = azande
+		culture = bantu
 		religion = animist
 		size= 21100
 	}
 
 	slaves=
 	{
-		culture = azande
+		culture = bantu
 		religion = animist
 		size= 8000
 	}
 
 	slaves=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 4000
 	}
@@ -2311,28 +2311,28 @@
 1846 = {
 	aristocrats=
 	{
-		culture = azande
+		culture = bantu
 		religion = animist
 		size= 450
 	}
 
 	artisans=
 	{
-		culture = azande
+		culture = bantu
 		religion = animist
 		size= 1200
 	}
 
 	soldiers=
 	{
-		culture = azande
+		culture = bantu
 		religion = animist
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = azande
+		culture = bantu
 		religion = animist
 		size= 22100
 	}
@@ -2367,35 +2367,35 @@
 
 	aristocrats=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 325
 	}
 
 	farmers=
 	{
-		culture = nilotic
+		culture = nilo_saharan
 		religion = animist
 		size= 950
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 16550
 	}
 
 	slaves=
 	{
-		culture = nilotic
+		culture = nilo_saharan
 		religion = animist
 		size= 1100
 	}
@@ -2404,63 +2404,63 @@
 1847 = {
 	aristocrats=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 525
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 1400
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 31
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 25800
 	}
 
 	aristocrats=
 	{
-		culture = nilotic
+		culture = nilo_saharan
 		religion = animist
 		size= 125
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 350
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = bantu
 		religion = animist
 		size= 6475
 	}
 
 	slaves=
 	{
-		culture = nilotic
+		culture = nilo_saharan
 		religion = animist
 		size= 1100
 	}
@@ -2469,35 +2469,35 @@
 2564 = {
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 100
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 1100
 	}

@@ -2127,35 +2127,35 @@
 1758 = {
 	aristocrats=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 100
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = bantu
 		religion = sunni
 		size= 1800
 	}

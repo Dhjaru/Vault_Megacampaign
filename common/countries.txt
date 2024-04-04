@@ -1,3 +1,14 @@
+#Please keep tags sorted alphabetically when you add/remove country tags
+
+# Special countries...
+REB 	= 	"countries/rebels.txt"
+SMA		= 	"countries/Small State.txt"
+MED		=	"countries/Medium State.txt"
+LRG		=	"countries/Large State.txt"
+HUG		=	"countries/Huge State.txt"
+STR		=	"countries/Strategic State.txt"
+GHO 	= 	"countries/Ghost Country.txt"
+
 AAA = "countries/AAA.txt"
 ABK = "countries/Abkhazia.txt"
 ABO = "countries/Aborigines.txt"

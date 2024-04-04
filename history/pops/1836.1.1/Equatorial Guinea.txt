@@ -1,21 +1,21 @@
 1955 = {
 	slaves=
 	{
-		culture = yoruba
+		culture = niger_congo_a
 		religion = shamanism
 		size= 235
 	}
 
 	soldiers=
 	{
-		culture = yoruba
+		culture = niger_congo_a
 		religion = shamanism
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = yoruba
+		culture = niger_congo_a
 		religion = shamanism
 		size= 607
 	}
@@ -80,119 +80,119 @@
 1973 = {
 	slaves=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 254
 	}
 
 	soldiers=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 182
 	}
 
 	clergymen=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 34
 	}
 
 	bureaucrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 11
 	}
 
 	officers=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 77
 	}
 
 	farmers=
 	{
-		culture = fang
+		culture = bantu
 		religion = shamanism
 		size= 17477
 	}
 
 	slaves=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 41
 	}
 
 	soldiers=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 241
 	}
 
 	clergymen=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 45
 	}
 
 	bureaucrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 14
 	}
 
 	officers=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 101
 	}
 
 	farmers=
 	{
-		culture = fang
+		culture = bantu
 		religion = catholic
 		size= 2480
 	}
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 122
 	}

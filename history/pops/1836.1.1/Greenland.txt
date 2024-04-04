@@ -1,14 +1,14 @@
 251 = {
 	soldiers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = totemism
 		size= 56
 	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = totemism
 		size= 5627
 	}
@@ -66,14 +66,14 @@
 2636 = {
 	soldiers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = totemism
 		size= 56
 	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = totemism
 		size= 5627
 	}

@@ -1,49 +1,49 @@
 943 = {
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 181
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 1799
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 246
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 36
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 58
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 323
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 35939
 	}
@@ -2225,49 +2225,49 @@
 998 = {
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 601
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 5903
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 853
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 117
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 190
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 1469
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 116608
 	}
@@ -2374,98 +2374,98 @@
 
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 101
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 879
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 127
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 18
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 164
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 36762
 	}
 
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 983
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 142
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 20
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 23
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 184
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 905
 	}
@@ -2525,49 +2525,49 @@
 1001 = {
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 461
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 7144
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 663
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 112
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 148
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 1143
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 88156
 	}
@@ -2992,49 +2992,49 @@
 1008 = {
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 221
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 3376
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 301
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 44
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 71
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 393
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 42381
 	}
@@ -3092,49 +3092,49 @@
 1009 = {
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 221
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 3430
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 319
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 44
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 71
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 411
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 42461
 	}
@@ -3192,98 +3192,98 @@
 1010 = {
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 71
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 270
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 88
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 12
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 114
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 25779
 	}
 
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 281
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 91
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 13
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 118
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 10
 	}
@@ -3341,91 +3341,91 @@
 1011 = {
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = paulician
 		size= 221
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = paulician
 		size= 1743
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = paulician
 		size= 162
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = paulician
 		size= 22
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = paulician
 		size= 36
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = paulician
 		size= 105
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = paulician
 		size= 45454
 	}
 
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 1814
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 168
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 23
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 38
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 109
 	}
@@ -3634,98 +3634,98 @@
 1014 = {
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 131
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 1002
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 88
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 13
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 62
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 27013
 	}
 
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 1130
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 99
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 15
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 24
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 70
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 413
 	}
@@ -3783,98 +3783,98 @@
 1015 = {
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 131
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 993
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 88
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 13
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 62
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 26926
 	}
 
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 1120
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 99
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 15
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 24
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 70
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 412
 	}
@@ -3932,98 +3932,98 @@
 1016 = {
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 151
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 321
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 106
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 15
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 138
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 31483
 	}
 
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 211
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 1217
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 401
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 58
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 77
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 522
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 42455
 	}
@@ -4081,49 +4081,49 @@
 1017 = {
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 201
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 4169
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 387
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 53
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 86
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 500
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 36742
 	}
@@ -4179,49 +4179,49 @@
 
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 141
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 1091
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 101
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 14
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 23
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 131
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = catholic
 		size= 28386
 	}
@@ -5164,49 +5164,49 @@
 
 	soldiers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 241
 	}
 
 	artisans=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 3718
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 345
 	}
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 69
 	}
 
 	officers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 77
 	}
 
 	aristocrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 446
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 46014
 	}
@@ -12297,98 +12297,98 @@
 1073 = {
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 87
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 13
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 3718
 	}
 
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 174
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 25
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 4
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 16
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 1698
 	}
@@ -12495,98 +12495,98 @@
 1074 = {
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 234
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 76
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 13
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 49
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 22767
 	}
 
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 521
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 169
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 29
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 109
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 13368
 	}
@@ -14905,98 +14905,98 @@
 2616 = {
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 87
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 13
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 3718
 	}
 
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 174
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 25
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 4
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 16
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 1698
 	}
@@ -15154,49 +15154,49 @@
 2618 = {
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 92
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 30
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 4
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 19
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 8940
 	}
@@ -15426,21 +15426,21 @@
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 2
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 20
 	}
@@ -15605,98 +15605,98 @@
 2633 = {
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 87
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 13
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 3718
 	}
 
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 174
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 25
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 4
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 16
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 1698
 	}
@@ -15803,98 +15803,98 @@
 2634 = {
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 41
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 382
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 55
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 9
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 36
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 16001
 	}
 
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 793
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 114
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 19
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 74
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 7855
 	}
@@ -15952,98 +15952,98 @@
 2637 = {
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 41
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 382
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 55
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 9
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 36
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 16001
 	}
 
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 793
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 114
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 19
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 74
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 7855
 	}
@@ -16101,49 +16101,49 @@
 2638 = {
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 500
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 46
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 6
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 30
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 13544
 	}
@@ -17409,21 +17409,21 @@
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 3
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 45
 	}
@@ -17706,98 +17706,98 @@
 2663 = {
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 87
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 13
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 2
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = tengri_pagan_reformed
 		size= 3718
 	}
 
 	soldiers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 174
 	}
 
 	clergymen=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 25
 	}
 
 	bureaucrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 4
 	}
 
 	officers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 16
 	}
 
 	farmers=
 	{
-		culture = eskaleut
+		culture = native_american_minor
 		religion = orthodox
 		size= 1698
 	}
@@ -17941,35 +17941,35 @@
 2666 = {
 	aristocrats=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = animist
 		size= 2
 	}
 
 	clergymen=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = animist
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = animist
 		size= 4
 	}
 
 	soldiers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = inuit
+		culture = native_american_minor
 		religion = animist
 		size= 135
 	}
@@ -18387,21 +18387,21 @@
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 1
 	}
 
 	clergymen=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = russian
+		culture = ukrainian
 		religion = orthodox
 		size= 7
 	}

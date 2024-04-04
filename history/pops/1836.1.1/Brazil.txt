@@ -1,21 +1,21 @@
 2306 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 558
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1356
 	}
@@ -262,14 +262,14 @@
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	craftsmen=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1094
 	}
@@ -390,14 +390,14 @@
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1251
 	}
@@ -504,14 +504,14 @@
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 251
 	}
@@ -611,14 +611,14 @@
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 128
 	}
@@ -732,14 +732,14 @@
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 369
 	}
@@ -839,14 +839,14 @@
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 128
 	}
@@ -862,14 +862,14 @@
 2408 = {
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 256
 	}
@@ -941,21 +941,21 @@
 2410 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 253
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 683
 	}
@@ -1137,7 +1137,7 @@
 
 	artisans=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 2
 	}
@@ -1174,21 +1174,21 @@
 2411 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 127
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 518
 	}
@@ -1281,14 +1281,14 @@
 2412 = {
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 252
 	}
@@ -1360,14 +1360,14 @@
 2413 = {
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 379
 	}
@@ -1439,21 +1439,21 @@
 2415 = {
 	slaves=
 	{
-		culture = guajiro
+		culture = native_american_minor
 		religion = animist
 		size= 9
 	}
 
 	soldiers=
 	{
-		culture = guajiro
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = guajiro
+		culture = native_american_minor
 		religion = animist
 		size= 198
 	}
@@ -1532,14 +1532,14 @@
 2416 = {
 	soldiers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size= 1043
 	}
@@ -1595,15 +1595,13 @@
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1099
 	}
 
@@ -1660,14 +1658,14 @@
 2417 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 685
 	}
@@ -1765,14 +1763,14 @@
 
 	soldiers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size= 299
 	}
@@ -1893,15 +1891,13 @@
 2418 = {
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1537
 	}
 
@@ -1958,14 +1954,14 @@
 2419 = {
 	soldiers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size= 188
 	}
@@ -2021,15 +2017,13 @@
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 198
 	}
 
@@ -2079,14 +2073,14 @@
 2420 = {
 	soldiers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size= 470
 	}
@@ -2142,15 +2136,13 @@
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 494
 	}
 
@@ -2207,22 +2199,19 @@
 2421 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1118
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1294
 	}
 
@@ -2391,15 +2380,13 @@
 2422 = {
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 404
 	}
 
@@ -2456,15 +2443,13 @@
 2423 = {
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 405
 	}
 
@@ -2519,14 +2504,14 @@
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 91
 	}
@@ -2535,22 +2520,19 @@
 2424 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1548
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 2552
 	}
 
@@ -2712,15 +2694,13 @@
 2425 = {
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1768
 	}
 
@@ -2784,22 +2764,19 @@
 2426 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1666
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 2127
 	}
 
@@ -2919,15 +2896,13 @@
 2427 = {
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1350
 	}
 
@@ -3075,21 +3050,21 @@
 2428 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 224
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 778
 	}
@@ -3208,22 +3183,19 @@
 
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 250
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 868
 	}
 
@@ -3231,21 +3203,21 @@
 2429 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1489
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 2341
 	}
@@ -3366,22 +3338,19 @@
 2430 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 626
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 956
 	}
 
@@ -3445,21 +3414,21 @@
 2431 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1192
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1350
 	}
@@ -3580,28 +3549,28 @@
 2432 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 2338
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 2022
 	}
@@ -3722,22 +3691,19 @@
 2433 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1580
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 976
 	}
 
@@ -3801,21 +3767,21 @@
 2434 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1415
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1921
 	}
@@ -3936,21 +3902,21 @@
 2435 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1307
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1680
 	}
@@ -4015,21 +3981,21 @@
 2436 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 3787
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 5949
 	}
@@ -4094,22 +4060,19 @@
 2437 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 3867
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 2638
 	}
 
@@ -4173,22 +4136,19 @@
 2438 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 2225
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 2916
 	}
 
@@ -4252,22 +4212,19 @@
 2439 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 3254
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1349
 	}
 
@@ -4331,22 +4288,19 @@
 2440 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 2228
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 772
 	}
 
@@ -4408,21 +4362,21 @@
 
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 2374
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 823
 	}
@@ -4431,22 +4385,19 @@
 2441 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 6424
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 6702
 	}
 
@@ -4566,22 +4517,19 @@
 2442 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 3556
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 2137
 	}
 
@@ -4701,22 +4649,19 @@
 2443 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 3377
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 2194
 	}
 
@@ -4780,22 +4725,19 @@
 2444 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1886
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 2223
 	}
 
@@ -4859,22 +4801,19 @@
 2445 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1560
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1039
 	}
 
@@ -4994,21 +4933,21 @@
 2446 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 2815
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1735
 	}
@@ -5129,21 +5068,21 @@
 2447 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 11950
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 31
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 18216
 	}
@@ -5208,21 +5147,21 @@
 2448 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 2751
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 2452
 	}
@@ -5343,22 +5282,19 @@
 2449 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 2689
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 2151
 	}
 
@@ -5422,21 +5358,21 @@
 2450 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 6214
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 6375
 	}
@@ -5557,21 +5493,21 @@
 2451 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 2586
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 2863
 	}
@@ -5636,21 +5572,21 @@
 2452 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 837
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1349
 	}
@@ -5771,22 +5707,19 @@
 2453 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 51
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 331
 	}
 
@@ -5906,21 +5839,21 @@
 2455 = {
 	slaves=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1353
 	}
 
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 1424
 	}
@@ -6041,22 +5974,19 @@
 2456 = {
 	slaves=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 51
 	}
 
 	soldiers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = je
-		religion = animist
+		culture =native_american_minor		religion = animist
 		size= 331
 	}
 
@@ -6176,21 +6106,21 @@
 2457 = {
 	slaves=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 2133
 	}
 
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 5250
 	}
@@ -6311,21 +6241,21 @@
 2458 = {
 	slaves=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 504
 	}
 
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1072
 	}
@@ -6446,21 +6376,21 @@
 2459 = {
 	slaves=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 640
 	}
 
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1711
 	}
@@ -6581,21 +6511,21 @@
 2460 = {
 	slaves=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 588
 	}
 
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 2003
 	}
@@ -6716,21 +6646,21 @@
 2461 = {
 	slaves=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 960
 	}
 
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 2488
 	}
@@ -6851,21 +6781,21 @@
 2462 = {
 	slaves=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1119
 	}
 
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 2015
 	}
@@ -6986,21 +6916,21 @@
 2463 = {
 	slaves=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 2190
 	}
 
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 6956
 	}
@@ -7014,7 +6944,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = afro_antillean
 		religion = catholic
 		size= 4153
 	}
@@ -7070,7 +7000,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = afro_antillean
 		religion = protestant
 		size= 5749
 	}
@@ -7128,28 +7058,28 @@
 2464 = {
 	slaves=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 674
 	}
 
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1142
 	}
 
 	slaves=
 	{
-		culture = african_minor
+		culture = afro_antillean
 		religion = catholic
 		size= 1278
 	}
@@ -7205,7 +7135,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = afro_antillean
 		religion = protestant
 		size= 1769
 	}
@@ -7263,21 +7193,21 @@
 2465 = {
 	slaves=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 832
 	}
 
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 3696
 	}
@@ -7398,28 +7328,28 @@
 2466 = {
 	slaves=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1105
 	}
 
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 2867
 	}
 
 	slaves=
 	{
-		culture = african_minor
+		culture = afro_antillean
 		religion = catholic
 		size= 1823
 	}
@@ -7475,7 +7405,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = afro_antillean
 		religion = protestant
 		size= 2653
 	}
@@ -7533,14 +7463,14 @@
 2467 = {
 	soldiers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = guarani
+		culture = native_american_minor
 		religion = animist
 		size= 1625
 	}
@@ -7747,14 +7677,14 @@
 2549 = {
 	soldiers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size= 672
 	}
@@ -7812,14 +7742,14 @@
 2550 = {
 	soldiers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = amazonian
+		culture = native_american_minor
 		religion = animist
 		size= 808
 	}
@@ -7877,14 +7807,14 @@
 2600 = {
 	soldiers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = tupinamba
+		culture = native_american_minor
 		religion = animist
 		size= 381
 	}

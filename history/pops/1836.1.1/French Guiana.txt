@@ -1,28 +1,28 @@
 2241 = {
 	slaves=
 	{
-		culture = guajiro
+		culture = native_american_minor
 		religion = animist
 		size= 335
 	}
 
 	soldiers=
 	{
-		culture = guajiro
+		culture = native_american_minor
 		religion = animist
 		size= 22
 	}
 
 	farmers=
 	{
-		culture = guajiro
+		culture = native_american_minor
 		religion = animist
 		size= 39
 	}
 
 	slaves=
 	{
-		culture = african_minor
+		culture = afro_antillean
 		religion = catholic
 		size= 1258
 	}
@@ -78,7 +78,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = afro_antillean
 		religion = protestant
 		size= 2007
 	}
@@ -136,14 +136,14 @@
 2246 = {
 	soldiers=
 	{
-		culture = guajiro
+		culture = native_american_minor
 		religion = animist
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = guajiro
+		culture = native_american_minor
 		religion = animist
 		size= 64
 	}

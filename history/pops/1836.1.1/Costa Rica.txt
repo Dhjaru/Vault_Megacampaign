@@ -1,14 +1,14 @@
 2201 = {
 	soldiers=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 1636
 	}
@@ -66,14 +66,14 @@
 2202 = {
 	soldiers=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 565
 	}
@@ -180,14 +180,14 @@
 2203 = {
 	soldiers=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size=1
 	}
 
 	farmers=
 	{
-		culture = chibchan
+		culture = native_american_minor
 		religion = animist
 		size= 305
 	}

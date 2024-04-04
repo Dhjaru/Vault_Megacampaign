@@ -1,7 +1,7 @@
 1209 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = catholic
 		size= 12624
 	}
@@ -57,7 +57,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 7365
 	}
@@ -113,7 +113,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = zoroastrian
 		size= 13655
 	}
@@ -388,7 +388,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = zoroastrian
 		size= 4806
 	}
@@ -444,7 +444,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 6162
 	}
@@ -551,7 +551,7 @@
 1211 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 18251
 	}
@@ -607,7 +607,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = hindu
 		size= 4344
 	}
@@ -663,7 +663,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = zoroastrian
 		size= 14250
 	}
@@ -721,7 +721,7 @@
 1212 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 8106
 	}
@@ -777,7 +777,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = zoroastrian
 		size= 6959
 	}
@@ -884,7 +884,7 @@
 1213 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 5979
 	}
@@ -940,7 +940,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = zoroastrian
 		size= 4131
 	}
@@ -998,7 +998,7 @@
 1214 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 20309
 	}
@@ -1054,7 +1054,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = zoroastrian
 		size= 25938
 	}
@@ -1110,7 +1110,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = hindu
 		size= 11863
 	}
@@ -1217,7 +1217,7 @@
 1215 = {
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = hindu
 		size= 1380
 	}
@@ -1273,7 +1273,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 2920
 	}
@@ -1329,7 +1329,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = zoroastrian
 		size= 2610
 	}
@@ -1499,7 +1499,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size= 1534
 	}
@@ -1555,7 +1555,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = zoroastrian
 		size= 1977
 	}
@@ -1837,7 +1837,7 @@
 
 	slaves=
 	{
-		culture = african_minor
+		culture = bantu
 		religion = zoroastrian
 		size= 771
 	}
