@@ -7434,49 +7434,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 18601
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1599
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 260
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 335
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 80
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 32
 	}
@@ -8006,49 +8006,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 38876
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 41
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 6183
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 447
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 577
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 136
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 54
 	}
@@ -8085,49 +8085,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 24029
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 4100
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 382
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 295
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 91
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 36
 	}
@@ -9135,49 +9135,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 15172
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 3549
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 256
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 331
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 94
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 31
 	}
@@ -9214,49 +9214,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 13330
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 3112
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 224
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 290
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 69
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 27
 	}
@@ -9293,49 +9293,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 51
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 38466
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 6955
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 500
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 648
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 154
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 61
 	}
@@ -9510,49 +9510,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 5526
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 556
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 90
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 116
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 28
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 11
 	}
@@ -9589,49 +9589,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 15766
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1203
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 253
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 194
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 60
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 23
 	}
@@ -9927,49 +9927,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 11766
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 2427
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 175
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 226
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 54
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
@@ -10004,49 +10004,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 14212
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 2526
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 182
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 236
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 56
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 22
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
@@ -10480,49 +10480,49 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 131
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 23304
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 5612
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1046
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 403
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 124
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 97
 	}
@@ -10557,49 +10557,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 14029
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 3518
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 656
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 254
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 77
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 30
 	}
@@ -10634,49 +10634,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 10174
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1260
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 205
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 265
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 63
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 24
 	}
@@ -10711,49 +10711,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1973
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1153
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 138
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 52
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 15
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 6
 	}
@@ -10781,7 +10781,7 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 4894
 	}
@@ -10795,42 +10795,42 @@
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1664
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 199
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 76
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 22
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 8
 	}
@@ -10852,7 +10852,7 @@
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 428
 	}
@@ -10866,28 +10866,28 @@
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 47
 	}
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1648
 	}
@@ -10900,7 +10900,7 @@
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 5
 	}
@@ -10928,7 +10928,7 @@
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1
 	}
@@ -10963,49 +10963,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 22041
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 41
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 5195
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 969
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 374
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 115
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 46
 	}
@@ -11040,49 +11040,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 4477
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 938
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 174
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 65
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 19
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 7
 	}
@@ -11117,49 +11117,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 17569
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 6984
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 838
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 323
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 120
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 41
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 39
 	}
@@ -11196,7 +11196,7 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = catholic
 		size= 60
 	}
@@ -11210,56 +11210,56 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 8054
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 2081
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 978
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 378
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 139
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 46
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1031
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = jewish
 		size= 250
 	}
@@ -11296,49 +11296,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 22120
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 7036
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1314
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 61
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 507
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 154
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 61
 	}
@@ -11389,49 +11389,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 12818
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 972
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 203
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 157
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 48
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 19
 	}
@@ -11468,49 +11468,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 17276
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 3159
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 227
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 294
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 70
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 27
 	}
@@ -11547,49 +11547,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 10857
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 2798
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 201
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 261
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 61
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 24
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
@@ -11626,49 +11626,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 16929
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 6318
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 756
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 292
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 89
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 35
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 31
 	}
@@ -11789,49 +11789,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 6663
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 1792
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 258
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 167
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 40
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 15
 	}
@@ -12184,49 +12184,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 8886
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 2661
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 192
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 248
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 58
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 23
 	}
@@ -15229,7 +15229,7 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 10252
 	}
@@ -15243,42 +15243,42 @@
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 2721
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 506
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 195
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 59
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 23
 	}
@@ -15315,49 +15315,49 @@
 
 	farmers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 15116
 	}
 
 	artisans=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 3028
 	}
 
 	aristocrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 564
 	}
 
 	clergymen=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 217
 	}
 
 	bureaucrats=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 68
 	}
 
 	soldiers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 21
 	}
 
 	officers=
 	{
-		culture = nieuwereld
+		culture = boer
 		religion = protestant
 		size= 25
 	}

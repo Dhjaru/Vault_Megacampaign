@@ -1,35 +1,35 @@
 2125 = {
 	soldiers=
 	{
-		culture = boer
+		culture = dutch
 		religion = catholic
 		size= 248
 	}
 
 	artisans=
 	{
-		culture = boer
+		culture = dutch
 		religion = catholic
 		size= 3487
 	}
 
 	farmers=
 	{
-		culture = boer
+		culture = dutch
 		religion = catholic
 		size= 21278
 	}
 
 	clergymen=
 	{
-		culture = boer
+		culture = dutch
 		religion = catholic
 		size= 324
 	}
 
 	aristocrats=
 	{
-		culture = boer
+		culture = dutch
 		religion = catholic
 		size= 209
 	}
@@ -43,7 +43,7 @@
 
 	officers=
 	{
-		culture = boer
+		culture = dutch
 		religion = catholic
 		size= 19
 	}

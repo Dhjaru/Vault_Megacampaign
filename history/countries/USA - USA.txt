@@ -1,8 +1,5 @@
 capital = 204
-primary_culture = nieuwereld
-culture = dixie
-culture = texan
-culture = yankee
+primary_culture = boer
 culture = zzz_religion_protestant
 religion = protestant
 government = presidential_dictatorship
