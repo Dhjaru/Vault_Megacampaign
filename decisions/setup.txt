@@ -14,6 +14,13 @@ political_decisions = {
 			X10 = {
 				country_event = 104293
 			}
+			NET = { any_pop = { reduce_pop = 0.7 } }
+			FRA = { any_pop = { reduce_pop = 0.7 } }
+			BYZ = { any_pop = { reduce_pop = 0.65 } }
+			KUK = { any_pop = { reduce_pop = 0.7 } }
+			LUB = { any_pop = { reduce_pop = 0.6 } }
+			PER = { any_pop = { reduce_pop = 0.7 } }
+			ITA = { any_pop = { reduce_pop = 0.7 } }
 		}
 	}
 }
