@@ -45,7 +45,6 @@ consciousness = 1.93517
 nonstate_consciousness= 0.686774
 
 # Technologies
-publishing_industry = 1
 mechanized_mining = 1
 water_wheel_power = 1
 alphabetic_flag_signaling = 1
@@ -64,6 +63,7 @@ high_pressure_steam_engine = 1
 hot_blast = 1
 late_enlightenment_philosophy = 1
 mechanical_production = 1
+publishing_industry = 1
 naval_design_bureaus = 1
 naval_professionalism = 1
 no_standard = 1

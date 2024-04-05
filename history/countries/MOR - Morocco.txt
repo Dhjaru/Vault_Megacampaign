@@ -60,6 +60,7 @@ flintlock_rifles = 1
 hot_blast = 1
 late_enlightenment_philosophy = 1
 mechanical_production = 1
+publishing_industry = 1
 military_staff_system = 1
 naval_design_bureaus = 1
 naval_professionalism = 1

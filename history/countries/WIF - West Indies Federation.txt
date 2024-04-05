@@ -54,7 +54,7 @@ classicism_n_early_romanticism = 1
 late_enlightenment_philosophy = 1
 enlightenment_thought = 1
 water_wheel_power = 1
-publishing_industry = 1
+
 
 1861.1.1 = {
 # Technologies
@@ -72,8 +72,9 @@ publishing_industry = 1
 	idealism = 1
 	enlightenment_thought = 1
 	water_wheel_power = 1
-	publishing_industry = 1
+	
 	mechanical_production = 1
+	publishing_industry = 1
 	experimental_railroad = 1
 	post_nelsonian_thought = 1
 	the_command_principle = 1

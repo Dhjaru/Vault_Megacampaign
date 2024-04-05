@@ -65,6 +65,7 @@ late_enlightenment_philosophy = 1
 malthusian_thought = 1
 market_structure = 1
 mechanical_production = 1
+publishing_industry = 1
 military_staff_system = 1
 no_standard = 1
 piston_steam_engine = 1

@@ -59,6 +59,7 @@ introspectionism = 1
 late_enlightenment_philosophy = 1
 malthusian_thought = 1
 mechanical_production = 1
+publishing_industry = 1
 naval_design_bureaus = 1
 no_standard = 1
 piston_steam_engine = 1

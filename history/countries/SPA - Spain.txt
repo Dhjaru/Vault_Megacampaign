@@ -48,7 +48,7 @@ consciousness = 1.32634
 nonstate_consciousness= 0.157582
 
 # Technologies
-publishing_industry = 1
+
 mechanized_mining = 1
 water_wheel_power = 1
 ad_hoc_money_bill_printing = 1
@@ -66,6 +66,7 @@ high_pressure_steam_engine = 1
 hot_blast = 1
 late_enlightenment_philosophy = 1
 mechanical_production = 1
+publishing_industry = 1
 no_standard = 1
 piston_steam_engine = 1
 post_napoleonic_thought = 1

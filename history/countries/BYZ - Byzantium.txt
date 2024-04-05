@@ -45,7 +45,6 @@ consciousness = 1
 nonstate_consciousness= 0.23911
 
 # Technologies
-publishing_industry = 1
 mechanized_mining = 1
 water_wheel_power = 1
 ad_hoc_money_bill_printing = 1
@@ -65,6 +64,7 @@ late_enlightenment_philosophy = 1
 malthusian_thought = 1
 market_structure = 1
 mechanical_production = 1
+publishing_industry = 1
 military_staff_system = 1
 no_standard = 1
 piston_steam_engine = 1
