@@ -1,13 +1,6 @@
 #Please keep tags sorted alphabetically when you add/remove country tags
 
 # Special countries...
-REB 	= 	"countries/rebels.txt"
-SMA		= 	"countries/Small State.txt"
-MED		=	"countries/Medium State.txt"
-LRG		=	"countries/Large State.txt"
-HUG		=	"countries/Huge State.txt"
-STR		=	"countries/Strategic State.txt"
-GHO 	= 	"countries/Ghost Country.txt"
 
 AAA = "countries/AAA.txt"
 ABK = "countries/Abkhazia.txt"
@@ -551,7 +544,6 @@ QTO = "countries/Quito.txt"
 QUE = "countries/Quebec.txt"
 RAJ = "countries/Rajputana.txt"
 RDL = "countries/Ardalan.txt"
-REB = "countries/rebels.txt"
 RGR = "countries/Rio Grande.txt"
 RGS = "countries/Rio Grande do Sul.txt"
 RHI = "countries/Rhineland.txt"
@@ -828,3 +820,11 @@ D47 = "countries/D47.txt"
 D48 = "countries/D48.txt"
 D49 = "countries/D49.txt"
 D50 = "countries/D50.txt"
+
+REB 	= 	"countries/rebels.txt"
+SMA		= 	"countries/Small State.txt"
+MED		=	"countries/Medium State.txt"
+LRG		=	"countries/Large State.txt"
+HUG		=	"countries/Huge State.txt"
+STR		=	"countries/Strategic State.txt"
+GHO 	= 	"countries/Ghost Country.txt"
