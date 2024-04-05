@@ -10,7 +10,7 @@
 	{
 		culture = persian
 		religion = shiite
-		size= 2713
+		size= 271
 	}
 
 	clergymen=
@@ -59,7 +59,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 4032
+		size= 403
 	}
 
 	clergymen=
@@ -108,7 +108,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 18565
+		size= 185
 	}
 
 	clergymen=
@@ -166,7 +166,7 @@
 	{
 		culture = kurdish
 		religion = catholic
-		size= 5143
+		size= 514
 	}
 
 	clergymen=
@@ -222,7 +222,7 @@
 	{
 		culture = kurdish
 		religion = zoroastrian
-		size= 30247
+		size= 3024
 	}
 
 	clergymen=
@@ -278,7 +278,7 @@
 	{
 		culture = kurdish
 		religion = sunni
-		size= 4722
+		size= 472
 	}
 
 	clergymen=
@@ -336,7 +336,7 @@
 	{
 		culture = kurdish
 		religion = catholic
-		size= 4552
+		size= 455
 	}
 
 	clergymen=
@@ -371,7 +371,7 @@
 	{
 		culture = kurdish
 		religion = catholic
-		size= 47731
+		size= 27731
 	}
 
 	slaves=
@@ -392,7 +392,7 @@
 	{
 		culture = kurdish
 		religion = zoroastrian
-		size= 14430
+		size= 1443
 	}
 
 	clergymen=
@@ -427,7 +427,7 @@
 	{
 		culture = kurdish
 		religion = zoroastrian
-		size= 40525
+		size= 20525
 	}
 
 }
@@ -435,55 +435,6 @@
 	soldiers=
 	{
 		culture = kurdish
-		religion = sunni
-		size= 441
-	}
-
-	artisans=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 5520
-	}
-
-	clergymen=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 513
-	}
-
-	bureaucrats=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 71
-	}
-
-	officers=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 83
-	}
-
-	aristocrats=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 662
-	}
-
-	farmers=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 67586
-	}
-
-	soldiers=
-	{
-		culture = kurdish
 		religion = zoroastrian
 		size= 441
 	}
@@ -492,7 +443,7 @@
 	{
 		culture = kurdish
 		religion = zoroastrian
-		size= 16627
+		size= 1662
 	}
 
 	clergymen=
@@ -535,55 +486,6 @@
 	soldiers=
 	{
 		culture = kurdish
-		religion = sunni
-		size= 631
-	}
-
-	artisans=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 4800
-	}
-
-	clergymen=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 446
-	}
-
-	bureaucrats=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 62
-	}
-
-	officers=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 99
-	}
-
-	aristocrats=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 288
-	}
-
-	farmers=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 56567
-	}
-
-	soldiers=
-	{
-		culture = kurdish
 		religion = zoroastrian
 		size= 651
 	}
@@ -592,7 +494,7 @@
 	{
 		culture = kurdish
 		religion = zoroastrian
-		size= 14710
+		size= 1471
 	}
 
 	clergymen=
@@ -650,7 +552,7 @@
 	{
 		culture = kurdish
 		religion = catholic
-		size= 5292
+		size= 529
 	}
 
 	clergymen=
@@ -685,7 +587,7 @@
 	{
 		culture = kurdish
 		religion = catholic
-		size= 57297
+		size= 27297
 	}
 
 	slaves=
@@ -706,7 +608,7 @@
 	{
 		culture = kurdish
 		religion = zoroastrian
-		size= 16855
+		size= 1685
 	}
 
 	clergymen=
@@ -741,7 +643,7 @@
 	{
 		culture = kurdish
 		religion = zoroastrian
-		size= 49403
+		size= 29403
 	}
 
 	slaves=
@@ -762,7 +664,7 @@
 	{
 		culture = azerbaijani
 		religion = bogomilist
-		size= 4662
+		size= 466
 	}
 
 	clergymen=
@@ -818,7 +720,7 @@
 	{
 		culture = azerbaijani
 		religion = zoroastrian
-		size= 13793
+		size= 137
 	}
 
 	clergymen=
@@ -853,7 +755,7 @@
 	{
 		culture = azerbaijani
 		religion = zoroastrian
-		size= 38432
+		size= 18432
 	}
 
 }
@@ -883,7 +785,7 @@
 	{
 		culture = azerbaijani
 		religion = bogomilist
-		size= 10327
+		size= 1032
 	}
 
 	clergymen=
@@ -960,7 +862,7 @@
 	{
 		culture = azerbaijani
 		religion = zoroastrian
-		size= 30801
+		size= 3080
 	}
 
 	clergymen=
@@ -1025,7 +927,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 5740
+		size= 574
 	}
 
 	clergymen=
@@ -1074,7 +976,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 17987
+		size= 179
 	}
 
 	clergymen=
@@ -1125,7 +1027,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 6034
+		size= 603
 	}
 
 	clergymen=
@@ -1174,7 +1076,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 17694
+		size= 176
 	}
 
 	clergymen=
@@ -1225,7 +1127,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 652
+		size= 65
 	}
 
 	clergymen=
@@ -1274,7 +1176,7 @@
 	{
 		culture = turkish
 		religion = shiite
-		size= 1117
+		size= 111
 	}
 
 	clergymen=
@@ -1323,7 +1225,7 @@
 	{
 		culture = turkish
 		religion = zoroastrian
-		size= 2008
+		size= 200
 	}
 
 	clergymen=
@@ -1372,7 +1274,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 10196
+		size= 1019
 	}
 
 	clergymen=
@@ -1415,62 +1317,6 @@
 	slaves=
 	{
 		culture = kurdish
-		religion = sunni
-		size= 4962
-	}
-
-	soldiers=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 691
-	}
-
-	artisans=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 5243
-	}
-
-	clergymen=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 492
-	}
-
-	bureaucrats=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 68
-	}
-
-	officers=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 110
-	}
-
-	aristocrats=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 318
-	}
-
-	farmers=
-	{
-		culture = kurdish
-		religion = sunni
-		size= 57571
-	}
-
-	slaves=
-	{
-		culture = kurdish
 		religion = zoroastrian
 		size= 4654
 	}
@@ -1486,7 +1332,7 @@
 	{
 		culture = kurdish
 		religion = zoroastrian
-		size= 15077
+		size= 1507
 	}
 
 	clergymen=
@@ -1537,7 +1383,7 @@
 	{
 		culture = kurdish
 		religion = zoroastrian
-		size= 23201
+		size= 2320
 	}
 
 	clergymen=
@@ -1572,7 +1418,7 @@
 	{
 		culture = kurdish
 		religion = zoroastrian
-		size= 122947
+		size= 32947
 	}
 
 }
@@ -1588,7 +1434,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 3725
+		size= 372
 	}
 
 	clergymen=
@@ -1637,7 +1483,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 17366
+		size= 1736
 	}
 
 	clergymen=
@@ -1688,7 +1534,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 1589
+		size= 158
 	}
 
 	clergymen=
@@ -1737,7 +1583,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 2111
+		size= 211
 	}
 
 	clergymen=
@@ -1786,7 +1632,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 10800
+		size= 1080
 	}
 
 	clergymen=
@@ -1844,7 +1690,7 @@
 	{
 		culture = persian
 		religion = shiite
-		size= 2258
+		size= 225
 	}
 
 	clergymen=
@@ -1900,7 +1746,7 @@
 	{
 		culture = persian
 		religion = yazidi
-		size= 3698
+		size= 369
 	}
 
 	clergymen=
@@ -1956,7 +1802,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 18339
+		size= 1833
 	}
 
 	clergymen=
@@ -2007,7 +1853,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 2546
+		size= 254
 	}
 
 	clergymen=
@@ -2048,48 +1894,6 @@
 	soldiers=
 	{
 		culture = persian
-		religion = sunni
-		size= 11
-	}
-
-	artisans=
-	{
-		culture = persian
-		religion = sunni
-		size= 2636
-	}
-
-	clergymen=
-	{
-		culture = persian
-		religion = sunni
-		size= 250
-	}
-
-	bureaucrats=
-	{
-		culture = persian
-		religion = sunni
-		size= 35
-	}
-
-	officers=
-	{
-		culture = persian
-		religion = sunni
-		size= 56
-	}
-
-	aristocrats=
-	{
-		culture = persian
-		religion = sunni
-		size= 162
-	}
-
-	soldiers=
-	{
-		culture = persian
 		religion = zoroastrian
 		size= 681
 	}
@@ -2098,7 +1902,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 15422
+		size= 1542
 	}
 
 	clergymen=
@@ -2149,7 +1953,7 @@
 	{
 		culture = azerbaijani
 		religion = catholic
-		size= 4033
+		size= 403
 	}
 
 	clergymen=
@@ -2198,7 +2002,7 @@
 	{
 		culture = azerbaijani
 		religion = zoroastrian
-		size= 12840
+		size= 1284
 	}
 
 	clergymen=
@@ -2247,7 +2051,7 @@
 	{
 		culture = persian
 		religion = shiite
-		size= 1533
+		size= 153
 	}
 
 	clergymen=
@@ -2296,7 +2100,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 3242
+		size= 324
 	}
 
 	clergymen=
@@ -2345,7 +2149,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 14735
+		size= 1473
 	}
 
 	clergymen=
@@ -2396,7 +2200,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 6367
+		size= 636
 	}
 
 	clergymen=
@@ -2445,7 +2249,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 17889
+		size= 1788
 	}
 
 	clergymen=
@@ -2496,7 +2300,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 3434
+		size= 343
 	}
 
 	clergymen=
@@ -2545,7 +2349,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 9749
+		size= 974
 	}
 
 	clergymen=
@@ -2594,7 +2398,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 1266
+		size= 126
 	}
 
 	clergymen=
@@ -2643,7 +2447,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 1693
+		size= 169
 	}
 
 	clergymen=
@@ -2692,7 +2496,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 8641
+		size= 864
 	}
 
 	clergymen=
@@ -2743,7 +2547,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 4917
+		size= 491
 	}
 
 	clergymen=
@@ -2792,7 +2596,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 14593
+		size= 1459
 	}
 
 	clergymen=
@@ -2827,11 +2631,18 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 45396
+		size= 65396
 	}
 
 }
 1127 = {
+
+	craftsmen=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 24103
+	}
 	slaves=
 	{
 		culture = bedouin
@@ -2850,7 +2661,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 8534
+		size= 8530
 	}
 
 	clergymen=
@@ -2899,14 +2710,14 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 1341
+		size= 5341
 	}
 
 	artisans=
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 27360
+		size= 42736
 	}
 
 	clergymen=
@@ -2920,28 +2731,28 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 515
+		size= 4515
 	}
 
 	officers=
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 574
+		size= 2574
 	}
 
 	aristocrats=
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 2496
+		size= 10496
 	}
 
 	farmers=
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 70721
+		size= 310721
 	}
 
 }
@@ -2957,7 +2768,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 3434
+		size= 343
 	}
 
 	clergymen=
@@ -3006,7 +2817,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 9749
+		size= 974
 	}
 
 	clergymen=
@@ -3041,7 +2852,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 28194
+		size= 58194
 	}
 
 	soldiers=
@@ -3055,7 +2866,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 1266
+		size= 126
 	}
 
 	clergymen=
@@ -3104,7 +2915,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 1693
+		size= 169
 	}
 
 	clergymen=
@@ -3153,7 +2964,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 8641
+		size= 864
 	}
 
 	clergymen=
@@ -3204,7 +3015,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 42807
+		size= 428
 	}
 
 	clergymen=
@@ -3239,7 +3050,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 185868
+		size= 155868
 	}
 
 	soldiers=
@@ -3253,7 +3064,7 @@
 	{
 		culture = persian
 		religion = shiite
-		size= 2476
+		size= 247
 	}
 
 	clergymen=
@@ -3302,7 +3113,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 3911
+		size= 391
 	}
 
 	clergymen=
@@ -3353,7 +3164,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 22956
+		size= 229
 	}
 
 	clergymen=
@@ -3388,7 +3199,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 122251
+		size= 152251
 	}
 
 	clergymen=
@@ -3402,7 +3213,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 245
+		size= 24
 	}
 
 }
@@ -3418,7 +3229,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 1834
+		size= 183
 	}
 
 	clergymen=
@@ -3459,55 +3270,6 @@
 	soldiers=
 	{
 		culture = mashriqi
-		religion = sunni
-		size= 951
-	}
-
-	artisans=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 9061
-	}
-
-	clergymen=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 845
-	}
-
-	bureaucrats=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 143
-	}
-
-	officers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 189
-	}
-
-	aristocrats=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 547
-	}
-
-	farmers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 83463
-	}
-
-	soldiers=
-	{
-		culture = mashriqi
 		religion = zoroastrian
 		size= 1361
 	}
@@ -3516,7 +3278,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 31572
+		size= 3157
 	}
 
 	clergymen=
@@ -3556,54 +3318,6 @@
 
 }
 1132 = {
-	soldiers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 721
-	}
-
-	artisans=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 5520
-	}
-
-	clergymen=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 513
-	}
-
-	bureaucrats=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 103
-	}
-
-	officers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 114
-	}
-
-	aristocrats=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 662
-	}
-
-	farmers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 64690
-	}
 
 	soldiers=
 	{
@@ -3616,7 +3330,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 16099
+		size= 1609
 	}
 
 	clergymen=
@@ -3667,7 +3381,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 1589
+		size= 158
 	}
 
 	clergymen=
@@ -3712,48 +3426,6 @@
 		size= 61
 	}
 
-	artisans=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 2111
-	}
-
-	clergymen=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 196
-	}
-
-	bureaucrats=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 33
-	}
-
-	officers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 44
-	}
-
-	aristocrats=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 253
-	}
-
-	farmers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 4127
-	}
-
 	soldiers=
 	{
 		culture = mashriqi
@@ -3765,7 +3437,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 10800
+		size= 1080
 	}
 
 	clergymen=
@@ -3816,7 +3488,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 5262
+		size= 526
 	}
 
 	clergymen=
@@ -3865,7 +3537,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 15830
+		size= 1583
 	}
 
 	clergymen=
@@ -3914,7 +3586,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 1395
+		size= 139
 	}
 
 	clergymen=
@@ -3963,7 +3635,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 2694
+		size= 269
 	}
 
 	clergymen=
@@ -4012,7 +3684,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 12257
+		size= 1225
 	}
 
 	clergymen=
@@ -4070,7 +3742,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 14607
+		size= 146
 	}
 
 	clergymen=
@@ -4105,7 +3777,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 140826
+		size= 40826
 	}
 
 	slaves=
@@ -4126,7 +3798,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 47991
+		size= 4799
 	}
 
 	clergymen=
@@ -4182,7 +3854,7 @@
 	{
 		culture = persian
 		religion = shiite
-		size= 1560
+		size= 156
 	}
 
 	clergymen=
@@ -4233,7 +3905,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 5580
+		size= 558
 	}
 
 	clergymen=
@@ -4282,7 +3954,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 16895
+		size= 1689
 	}
 
 	clergymen=
@@ -4333,7 +4005,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 5155
+		size= 515
 	}
 
 	clergymen=
@@ -4382,7 +4054,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 16464
+		size= 1646
 	}
 
 	clergymen=
@@ -4433,7 +4105,7 @@
 	{
 		culture = persian
 		religion = shiite
-		size= 3360
+		size= 336
 	}
 
 	clergymen=
@@ -4482,7 +4154,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 6796
+		size= 679
 	}
 
 	clergymen=
@@ -4531,7 +4203,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 29919
+		size= 2991
 	}
 
 	clergymen=
@@ -4582,7 +4254,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 6056
+		size= 605
 	}
 
 	clergymen=
@@ -4631,7 +4303,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 22790
+		size= 2279
 	}
 
 	clergymen=
@@ -4680,7 +4352,7 @@
 	{
 		culture = persian
 		religion = shiite
-		size= 1210
+		size= 121
 	}
 
 	clergymen=
@@ -4731,7 +4403,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 3711
+		size= 371
 	}
 
 	clergymen=
@@ -4780,7 +4452,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 11580
+		size= 1158
 	}
 
 	clergymen=
@@ -4831,7 +4503,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 11426
+		size= 1142
 	}
 
 	clergymen=
@@ -4880,7 +4552,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 33921
+		size= 3392
 	}
 
 	clergymen=
@@ -4938,7 +4610,7 @@
 	{
 		culture = persian
 		religion = shiite
-		size= 2561
+		size= 256
 	}
 
 	clergymen=
@@ -4994,7 +4666,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 4519
+		size= 451
 	}
 
 	clergymen=
@@ -5050,7 +4722,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 21393
+		size= 2139
 	}
 
 	clergymen=
@@ -5101,7 +4773,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 5109
+		size= 510
 	}
 
 	clergymen=
@@ -5150,7 +4822,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 15456
+		size= 1545
 	}
 
 	clergymen=
@@ -5201,7 +4873,7 @@
 	{
 		culture = baluchi
 		religion = sunni
-		size= 2256
+		size= 225
 	}
 
 	clergymen=
@@ -5250,7 +4922,7 @@
 	{
 		culture = baluchi
 		religion = shiite
-		size= 753
+		size= 75
 	}
 
 	clergymen=
@@ -5299,7 +4971,7 @@
 	{
 		culture = baluchi
 		religion = zoroastrian
-		size= 8064
+		size= 806
 	}
 
 	clergymen=
@@ -5350,7 +5022,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 4294
+		size= 429
 	}
 
 	clergymen=
@@ -5399,7 +5071,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 11525
+		size= 1152
 	}
 
 	clergymen=
@@ -5457,7 +5129,7 @@
 	{
 		culture = baluchi
 		religion = sunni
-		size= 783
+		size= 78
 	}
 
 	clergymen=
@@ -5513,7 +5185,7 @@
 	{
 		culture = baluchi
 		religion = zoroastrian
-		size= 2079
+		size= 207
 	}
 
 	clergymen=
@@ -5571,7 +5243,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 11011
+		size= 110
 	}
 
 	clergymen=
@@ -5606,14 +5278,14 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 110390
+		size= 11039
 	}
 
 	slaves=
 	{
 		culture = bedouin
 		religion = zoroastrian
-		size= 16535
+		size= 26535
 	}
 
 	soldiers=
@@ -5627,7 +5299,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 30401
+		size= 3040
 	}
 
 	clergymen=
@@ -5662,7 +5334,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 69924
+		size= 119924
 	}
 
 }
@@ -5671,49 +5343,49 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 981
+		size= 98
 	}
 
 	artisans=
 	{
 		culture = persian
 		religion = sunni
-		size= 6935
+		size= 69
 	}
 
 	clergymen=
 	{
 		culture = persian
 		religion = sunni
-		size= 643
+		size= 64
 	}
 
 	bureaucrats=
 	{
 		culture = persian
 		religion = sunni
-		size= 108
+		size= 10
 	}
 
 	officers=
 	{
 		culture = persian
 		religion = sunni
-		size= 144
+		size= 14
 	}
 
 	aristocrats=
 	{
 		culture = persian
 		religion = sunni
-		size= 833
+		size= 83
 	}
 
 	farmers=
 	{
 		culture = persian
 		religion = sunni
-		size= 88570
+		size= 8857
 	}
 
 	soldiers=
@@ -5727,7 +5399,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 39501
+		size= 395
 	}
 
 	clergymen=
@@ -5762,7 +5434,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 155244
+		size= 45244
 	}
 
 	soldiers=
@@ -5776,7 +5448,7 @@
 	{
 		culture = persian
 		religion = shiite
-		size= 1021
+		size= 102
 	}
 
 	clergymen=
@@ -5827,42 +5499,42 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 14183
+		size= 141
 	}
 
 	clergymen=
 	{
 		culture = persian
 		religion = sunni
-		size= 1318
+		size= 131
 	}
 
 	bureaucrats=
 	{
 		culture = persian
 		religion = sunni
-		size= 223
+		size= 22
 	}
 
 	officers=
 	{
 		culture = persian
 		religion = sunni
-		size= 295
+		size= 29
 	}
 
 	aristocrats=
 	{
 		culture = persian
 		religion = sunni
-		size= 852
+		size= 85
 	}
 
 	farmers=
 	{
 		culture = persian
 		religion = sunni
-		size= 167109
+		size= 16710
 	}
 
 	soldiers=
@@ -5876,7 +5548,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 41709
+		size= 117
 	}
 
 	clergymen=
@@ -5911,7 +5583,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 128919
+		size= 58919
 	}
 
 }
@@ -5927,7 +5599,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 5315
+		size= 531
 	}
 
 	clergymen=
@@ -5976,7 +5648,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 15249
+		size= 1524
 	}
 
 	clergymen=
@@ -6011,7 +5683,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 46335
+		size= 66335
 	}
 
 }

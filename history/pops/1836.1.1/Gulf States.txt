@@ -3,7 +3,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 4133
+		size= 1133
 	}
 
 	artisans=
@@ -94,7 +94,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 27162
+		size= 37162
 	}
 
 }
@@ -213,100 +213,51 @@
 
 	slaves=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 3218
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 150
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 2599
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 241
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 41
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 39
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 156
-	}
-
-	soldiers=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 2951
-	}
-
-	artisans=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 12389
-	}
-
-	clergymen=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 1150
-	}
-
-	bureaucrats=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 195
-	}
-
-	officers=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 186
-	}
-
-	aristocrats=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 743
-	}
-
-	farmers=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 32008
 	}
 
 }
@@ -425,100 +376,51 @@
 
 	slaves=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 3350
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 168
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 2280
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 212
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 36
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 34
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 137
-	}
-
-	soldiers=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 2637
-	}
-
-	artisans=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 10941
-	}
-
-	clergymen=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 1016
-	}
-
-	bureaucrats=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 172
-	}
-
-	officers=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 164
-	}
-
-	aristocrats=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 656
-	}
-
-	farmers=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 28348
 	}
 
 }
@@ -637,107 +539,58 @@
 
 	slaves=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 12271
 	}
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 1117
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 4483
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 416
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 71
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 93
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 269
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 4075
-	}
-
-	soldiers=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 7349
-	}
-
-	artisans=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 19302
-	}
-
-	clergymen=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 1793
-	}
-
-	bureaucrats=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 303
-	}
-
-	officers=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 400
-	}
-
-	aristocrats=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 1158
-	}
-
-	farmers=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 38932
 	}
 
 }
@@ -842,100 +695,51 @@
 
 	soldiers=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 783
 	}
 
 	artisans=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 3109
 	}
 
 	clergymen=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 289
 	}
 
 	bureaucrats=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 40
 	}
 
 	officers=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 64
 	}
 
 	aristocrats=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 373
 	}
 
 	farmers=
 	{
-		culture = bedouin
+		culture = persian
 		religion = zoroastrian
 		size= 3858
-	}
-
-	soldiers=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 5085
-	}
-
-	artisans=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 13360
-	}
-
-	clergymen=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 1241
-	}
-
-	bureaucrats=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 172
-	}
-
-	officers=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 277
-	}
-
-	aristocrats=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 1603
-	}
-
-	farmers=
-	{
-		culture = persian
-		religion = zoroastrian
-		size= 33536
 	}
 
 }

@@ -17,7 +17,7 @@
 	{
 		culture = turkish
 		religion = catholic
-		size= 1311
+		size= 131
 	}
 
 	clergymen=
@@ -73,7 +73,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 2840
+		size= 284
 	}
 
 	clergymen=
@@ -129,7 +129,7 @@
 	{
 		culture = turkish
 		religion = zoroastrian
-		size= 5208
+		size= 520
 	}
 
 	clergymen=
@@ -178,7 +178,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 18588
+		size= 1858
 	}
 
 	clergymen=
@@ -236,7 +236,7 @@
 	{
 		culture = uzbek
 		religion = catholic
-		size= 559
+		size= 55
 	}
 
 	clergymen=
@@ -292,7 +292,7 @@
 	{
 		culture = uzbek
 		religion = sunni
-		size= 1372
+		size= 137
 	}
 
 	clergymen=
@@ -348,7 +348,7 @@
 	{
 		culture = uzbek
 		religion = zoroastrian
-		size= 2809
+		size= 280
 	}
 
 	clergymen=
@@ -404,7 +404,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 7388
+		size= 738
 	}
 
 	clergymen=
@@ -460,7 +460,7 @@
 	{
 		culture = pashtun
 		religion = sunni
-		size= 6225
+		size= 622
 	}
 
 	clergymen=
@@ -509,7 +509,7 @@
 	{
 		culture = pashtun
 		religion = zoroastrian
-		size= 13285
+		size= 1328
 	}
 
 	clergymen=
@@ -567,7 +567,7 @@
 	{
 		culture = pashtun
 		religion = sunni
-		size= 7872
+		size= 787
 	}
 
 	clergymen=
@@ -623,7 +623,7 @@
 	{
 		culture = pashtun
 		religion = hindu
-		size= 4254
+		size= 425
 	}
 
 	clergymen=
@@ -679,7 +679,7 @@
 	{
 		culture = pashtun
 		religion = zoroastrian
-		size= 27421
+		size= 2742
 	}
 
 	clergymen=
@@ -737,7 +737,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 2812
+		size= 281
 	}
 
 	clergymen=
@@ -793,7 +793,7 @@
 	{
 		culture = turkish
 		religion = zoroastrian
-		size= 6066
+		size= 606
 	}
 
 	clergymen=
@@ -842,7 +842,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 18014
+		size= 1801
 	}
 
 	clergymen=
@@ -900,7 +900,7 @@
 	{
 		culture = pashtun
 		religion = sunni
-		size= 4210
+		size= 421
 	}
 
 	clergymen=
@@ -956,7 +956,7 @@
 	{
 		culture = pashtun
 		religion = zoroastrian
-		size= 10027
+		size= 1002
 	}
 
 	clergymen=
@@ -1014,7 +1014,7 @@
 	{
 		culture = baluchi
 		religion = sunni
-		size= 7463
+		size= 746
 	}
 
 	clergymen=
@@ -1070,7 +1070,7 @@
 	{
 		culture = baluchi
 		religion = zoroastrian
-		size= 20483
+		size= 2048
 	}
 
 	clergymen=
@@ -1126,7 +1126,7 @@
 	{
 		culture = pashtun
 		religion = hindu
-		size= 4360
+		size= 436
 	}
 
 	clergymen=
@@ -1175,7 +1175,7 @@
 	{
 		culture = pashtun
 		religion = zoroastrian
-		size= 10405
+		size= 1040
 	}
 
 	clergymen=
@@ -1233,7 +1233,7 @@
 	{
 		culture = pashtun
 		religion = hindu
-		size= 1501
+		size= 150
 	}
 
 	clergymen=
@@ -1289,7 +1289,7 @@
 	{
 		culture = pashtun
 		religion = sunni
-		size= 7163
+		size= 716
 	}
 
 	clergymen=
@@ -1345,7 +1345,7 @@
 	{
 		culture = pashtun
 		religion = zoroastrian
-		size= 21392
+		size= 2139
 	}
 
 	clergymen=
@@ -1403,7 +1403,7 @@
 	{
 		culture = uzbek
 		religion = catholic
-		size= 641
+		size= 64
 	}
 
 	clergymen=
@@ -1459,7 +1459,7 @@
 	{
 		culture = uzbek
 		religion = sunni
-		size= 691
+		size= 69
 	}
 
 	clergymen=
@@ -1515,7 +1515,7 @@
 	{
 		culture = pashtun
 		religion = sunni
-		size= 3394
+		size= 339
 	}
 
 	clergymen=
@@ -1571,7 +1571,7 @@
 	{
 		culture = pashtun
 		religion = zoroastrian
-		size= 10038
+		size= 1003
 	}
 
 	clergymen=
@@ -1629,7 +1629,7 @@
 	{
 		culture = uzbek
 		religion = catholic
-		size= 116
+		size= 11
 	}
 
 	clergymen=
@@ -1685,7 +1685,7 @@
 	{
 		culture = uzbek
 		religion = sunni
-		size= 1173
+		size= 117
 	}
 
 	clergymen=
@@ -1741,7 +1741,7 @@
 	{
 		culture = uzbek
 		religion = shiite
-		size= 314
+		size= 31
 	}
 
 	clergymen=
@@ -1797,7 +1797,7 @@
 	{
 		culture = uzbek
 		religion = zoroastrian
-		size= 2027
+		size= 202
 	}
 
 	clergymen=
@@ -1853,7 +1853,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 6389
+		size= 638
 	}
 
 	clergymen=
@@ -1904,7 +1904,7 @@
 	{
 		culture = uzbek
 		religion = catholic
-		size= 919
+		size= 91
 	}
 
 	clergymen=
@@ -1953,7 +1953,7 @@
 	{
 		culture = uzbek
 		religion = sunni
-		size= 1981
+		size= 198
 	}
 
 	clergymen=
@@ -2002,7 +2002,7 @@
 	{
 		culture = uzbek
 		religion = zoroastrian
-		size= 3679
+		size= 367
 	}
 
 	clergymen=
@@ -2051,7 +2051,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 12930
+		size= 1293
 	}
 
 	clergymen=
