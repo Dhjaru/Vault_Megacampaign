@@ -3,4 +3,4 @@ controller=YUC
 add_core=YUC
 trade_goods = cattle
 life_rating = 32
-terrain = new_world_semidesert
+

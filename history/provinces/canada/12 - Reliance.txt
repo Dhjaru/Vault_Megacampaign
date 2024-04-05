@@ -3,4 +3,4 @@ controller=JAP
 add_core=JAP
 trade_goods = iron
 life_rating = 31
-terrain = small_island
+

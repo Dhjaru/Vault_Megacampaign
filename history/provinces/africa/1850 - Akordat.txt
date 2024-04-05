@@ -3,5 +3,5 @@ controller=BYZ
 add_core=MED
 trade_goods = fruit
 life_rating = 32
-terrain = semidesert
+
 colonial=2

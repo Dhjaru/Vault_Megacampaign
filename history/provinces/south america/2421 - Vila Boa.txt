@@ -4,4 +4,4 @@ add_core=BRZ
 add_core=X09
 trade_goods = cattle
 life_rating = 31
-terrain = savanna
+

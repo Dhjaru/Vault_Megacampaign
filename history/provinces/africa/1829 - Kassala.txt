@@ -3,4 +3,4 @@ controller=BYZ
 add_core=X00
 trade_goods = fruit
 life_rating = 32
-terrain = semidesert
+

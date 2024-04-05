@@ -3,5 +3,5 @@ controller=BYZ
 add_core=COP
 trade_goods = grain
 life_rating = 40
-terrain = farmlands
+
 colonial=2

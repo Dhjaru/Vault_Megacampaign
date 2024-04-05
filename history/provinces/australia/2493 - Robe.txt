@@ -3,4 +3,4 @@ controller=X06
 add_core=X06
 trade_goods = wool
 life_rating = 32
-terrain = savanna
+

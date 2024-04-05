@@ -949,9 +949,9 @@ ENG_2044 = { 2044 2043 2046 2042 } #Tanganyika
 
 ### West Africa
 
-FRA_1775 = { 1775 1776 1777 1778 1779 1781 1782 } #Mauritania
+FRA_1775 = { 1775 1776 1777 1778 } #Mauritania
 
-#FRA_1780 = { 1780 1781 1782 } #Inner Mauritania
+FRA_1780 = { 1779 1781 1782 } #Inner Mauritania
 
 FRA_1783 = { 1783 1784 1786 1787 1789 1790 2573 } #Senegal
 

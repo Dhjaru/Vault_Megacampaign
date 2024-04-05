@@ -4,4 +4,4 @@ add_core=ARA
 add_core=PER
 trade_goods = fruit
 life_rating = 34
-terrain = semidesert
+

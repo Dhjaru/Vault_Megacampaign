@@ -3,5 +3,5 @@ controller=BYZ
 add_core=ARA
 trade_goods = fish
 life_rating = 20
-terrain = desert
+
 colonial=2

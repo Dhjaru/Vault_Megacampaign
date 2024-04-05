@@ -40,6 +40,35 @@ indigenous_garrisoning = {
 		}		
 	}
 	effect = {
+		colonial_life_rating = -5
+	}
+}
+rush_for_guano = {
+	limit = {
+		assembly_line = 1
+		year = 1890
+	}
+	news = no
+	chance = {
+		base = 10
+		modifier = {
+			factor = 100
+			any_greater_power = {
+				invention = rush_for_guano 
+			}
+		}
+		modifier = {
+			factor = 10
+			any_neighbor_country = {
+				invention = rush_for_guano
+			}
+		}
+		modifier = {
+			factor = -100
+			NOT = { year = 1890 }
+		}		
+	}
+	effect = {
 		colonial_life_rating = -10
 	}
 }

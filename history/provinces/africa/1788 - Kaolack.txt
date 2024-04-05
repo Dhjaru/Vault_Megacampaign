@@ -1,4 +1,4 @@
 add_core=WOL
 trade_goods = fruit
 life_rating = 10
-terrain = semidesert
+

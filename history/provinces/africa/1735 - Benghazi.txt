@@ -3,6 +3,6 @@ controller=BYZ
 add_core=EGY
 trade_goods = fruit
 life_rating = 35
-terrain = plains
+
 fort = 1
 colonial=2

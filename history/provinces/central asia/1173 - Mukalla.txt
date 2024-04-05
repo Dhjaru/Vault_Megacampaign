@@ -3,5 +3,5 @@ controller=BYZ
 add_core=ARA
 trade_goods = opium
 life_rating = 32
-terrain = semidesert
+
 fort = 1

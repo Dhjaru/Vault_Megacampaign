@@ -4,4 +4,4 @@ add_core=CHM
 add_core=CLM
 trade_goods = grain
 life_rating = 35
-terrain = dryhills
+

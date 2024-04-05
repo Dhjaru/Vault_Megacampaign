@@ -3,5 +3,5 @@ controller=BYZ
 add_core=AWS
 trade_goods = cattle
 life_rating = 10
-terrain = semidesert
+
 colonial=2

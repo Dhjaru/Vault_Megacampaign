@@ -3,7 +3,7 @@ controller=RUS
 add_core=RUS
 trade_goods = coal
 life_rating = 40
-terrain = mining_district
+
 fort = 1
 state_building=
 {
