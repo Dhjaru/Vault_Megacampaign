@@ -1,6 +1,7 @@
 owner=NOV
 controller=NOV
 add_core=NOV
+add_core=X08
 trade_goods = grain
 life_rating = 31
 

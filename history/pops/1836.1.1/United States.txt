@@ -3348,50 +3348,50 @@
 
 	farmers=
 	{
-		culture = ealimi
-		religion = catholic
+		culture = anglo_canadian
+		religion = protestant
 		size= 826
 	}
 
 	artisans=
 	{
-		culture = ealimi
-		religion = catholic
+		culture = anglo_canadian
+		religion = protestant
 		size= 85
 	}
 
 	aristocrats=
 	{
-		culture = ealimi
-		religion = catholic
+		culture = anglo_canadian
+		religion = protestant
 		size= 18
 	}
 
 	clergymen=
 	{
-		culture = ealimi
-		religion = catholic
+		culture = anglo_canadian
+		religion = protestant
 		size= 13
 	}
 
 	bureaucrats=
 	{
-		culture = ealimi
-		religion = catholic
+		culture = anglo_canadian
+		religion = protestant
 		size= 6
 	}
 
 	soldiers=
 	{
-		culture = ealimi
-		religion = catholic
+		culture = anglo_canadian
+		religion = protestant
 		size=1
 	}
 
 	officers=
 	{
-		culture = ealimi
-		religion = catholic
+		culture = anglo_canadian
+		religion = protestant
 		size= 1
 	}
 
