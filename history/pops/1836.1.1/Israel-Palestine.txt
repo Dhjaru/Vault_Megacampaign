@@ -10,7 +10,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 681
+		size= 68
 	}
 
 	clergymen=
@@ -59,7 +59,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 1279
+		size= 127
 	}
 
 	clergymen=
@@ -108,7 +108,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 5198
+		size= 519
 	}
 
 	clergymen=
@@ -159,7 +159,7 @@
 	{
 		culture = outremer
 		religion = catholic
-		size= 789
+		size= 78
 	}
 
 	clergymen=
@@ -208,7 +208,7 @@
 	{
 		culture = outremer
 		religion = orthodox
-		size= 969
+		size= 96
 	}
 
 	clergymen=
@@ -257,7 +257,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 6068
+		size= 606
 	}
 
 	clergymen=
@@ -308,7 +308,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 685
+		size= 68
 	}
 
 	clergymen=
@@ -357,7 +357,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 1287
+		size= 128
 	}
 
 	clergymen=
@@ -406,7 +406,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 5234
+		size= 523
 	}
 
 	clergymen=
@@ -457,7 +457,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 657
+		size= 65
 	}
 
 	clergymen=
@@ -506,7 +506,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 1234
+		size= 123
 	}
 
 	clergymen=
@@ -555,7 +555,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 5017
+		size= 501
 	}
 
 	clergymen=
@@ -606,7 +606,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 285
+		size= 28
 	}
 
 	clergymen=
@@ -655,7 +655,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 854
+		size= 85
 	}
 
 	clergymen=
@@ -704,7 +704,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 1155
+		size= 115
 	}
 
 	clergymen=
@@ -746,7 +746,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4297
+		size= 429
 	}
 
 	clergymen=
@@ -797,7 +797,7 @@
 	{
 		culture = outremer
 		religion = catholic
-		size= 877
+		size= 87
 	}
 
 	clergymen=
@@ -846,7 +846,7 @@
 	{
 		culture = outremer
 		religion = orthodox
-		size= 1077
+		size= 107
 	}
 
 	clergymen=
@@ -895,7 +895,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 6746
+		size= 674
 	}
 
 	clergymen=

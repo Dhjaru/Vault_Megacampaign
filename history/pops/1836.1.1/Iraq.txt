@@ -1433,7 +1433,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 3892s
+		size= 3892
 	}
 
 }

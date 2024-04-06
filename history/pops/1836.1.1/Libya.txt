@@ -115,49 +115,49 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 91
+		size= 9
 	}
 
 	artisans=
 	{
 		culture = greek
 		religion = orthodox
-		size= 8018
+		size= 801
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = orthodox
-		size= 402
+		size= 40
 	}
 
 	bureaucrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 142
+		size= 14
 	}
 
 	officers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 135
+		size= 13
 	}
 
 	aristocrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 540
+		size= 54
 	}
 
 	farmers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 19043
+		size= 1904
 	}
 
 	slaves=
@@ -446,42 +446,42 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 260
+		size= 26
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = orthodox
-		size= 42
+		size= 4
 	}
 
 	bureaucrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 7
+		size= 1
 	}
 
 	officers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 14
+		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 55
+		size= 5
 	}
 
 	farmers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 2235
+		size= 223
 	}
 
 }
@@ -602,49 +602,49 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 21
+		size= 2
 	}
 
 	artisans=
 	{
 		culture = greek
 		religion = orthodox
-		size= 1685
+		size= 168
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = orthodox
-		size= 87
+		size= 8
 	}
 
 	bureaucrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 32
+		size= 3
 	}
 
 	officers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 30
+		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 120
+		size= 12
 	}
 
 	farmers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 3108
+		size= 310
 	}
 
 	slaves=
@@ -926,49 +926,49 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 21
+		size= 2
 	}
 
 	artisans=
 	{
 		culture = greek
 		religion = orthodox
-		size= 627
+		size= 62
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = orthodox
-		size= 102
+		size= 10
 	}
 
 	bureaucrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 16
+		size= 1
 	}
 
 	officers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 33
+		size= 3
 	}
 
 	aristocrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 132
+		size= 13
 	}
 
 	farmers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 5524
+		size= 552
 	}
 
 }
@@ -1524,42 +1524,42 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 101
+		size= 10
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = orthodox
-		size= 16
+		size= 1
 	}
 
 	bureaucrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 3
+		size= 1
 	}
 
 	officers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 5
+		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 21
+		size= 2
 	}
 
 	farmers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 1115
+		size= 111
 	}
 
 }
@@ -1736,42 +1736,42 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 69
+		size= 6
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = orthodox
-		size= 11
+		size= 1
 	}
 
 	bureaucrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 4
+		size= 1
 	}
 
 	officers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 5
+		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 15
+		size= 1
 	}
 
 	farmers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 503
+		size= 50
 	}
 
 	slaves=
@@ -2090,42 +2090,42 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 233
+		size= 23
 	}
 
 	clergymen=
 	{
 		culture = greek
 		religion = orthodox
-		size= 38
+		size= 3
 	}
 
 	bureaucrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 6
+		size= 1
 	}
 
 	officers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 12
+		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = greek
 		religion = orthodox
-		size= 49
+		size= 4
 	}
 
 	farmers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 1690
+		size= 169
 	}
 
 }

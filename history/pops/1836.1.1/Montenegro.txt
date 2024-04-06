@@ -10,7 +10,7 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 100
+		size= 10
 	}
 
 	clergymen=
@@ -59,7 +59,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 184
+		size= 18
 	}
 
 	clergymen=
@@ -108,7 +108,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 771
+		size= 77
 	}
 
 	clergymen=
@@ -159,7 +159,7 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 100
+		size= 10
 	}
 
 	clergymen=
@@ -208,7 +208,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 184
+		size= 18
 	}
 
 	clergymen=
@@ -257,7 +257,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 771
+		size= 77
 	}
 
 	clergymen=
@@ -308,7 +308,7 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 100
+		size= 10
 	}
 
 	clergymen=
@@ -357,7 +357,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 184
+		size= 18
 	}
 
 	clergymen=
@@ -406,7 +406,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 771
+		size= 77
 	}
 
 	clergymen=
@@ -457,7 +457,7 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 340
+		size= 34
 	}
 
 	clergymen=
@@ -506,7 +506,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 630
+		size= 63
 	}
 
 	clergymen=
@@ -555,7 +555,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2646
+		size= 264
 	}
 
 	clergymen=
@@ -606,7 +606,7 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 100
+		size= 10
 	}
 
 	clergymen=
@@ -655,7 +655,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 184
+		size= 18
 	}
 
 	clergymen=
@@ -704,7 +704,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 771
+		size= 77
 	}
 
 	clergymen=

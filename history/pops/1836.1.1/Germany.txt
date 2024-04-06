@@ -10,7 +10,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 5407
+		size= 540
 	}
 
 	clergymen=
@@ -45,7 +45,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 68863
+		size= 6886
 	}
 
 	soldiers=
@@ -59,7 +59,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 18022
+		size= 1802
 	}
 
 	clergymen=
@@ -110,7 +110,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2436
+		size= 243
 	}
 
 	clergymen=
@@ -145,7 +145,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 64977
+		size= 6497
 	}
 
 	soldiers=
@@ -159,7 +159,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 21519
+		size= 2151
 	}
 
 	clergymen=
@@ -210,7 +210,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2491
+		size= 249
 	}
 
 	clergymen=
@@ -245,7 +245,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 64927
+		size= 6492
 	}
 
 	soldiers=
@@ -259,7 +259,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 19656
+		size= 1965
 	}
 
 	clergymen=
@@ -310,7 +310,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 7827
+		size= 782
 	}
 
 	clergymen=
@@ -345,7 +345,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 97439
+		size= 9743
 	}
 
 	soldiers=
@@ -359,7 +359,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 27402
+		size= 2740
 	}
 
 	clergymen=
@@ -410,7 +410,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 4675
+		size= 467
 	}
 
 	clergymen=
@@ -445,7 +445,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 121609
+		size= 12160
 	}
 
 	soldiers=
@@ -459,7 +459,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 36980
+		size= 3698
 	}
 
 	clergymen=
@@ -510,7 +510,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 7396
+		size= 739
 	}
 
 	clergymen=
@@ -545,7 +545,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 125764
+		size= 12576
 	}
 
 	soldiers=
@@ -559,7 +559,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 35314
+		size= 3531
 	}
 
 	clergymen=
@@ -610,7 +610,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1599
+		size= 159
 	}
 
 	clergymen=
@@ -645,7 +645,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 57842
+		size= 5784
 	}
 
 	soldiers=
@@ -659,7 +659,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 17911
+		size= 1791
 	}
 
 	clergymen=
@@ -710,7 +710,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2558
+		size= 255
 	}
 
 	clergymen=
@@ -745,7 +745,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 67299
+		size= 6729
 	}
 
 	soldiers=
@@ -759,7 +759,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 19816
+		size= 1981
 	}
 
 	clergymen=
@@ -810,7 +810,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1404
+		size= 140
 	}
 
 	clergymen=
@@ -845,7 +845,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 37385
+		size= 3738
 	}
 
 	soldiers=
@@ -859,7 +859,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 11116
+		size= 1111
 	}
 
 	clergymen=
@@ -910,7 +910,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 7465
+		size= 746
 	}
 
 	clergymen=
@@ -945,7 +945,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 92717
+		size= 9271
 	}
 
 	soldiers=
@@ -959,7 +959,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 25754
+		size= 2575
 	}
 
 	clergymen=
@@ -1010,7 +1010,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 7605
+		size= 760
 	}
 
 	clergymen=
@@ -1045,7 +1045,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 126756
+		size= 12675
 	}
 
 	soldiers=
@@ -1059,7 +1059,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 36160
+		size= 3616
 	}
 
 	clergymen=
@@ -1110,7 +1110,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2512
+		size= 251
 	}
 
 	clergymen=
@@ -1145,7 +1145,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 65725
+		size= 6572
 	}
 
 	soldiers=
@@ -1159,7 +1159,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 20062
+		size= 2006
 	}
 
 	clergymen=
@@ -1210,7 +1210,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 3237
+		size= 323
 	}
 
 	clergymen=
@@ -1245,7 +1245,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 85995
+		size= 8599
 	}
 
 	soldiers=
@@ -1259,7 +1259,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 27874
+		size= 2787
 	}
 
 	clergymen=
@@ -1310,7 +1310,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2020
+		size= 202
 	}
 
 	clergymen=
@@ -1345,7 +1345,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 53696
+		size= 5369
 	}
 
 	soldiers=
@@ -1359,7 +1359,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 18018
+		size= 1801
 	}
 
 	clergymen=
@@ -1410,7 +1410,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1448
+		size= 144
 	}
 
 	clergymen=
@@ -1445,7 +1445,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 37595
+		size= 3759
 	}
 
 	soldiers=
@@ -1459,7 +1459,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 11471
+		size= 1147
 	}
 
 	clergymen=
@@ -1510,7 +1510,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1219
+		size= 121
 	}
 
 	clergymen=
@@ -1545,7 +1545,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 31780
+		size= 3178
 	}
 
 	soldiers=
@@ -1559,7 +1559,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 9590
+		size= 959
 	}
 
 	clergymen=
@@ -1612,7 +1612,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 29520
+		size= 2952
 	}
 
 	clergymen=
@@ -1663,7 +1663,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 10408
+		size= 1040
 	}
 
 	clergymen=
@@ -1698,7 +1698,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 197008
+		size= 5700
 	}
 
 	soldiers=
@@ -1712,7 +1712,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 64268
+		size= 6426
 	}
 
 	clergymen=
@@ -1747,7 +1747,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 219327
+		size= 119327
 	}
 
 }
@@ -1763,7 +1763,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1020
+		size= 102
 	}
 
 	clergymen=
@@ -1798,7 +1798,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 27130
+		size= 2713
 	}
 
 	soldiers=
@@ -1812,7 +1812,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 8734
+		size= 873
 	}
 
 	clergymen=
@@ -1863,7 +1863,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 4885
+		size= 488
 	}
 
 	clergymen=
@@ -1898,7 +1898,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 77730
+		size= 7773
 	}
 
 	soldiers=
@@ -1912,7 +1912,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 19897
+		size= 1989
 	}
 
 	clergymen=
@@ -1963,7 +1963,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 3878
+		size= 387
 	}
 
 	clergymen=
@@ -1998,7 +1998,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 111629
+		size= 11162
 	}
 
 	soldiers=
@@ -2012,7 +2012,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 20768
+		size= 2076
 	}
 
 	clergymen=
@@ -2070,7 +2070,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 11326
+		size= 1132
 	}
 
 	clergymen=
@@ -2119,7 +2119,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 160147
+		size= 16014
 	}
 
 	soldiers=
@@ -2140,7 +2140,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 45677
+		size= 4567
 	}
 
 	clergymen=
@@ -2205,7 +2205,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1020
+		size= 102
 	}
 
 	clergymen=
@@ -2240,7 +2240,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 27130
+		size= 2713
 	}
 
 	soldiers=
@@ -2254,7 +2254,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 8734
+		size= 873
 	}
 
 	clergymen=
@@ -2305,7 +2305,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 5911
+		size= 591
 	}
 
 	clergymen=
@@ -2340,7 +2340,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 81962
+		size= 8196
 	}
 
 	soldiers=
@@ -2354,7 +2354,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 23617
+		size= 2361
 	}
 
 	clergymen=
@@ -2405,7 +2405,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2443
+		size= 244
 	}
 
 	clergymen=
@@ -2440,7 +2440,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 63693
+		size= 6369
 	}
 
 	soldiers=
@@ -2454,7 +2454,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 19175
+		size= 1917
 	}
 
 	clergymen=
@@ -2505,7 +2505,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 8863
+		size= 886
 	}
 
 	clergymen=
@@ -2540,7 +2540,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 112649
+		size= 11264
 	}
 
 	soldiers=
@@ -2554,7 +2554,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 30584
+		size= 3058
 	}
 
 	clergymen=
@@ -2605,7 +2605,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2862
+		size= 286
 	}
 
 	clergymen=
@@ -2640,7 +2640,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 35940
+		size= 3594
 	}
 
 	soldiers=
@@ -2654,7 +2654,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 9858
+		size= 985
 	}
 
 	clergymen=
@@ -2705,7 +2705,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2335
+		size= 233
 	}
 
 	clergymen=
@@ -2740,7 +2740,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 63312
+		size= 6331
 	}
 
 	soldiers=
@@ -2754,7 +2754,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 18229
+		size= 1822
 	}
 
 	clergymen=
@@ -2805,7 +2805,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1512
+		size= 151
 	}
 
 	clergymen=
@@ -2840,7 +2840,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 54511
+		size= 5451
 	}
 
 	soldiers=
@@ -2854,7 +2854,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 15790
+		size= 1579
 	}
 
 	clergymen=
@@ -2905,7 +2905,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2493
+		size= 249
 	}
 
 	clergymen=
@@ -2940,7 +2940,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 64999
+		size= 6499
 	}
 
 	soldiers=
@@ -2954,7 +2954,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 19125
+		size= 1912
 	}
 
 	clergymen=
@@ -3012,7 +3012,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 6378
+		size= 637
 	}
 
 	clergymen=
@@ -3061,7 +3061,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 136003
+		size= 6600
 	}
 
 	soldiers=
@@ -3082,7 +3082,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 3992
+		size= 399
 	}
 
 	clergymen=
@@ -3152,7 +3152,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 17086
+		size= 1708
 	}
 
 	clergymen=
@@ -3217,7 +3217,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 5536
+		size= 553
 	}
 
 	clergymen=
@@ -3252,7 +3252,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 75820
+		size= 7582
 	}
 
 	soldiers=
@@ -3266,7 +3266,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 3366
+		size= 336
 	}
 
 	clergymen=
@@ -3315,7 +3315,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 14202
+		size= 1420
 	}
 
 	clergymen=
@@ -3366,7 +3366,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2340
+		size= 234
 	}
 
 	clergymen=
@@ -3401,7 +3401,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 47336
+		size= 3733
 	}
 
 	soldiers=
@@ -3415,7 +3415,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 1059
+		size= 105
 	}
 
 	clergymen=
@@ -3450,7 +3450,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 21661
+		size= 7661
 	}
 
 	soldiers=
@@ -3464,7 +3464,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 5753
+		size= 575
 	}
 
 	clergymen=
@@ -3499,7 +3499,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 17940
+		size= 7940
 	}
 
 }
@@ -3515,7 +3515,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 14798
+		size= 1479
 	}
 
 	clergymen=
@@ -3550,7 +3550,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 85212
+		size= 4521
 	}
 
 	soldiers=
@@ -3564,7 +3564,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4513
+		size= 451
 	}
 
 	clergymen=
@@ -3615,7 +3615,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2906
+		size= 290
 	}
 
 	clergymen=
@@ -3650,7 +3650,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 36089
+		size= 3608
 	}
 
 	soldiers=
@@ -3664,7 +3664,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 10013
+		size= 1001
 	}
 
 	clergymen=
@@ -3715,7 +3715,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1797
+		size= 179
 	}
 
 	clergymen=
@@ -3764,7 +3764,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 18767
+		size= 1876
 	}
 
 	clergymen=
@@ -3815,7 +3815,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 3396
+		size= 339
 	}
 
 	clergymen=
@@ -3850,7 +3850,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 89047
+		size= 8904
 	}
 
 	soldiers=
@@ -3864,7 +3864,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 27943
+		size= 2794
 	}
 
 	clergymen=
@@ -3915,7 +3915,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1057
+		size= 105
 	}
 
 	clergymen=
@@ -3950,7 +3950,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 28588
+		size= 2858
 	}
 
 	soldiers=
@@ -3964,7 +3964,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 9254
+		size= 925
 	}
 
 	clergymen=
@@ -4015,7 +4015,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2999
+		size= 299
 	}
 
 	clergymen=
@@ -4050,7 +4050,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 78403
+		size= 7840
 	}
 
 	soldiers=
@@ -4064,7 +4064,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 23267
+		size= 2326
 	}
 
 	clergymen=
@@ -4115,7 +4115,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1960
+		size= 196
 	}
 
 	clergymen=
@@ -4150,7 +4150,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 30811
+		size= 3081
 	}
 
 	soldiers=
@@ -4164,7 +4164,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 7794
+		size= 779
 	}
 
 	clergymen=
@@ -4215,7 +4215,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2124
+		size= 212
 	}
 
 	clergymen=
@@ -4250,7 +4250,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 56348
+		size= 5634
 	}
 
 	soldiers=
@@ -4264,7 +4264,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 16858
+		size= 1685
 	}
 
 	clergymen=
@@ -4315,7 +4315,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 18697
+		size= 1869
 	}
 
 	clergymen=
@@ -4350,7 +4350,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 100250
+		size= 60250
 	}
 
 	soldiers=
@@ -4364,7 +4364,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 5986
+		size= 598
 	}
 
 	clergymen=
@@ -4415,7 +4415,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1479
+		size= 147
 	}
 
 	clergymen=
@@ -4464,7 +4464,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 2028
+		size= 202
 	}
 
 	clergymen=
@@ -4513,7 +4513,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 10895
+		size= 1089
 	}
 
 	clergymen=
@@ -4564,7 +4564,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1479
+		size= 147
 	}
 
 	clergymen=
@@ -4613,7 +4613,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 2028
+		size= 202
 	}
 
 	clergymen=
@@ -4662,7 +4662,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 10895
+		size= 1089
 	}
 
 	clergymen=
@@ -4713,7 +4713,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1451
+		size= 145
 	}
 
 	clergymen=
@@ -4748,7 +4748,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 78720
+		size= 7872
 	}
 
 	soldiers=
@@ -4762,7 +4762,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 6082
+		size= 608
 	}
 
 	clergymen=
@@ -4811,7 +4811,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 22524
+		size= 2252
 	}
 
 	clergymen=
@@ -4862,7 +4862,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1549
+		size= 154
 	}
 
 	clergymen=
@@ -4911,7 +4911,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 6602
+		size= 660
 	}
 
 	clergymen=
@@ -4960,7 +4960,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 24014
+		size= 2401
 	}
 
 	clergymen=
@@ -5011,7 +5011,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 3176
+		size= 317
 	}
 
 	clergymen=
@@ -5046,7 +5046,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 84115
+		size= 8411
 	}
 
 	soldiers=
@@ -5060,7 +5060,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4437
+		size= 443
 	}
 
 	clergymen=
@@ -5109,7 +5109,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 23498
+		size= 2349
 	}
 
 	clergymen=
@@ -5160,7 +5160,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 3049
+		size= 304
 	}
 
 	clergymen=
@@ -5195,7 +5195,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 80852
+		size= 8085
 	}
 
 	soldiers=
@@ -5209,7 +5209,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 25332
+		size= 2533
 	}
 
 	clergymen=
@@ -5269,7 +5269,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 50932
+		size= 5093
 	}
 
 	clergymen=
@@ -5320,7 +5320,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 3583
+		size= 358
 	}
 
 	clergymen=
@@ -5355,7 +5355,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 93332
+		size= 9333
 	}
 
 	soldiers=
@@ -5369,7 +5369,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 29821
+		size= 2982
 	}
 
 	clergymen=
@@ -5420,7 +5420,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1355
+		size= 135
 	}
 
 	clergymen=
@@ -5455,7 +5455,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 35516
+		size= 3551
 	}
 
 	soldiers=
@@ -5469,7 +5469,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 11728
+		size= 1172
 	}
 
 	clergymen=
@@ -5520,7 +5520,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1108
+		size= 110
 	}
 
 	clergymen=
@@ -5555,7 +5555,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 28872
+		size= 2887
 	}
 
 	soldiers=
@@ -5569,7 +5569,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 9702
+		size= 970
 	}
 
 	clergymen=
@@ -5620,7 +5620,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 3618
+		size= 361
 	}
 
 	clergymen=
@@ -5655,7 +5655,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 94735
+		size= 9473
 	}
 
 	soldiers=
@@ -5669,7 +5669,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 27820
+		size= 2782
 	}
 
 	clergymen=
@@ -5720,7 +5720,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2332
+		size= 233
 	}
 
 	clergymen=
@@ -5755,7 +5755,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 60797
+		size= 6079
 	}
 
 	soldiers=
@@ -5769,7 +5769,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 18760
+		size= 1876
 	}
 
 	clergymen=
@@ -5820,7 +5820,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 3166
+		size= 316
 	}
 
 	clergymen=
@@ -5855,7 +5855,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 54768
+		size= 5476
 	}
 
 	soldiers=
@@ -5869,7 +5869,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 16080
+		size= 1608
 	}
 
 	clergymen=
@@ -5920,7 +5920,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2254
+		size= 225
 	}
 
 	clergymen=
@@ -5955,7 +5955,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 58749
+		size= 5874
 	}
 
 	soldiers=
@@ -5969,7 +5969,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 18838
+		size= 1883
 	}
 
 	clergymen=
@@ -6020,7 +6020,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1960
+		size= 196
 	}
 
 	clergymen=
@@ -6055,7 +6055,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 30811
+		size= 3081
 	}
 
 	soldiers=
@@ -6069,7 +6069,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 7794
+		size= 779
 	}
 
 	clergymen=
@@ -6120,7 +6120,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 3166
+		size= 316
 	}
 
 	clergymen=
@@ -6155,7 +6155,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 54768
+		size= 5476
 	}
 
 	soldiers=
@@ -6169,7 +6169,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 16080
+		size= 1608
 	}
 
 	clergymen=
@@ -6220,7 +6220,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 7696
+		size= 769
 	}
 
 	clergymen=
@@ -6255,7 +6255,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 178171
+		size= 78171
 	}
 
 	soldiers=
@@ -6269,7 +6269,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 1678
+		size= 167
 	}
 
 	clergymen=
@@ -6318,7 +6318,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 16190
+		size= 1619
 	}
 
 	clergymen=
@@ -6369,7 +6369,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 2717
+		size= 271
 	}
 
 	clergymen=
@@ -6404,7 +6404,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 61082
+		size= 31082
 	}
 
 	soldiers=
@@ -6418,7 +6418,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 773
+		size= 77
 	}
 
 	clergymen=
@@ -6467,7 +6467,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 6679
+		size= 667
 	}
 
 	clergymen=
@@ -6518,7 +6518,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 22755
+		size= 2275
 	}
 
 	clergymen=
@@ -6553,7 +6553,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 134989
+		size= 84989
 	}
 
 	soldiers=
@@ -6567,7 +6567,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 2555
+		size= 255
 	}
 
 	clergymen=
@@ -6618,7 +6618,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 15394
+		size= 1539
 	}
 
 	clergymen=
@@ -6667,7 +6667,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 1695
+		size= 169
 	}
 
 	clergymen=
@@ -6718,7 +6718,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 13785
+		size= 1378
 	}
 
 	clergymen=
@@ -6753,7 +6753,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 137856
+		size= 67856
 	}
 
 	soldiers=
@@ -6767,7 +6767,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 4519
+		size= 451
 	}
 
 	clergymen=
@@ -6818,7 +6818,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 6328
+		size= 632
 	}
 
 	clergymen=
@@ -6853,7 +6853,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 58058
+		size= 38058
 	}
 
 	soldiers=
@@ -6867,7 +6867,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 621
+		size= 62
 	}
 
 	clergymen=
@@ -6925,7 +6925,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 29366
+		size= 2936
 	}
 
 	clergymen=
@@ -6974,7 +6974,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 256724
+		size= 56724
 	}
 
 	soldiers=
@@ -6995,7 +6995,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 2837
+		size= 283
 	}
 
 	clergymen=
@@ -7044,7 +7044,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 32633
+		size= 6633
 	}
 
 }
@@ -7060,7 +7060,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 19868
+		size= 1986
 	}
 
 	clergymen=
@@ -7109,7 +7109,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 2277
+		size= 227
 	}
 
 	clergymen=
@@ -7160,7 +7160,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 6328
+		size= 632
 	}
 
 	clergymen=
@@ -7195,7 +7195,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 58058
+		size= 5805
 	}
 
 	soldiers=
@@ -7209,7 +7209,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 621
+		size= 62
 	}
 
 	clergymen=
@@ -7260,7 +7260,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 20951
+		size= 2095
 	}
 
 	clergymen=
@@ -7295,7 +7295,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 122328
+		size= 62328
 	}
 
 	soldiers=
@@ -7309,7 +7309,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 9432
+		size= 943
 	}
 
 	clergymen=
@@ -7344,7 +7344,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 50674
+		size= 30674
 	}
 
 }
@@ -7360,7 +7360,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 4366
+		size= 436
 	}
 
 	clergymen=
@@ -7409,7 +7409,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 17253
+		size= 1725
 	}
 
 	clergymen=
@@ -7460,7 +7460,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 3511
+		size= 351
 	}
 
 	clergymen=
@@ -7509,7 +7509,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 13890
+		size= 1389
 	}
 
 	clergymen=
@@ -7560,7 +7560,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 14348
+		size= 1434
 	}
 
 	clergymen=
@@ -7595,7 +7595,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 157263
+		size= 117263
 	}
 
 	soldiers=
@@ -7609,7 +7609,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 26254
+		size= 2625
 	}
 
 	clergymen=
@@ -7644,7 +7644,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 74970
+		size= 34970
 	}
 
 }
@@ -7660,7 +7660,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 21194
+		size= 2119
 	}
 
 	clergymen=
@@ -7695,7 +7695,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 201021
+		size= 151021
 	}
 
 	soldiers=
@@ -7709,7 +7709,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 779
+		size= 77
 	}
 
 	clergymen=
@@ -7760,7 +7760,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 47948
+		size= 4794
 	}
 
 	clergymen=
@@ -7795,7 +7795,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 448844
+		size= 248844
 	}
 
 	soldiers=
@@ -7809,7 +7809,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 3915
+		size= 391
 	}
 
 	clergymen=
@@ -7860,7 +7860,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 22737
+		size= 2273
 	}
 
 	clergymen=
@@ -7895,7 +7895,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 233701
+		size= 133701
 	}
 
 	soldiers=
@@ -7909,7 +7909,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 4721
+		size= 472
 	}
 
 	clergymen=
@@ -7944,7 +7944,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 19085
+		size= 7085
 	}
 
 }
@@ -7960,7 +7960,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 25559
+		size= 2555
 	}
 
 	clergymen=
@@ -7995,7 +7995,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 241147
+		size= 91147
 	}
 
 	soldiers=
@@ -8009,7 +8009,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 1898
+		size= 189
 	}
 
 	clergymen=
@@ -8060,7 +8060,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 19416
+		size= 1941
 	}
 
 	clergymen=
@@ -8095,54 +8095,54 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 157408
+		size= 57408
 	}
 
 	soldiers=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 171
 	}
 
 	artisans=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
-		size= 3296
+		size= 329
 	}
 
 	clergymen=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 476
 	}
 
 	bureaucrats=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 131
 	}
 
 	officers=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 77
 	}
 
 	aristocrats=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 615
 	}
 
 	farmers=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 56205
 	}
@@ -8160,7 +8160,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 198
+		size= 19
 	}
 
 	clergymen=
@@ -8188,7 +8188,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 40593
+		size= 4059
 	}
 
 	soldiers=
@@ -8202,7 +8202,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 2817
+		size= 281
 	}
 
 	clergymen=
@@ -8244,7 +8244,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 1005
+		size= 100
 	}
 
 	clergymen=
@@ -8288,7 +8288,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 409
+		size= 40
 	}
 
 	clergymen=
@@ -8323,7 +8323,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 34866
+		size= 3486
 	}
 
 	soldiers=
@@ -8337,7 +8337,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 5500
+		size= 550
 	}
 
 	clergymen=
@@ -8386,7 +8386,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 1887
+		size= 188
 	}
 
 	clergymen=
@@ -8437,7 +8437,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1219
+		size= 121
 	}
 
 	clergymen=
@@ -8472,7 +8472,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 31780
+		size= 3178
 	}
 
 	soldiers=
@@ -8486,7 +8486,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 9590
+		size= 959
 	}
 
 	clergymen=
@@ -8537,7 +8537,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 5553
+		size= 555
 	}
 
 	clergymen=
@@ -8572,7 +8572,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 68966
+		size= 6896
 	}
 
 	soldiers=
@@ -8586,7 +8586,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 21339
+		size= 2133
 	}
 
 	clergymen=
@@ -8637,7 +8637,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1365
+		size= 136
 	}
 
 	clergymen=
@@ -8672,7 +8672,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 35564
+		size= 3556
 	}
 
 	soldiers=
@@ -8686,7 +8686,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 11817
+		size= 1181
 	}
 
 	clergymen=

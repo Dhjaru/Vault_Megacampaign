@@ -10,7 +10,7 @@
 	{
 		culture = icelandic
 		religion = catholic
-		size= 1983
+		size= 198
 	}
 
 	clergymen=
@@ -59,7 +59,7 @@
 	{
 		culture = english
 		religion = catholic
-		size= 2000
+		size= 200
 	}
 
 	clergymen=
@@ -101,7 +101,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 15527
+		size= 1552
 	}
 
 	clergymen=
@@ -159,7 +159,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 4519
+		size= 451
 	}
 
 	clergymen=
@@ -229,7 +229,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 23202
+		size= 2320
 	}
 
 	clergymen=
@@ -294,7 +294,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 1176
+		size= 117
 	}
 
 	clergymen=
@@ -343,7 +343,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 6139
+		size= 613
 	}
 
 	clergymen=
@@ -392,7 +392,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 16940
+		size= 1694
 	}
 
 	clergymen=
@@ -443,7 +443,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 2745
+		size= 274
 	}
 
 	clergymen=
@@ -492,7 +492,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 30474
+		size= 3047
 	}
 
 	clergymen=
@@ -543,7 +543,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1728
+		size= 172
 	}
 
 	clergymen=
@@ -592,7 +592,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 8818
+		size= 881
 	}
 
 	clergymen=
@@ -643,7 +643,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1728
+		size= 172
 	}
 
 	clergymen=
@@ -692,7 +692,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 8818
+		size= 881
 	}
 
 	clergymen=
@@ -743,7 +743,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 1064
+		size= 106
 	}
 
 	clergymen=
@@ -792,7 +792,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 4281
+		size= 428
 	}
 
 	clergymen=
@@ -841,7 +841,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 3102
+		size= 310
 	}
 
 	clergymen=
@@ -890,7 +890,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1127
+		size= 112
 	}
 
 	clergymen=
@@ -939,7 +939,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 5413
+		size= 541
 	}
 
 	clergymen=
@@ -990,7 +990,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 702
+		size= 70
 	}
 
 	clergymen=
@@ -1039,7 +1039,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4553
+		size= 455
 	}
 
 	clergymen=
@@ -1088,7 +1088,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 1267
+		size= 126
 	}
 
 	clergymen=
@@ -1139,7 +1139,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 590
+		size= 59
 	}
 
 	clergymen=
@@ -1188,7 +1188,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 2940
+		size= 294
 	}
 
 	clergymen=
@@ -1237,7 +1237,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 859
+		size= 85
 	}
 
 	clergymen=
@@ -1288,7 +1288,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 5357
+		size= 535
 	}
 
 	clergymen=
@@ -1337,7 +1337,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 23116
+		size= 2311
 	}
 
 	clergymen=

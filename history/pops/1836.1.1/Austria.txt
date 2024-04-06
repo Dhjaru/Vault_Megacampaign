@@ -10,7 +10,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 7124
+		size= 712
 	}
 
 	clergymen=
@@ -59,7 +59,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 1162
+		size= 116
 	}
 
 	clergymen=
@@ -110,7 +110,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 12949
+		size= 1294
 	}
 
 	clergymen=
@@ -159,7 +159,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 1288
+		size= 128
 	}
 
 	clergymen=
@@ -210,7 +210,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 8119
+		size= 811
 	}
 
 	clergymen=
@@ -259,7 +259,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 1373
+		size= 137
 	}
 
 	clergymen=
@@ -310,7 +310,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 13545
+		size= 1354
 	}
 
 	clergymen=
@@ -359,7 +359,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 2274
+		size= 227
 	}
 
 	clergymen=
@@ -410,7 +410,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 13099
+		size= 1309
 	}
 
 	clergymen=
@@ -459,7 +459,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 2155
+		size= 215
 	}
 
 	clergymen=
@@ -510,7 +510,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 8982
+		size= 898
 	}
 
 	clergymen=
@@ -559,7 +559,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 1526
+		size= 152
 	}
 
 	clergymen=
@@ -610,7 +610,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 31912
+		size= 3191
 	}
 
 	clergymen=
@@ -659,7 +659,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 5525
+		size= 552
 	}
 
 	clergymen=
@@ -710,7 +710,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 11990
+		size= 1199
 	}
 
 	clergymen=
@@ -759,7 +759,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 2047
+		size= 204
 	}
 
 	clergymen=
@@ -810,7 +810,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 10018
+		size= 1001
 	}
 
 	clergymen=
@@ -859,7 +859,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 2185
+		size= 218
 	}
 
 	clergymen=
@@ -910,7 +910,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 10602
+		size= 1060
 	}
 
 	clergymen=
@@ -959,7 +959,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 2280
+		size= 228
 	}
 
 	clergymen=
@@ -1010,7 +1010,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 40923
+		size= 4092
 	}
 
 	clergymen=
@@ -1059,7 +1059,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 6872
+		size= 687
 	}
 
 	clergymen=
@@ -1110,7 +1110,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 12160
+		size= 1216
 	}
 
 	clergymen=
@@ -1159,7 +1159,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 2076
+		size= 207
 	}
 
 	clergymen=

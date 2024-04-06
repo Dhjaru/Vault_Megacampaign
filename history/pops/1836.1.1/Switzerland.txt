@@ -10,7 +10,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 5955
+		size= 595
 	}
 
 	clergymen=
@@ -59,7 +59,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 38238
+		size= 3823
 	}
 
 	clergymen=
@@ -103,49 +103,49 @@
 	{
 		culture = french
 		religion = catholic
-		size= 1351
+		size= 135
 	}
 
 	artisans=
 	{
 		culture = french
 		religion = catholic
-		size= 5137
+		size= 51
 	}
 
 	clergymen=
 	{
 		culture = french
 		religion = catholic
-		size= 550
+		size= 55
 	}
 
 	bureaucrats=
 	{
 		culture = french
 		religion = catholic
-		size= 96
+		size= 9
 	}
 
 	officers=
 	{
 		culture = french
 		religion = catholic
-		size= 88
+		size= 8
 	}
 
 	aristocrats=
 	{
 		culture = french
 		religion = catholic
-		size= 1233
+		size= 123
 	}
 
 	farmers=
 	{
 		culture = french
 		religion = catholic
-		size= 126173
+		size= 8617
 	}
 
 	soldiers=
@@ -159,7 +159,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 47064
+		size= 4706
 	}
 
 	clergymen=
@@ -203,49 +203,49 @@
 	{
 		culture = french
 		religion = catholic
-		size= 831
+		size= 83
 	}
 
 	artisans=
 	{
 		culture = french
 		religion = catholic
-		size= 3191
+		size= 31
 	}
 
 	clergymen=
 	{
 		culture = french
 		religion = catholic
-		size= 342
+		size= 34
 	}
 
 	bureaucrats=
 	{
 		culture = french
 		religion = catholic
-		size= 59
+		size= 5
 	}
 
 	officers=
 	{
 		culture = french
 		religion = catholic
-		size= 55
+		size= 5
 	}
 
 	aristocrats=
 	{
 		culture = french
 		religion = catholic
-		size= 574
+		size= 57
 	}
 
 	farmers=
 	{
 		culture = french
 		religion = catholic
-		size= 78575
+		size= 7857
 	}
 
 	soldiers=
@@ -259,7 +259,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 28973
+		size= 2897
 	}
 
 	clergymen=
@@ -310,7 +310,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 5108
+		size= 510
 	}
 
 	clergymen=
@@ -359,7 +359,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 18092
+		size= 1809
 	}
 
 	clergymen=
@@ -403,49 +403,49 @@
 	{
 		culture = french
 		religion = catholic
-		size= 371
+		size= 37
 	}
 
 	artisans=
 	{
 		culture = french
 		religion = catholic
-		size= 711
+		size= 7
 	}
 
 	clergymen=
 	{
 		culture = french
 		religion = catholic
-		size= 76
+		size= 7
 	}
 
 	bureaucrats=
 	{
 		culture = french
 		religion = catholic
-		size= 13
+		size= 1
 	}
 
 	officers=
 	{
 		culture = french
 		religion = catholic
-		size= 12
+		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = french
 		religion = catholic
-		size= 85
+		size= 8
 	}
 
 	farmers=
 	{
 		culture = french
 		religion = catholic
-		size= 35997
+		size= 3599
 	}
 
 	soldiers=
@@ -459,7 +459,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 12471
+		size= 1247
 	}
 
 	clergymen=
@@ -503,49 +503,49 @@
 	{
 		culture = french
 		religion = catholic
-		size= 371
+		size= 37
 	}
 
 	artisans=
 	{
 		culture = french
 		religion = catholic
-		size= 711
+		size= 7
 	}
 
 	clergymen=
 	{
 		culture = french
 		religion = catholic
-		size= 76
+		size= 7
 	}
 
 	bureaucrats=
 	{
 		culture = french
 		religion = catholic
-		size= 13
+		size= 1
 	}
 
 	officers=
 	{
 		culture = french
 		religion = catholic
-		size= 12
+		size= 1
 	}
 
 	aristocrats=
 	{
 		culture = french
 		religion = catholic
-		size= 85
+		size= 8
 	}
 
 	farmers=
 	{
 		culture = french
 		religion = catholic
-		size= 35997
+		size= 3599
 	}
 
 	soldiers=
@@ -559,7 +559,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 12471
+		size= 1247
 	}
 
 	clergymen=
@@ -603,49 +603,49 @@
 	{
 		culture = french
 		religion = catholic
-		size= 681
+		size= 68
 	}
 
 	artisans=
 	{
 		culture = french
 		religion = catholic
-		size= 740
+		size= 7
 	}
 
 	clergymen=
 	{
 		culture = french
 		religion = catholic
-		size= 278
+		size= 27
 	}
 
 	bureaucrats=
 	{
 		culture = french
 		religion = catholic
-		size= 48
+		size= 4
 	}
 
 	officers=
 	{
 		culture = french
 		religion = catholic
-		size= 44
+		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = french
 		religion = catholic
-		size= 622
+		size= 62
 	}
 
 	farmers=
 	{
 		culture = french
 		religion = catholic
-		size= 65465
+		size= 6546
 	}
 
 	soldiers=
@@ -659,7 +659,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 6040
+		size= 604
 	}
 
 	clergymen=
@@ -710,7 +710,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 4751
+		size= 475
 	}
 
 	clergymen=
@@ -759,7 +759,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 17131
+		size= 1713
 	}
 
 	clergymen=
@@ -810,7 +810,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 4751
+		size= 475
 	}
 
 	clergymen=
@@ -859,7 +859,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 17131
+		size= 1713
 	}
 
 	clergymen=

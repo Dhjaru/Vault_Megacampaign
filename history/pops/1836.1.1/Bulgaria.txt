@@ -10,7 +10,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 16273
+		size= 1627
 	}
 
 	clergymen=
@@ -59,7 +59,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 1655
+		size= 165
 	}
 
 	clergymen=
@@ -117,7 +117,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 15873
+		size= 1587
 	}
 
 	clergymen=
@@ -201,7 +201,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 1000
+		size= 100
 	}
 
 	farmers=
@@ -224,7 +224,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 5474
+		size= 547
 	}
 
 	clergymen=
@@ -280,7 +280,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 100
+		size= 10
 	}
 
 	farmers=
@@ -303,7 +303,7 @@
 	{
 		culture = bulgarian
 		religion = catholic
-		size= 663
+		size= 66
 	}
 
 	clergymen=
@@ -352,7 +352,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 1719
+		size= 171
 	}
 
 	clergymen=
@@ -401,7 +401,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 6108
+		size= 610
 	}
 
 	clergymen=
@@ -452,7 +452,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 5198
+		size= 519
 	}
 
 	clergymen=
@@ -501,7 +501,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 527
+		size= 52
 	}
 
 	clergymen=
@@ -552,7 +552,7 @@
 	{
 		culture = bulgarian
 		religion = catholic
-		size= 686
+		size= 68
 	}
 
 	clergymen=
@@ -601,7 +601,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 1779
+		size= 177
 	}
 
 	clergymen=
@@ -650,7 +650,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 6323
+		size= 632
 	}
 
 	clergymen=
@@ -701,7 +701,7 @@
 	{
 		culture = bulgarian
 		religion = catholic
-		size= 686
+		size= 68
 	}
 
 	clergymen=
@@ -750,7 +750,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 1779
+		size= 177
 	}
 
 	clergymen=
@@ -799,7 +799,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 6323
+		size= 632
 	}
 
 	clergymen=
@@ -850,7 +850,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7546
+		size= 754
 	}
 
 	clergymen=
@@ -913,7 +913,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 250
+		size= 25
 	}
 
 	farmers=
@@ -936,7 +936,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7796
+		size= 779
 	}
 
 	clergymen=
@@ -987,7 +987,7 @@
 	{
 		culture = bulgarian
 		religion = catholic
-		size= 1942
+		size= 194
 	}
 
 	clergymen=
@@ -1036,7 +1036,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 2355
+		size= 235
 	}
 
 	clergymen=
@@ -1085,7 +1085,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 19432
+		size= 1943
 	}
 
 	clergymen=
@@ -1136,7 +1136,7 @@
 	{
 		culture = bulgarian
 		religion = catholic
-		size= 993
+		size= 99
 	}
 
 	clergymen=
@@ -1185,7 +1185,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 2177
+		size= 217
 	}
 
 	clergymen=
@@ -1234,7 +1234,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 8431
+		size= 843
 	}
 
 	clergymen=

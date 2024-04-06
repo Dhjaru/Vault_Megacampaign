@@ -10,7 +10,7 @@
 	{
 		culture = mashriqi
 		religion = catholic
-		size= 206
+		size= 20
 	}
 
 	clergymen=
@@ -59,7 +59,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 249
+		size= 24
 	}
 
 	clergymen=
@@ -108,7 +108,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 791
+		size= 79
 	}
 
 	clergymen=
@@ -157,7 +157,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3631
+		size= 363
 	}
 
 	clergymen=
@@ -208,7 +208,7 @@
 	{
 		culture = mashriqi
 		religion = catholic
-		size= 186
+		size= 18
 	}
 
 	clergymen=
@@ -257,7 +257,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 224
+		size= 22
 	}
 
 	clergymen=
@@ -306,7 +306,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 712
+		size= 71
 	}
 
 	clergymen=
@@ -355,7 +355,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3267
+		size= 326
 	}
 
 	clergymen=
@@ -406,7 +406,7 @@
 	{
 		culture = mashriqi
 		religion = catholic
-		size= 206
+		size= 20
 	}
 
 	clergymen=
@@ -455,7 +455,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 249
+		size= 24
 	}
 
 	clergymen=
@@ -504,7 +504,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 791
+		size= 79
 	}
 
 	clergymen=
@@ -553,7 +553,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3631
+		size= 363
 	}
 
 	clergymen=
@@ -604,7 +604,7 @@
 	{
 		culture = mashriqi
 		religion = catholic
-		size= 182
+		size= 18
 	}
 
 	clergymen=
@@ -653,7 +653,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 219
+		size= 21
 	}
 
 	clergymen=
@@ -702,7 +702,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 696
+		size= 69
 	}
 
 	clergymen=
@@ -751,7 +751,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3192
+		size= 319
 	}
 
 	clergymen=

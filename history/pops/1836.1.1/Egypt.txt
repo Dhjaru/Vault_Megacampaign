@@ -24,7 +24,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 6614
+		size= 661
 	}
 
 	clergymen=
@@ -101,7 +101,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 8376
+		size= 837
 	}
 
 	clergymen=
@@ -178,7 +178,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 27671
+		size= 2767
 	}
 
 	clergymen=
@@ -243,7 +243,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 973
+		size= 97
 	}
 
 	clergymen=
@@ -292,7 +292,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 1662
+		size= 166
 	}
 
 	clergymen=
@@ -341,7 +341,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 14566
+		size= 1456
 	}
 
 	clergymen=
@@ -390,7 +390,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 1178
+		size= 117
 	}
 
 	clergymen=
@@ -439,7 +439,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 1885
+		size= 188
 	}
 
 	clergymen=
@@ -490,7 +490,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 2067
+		size= 206
 	}
 
 	clergymen=
@@ -539,7 +539,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 2296
+		size= 229
 	}
 
 	clergymen=
@@ -588,7 +588,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 8977
+		size= 897
 	}
 
 	clergymen=
@@ -639,7 +639,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 1510
+		size= 151
 	}
 
 	clergymen=
@@ -688,7 +688,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 1621
+		size= 162
 	}
 
 	clergymen=
@@ -730,7 +730,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 6575
+		size= 657
 	}
 
 	clergymen=
@@ -781,7 +781,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 1431
+		size= 143
 	}
 
 	clergymen=
@@ -830,7 +830,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 1812
+		size= 181
 	}
 
 	clergymen=
@@ -879,7 +879,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 5987
+		size= 598
 	}
 
 	clergymen=
@@ -930,7 +930,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 1966
+		size= 196
 	}
 
 	clergymen=
@@ -979,7 +979,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 2183
+		size= 218
 	}
 
 	clergymen=
@@ -1028,7 +1028,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 8538
+		size= 853
 	}
 
 	clergymen=
@@ -1086,7 +1086,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 2518
+		size= 251
 	}
 
 	clergymen=
@@ -1142,7 +1142,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 4370
+		size= 437
 	}
 
 	clergymen=
@@ -1198,7 +1198,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 16757
+		size= 1675
 	}
 
 	clergymen=
@@ -1249,7 +1249,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 96
+		size= 9
 	}
 
 	clergymen=
@@ -1298,7 +1298,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 488
+		size= 48
 	}
 
 	clergymen=
@@ -1349,7 +1349,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 31
+		size= 3
 	}
 
 	clergymen=
@@ -1398,7 +1398,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 161
+		size= 16
 	}
 
 	clergymen=
@@ -1449,7 +1449,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 22
+		size= 2
 	}
 
 	clergymen=
@@ -1498,7 +1498,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 112
+		size= 11
 	}
 
 	clergymen=
@@ -1549,7 +1549,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 127
+		size= 12
 	}
 
 	clergymen=
@@ -1598,7 +1598,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 2586
+		size= 258
 	}
 
 	clergymen=
@@ -1647,7 +1647,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 3010
+		size= 301
 	}
 
 	clergymen=
@@ -1696,7 +1696,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 12581
+		size= 1258
 	}
 
 	clergymen=
@@ -1747,7 +1747,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 285
+		size= 28
 	}
 
 	clergymen=
@@ -1796,7 +1796,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 854
+		size= 85
 	}
 
 	clergymen=
@@ -1845,7 +1845,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 1155
+		size= 115
 	}
 
 	clergymen=
@@ -1887,7 +1887,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4297
+		size= 429
 	}
 
 	clergymen=
@@ -1922,7 +1922,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 8834
+		size= 3834
 	}
 
 }
@@ -1938,7 +1938,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 73
+		size= 7
 	}
 
 	clergymen=
@@ -1987,7 +1987,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 117
+		size= 11
 	}
 
 	clergymen=
@@ -2036,7 +2036,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 254
+		size= 25
 	}
 
 	clergymen=
@@ -2085,7 +2085,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1250
+		size= 125
 	}
 
 	clergymen=
@@ -2120,7 +2120,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7375
+		size= 737
 	}
 
 }
@@ -2143,7 +2143,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 100
+		size= 10
 	}
 
 	soldiers=
@@ -2173,7 +2173,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 94
+		size= 9
 	}
 
 	clergymen=
@@ -2224,7 +2224,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 25
+		size= 2
 	}
 
 	clergymen=
@@ -2273,7 +2273,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 130
+		size= 13
 	}
 
 	clergymen=
@@ -2324,7 +2324,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 20
+		size= 2
 	}
 
 	clergymen=
@@ -2366,7 +2366,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 104
+		size= 10
 	}
 
 	clergymen=
@@ -2417,7 +2417,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 673
+		size= 67
 	}
 
 	clergymen=
@@ -2466,7 +2466,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 882
+		size= 88
 	}
 
 	clergymen=
@@ -2515,7 +2515,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4086
+		size= 408
 	}
 
 	clergymen=
@@ -2566,7 +2566,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 372
+		size= 37
 	}
 
 	clergymen=
@@ -2615,7 +2615,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 598
+		size= 59
 	}
 
 	clergymen=
@@ -2664,7 +2664,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2343
+		size= 234
 	}
 
 	clergymen=
@@ -2715,7 +2715,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 458
+		size= 45
 	}
 
 	clergymen=
@@ -2764,7 +2764,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 663
+		size= 66
 	}
 
 	clergymen=
@@ -2813,7 +2813,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2737
+		size= 273
 	}
 
 	clergymen=
@@ -2864,7 +2864,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 792
+		size= 79
 	}
 
 	clergymen=
@@ -2913,7 +2913,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 1573
+		size= 157
 	}
 
 	clergymen=
@@ -2962,7 +2962,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4681
+		size= 468
 	}
 
 	clergymen=
@@ -3013,7 +3013,7 @@
 	{
 		culture = sudanese
 		religion = catholic
-		size= 50
+		size= 5
 	}
 
 	clergymen=
@@ -3055,7 +3055,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 68
+		size= 6
 	}
 
 	clergymen=
@@ -3104,7 +3104,7 @@
 	{
 		culture = sudanese
 		religion = orthodox
-		size= 148
+		size= 14
 	}
 
 	clergymen=
@@ -3153,7 +3153,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 723
+		size= 72
 	}
 
 	clergymen=
@@ -3204,7 +3204,7 @@
 	{
 		culture = copts
 		religion = catholic
-		size= 63
+		size= 6
 	}
 
 	clergymen=
@@ -3253,7 +3253,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 109
+		size= 10
 	}
 
 	clergymen=
@@ -3302,7 +3302,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 224
+		size= 22
 	}
 
 	clergymen=
@@ -3351,7 +3351,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1054
+		size= 105
 	}
 
 	clergymen=
@@ -3402,7 +3402,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 87
+		size= 8
 	}
 
 	clergymen=
@@ -3451,7 +3451,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 117
+		size= 11
 	}
 
 	clergymen=
@@ -3500,7 +3500,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 257
+		size= 25
 	}
 
 	clergymen=
@@ -3549,7 +3549,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1242
+		size= 124
 	}
 
 	clergymen=
@@ -3600,7 +3600,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 51
+		size= 5
 	}
 
 	clergymen=
@@ -3649,7 +3649,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 85
+		size= 8
 	}
 
 	clergymen=
@@ -3698,7 +3698,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 169
+		size= 16
 	}
 
 	clergymen=
@@ -3747,7 +3747,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 839
+		size= 83
 	}
 
 	clergymen=
@@ -3798,7 +3798,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 46
+		size= 4
 	}
 
 	clergymen=
@@ -3847,7 +3847,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 177
+		size= 17
 	}
 
 	clergymen=
@@ -3898,7 +3898,7 @@
 	{
 		culture = ifriqi
 		religion = catholic
-		size= 74
+		size= 7
 	}
 
 	clergymen=
@@ -3947,7 +3947,7 @@
 	{
 		culture = ifriqi
 		religion = coptic
-		size= 288
+		size= 28
 	}
 
 	clergymen=
@@ -3998,7 +3998,7 @@
 	{
 		culture = misri
 		religion = catholic
-		size= 16
+		size= 1
 	}
 
 	clergymen=
@@ -4040,7 +4040,7 @@
 	{
 		culture = misri
 		religion = coptic
-		size= 77
+		size= 7
 	}
 
 	clergymen=
@@ -4091,7 +4091,7 @@
 	{
 		culture = copts
 		religion = coptic
-		size= 106
+		size= 10
 	}
 
 	clergymen=
@@ -4140,7 +4140,7 @@
 	{
 		culture = copts
 		religion = orthodox
-		size= 133
+		size= 13
 	}
 
 	clergymen=
@@ -4189,7 +4189,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 654
+		size= 65
 	}
 
 	clergymen=

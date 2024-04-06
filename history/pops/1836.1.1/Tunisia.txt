@@ -490,14 +490,14 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 162
+		size= 1
 	}
 
 	farmers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 7570
+		size= 757
 	}
 
 	slaves=
@@ -928,14 +928,14 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 115
+		size= 1
 	}
 
 	farmers=
 	{
 		culture = greek
 		religion = orthodox
-		size= 4590
+		size= 459
 	}
 
 }

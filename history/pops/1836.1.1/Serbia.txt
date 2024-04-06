@@ -10,7 +10,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 2318
+		size= 231
 	}
 
 	clergymen=
@@ -52,49 +52,49 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 221
+		size= 22
 	}
 
 	artisans=
 	{
 		culture = south_german
 		religion = catholic
-		size= 4311
+		size= 43
 	}
 
 	clergymen=
 	{
 		culture = south_german
 		religion = catholic
-		size= 1401
+		size= 140
 	}
 
 	bureaucrats=
 	{
 		culture = south_german
 		religion = catholic
-		size= 388
+		size= 38
 	}
 
 	officers=
 	{
 		culture = south_german
 		religion = catholic
-		size= 313
+		size= 31
 	}
 
 	aristocrats=
 	{
 		culture = south_german
 		religion = catholic
-		size= 905
+		size= 90
 	}
 
 	farmers=
 	{
 		culture = south_german
 		religion = catholic
-		size= 40201
+		size= 4020
 	}
 
 }
@@ -110,7 +110,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 1684
+		size= 168
 	}
 
 	clergymen=
@@ -152,49 +152,49 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 181
+		size= 18
 	}
 
 	artisans=
 	{
 		culture = south_german
 		religion = catholic
-		size= 3288
+		size= 32
 	}
 
 	clergymen=
 	{
 		culture = south_german
 		religion = catholic
-		size= 1069
+		size= 106
 	}
 
 	bureaucrats=
 	{
 		culture = south_german
 		religion = catholic
-		size= 296
+		size= 29
 	}
 
 	officers=
 	{
 		culture = south_german
 		religion = catholic
-		size= 238
+		size= 23
 	}
 
 	aristocrats=
 	{
 		culture = south_german
 		religion = catholic
-		size= 690
+		size= 69
 	}
 
 	farmers=
 	{
 		culture = south_german
 		religion = catholic
-		size= 32676
+		size= 3267
 	}
 
 }
@@ -210,7 +210,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 4031
+		size= 403
 	}
 
 	clergymen=
@@ -259,7 +259,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 15707
+		size= 1570
 	}
 
 	clergymen=
@@ -310,7 +310,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 1033
+		size= 103
 	}
 
 	clergymen=
@@ -359,7 +359,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4240
+		size= 424
 	}
 
 	clergymen=
@@ -410,7 +410,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 957
+		size= 95
 	}
 
 	clergymen=
@@ -459,7 +459,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3713
+		size= 371
 	}
 
 	clergymen=
@@ -510,7 +510,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 954
+		size= 95
 	}
 
 	clergymen=
@@ -559,7 +559,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3716
+		size= 371
 	}
 
 	clergymen=
@@ -617,7 +617,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2034
+		size= 203
 	}
 
 	clergymen=
@@ -682,7 +682,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2034
+		size= 203
 	}
 
 	clergymen=
@@ -733,7 +733,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 13710
+		size= 1371
 	}
 
 	clergymen=
@@ -791,7 +791,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 13710
+		size= 1371
 	}
 
 	clergymen=
@@ -849,7 +849,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3164
+		size= 316
 	}
 
 	clergymen=
@@ -900,7 +900,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 1674
+		size= 167
 	}
 
 	clergymen=
@@ -942,49 +942,49 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 201
+		size= 20
 	}
 
 	artisans=
 	{
 		culture = south_german
 		religion = catholic
-		size= 3400
+		size= 34
 	}
 
 	clergymen=
 	{
 		culture = south_german
 		religion = catholic
-		size= 1082
+		size= 108
 	}
 
 	bureaucrats=
 	{
 		culture = south_german
 		religion = catholic
-		size= 318
+		size= 31
 	}
 
 	officers=
 	{
 		culture = south_german
 		religion = catholic
-		size= 189
+		size= 18
 	}
 
 	aristocrats=
 	{
 		culture = south_german
 		religion = catholic
-		size= 675
+		size= 67
 	}
 
 	farmers=
 	{
 		culture = south_german
 		religion = catholic
-		size= 36760
+		size= 3676
 	}
 
 }

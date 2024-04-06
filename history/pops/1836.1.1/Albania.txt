@@ -10,7 +10,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 3917
+		size= 391
 	}
 
 	clergymen=
@@ -68,7 +68,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7796
+		size= 779
 	}
 
 	clergymen=
@@ -119,7 +119,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 21092
+		size= 2109
 	}
 
 	clergymen=
@@ -170,7 +170,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1883
+		size= 188
 	}
 
 	clergymen=
@@ -221,7 +221,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1883
+		size= 188
 	}
 
 	clergymen=

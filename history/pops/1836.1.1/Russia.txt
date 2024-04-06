@@ -9106,7 +9106,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 39641
+		size= 19641
 	}
 
 }
@@ -9502,7 +9502,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 74147
+		size= 34147
 	}
 
 }

@@ -10,7 +10,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 924
+		size= 92
 	}
 
 	clergymen=
@@ -59,7 +59,7 @@
 	{
 		culture = lithuanian
 		religion = orthodox
-		size= 1048
+		size= 104
 	}
 
 	clergymen=
@@ -108,7 +108,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 5634
+		size= 563
 	}
 
 	clergymen=
@@ -157,7 +157,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 19715
+		size= 1971
 	}
 
 	clergymen=
@@ -206,7 +206,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 846
+		size= 84
 	}
 
 	clergymen=
@@ -255,7 +255,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 1099
+		size= 109
 	}
 
 	clergymen=
@@ -304,7 +304,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 2061
+		size= 206
 	}
 
 	clergymen=
@@ -355,7 +355,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 962
+		size= 96
 	}
 
 	clergymen=
@@ -404,7 +404,7 @@
 	{
 		culture = lithuanian
 		religion = orthodox
-		size= 1074
+		size= 107
 	}
 
 	clergymen=
@@ -453,7 +453,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 4026
+		size= 402
 	}
 
 	clergymen=
@@ -502,7 +502,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 10595
+		size= 1059
 	}
 
 	clergymen=
@@ -553,7 +553,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 105
+		size= 10
 	}
 
 	clergymen=
@@ -602,7 +602,7 @@
 	{
 		culture = lithuanian
 		religion = orthodox
-		size= 126
+		size= 12
 	}
 
 	clergymen=
@@ -651,7 +651,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 1948
+		size= 194
 	}
 
 	clergymen=
@@ -700,7 +700,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 5388
+		size= 538
 	}
 
 	clergymen=
@@ -1007,7 +1007,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 18
+		size= 1
 	}
 
 	clergymen=
@@ -1049,7 +1049,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 282
+		size= 28
 	}
 
 	clergymen=
@@ -1105,7 +1105,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 80
+		size= 8
 	}
 
 	clergymen=
@@ -1156,7 +1156,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 655
+		size= 65
 	}
 
 	clergymen=
@@ -1205,7 +1205,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 9203
+		size= 920
 	}
 
 	clergymen=
@@ -1254,7 +1254,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 3225
+		size= 322
 	}
 
 	clergymen=

@@ -10,7 +10,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 17400
+		size= 1740
 	}
 
 	clergymen=
@@ -61,7 +61,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 2410
+		size= 241
 	}
 
 	clergymen=
@@ -112,7 +112,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 2862
+		size= 286
 	}
 
 	clergymen=
@@ -163,7 +163,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 5574
+		size= 557
 	}
 
 	clergymen=
@@ -214,7 +214,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 5122
+		size= 512
 	}
 
 	clergymen=
@@ -265,7 +265,7 @@
 	{
 		culture = andalucian
 		religion = zikri
-		size= 930
+		size= 93
 	}
 
 	clergymen=
@@ -314,7 +314,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 3740
+		size= 374
 	}
 
 	clergymen=
@@ -365,7 +365,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 2486
+		size= 248
 	}
 
 	clergymen=
@@ -416,7 +416,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 4218
+		size= 421
 	}
 
 	clergymen=
@@ -467,7 +467,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 2486
+		size= 248
 	}
 
 	clergymen=
@@ -518,7 +518,7 @@
 	{
 		culture = andalucian
 		religion = zikri
-		size= 3570
+		size= 357
 	}
 
 	clergymen=
@@ -567,7 +567,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 14358
+		size= 1435
 	}
 
 	clergymen=
@@ -618,7 +618,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 1937
+		size= 193
 	}
 
 	clergymen=
@@ -669,7 +669,7 @@
 	{
 		culture = portuguese
 		religion = catholic
-		size= 1069
+		size= 106
 	}
 
 	clergymen=

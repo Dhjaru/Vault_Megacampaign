@@ -2,55 +2,6 @@
 	soldiers=
 	{
 		culture = norwegian
-		religion = catholic
-		size= 41
-	}
-
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 1418
-	}
-
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 66
-	}
-
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 18
-	}
-
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 8
-	}
-
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 85
-	}
-
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 38503
-	}
-
-	soldiers=
-	{
-		culture = norwegian
 		religion = protestant
 		size= 61
 	}
@@ -59,7 +10,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 12819
+		size= 1281
 	}
 
 	clergymen=
@@ -102,55 +53,6 @@
 	soldiers=
 	{
 		culture = norwegian
-		religion = catholic
-		size= 11
-	}
-
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 131
-	}
-
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 21
-	}
-
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 3
-	}
-
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 28
-	}
-
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 12818
-	}
-
-	soldiers=
-	{
-		culture = norwegian
 		religion = protestant
 		size= 21
 	}
@@ -159,7 +61,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 1224
+		size= 122
 	}
 
 	clergymen=
@@ -202,55 +104,6 @@
 	soldiers=
 	{
 		culture = norwegian
-		religion = catholic
-		size= 51
-	}
-
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 179
-	}
-
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 58
-	}
-
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 8
-	}
-
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 9
-	}
-
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 38
-	}
-
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 17116
-	}
-
-	soldiers=
-	{
-		culture = norwegian
 		religion = orthodox
 		size= 21
 	}
@@ -259,7 +112,7 @@
 	{
 		culture = norwegian
 		religion = orthodox
-		size= 368
+		size= 36
 	}
 
 	clergymen=
@@ -308,7 +161,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 1412
+		size= 141
 	}
 
 	clergymen=
@@ -351,55 +204,6 @@
 	soldiers=
 	{
 		culture = norwegian
-		religion = catholic
-		size= 31
-	}
-
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 823
-	}
-
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 59
-	}
-
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 16
-	}
-
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 7
-	}
-
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 77
-	}
-
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 35208
-	}
-
-	soldiers=
-	{
-		culture = norwegian
 		religion = protestant
 		size= 51
 	}
@@ -408,7 +212,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 7651
+		size= 765
 	}
 
 	clergymen=
@@ -451,55 +255,6 @@
 	soldiers=
 	{
 		culture = norwegian
-		religion = catholic
-		size= 111
-	}
-
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 1375
-	}
-
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 99
-	}
-
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 27
-	}
-
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 18
-	}
-
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 128
-	}
-
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 58291
-	}
-
-	soldiers=
-	{
-		culture = norwegian
 		religion = protestant
 		size= 111
 	}
@@ -508,7 +263,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 9472
+		size= 947
 	}
 
 	clergymen=
@@ -551,55 +306,6 @@
 	soldiers=
 	{
 		culture = norwegian
-		religion = catholic
-		size= 291
-	}
-
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 3656
-	}
-
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 169
-	}
-
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 47
-	}
-
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 42
-	}
-
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 219
-	}
-
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 97411
-	}
-
-	soldiers=
-	{
-		culture = norwegian
 		religion = protestant
 		size= 451
 	}
@@ -608,7 +314,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 33781
+		size= 3378
 	}
 
 	clergymen=
@@ -651,55 +357,6 @@
 	soldiers=
 	{
 		culture = norwegian
-		religion = catholic
-		size= 21
-	}
-
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 411
-	}
-
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 19
-	}
-
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 8
-	}
-
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 25
-	}
-
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 22807
-	}
-
-	soldiers=
-	{
-		culture = norwegian
 		religion = protestant
 		size= 21
 	}
@@ -708,7 +365,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 2834
+		size= 283
 	}
 
 	clergymen=
@@ -757,7 +414,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 5191
+		size= 519
 	}
 
 	clergymen=
@@ -800,55 +457,6 @@
 	soldiers=
 	{
 		culture = norwegian
-		religion = catholic
-		size= 21
-	}
-
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 411
-	}
-
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 19
-	}
-
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 8
-	}
-
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 25
-	}
-
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 22807
-	}
-
-	soldiers=
-	{
-		culture = norwegian
 		religion = protestant
 		size= 21
 	}
@@ -857,7 +465,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 2834
+		size= 283
 	}
 
 	clergymen=
@@ -906,7 +514,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 5191
+		size= 519
 	}
 
 	clergymen=
@@ -949,55 +557,6 @@
 	soldiers=
 	{
 		culture = norwegian
-		religion = catholic
-		size= 21
-	}
-
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 312
-	}
-
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 15
-	}
-
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 6
-	}
-
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 19
-	}
-
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 22825
-	}
-
-	soldiers=
-	{
-		culture = norwegian
 		religion = protestant
 		size= 21
 	}
@@ -1006,7 +565,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 2933
+		size= 293
 	}
 
 	clergymen=
@@ -1055,7 +614,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 5191
+		size= 519
 	}
 
 	clergymen=
@@ -1098,55 +657,6 @@
 	soldiers=
 	{
 		culture = norwegian
-		religion = catholic
-		size= 21
-	}
-
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 200
-	}
-
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 29
-	}
-
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 6
-	}
-
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 19
-	}
-
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 22982
-	}
-
-	soldiers=
-	{
-		culture = norwegian
 		religion = protestant
 		size= 21
 	}
@@ -1155,7 +665,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 1754
+		size= 175
 	}
 
 	clergymen=
@@ -1204,7 +714,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 3469
+		size= 346
 	}
 
 	clergymen=
@@ -1247,55 +757,6 @@
 	soldiers=
 	{
 		culture = norwegian
-		religion = catholic
-		size= 21
-	}
-
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 312
-	}
-
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 15
-	}
-
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 6
-	}
-
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 19
-	}
-
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 22825
-	}
-
-	soldiers=
-	{
-		culture = norwegian
 		religion = protestant
 		size= 21
 	}
@@ -1304,7 +765,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 2933
+		size= 293
 	}
 
 	clergymen=
@@ -1353,7 +814,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 5191
+		size= 519
 	}
 
 	clergymen=
@@ -1396,55 +857,6 @@
 	soldiers=
 	{
 		culture = norwegian
-		religion = catholic
-		size= 161
-	}
-
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 1029
-	}
-
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 96
-	}
-
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 19
-	}
-
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 12
-	}
-
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 62
-	}
-
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 55934
-	}
-
-	soldiers=
-	{
-		culture = norwegian
 		religion = protestant
 		size= 141
 	}
@@ -1453,7 +865,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 6628
+		size= 662
 	}
 
 	clergymen=
@@ -1502,7 +914,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 13434
+		size= 1343
 	}
 
 	clergymen=

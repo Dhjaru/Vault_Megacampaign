@@ -10,7 +10,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 17287
+		size= 1728
 	}
 
 	clergymen=
@@ -59,7 +59,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 2051
+		size= 205
 	}
 
 	clergymen=
@@ -110,7 +110,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1684
+		size= 168
 	}
 
 	clergymen=
@@ -166,7 +166,7 @@
 	{
 		culture = sephardic
 		religion = jewish
-		size= 500
+		size= 50
 	}
 
 	farmers=
@@ -189,7 +189,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2184
+		size= 218
 	}
 
 	clergymen=
