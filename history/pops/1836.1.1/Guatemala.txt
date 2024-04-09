@@ -1,10 +1,4 @@
 2186 = {
-	soldiers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 73
-	}
 
 	artisans=
 	{
@@ -45,7 +39,7 @@
 	{
 		culture = mayan
 		religion = catholic
-		size= 77
+		size= 1277
 	}
 
 	artisans=
@@ -714,12 +708,6 @@
 
 }
 2628 = {
-	soldiers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 71
-	}
 
 	artisans=
 	{
@@ -760,7 +748,7 @@
 	{
 		culture = mayan
 		religion = catholic
-		size= 63
+		size= 1163
 	}
 
 	artisans=

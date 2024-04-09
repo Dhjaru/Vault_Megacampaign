@@ -366,11 +366,6 @@
 
 }
 2142 = {
-	soldiers=
-	{
-		culture =native_american_minor		religion = totemism
-		size= 11
-	}
 
 	farmers=
 	{
@@ -389,7 +384,7 @@
 	{
 		culture = nouvellien
 		religion = protestant
-		size= 101
+		size= 1101
 	}
 
 	artisans=
@@ -1119,12 +1114,6 @@
 
 }
 2150 = {
-	soldiers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 11
-	}
 
 	artisans=
 	{
@@ -1165,7 +1154,7 @@
 	{
 		culture = mayan
 		religion = catholic
-		size= 1
+		size= 1201
 	}
 
 	artisans=
@@ -2304,12 +2293,6 @@
 
 }
 2158 = {
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 51
-	}
 
 	farmers=
 	{
@@ -2371,7 +2354,7 @@
 	{
 		culture = nouvellien
 		religion = protestant
-		size= 621
+		size= 1621
 	}
 
 	artisans=
@@ -2432,12 +2415,6 @@
 
 }
 2159 = {
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 51
-	}
 
 	farmers=
 	{
@@ -2457,7 +2434,7 @@
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 41
+		size= 1141
 	}
 
 	artisans=
@@ -3727,12 +3704,6 @@
 
 }
 2166 = {
-	soldiers=
-	{
-		culture = nahua
-		religion = nahuatl
-		size= 11
-	}
 
 	artisans=
 	{
@@ -3780,7 +3751,7 @@
 	{
 		culture = nahua
 		religion = catholic
-		size= 11
+		size= 1111
 	}
 
 	artisans=
@@ -4065,12 +4036,6 @@
 
 }
 2167 = {
-	soldiers=
-	{
-		culture = mayan
-		religion = animist
-		size= 51
-	}
 
 	farmers=
 	{
@@ -4090,7 +4055,7 @@
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 41
+		size= 2541
 	}
 
 	artisans=
@@ -4848,12 +4813,7 @@
 
 }
 2170 = {
-	soldiers=
-	{
-		culture = nahua
-		religion = nahuatl
-		size= 71
-	}
+
 
 	artisans=
 	{
@@ -4901,7 +4861,7 @@
 	{
 		culture = nahua
 		religion = catholic
-		size= 41
+		size= 1141
 	}
 
 	artisans=
@@ -5440,12 +5400,6 @@
 
 }
 2172 = {
-	soldiers=
-	{
-		culture = nahua
-		religion = nahuatl
-		size= 171
-	}
 
 	artisans=
 	{
@@ -5493,7 +5447,7 @@
 	{
 		culture = nahua
 		religion = catholic
-		size= 101
+		size= 2101
 	}
 
 	artisans=
@@ -5638,12 +5592,6 @@
 
 }
 2173 = {
-	soldiers=
-	{
-		culture = nahua
-		religion = nahuatl
-		size= 61
-	}
 
 	artisans=
 	{
@@ -5691,7 +5639,7 @@
 	{
 		culture = nahua
 		religion = catholic
-		size= 41
+		size= 1141
 	}
 
 	artisans=
@@ -6225,12 +6173,6 @@
 
 }
 2176 = {
-	soldiers=
-	{
-		culture = nahua
-		religion = nahuatl
-		size= 91
-	}
 
 	artisans=
 	{
@@ -6278,7 +6220,7 @@
 	{
 		culture = nahua
 		religion = catholic
-		size= 51
+		size= 1151
 	}
 
 	artisans=
@@ -6423,12 +6365,6 @@
 
 }
 2177 = {
-	soldiers=
-	{
-		culture = nahua
-		religion = nahuatl
-		size= 51
-	}
 
 	artisans=
 	{
@@ -6476,7 +6412,7 @@
 	{
 		culture = nahua
 		religion = catholic
-		size= 31
+		size= 1231
 	}
 
 	artisans=
@@ -7982,12 +7918,6 @@
 
 }
 2183 = {
-	soldiers=
-	{
-		culture = mayan
-		religion = mayan
-		size= 31
-	}
 
 	artisans=
 	{
@@ -8021,7 +7951,7 @@
 	{
 		culture = mayan
 		religion = catholic
-		size= 31
+		size= 1311
 	}
 
 	artisans=

@@ -1,10 +1,4 @@
 2310 = {
-	soldiers=
-	{
-		culture = aimara
-		religion = inti
-		size= 21
-	}
 
 	artisans=
 	{
@@ -52,7 +46,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 71
+		size= 1271
 	}
 
 	artisans=
@@ -99,12 +93,6 @@
 
 }
 2311 = {
-	soldiers=
-	{
-		culture = aimara
-		religion = animist
-		size= 11
-	}
 
 	farmers=
 	{
@@ -124,7 +112,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 61
+		size= 1261
 	}
 
 	artisans=
@@ -264,12 +252,6 @@
 
 }
 2313 = {
-	soldiers=
-	{
-		culture = aimara
-		religion = inti
-		size= 1
-	}
 
 	artisans=
 	{
@@ -317,7 +299,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 21
+		size= 1221
 	}
 
 	artisans=
@@ -364,12 +346,6 @@
 
 }
 2314 = {
-	soldiers=
-	{
-		culture = aimara
-		religion = inti
-		size= 1
-	}
 
 	artisans=
 	{
@@ -410,7 +386,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 21
+		size= 1221
 	}
 
 	artisans=

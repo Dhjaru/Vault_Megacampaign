@@ -124,7 +124,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 35
+		size= 1135
 	}
 
 	farmers=
@@ -227,12 +227,6 @@
 
 }
 2349 = {
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 29
-	}
 
 	farmers=
 	{
@@ -280,7 +274,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 7
+		size= 1107
 	}
 
 	officers=
@@ -434,12 +428,6 @@
 
 }
 2351 = {
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 19
-	}
 
 	farmers=
 	{
@@ -515,7 +503,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 165
+		size= 1165
 	}
 
 	officers=
@@ -892,13 +880,6 @@
 		size= 1379
 	}
 
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 222
-	}
-
 	farmers=
 	{
 		culture = native_american_minor
@@ -917,7 +898,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 545
+		size= 2545
 	}
 
 	farmers=
@@ -1264,13 +1245,6 @@
 		size= 83
 	}
 
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 33
-	}
-
 	farmers=
 	{
 		culture = native_american_minor
@@ -1324,7 +1298,7 @@
 	{
 		culture = silfrvazling
 		religion = protestant
-		size= 6
+		size= 1106
 	}
 
 	officers=
@@ -2821,13 +2795,6 @@
 		size= 2333
 	}
 
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 301
-	}
-
 	farmers=
 	{
 		culture = native_american_minor
@@ -2853,7 +2820,7 @@
 	{
 		culture = silfrvazling
 		religion = catholic
-		size= 593
+		size= 2593
 	}
 
 	artisans=

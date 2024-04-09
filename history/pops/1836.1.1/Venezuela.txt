@@ -6,13 +6,6 @@
 		size= 2370
 	}
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 51
-	}
-
 	farmers=
 	{
 		culture = carribean
@@ -31,7 +24,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 101
+		size= 1101
 	}
 
 	farmers=
@@ -1892,13 +1885,6 @@
 		size= 410
 	}
 
-	soldiers=
-	{
-		culture = carribean
-		religion = animist
-		size= 11
-	}
-
 	farmers=
 	{
 		culture = carribean
@@ -1924,7 +1910,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 51
+		size= 1251
 	}
 
 	artisans=

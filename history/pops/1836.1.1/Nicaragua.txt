@@ -1,10 +1,4 @@
 2197 = {
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 1
-	}
 
 	artisans=
 	{
@@ -45,7 +39,7 @@
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 21
+		size= 1221
 	}
 
 	artisans=

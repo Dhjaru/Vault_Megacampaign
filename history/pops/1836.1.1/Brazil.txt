@@ -3208,13 +3208,6 @@
 		size= 1489
 	}
 
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 11
-	}
-
 	farmers=
 	{
 		culture = native_american_minor
@@ -3240,7 +3233,7 @@
 	{
 		culture = mauritsstadtian
 		religion = catholic
-		size= 1
+		size= 1200
 	}
 
 	artisans=
@@ -3554,13 +3547,6 @@
 		size= 2338
 	}
 
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 1
-	}
-
 	artisans=
 	{
 		culture = native_american_minor
@@ -3614,7 +3600,7 @@
 	{
 		culture = mauritsstadtian
 		religion = catholic
-		size= 1
+		size= 1200
 	}
 
 	officers=
@@ -3986,13 +3972,6 @@
 		size= 3787
 	}
 
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 1
-	}
-
 	farmers=
 	{
 		culture = native_american_minor
@@ -4018,7 +3997,7 @@
 	{
 		culture = mauritsstadtian
 		religion = protestant
-		size= 81
+		size= 1281
 	}
 
 	artisans=
@@ -4216,12 +4195,6 @@
 		size= 3254
 	}
 
-	soldiers=
-	{
-		culture =native_american_minor		religion = animist
-		size= 1
-	}
-
 	farmers=
 	{
 		culture =native_american_minor		religion = animist
@@ -4246,7 +4219,7 @@
 	{
 		culture = mauritsstadtian
 		religion = protestant
-		size= 31
+		size= 1231
 	}
 
 	artisans=
@@ -4389,12 +4362,6 @@
 		size= 6424
 	}
 
-	soldiers=
-	{
-		culture =native_american_minor		religion = animist
-		size= 21
-	}
-
 	farmers=
 	{
 		culture =native_american_minor		religion = animist
@@ -4412,7 +4379,7 @@
 	{
 		culture = raudhskogarling
 		religion = protestant
-		size= 41
+		size= 1241
 	}
 
 	farmers=
@@ -4521,12 +4488,6 @@
 		size= 3556
 	}
 
-	soldiers=
-	{
-		culture =native_american_minor		religion = animist
-		size= 11
-	}
-
 	farmers=
 	{
 		culture =native_american_minor		religion = animist
@@ -4551,7 +4512,7 @@
 	{
 		culture = raudhskogarling
 		religion = protestant
-		size= 21
+		size= 1221
 	}
 
 	artisans=
@@ -4938,13 +4899,6 @@
 		size= 2815
 	}
 
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 1
-	}
-
 	farmers=
 	{
 		culture = native_american_minor
@@ -5005,7 +4959,7 @@
 	{
 		culture = raudhskogarling
 		religion = protestant
-		size= 21
+		size= 1221
 	}
 
 	slaves=
@@ -5073,13 +5027,6 @@
 		size= 11950
 	}
 
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 31
-	}
-
 	farmers=
 	{
 		culture = native_american_minor
@@ -5098,7 +5045,7 @@
 	{
 		culture = raudhskogarling
 		religion = protestant
-		size= 411
+		size= 2411
 	}
 
 	farmers=
@@ -5152,13 +5099,6 @@
 		size= 2751
 	}
 
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 11
-	}
-
 	farmers=
 	{
 		culture = native_american_minor
@@ -5184,7 +5124,7 @@
 	{
 		culture = raudhskogarling
 		religion = protestant
-		size= 31
+		size= 1231
 	}
 
 	artisans=
@@ -5363,13 +5303,6 @@
 		size= 6214
 	}
 
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 21
-	}
-
 	farmers=
 	{
 		culture = native_american_minor
@@ -5395,7 +5328,7 @@
 	{
 		culture = raudhskogarling
 		religion = protestant
-		size= 71
+		size= 2371
 	}
 
 	artisans=
@@ -5498,13 +5431,6 @@
 		size= 2586
 	}
 
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 11
-	}
-
 	farmers=
 	{
 		culture = native_american_minor
@@ -5530,7 +5456,7 @@
 	{
 		culture = raudhskogarling
 		religion = protestant
-		size= 71
+		size= 1271
 	}
 
 	artisans=
@@ -6111,13 +6037,6 @@
 		size= 2133
 	}
 
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 11
-	}
-
 	farmers=
 	{
 		culture = native_american_minor
@@ -6143,7 +6062,7 @@
 	{
 		culture = raudhskogarling
 		religion = protestant
-		size= 31
+		size= 1231
 	}
 
 	artisans=

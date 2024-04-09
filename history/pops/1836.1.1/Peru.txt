@@ -344,12 +344,6 @@
 
 }
 2290 = {
-	soldiers=
-	{
-		culture = quechua
-		religion = inti
-		size= 87
-	}
 
 	artisans=
 	{
@@ -397,7 +391,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 271
+		size= 1271
 	}
 
 	artisans=
@@ -827,7 +821,7 @@
 	{
 		culture = quechua
 		religion = inti
-		size= 837
+		size= 1837
 	}
 
 	artisans=
@@ -1171,7 +1165,7 @@
 	{
 		culture = quechua
 		religion = inti
-		size= 274
+		size= 1274
 	}
 
 	artisans=
@@ -1544,13 +1538,6 @@
 		size= 1862
 	}
 
-	soldiers=
-	{
-		culture = quechua
-		religion = inti
-		size= 213
-	}
-
 	artisans=
 	{
 		culture = quechua
@@ -1604,7 +1591,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 47
+		size= 1247
 	}
 
 	artisans=
@@ -1763,13 +1750,6 @@
 
 }
 2303 = {
-	soldiers=
-	{
-		culture = aimara
-		religion = inti
-		size= 28
-	}
-
 	artisans=
 	{
 		culture = aimara
@@ -1809,7 +1789,7 @@
 	{
 		culture = native_american_minor
 		religion = catholic
-		size= 111
+		size= 1111
 	}
 
 	artisans=

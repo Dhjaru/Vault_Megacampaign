@@ -312,13 +312,6 @@
 
 }
 15 = {
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = totemism
-		size=1
-	}
-
 	farmers=
 	{
 		culture = native_american_minor
@@ -344,7 +337,7 @@
 	{
 		culture = vinlander
 		religion = orthodox
-		size= 1
+		size= 1100
 	}
 
 	clergymen=
@@ -2213,12 +2206,6 @@
 
 }
 46 = {
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = totemism
-		size= 11
-	}
 
 	farmers=
 	{
@@ -2238,7 +2225,7 @@
 	{
 		culture = anglo_canadian
 		religion = protestant
-		size= 31
+		size= 1131
 	}
 
 	artisans=
@@ -3195,12 +3182,6 @@
 
 }
 58 = {
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = totemism
-		size= 1
-	}
 
 	farmers=
 	{
@@ -3255,7 +3236,7 @@
 	{
 		culture = anglo_canadian
 		religion = protestant
-		size= 41
+		size= 1241
 	}
 
 }
@@ -3592,12 +3573,6 @@
 
 }
 65 = {
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = totemism
-		size= 1
-	}
 
 	farmers=
 	{
@@ -3624,7 +3599,7 @@
 	{
 		culture = anglo_canadian
 		religion = protestant
-		size= 31
+		size= 1031
 	}
 
 	clergymen=
