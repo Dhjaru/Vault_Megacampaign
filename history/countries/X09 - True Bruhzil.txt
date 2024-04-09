@@ -1,7 +1,5 @@
 capital = 2459
-primary_culture = dummy
-culture = afro_norse
-culture = garibaldine
+primary_culture = deagostinian
 culture = raudhskogarling
 culture = zzz_religion_catholic
 religion = catholic

@@ -4,4 +4,3 @@ add_core=COY
 trade_goods = iron
 life_rating = 31
 
-colonial=2

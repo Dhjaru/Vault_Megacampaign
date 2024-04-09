@@ -347,13 +347,13 @@ RUS_715 = { 715 711 713 716 } #West Galicia
 
 AUS_726 = { 726 727 728 2669 } #Lombardia
 
-AUS_733 = { 736 737 } #Friuli
+#AUS_733 = { } #Friuli
 
 AUS_729 = { 729 730 731 732 733 8 } #Venetia
 
 AUS_734 = { 734 735 } #South Tirol
 
-AUS_736 = { 769 770 778 } #Istria
+AUS_736 = { 769 770 778 736 737 } #Istria
 
 AUS_768 = { 767 768 } #Slovenia
 
@@ -399,42 +399,42 @@ MOL_676 = { 676 677 678 } #Bessarabia
 
 TUR_788 = { 783 787 789 788 786 785 784 } #Bosnia
 
-SER_794 = { 794 797 795 796 } #Northern Serbia
+SER_794 = { 794 797 795 796 804 798 802 799 } #Northern Serbia
 
-MON_2582 = { 2583 2569 2577 800 2582 } #Montenegro
+#MON_2582 = { } #Montenegro
 
-TUR_803 = { 803 804 798 802 799 } #Southern Serbia
+#TUR_803 = {} #Southern Serbia
 
-TUR_805 = { 805 819 820 821 822 } #Southern Macedonia
+TUR_805 = { 805 819 820 821 822 823 829 806 807 808 } #Southern Macedonia
 
-TUR_806 = { 806 807 1780 } #Northern Macedonia
+#TUR_806 = {  } #Northern Macedonia
 
-TUR_809 = { 815 817 808 816 } #Eastern Rumelia
+#TUR_809 = { } #Eastern Rumelia
 
-TUR_810 = { 809 810 811 812 813 814 } #Bulgaria
+TUR_810 = { 809 810 811 812 813 814 815 817 816 } #Bulgaria
 
-TUR_823 = { 823 829 830 } #Eastern Macedonia
+#TUR_823 = { } #Eastern Macedonia
 
-GRE_826 = { 834 842 839 840 841 } #Peloponnese
+#GRE_826 = {  } #Peloponnese
 
 TUR_832 = { 832 831 833 825 824 826 } #Thessalia
 
-GRE_837 = { 837 836 835 838 845 827 } #Attica - Central Greece
+GRE_837 = { 834 842 839 840 841 837 836 835 838 845 827 } #Greece - Central Greece
 
-EGY_843 = { 848 843 844 846 847 } #Aegean Islands
+EGY_843 = { 848 847 } #Aegean Islands
 
-TUR_853 = { 849 853 852 851 850 } #Albania
+TUR_853 = { 849 853 852 851 850 1780 2583 2569 2577 800 2582 803 } #Albania
 
 TUR_855 = { 855 856 857 } #Cyprus
 
-TUR_860 = { 860 828 858 859 } #Thrace
+TUR_860 = { 860 828 858 859 830 } #Thrace
 
 
 ### Middle East
 
 TUR_863 = { 863 861 862 864 865 867 } #Hudavendigar
 
-TUR_869 = { 869 870 871 872 } #Aydin
+TUR_869 = { 869 870 871 872 843 844 846 } #Aydin
 
 TUR_873 = { 873 874 875 866 } #Konya
 
@@ -1096,7 +1096,7 @@ MEX_2151 = { 2153 2154 2156 2157 2158 2160 } #Durango
 
 MEX_2159 = { 2159 2162 2163 2164 } #Veracruz
 
-MEX_2183 = { 2183 2185 2184 } #Yucatan
+MEX_2183 = { 2183 2185 2184 2181 2182 2165 } #Yucatan
 
 MEX_2161 = { 2161 2168 2166 2169 2167 } #Jalisco
 
@@ -1106,16 +1106,14 @@ MEX_2172 = { 2172 2173 2174 2175 2176 } #Mexico
 
 #MEX_2181 = {   } #Oasaca
 
-MEX_2181 = { 2181 2182 2165 } #Chiapas
-
 
 ### Central America
 
 UCA_2186 = { 2186 2187 2188 2189 2190 2628 } #Guatemala
 
-UCA_2191 = { 2191 2192 } #El Salvador
+UCA_2191 = { 2191 2192 2193 2194 2195 2196 } #El Salvador
 
-UCA_2193 = { 2193 2194 2195 2196 } #Honduras
+#UCA_2193 = { } #Honduras
 
 UCA_2197 = { 2197 2198 2199 2200 } #Nicaragua
 
@@ -1147,39 +1145,39 @@ VNZ_2234 = { 2268 2270 2271 2272 2273 } #Zulia
 
 VNZ_2265 = { 2264 2265 2266 2267 2274 } #Miranda
 
-VNZ_2278 = { 2269 2275 2276 2277 2278 } #Bolivar
+VNZ_2278 = { 2269 2275 2276 2277 2278 2532 } #Bolivar
 
 CLM_2251 = { 2255 2252 2251 2253 2254 } #Antioquia
 
-CLM_2262 = { 2262 2261 2260 2263 } #Guaviare
+#CLM_2262 = { } #Guaviare
 
-CLM_2247 = { 2247 2250 2249 2248 } #Cundinamarca
+CLM_2247 = { 2247 2249 2262 2261 2260 2263 } #Cundinamarca
 
-CLM_2259 = { 2256 2257 2258 2259 } #Cauca
+CLM_2259 = { 2256 2257 2258 2259 2248 2250 } #Cauca
 
-ECU_2279 = { 2279 2280 2281 2282 2283 2284 2285 } #Ecuador
+ECU_2279 = { 2279 2280 2281 2282 2283 2284 2285 2288 2289 } #Ecuador
 
-PEU_2289 = { 2286 2287 2288 2289 } #Pastaza
+#PEU_2289 = { } #Pastaza
 
-PEU_2291 = { 2290 2291 2292 2294 } #Cajamarca
+PEU_2291 = { 2290 2291 2292 2294 2286 2287 } #Cajamarca
 
-PEU_2297 = { 2302 2297 2299 2301 } #Ica
+PEU_2297 = { 2302 2297 2299 2301 2303 2304 2578 } #Ica
 
 PEU_2300 = { 2295 2300 2293 2296 2298 } #Lima
 
-PEU_2303 = { 2303 2304 2578 } #Arequipa
+#PEU_2303 = { } #Arequipa
 
-BOL_2305 = { 2313 2314 2312 } #Atacama
+#BOL_2305 = { } #Atacama
 
 BOL_2309 = { 2305 2307 2308 2309 } #Antofagasta
 
-BOL_2317 = { 2317 2316 2318 } #Santa Cruz
+BOL_2317 = { 2317 2316 2318 2550 2321 2320 2319 2549 } #Santa Cruz
 
-BOL_2321 = { 2310 2321 2320 2319 2311 } #La Paz
+BOL_2321 = { 2310 2311 2313 2314 2312 2315 } #La Paz
 
-PRG_2338 = { 2338 2337 } #Alto Paraguay
+#PRG_2338 = { } #Alto Paraguay
 
-PRG_2343 = { 2339 2343 2341 2342 2340 } #Bajo Parguay
+PRG_2343 = { 2339 2343 2341 2342 2340 2338 2337 } #Bajo Parguay
 
 URU_2344 = { 2344 2345 2346 2347 } #Uruguay
 
@@ -1188,27 +1186,27 @@ URU_2344 = { 2344 2345 2346 2347 } #Uruguay
 
 BRZ_2306 = { 2450 2306 2455 2451 2452 2456 2453 } #São Paulo
 
-BRZ_2401 = { 2402 2401 2403 2404 2405 2407 2549 2532 } #Amazonas
+BRZ_2401 = { 2402 2401 2403 2404 2405 2407 } #Amazonas
 
 BRZ_2408 = { 2410 2408 2412 2415 2413 2411 2600 } #Pará
 
-BRZ_2410 = { 2429 2424 2425 2427 2426 2430 } #Maranhão
+BRZ_2410 = { 2429 2424 2425 2427 2426 2430 2432 2428 2431 2434 2433 } #Maranhão
 
-BRZ_2416 = { 2419 2416 2417 2418 2420 2550 } #Mato Grosso
+BRZ_2416 = { 2419 2416 2417 2418 2420 } #Mato Grosso
 
-BRZ_2421 = { 2421 2422 2423 } #Goiás
+BRZ_2421 = { 2421 2422 2423 2445 2444 2438 } #Goiás
 
-BRZ_2428 = { 2432 2428 2431 2435 2434 2433 } #Nordeste
+#BRZ_2428 = { } #Nordeste
 
-BRZ_2439 = { 2436 2439 2440 2437 2438 } #Bahia
+BRZ_2439 = { 2436 2439 2440 2437 2443 2435 } #Bahia
 
-BRZ_2446 = { 2442 2446 2445 2444 2441 2443 } #Minas Gerais
+#BRZ_2446 = { } #Minas Gerais
 
-BRZ_2447 = { 2447 2448 2449 } #Rio de Janeiro
+BRZ_2447 = { 2447 2448 2449 2442 2446 2441 } #Rio de Janeiro
 
-BRZ_2461 = { 2461 2462 2459 } #Santa Catarina
+BRZ_2461 = { 2461 2462 2459 2457 2458 2460 } #Santa Catarina
 
-BRZ_2462 = { 2457 2458 2460 } #Paraná
+#BRZ_2462 = { } #Paraná
 
 BRZ_2467 = { 2463 2467 2464 2466 2465 } #Rio Grande do Sul
 
@@ -1217,33 +1215,33 @@ BRZ_2467 = { 2463 2467 2464 2466 2465 } #Rio Grande do Sul
 
 ENG_2132 = { 2132 2129 2130 } #South Atlantic Islands
 
-CHL_2322 = { 2324 2322 2323 2326 2325 } #Santiago
+CHL_2322 = { 2324 2325 2329 2327 2330 2331 2328 } #Santiago
 
-CHL_2327 = { 2329 2327 2330 2331 2328 } #Los Rios
+#CHL_2327 = {} #Los Rios
 
 CHL_2332 = { 2332 2333 2334 2335 2336 } #Araucania
 
 ARG_2355 = { 2348 2355 2353 2354 2350 2351 2352 2349 } #Buenos Aires
 
-ARG_2363 = { 2362 2363 2361 } #Santa Fe
+#ARG_2363 = { } #Santa Fe
 
-ARG_2360 = { 2360 2359 2357 2358 2554 2356 } #Entre Rios
+ARG_2360 = { 2360 2359 2357 2358 2554 2356 2362 2363 2361 } #Entre Rios
 
-ARG_2368 = { 2368 2372 2371 2369 2370 2315 1714 } #Jujuy
+ARG_2368 = { 2368 2372 2371 2369 2370 1714 2364 2365 2366 2367 2373 2376 2377 2378 } #Jujuy
 
-ARG_2374 = { 2374 2375 2385 2386 2387 2388 } #Catamarca
+ARG_2384 = { 2384 2383 2382 2379 2381 2380 2393 2395 2390 2389 } #Córdoba de Argentina
 
-ARG_2377 = { 2364 2365 2366 2367 } #Chaco
+ARG_2374 = { 2374 2375 2385 2386 2387 2388 2322 2323 2326 } #Catamarca
 
-ARG_2384 = { 2384 2383 2382 2379 2381 2380 } #Córdoba de Argentina
+ARG_2398 = { 2131 2398 2399 2400 2391 2392 2394 2396 2397 } #Patagonia Meridional
 
-ARG_2387 = { 2373 2376 2377 2378 } #Tucumán
+#ARG_2377 = {} #Chaco
 
-ARG_2391 = { 2391 2392 2394 2396 2397 } #Patagonia Septentrional
+#ARG_2387 = { } #Tucumán
 
-ARG_2393 = { 2393 2395 2390 2389 } #La Pampa
+#ARG_2391 = { } #Patagonia Septentrional
 
-ARG_2398 = { 2131 2398 2399 2400 } #Patagonia Meridional
+#ARG_2393 = { } #La Pampa
 
 
 ### Australia & New Zealand

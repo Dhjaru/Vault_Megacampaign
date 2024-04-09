@@ -1,4 +1,5 @@
 owner=CLM
 controller=YUC
+add_core=YUC
 trade_goods = coffee
 life_rating = 33

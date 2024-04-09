@@ -2,6 +2,6 @@ owner=ZHO
 controller=ZHO
 add_core=YUE
 add_core=ZHO
-trade_goods = precious_goods
+trade_goods = fish
 life_rating = 35
 

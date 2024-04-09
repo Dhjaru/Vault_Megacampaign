@@ -11,8 +11,9 @@ political_decisions = {
 		
 		effect = {		
 			set_global_flag = setup_done
-			X10 = {
+			GHO = {
 				country_event = 104293
+				country_event = 700701
 			}
 		}
 	}

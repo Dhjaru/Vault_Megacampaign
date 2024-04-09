@@ -1,6 +1,6 @@
 capital = 2350
-primary_culture = silfrvazling
-culture = ealimi
+primary_culture = ealimi
+culture = silfrvazling
 culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship

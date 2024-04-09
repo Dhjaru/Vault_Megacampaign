@@ -2,5 +2,6 @@ owner=CLM
 controller=CLM
 add_core=CLM
 add_core=ICM
+add_core=BOL
 trade_goods = coal
 life_rating = 35

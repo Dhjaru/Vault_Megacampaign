@@ -1,11 +1,12 @@
 capital = 2185
 primary_culture = nouvellien
+culture = antartique
 culture = zzz_religion_protestant
 religion = protestant
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_tradition
-literacy = 0.693626
+literacy = 0.193626
 
 civilized = yes
 

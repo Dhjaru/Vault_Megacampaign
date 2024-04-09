@@ -1,6 +1,5 @@
 capital = 2410
 primary_culture = mauritsstadtian
-culture = afro_norse
 culture = zzz_religion_protestant
 religion = protestant
 government = democracy

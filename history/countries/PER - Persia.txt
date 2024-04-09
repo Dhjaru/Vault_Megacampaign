@@ -7,7 +7,7 @@ religion = zoroastrian
 government = bourgeois_dictatorship
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0.566905
+literacy = 0.266905
 
 civilized = yes
 
