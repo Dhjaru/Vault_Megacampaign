@@ -3,7 +3,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 251
+		size= 1251
 	}
 
 	artisans=
@@ -46,13 +46,6 @@
 		culture = lithuanian
 		religion = catholic
 		size= 83358
-	}
-
-	soldiers=
-	{
-		culture = lithuanian
-		religion = orthodox
-		size= 11
 	}
 
 	artisans=
@@ -101,7 +94,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 191
+		size= 3191
 	}
 
 	artisans=
@@ -150,7 +143,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 271
+		size= 1271
 	}
 
 	artisans=

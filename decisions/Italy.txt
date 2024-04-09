@@ -412,6 +412,7 @@ political_decisions = {
 		}
 		
 		allow = {
+			revolution_n_counterrevolution = 1
 			NOT = { exists = SAR }
 			NOT = { exists = SIC }
 			NOT = { exists = AIT }
@@ -420,12 +421,6 @@ political_decisions = {
 		effect = {
 			set_country_flag = italia_ulterior
 			badboy = 8
-			LOM = { all_core = { remove_core = LOM add_core = ITA } }
-			VEN = { all_core = { remove_core = VEN add_core = ITA } }
-			TRE = { all_core = { remove_core = TRE add_core = ITA } }
-			inherit = TRE
-			inherit = LOM
-			inherit = VEN
 			AUS_726 = {
 				limit = {
 					NOT = { life_rating = 36 }
@@ -433,6 +428,12 @@ political_decisions = {
 				life_rating = 2
 			}
 			AUS_729 = {
+				limit = {
+					NOT = { life_rating = 36 }
+				}
+				life_rating = 2
+			}
+			AUS_734 = {
 				limit = {
 					NOT = { life_rating = 36 }
 				}
@@ -447,6 +448,9 @@ political_decisions = {
 			AUS_734 = { 
 				add_core = ITA
 			} #South Tirol
+			AUS_736 = { 
+				add_core = ITA 
+			} #Corsica
 			473 = { 
 				add_core = ITA 
 			} #Corsica

@@ -94,7 +94,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 91
+		size= 3191
 	}
 
 	artisans=
@@ -341,7 +341,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 21
+		size= 2100
 	}
 
 	artisans=
@@ -639,7 +639,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 211
+		size= 6211
 	}
 
 	artisans=
@@ -1182,7 +1182,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 81
+		size= 1281
 	}
 
 	artisans=
@@ -2703,7 +2703,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 31
+		size= 3031
 	}
 
 	artisans=
@@ -3197,7 +3197,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 11
+		size= 1100
 	}
 
 	artisans=

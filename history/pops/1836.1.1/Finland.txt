@@ -297,12 +297,6 @@
 
 }
 338 = {
-	soldiers=
-	{
-		culture = sami
-		religion = orthodox
-		size= 171
-	}
 
 	artisans=
 	{
@@ -350,7 +344,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 361
+		size= 1361
 	}
 
 	artisans=
@@ -471,7 +465,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 441
+		size= 1441
 	}
 
 	craftsmen=
@@ -1533,7 +1527,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 461
+		size= 1461
 	}
 
 	artisans=

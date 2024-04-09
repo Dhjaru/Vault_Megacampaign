@@ -1525,7 +1525,7 @@
 	{
 		culture = ugrian
 		religion = orthodox
-		size= 191
+		size= 1191
 	}
 
 	artisans=
@@ -1574,7 +1574,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 631
+		size= 1631
 	}
 
 	artisans=
@@ -1925,7 +1925,7 @@
 	{
 		culture = ruotsish
 		religion = orthodox
-		size= 411
+		size= 1411
 	}
 
 	artisans=
@@ -1974,7 +1974,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1341
+		size= 7341
 	}
 
 	artisans=
@@ -2227,7 +2227,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 601
+		size= 1601
 	}
 
 	artisans=
@@ -2276,7 +2276,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1281
+		size= 4281
 	}
 
 	artisans=
@@ -2327,7 +2327,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 401
+		size= 1401
 	}
 
 	artisans=
@@ -2527,7 +2527,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 461
+		size= 1461
 	}
 
 	artisans=
@@ -2576,7 +2576,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1241
+		size= 5241
 	}
 
 	artisans=
@@ -2676,7 +2676,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1061
+		size= 5061
 	}
 
 	artisans=
@@ -3485,7 +3485,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 951
+		size= 3151
 	}
 
 	artisans=
@@ -3934,7 +3934,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 151
+		size= 1151
 	}
 
 	artisans=
@@ -3983,7 +3983,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 211
+		size= 1211
 	}
 
 	artisans=
@@ -4032,7 +4032,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 571
+		size= 3571
 	}
 
 	artisans=
@@ -4083,7 +4083,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 201
+		size= 1201
 	}
 
 	artisans=
@@ -4132,7 +4132,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 461
+		size= 1461
 	}
 
 	artisans=
@@ -5068,7 +5068,7 @@
 	{
 		culture = ugrian
 		religion = orthodox
-		size= 201
+		size= 1201
 	}
 
 	artisans=
@@ -5117,7 +5117,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 811
+		size= 3111
 	}
 
 	artisans=
@@ -5359,7 +5359,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 401
+		size= 1401
 	}
 
 	artisans=
@@ -5457,7 +5457,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 571
+		size= 3571
 	}
 
 	artisans=
@@ -6244,7 +6244,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 601
+		size= 1601
 	}
 
 	artisans=
@@ -6335,7 +6335,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 1051
+		size= 6551
 	}
 
 	artisans=
@@ -6393,7 +6393,7 @@
 	{
 		culture = ugrian
 		religion = catholic
-		size= 101
+		size= 1101
 	}
 
 	artisans=
@@ -6938,7 +6938,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 421
+		size= 1421
 	}
 
 	artisans=
@@ -7434,7 +7434,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 311
+		size= 1311
 	}
 
 	artisans=
@@ -7532,7 +7532,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 481
+		size= 3481
 	}
 
 	artisans=
@@ -8619,7 +8619,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 371
+		size= 1371
 	}
 
 	artisans=
@@ -8768,7 +8768,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 421
+		size= 1421
 	}
 
 	artisans=
@@ -9115,7 +9115,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 221
+		size= 1221
 	}
 
 	artisans=
@@ -10556,7 +10556,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 11
+		size= 1111
 	}
 
 	artisans=
@@ -10754,7 +10754,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 11
+		size= 1111
 	}
 
 	artisans=
@@ -11434,7 +11434,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 481
+		size= 3481
 	}
 
 	farmers=
@@ -11583,7 +11583,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 931
+		size= 3931
 	}
 
 	farmers=
@@ -12730,7 +12730,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 151
+		size= 1151
 	}
 
 	farmers=
@@ -12930,7 +12930,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 411
+		size= 3411
 	}
 
 	farmers=
@@ -18138,7 +18138,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 191
+		size= 1191
 	}
 
 	farmers=
@@ -19054,7 +19054,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 431
+		size= 1431
 	}
 
 	farmers=
@@ -19403,7 +19403,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 461
+		size= 1461
 	}
 
 	farmers=

@@ -1146,7 +1146,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 551
+		size= 1551
 	}
 
 	artisans=
@@ -1195,7 +1195,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 361
+		size= 1361
 	}
 
 	artisans=
@@ -1244,7 +1244,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 121
+		size= 1121
 	}
 
 	artisans=
@@ -2038,7 +2038,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 81
+		size= 1181
 	}
 
 	artisans=
@@ -2301,7 +2301,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 441
+		size= 1441
 	}
 
 	craftsmen=
@@ -2441,7 +2441,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 571
+		size= 1571
 	}
 
 	craftsmen=
@@ -2513,7 +2513,7 @@
 	{
 		culture = tatar
 		religion = catholic
-		size= 181
+		size= 1181
 	}
 
 	artisans=
@@ -2611,7 +2611,7 @@
 	{
 		culture = hungarian
 		religion = orthodox
-		size= 101
+		size= 1301
 	}
 
 	artisans=

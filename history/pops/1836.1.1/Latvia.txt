@@ -148,12 +148,6 @@
 
 }
 355 = {
-	soldiers=
-	{
-		culture = estonian
-		religion = orthodox
-		size= 131
-	}
 
 	artisans=
 	{
@@ -201,7 +195,7 @@
 	{
 		culture = marisbaltican
 		religion = orthodox
-		size= 441
+		size= 1441
 	}
 
 	artisans=
