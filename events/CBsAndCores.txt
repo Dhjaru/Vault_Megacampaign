@@ -638,6 +638,35 @@ province_event = {
 			average_militancy = 8
 		}
 	}
+	
+	option = {
+		name = "EVT2600OPTA"
+		state_scope = {
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					NOT = { has_province_modifier = core_integration }
+					NOT = { has_province_modifier = integration_refusal }
+					controlled_by = THIS
+					is_colonial = no
+				}
+				add_province_modifier = {
+					name = core_integration
+					duration = -1
+				}
+				any_pop = {
+					limit = {
+						is_primary_culture = no
+						is_accepted_culture = no
+					}
+					consciousness = 5
+				}
+			}
+		}
+		ai_chance = {
+			factor = 100
+		}
+	}
 		
 	option = {
 		name = "EVT2600OPTB"
@@ -664,7 +693,7 @@ province_event = {
 			}
 		}
 		ai_chance = {
-			factor = 1
+			factor = 0
 		}
 	}	
 }
