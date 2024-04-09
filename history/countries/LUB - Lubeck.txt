@@ -70,9 +70,6 @@ romanticism = 1
 prestige=7.35392
 
 # Decisions
-1.1.1 = {
-	decision = enable_kiel_canal
-}
 oob = "LUB_OOB.txt"
 set_country_flag = religi
 set_country_flag = vic2_country_LUB

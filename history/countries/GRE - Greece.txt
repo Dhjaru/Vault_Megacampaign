@@ -48,6 +48,5 @@ nonstate_consciousness= 0
 prestige=0
 oob = "GRE_OOB.txt"
 set_country_flag = religi
-decision = GRE_1836_setup
 set_country_flag = vic2_country_GRE
 set_country_flag = eu4_country_GRE

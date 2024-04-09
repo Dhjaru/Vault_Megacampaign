@@ -10,5 +10,6 @@ civilized = no
 basic_chemistry = 1
 medicine = 1
 
+decision = setup_1836
 set_country_flag = world_bank_off
 set_country_flag = ghostland

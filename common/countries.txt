@@ -822,6 +822,7 @@ D49 = "countries/D49.txt"
 D50 = "countries/D50.txt"
 
 REB 	= 	"countries/rebels.txt"
+TIN		= 	"countries/Tiny State.txt"
 SMA		= 	"countries/Small State.txt"
 MED		=	"countries/Medium State.txt"
 LRG		=	"countries/Large State.txt"

@@ -47,5 +47,4 @@ nonstate_consciousness= 0
 prestige=0
 oob = "BDN_OOB.txt"
 set_country_flag = religi
-decision = kurdish_1836_setup
 set_country_flag = vic2_country_BDN

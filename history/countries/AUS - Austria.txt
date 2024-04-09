@@ -48,5 +48,4 @@ nonstate_consciousness= 3
 prestige=0
 oob = "AUS_OOB.txt"
 set_country_flag = religi
-decision = AUS_setup_1836
 set_country_flag = vic2_country_AUS

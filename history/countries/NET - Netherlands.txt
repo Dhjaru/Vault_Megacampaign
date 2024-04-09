@@ -76,6 +76,5 @@ the_command_principle = 1
 prestige=40.2132
 oob = "NET_OOB.txt"
 set_country_flag = religi
-decision = literacy_NET
 set_country_flag = vic2_country_NET
 set_country_flag = eu4_country_NED

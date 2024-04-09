@@ -49,5 +49,4 @@ prestige=0
 oob = "URU_OOB.txt"
 set_country_flag = new_world_nation
 set_country_flag = religi
-decision = URU_1836_setup
 set_country_flag = vic2_country_URU

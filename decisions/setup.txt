@@ -1,5 +1,5 @@
 political_decisions = {
-	RUS_setup_1836 = {
+	setup_1836 = {
 		potential = {
 			NOT = {
 				has_global_flag = setup_done
@@ -13,7 +13,55 @@ political_decisions = {
 			set_global_flag = setup_done
 			GHO = {
 				country_event = 104293
-				country_event = 700701
+				country_event = 700700
+			}
+		}
+	}
+	FRA_setup_1836 = {
+		potential = {
+			NOT = {
+				has_global_flag = setup_done
+			}
+		}
+		
+		allow = {
+		}
+		
+		effect = {		
+			FRA = {
+				any_pop = {
+					limit = {
+						OR = {	
+							has_pop_culture = south_german
+							has_pop_culture = flemish
+							has_pop_culture = basque
+							has_pop_culture = catalan
+							has_pop_culture = north_italian
+						}
+					}
+					literacy = 0.30 #30 percent increase
+				}
+			}
+		}
+	}
+	ENG_setup_1836 = {
+		potential = {
+			NOT = {
+				has_global_flag = setup_done
+			}
+		}
+		
+		allow = {
+		}
+		
+		effect = {		
+			ENG = {
+				any_pop = {
+					limit = {
+						has_pop_culture = irish
+					}
+					literacy = 0.20 #20 percent increase
+				}
 			}
 		}
 	}

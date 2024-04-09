@@ -1,7 +1,7 @@
 political_decisions = {
 	change_tech_school_on = {
 		alert = yes
-		picture = national_value
+		picture = switch_to_order
 		potential = {
 			NOT = {	has_country_flag = tech_school_change }
 			civilized = yes
@@ -30,7 +30,7 @@ political_decisions = {
 
 	change_tech_school_off = {
 		alert = no
-		picture = national_value
+		picture = switch_to_order
 		potential = {
 			has_country_flag = tech_school_change
 		}

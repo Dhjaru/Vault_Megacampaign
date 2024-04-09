@@ -48,5 +48,4 @@ nonstate_consciousness= 0
 prestige=0
 oob = "DAG_OOB.txt"
 set_country_flag = religi
-decision = caucasus_muslims_1836_setup
 set_country_flag = vic2_country_DAG

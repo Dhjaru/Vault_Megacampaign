@@ -1,15 +1,4 @@
 #############################################;;;;;;;;;;;;;;x
-#New Bookmarks;;;;;;;;;;;;;;x
-#############################################;;;;;;;;;;;;;;x
-RENO_NAME;Commonwealth Released;;;;;;;;;;;x
-RENO_DESC;Commonwealth released start.;;;;;;;;;;;x
-#############State Nations (Pero Credit)##############;;;;;;;;;;;;;;x
-SMA;即Small State Flag\n劬This flag dynamically assigns a size to this state. This province is in a state that has below 400k pops.;;;;;;;;;;;;;x
-MED;即Medium State Flag\n劬This flag dynamically assigns a size to this state. This province is in a state that has below 700k pops.;;;;;;;;;;;;;x
-LRG;即Large State Flag\n劬This flag dynamically assigns a size to this state. This province is in a state that has below 1m pops.;;;;;;;;;;;;;x
-HUG;即Huge State Flag\n劬This flag dynamically assigns a size to this state. This province is in a state that has above 1m pops.;;;;;;;;;;;;;x
-STR;即Strategic State Flag\n劬This flag dynamically assigns importance to this state. This province is in a state that has strategic value.;;;;;;;;;;;;;x
-#############################################;;;;;;;;;;;;;;x
 #New National Focuses;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 assimilation_focus;Increase Assimilation Rate;;;;;;;;x;;;;

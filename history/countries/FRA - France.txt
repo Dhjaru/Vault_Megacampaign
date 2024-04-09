@@ -7,7 +7,7 @@ religion = protestant
 government = bourgeois_dictatorship
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.729752
+literacy = 0.529752
 
 civilized = yes
 
@@ -70,6 +70,6 @@ post_napoleonic_thought = 1
 prestige=24.3708
 oob = "FRA_OOB.txt"
 set_country_flag = religi
-decision = france_1836_setup
+decision = FRA_setup_1836
 set_country_flag = vic2_country_FRA
 set_country_flag = eu4_country_FRA

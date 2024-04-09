@@ -49,5 +49,4 @@ prestige=0
 oob = "ECU_OOB.txt"
 set_country_flag = new_world_nation
 set_country_flag = religi
-decision = ECU_1836_setup
 set_country_flag = vic2_country_ECU

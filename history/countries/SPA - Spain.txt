@@ -75,6 +75,5 @@ stock_exchange = 1
 prestige=5.49866
 oob = "SPA_OOB.txt"
 set_country_flag = religi
-decision = literacy_SPA
 set_country_flag = vic2_country_SPA
 set_country_flag = eu4_country_SPA

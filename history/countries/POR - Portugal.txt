@@ -48,6 +48,5 @@ nonstate_consciousness= 0
 prestige=5.37147e-05
 oob = "POR_OOB.txt"
 set_country_flag = religi
-decision = literacy_POR
 set_country_flag = vic2_country_POR
 set_country_flag = eu4_country_POR

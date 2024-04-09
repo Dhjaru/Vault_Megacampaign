@@ -48,5 +48,4 @@ nonstate_consciousness= 1
 prestige=0
 oob = "PAP_OOB.txt"
 set_country_flag = religi
-decision = PAP_1836_setup
 set_country_flag = vic2_country_PAP

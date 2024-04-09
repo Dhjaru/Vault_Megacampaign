@@ -74,6 +74,5 @@ set_country_flag = south_american_immigrant_nation
 set_country_flag = post_colonial_country
 set_country_flag = postcol_1
 set_country_flag = religi
-decision = CLM_1836_setup
 set_country_flag = vic2_country_CLM
 set_country_flag = eu4_country_COL
