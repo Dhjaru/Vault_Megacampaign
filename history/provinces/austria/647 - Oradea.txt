@@ -2,5 +2,5 @@ owner=KUK
 controller=KUK
 add_core=KUK
 add_core=ROM
-trade_goods = wool
+trade_goods = dye
 life_rating = 35
