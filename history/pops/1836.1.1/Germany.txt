@@ -8428,51 +8428,51 @@
 1743 = {
 	soldiers=
 	{
-		culture = north_german
-		religion = catholic
-		size= 161
+		culture = dutch
+		religion = protestant
+		size= 1161
 	}
 
 	artisans=
 	{
-		culture = north_german
-		religion = catholic
+		culture = dutch
+		religion = protestant
 		size= 121
 	}
 
 	clergymen=
 	{
-		culture = north_german
-		religion = catholic
+		culture = dutch
+		religion = protestant
 		size= 113
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
-		religion = catholic
+		culture = dutch
+		religion = protestant
 		size= 23
 	}
 
 	officers=
 	{
-		culture = north_german
-		religion = catholic
+		culture = dutch
+		religion = protestant
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = north_german
-		religion = catholic
+		culture = dutch
+		religion = protestant
 		size= 73
 	}
 
 	farmers=
 	{
-		culture = north_german
-		religion = catholic
-		size= 3178
+		culture = dutch
+		religion = protestant
+		size= 33178
 	}
 
 	soldiers=
@@ -8521,7 +8521,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 29031
+		size= 9031
 	}
 
 }

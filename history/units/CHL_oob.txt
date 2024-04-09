@@ -285,16 +285,16 @@ leader = {
 	name="Alberto Boncompagni"
 	date="1749.4.10"
 	type=land
-	personality="stalwart"
-	background="uncommonly_young"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Gian Gastone Doria di Cirié"
 	date="1763.1.15"
 	type=sea
-	personality="coolminded"
-	background="uncommonly_young"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 

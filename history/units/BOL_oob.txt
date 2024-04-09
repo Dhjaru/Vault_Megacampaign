@@ -292,24 +292,24 @@ leader = {
 	name="Bartolomé Grimaldi"
 	date="1729.4.2"
 	type=land
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Antonio Fitz-James"
 	date="1764.10.17"
 	type=land
-	personality="disciplined"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Domingo Folch de Cardona"
 	date="1768.8.30"
 	type=sea
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 

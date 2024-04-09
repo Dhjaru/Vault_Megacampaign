@@ -316,96 +316,96 @@ leader = {
 	name="Norman de Galard"
 	date="1749.7.6"
 	type=land
-	personality="stalwart"
-	background="uncommonly_young"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Tancred de la Bretonnière"
 	date="1749.11.27"
 	type=sea
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Philippe de La Tour d'Auvergne"
 	date="1752.6.18"
 	type=land
-	personality="chivalrous"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Childéric de Vigny"
 	date="1752.6.18"
 	type=sea
-	personality="coolminded"
-	background="natural_born_leader"
+	personality="defence_3.1"
+	background="attack_5.1"
 }
 
 leader = {
 	name="Humphrey du Valentinois"
 	date="1752.6.20"
 	type=sea
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Charles de Chevigny"
 	date="1752.6.21"
 	type=sea
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Radolf de Rochemaure"
 	date="1752.6.22"
 	type=sea
-	personality="coolminded"
-	background="uncommonly_young"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Eudes de Maurepas"
 	date="1763.3.16"
 	type=sea
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Faramond de Bonneuil"
 	date="1763.3.18"
 	type=sea
-	personality="polite"
-	background="pawn"
+	personality="defence_1.1"
+	background="attack_minus_1.1"
 }
 
 leader = {
 	name="Hugues de Broglie"
 	date="1765.8.6"
 	type=land
-	personality="disciplined"
-	background="cavalry_school"
+	personality="defence_2.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Cerdic d'Ambleteuse"
 	date="1766.3.17"
 	type=land
-	personality="stalwart"
-	background="uncommonly_young"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Cerdic Desgouttes"
 	date="1767.5.26"
 	type=sea
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 

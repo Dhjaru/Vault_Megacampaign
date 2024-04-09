@@ -265,32 +265,32 @@ leader = {
 	name="Massimiliano di Cavour"
 	date="1750.8.20"
 	type=sea
-	personality="polite"
-	background="pawn"
+	personality="defence_1.1"
+	background="attack_minus_1.1"
 }
 
 leader = {
 	name="Alberto di Savoia"
 	date="1751.7.23"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Giordano Colonna"
 	date="1759.4.16"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Antonio di Paesana"
 	date="1760.8.22"
 	type=sea
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 

@@ -311,24 +311,24 @@ leader = {
 	name="Sun I Yi"
 	date="1754.7.22"
 	type=land
-	personality="stalwart"
-	background="natural_born_leader"
+	personality="defence_3.1"
+	background="attack_5.1"
 }
 
 leader = {
 	name="Hong-rip Song"
 	date="1739.11.28"
 	type=sea
-	personality="gallant"
-	background="drillmaster"
+	personality="defence_minus_1.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Gwanghyeon Min"
 	date="1769.10.15"
 	type=land
-	personality="unflinching"
-	background="cavalry_school"
+	personality="defence_2.1"
+	background="attack_4.1"
 }
 
 

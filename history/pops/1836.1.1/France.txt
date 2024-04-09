@@ -176,51 +176,58 @@
 402 = {
 	soldiers=
 	{
-		culture = dutch
+		culture = french
 		religion = protestant
 		size= 661
 	}
 
 	artisans=
 	{
-		culture = dutch
+		culture = french
 		religion = protestant
 		size= 2695
 	}
 
 	clergymen=
 	{
-		culture = dutch
+		culture = french
 		religion = protestant
 		size= 2503
 	}
 
 	bureaucrats=
 	{
-		culture = dutch
+		culture = french
 		religion = protestant
 		size= 501
 	}
 
 	officers=
 	{
-		culture = dutch
+		culture = french
 		religion = protestant
 		size= 462
 	}
 
 	aristocrats=
 	{
-		culture = dutch
+		culture = french
 		religion = protestant
 		size= 3235
 	}
 
 	farmers=
 	{
+		culture = french
+		religion = protestant
+		size= 73743
+	}
+
+	farmers=
+	{
 		culture = dutch
 		religion = protestant
-		size= 103743
+		size= 33743
 	}
 
 }
@@ -378,98 +385,98 @@
 405 = {
 	soldiers=
 	{
-		culture = dutch
+		culture = french
 		religion = catholic
 		size= 441
 	}
 
 	artisans=
 	{
-		culture = dutch
+		culture = french
 		religion = catholic
 		size= 679
 	}
 
 	clergymen=
 	{
-		culture = dutch
+		culture = french
 		religion = catholic
 		size= 631
 	}
 
 	bureaucrats=
 	{
-		culture = dutch
+		culture = french
 		religion = catholic
 		size= 126
 	}
 
 	officers=
 	{
-		culture = dutch
+		culture = french
 		religion = catholic
 		size= 117
 	}
 
 	aristocrats=
 	{
-		culture = dutch
+		culture = french
 		religion = catholic
 		size= 408
 	}
 
 	farmers=
 	{
-		culture = dutch
+		culture = french
 		religion = catholic
 		size= 84584
 	}
 
 	soldiers=
 	{
-		culture = dutch
+		culture = french
 		religion = protestant
 		size= 661
 	}
 
 	artisans=
 	{
-		culture = dutch
+		culture = french
 		religion = protestant
 		size= 2694
 	}
 
 	clergymen=
 	{
-		culture = dutch
+		culture = french
 		religion = protestant
 		size= 2502
 	}
 
 	bureaucrats=
 	{
-		culture = dutch
+		culture = french
 		religion = protestant
 		size= 500
 	}
 
 	officers=
 	{
-		culture = dutch
+		culture = french
 		religion = protestant
 		size= 462
 	}
 
 	aristocrats=
 	{
-		culture = dutch
+		culture = french
 		religion = protestant
 		size= 1617
 	}
 
 	farmers=
 	{
-		culture = dutch
+		culture = french
 		religion = protestant
 		size= 65266
 	}

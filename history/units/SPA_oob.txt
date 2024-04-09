@@ -319,40 +319,40 @@ leader = {
 	name="Hermenegildo Álvarez de Toledo"
 	date="1736.10.10"
 	type=sea
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Juan José Coronado"
 	date="1755.12.24"
 	type=sea
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Guillermo de Figueroa"
 	date="1757.5.29"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Alonso Cagigal de la Vega"
 	date="1757.6.14"
 	type=land
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="MONARCH_NAME_RAMON Fadrique de "
 	date="1763.12.24"
 	type=land
-	personality="coolminded"
-	background="school_of_defense"
+	personality="defence_3.1"
+	background="attack_3.13"
 }
 
 

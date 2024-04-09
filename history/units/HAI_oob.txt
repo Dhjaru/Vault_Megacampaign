@@ -315,48 +315,48 @@ leader = {
 	name="Antoon Van Diemen"
 	date="1744.11.29"
 	type=sea
-	personality="tactful"
-	background="pawn"
+	personality="defence_5.1"
+	background="attack_minus_1.1"
 }
 
 leader = {
 	name="Lodewijk Van Voorst"
 	date="1748.2.11"
 	type=land
-	personality="disciplined"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Constantijn Van Renesse"
 	date="1757.12.29"
 	type=sea
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Christoffel Van Huchtenbroek"
 	date="1761.6.7"
 	type=sea
-	personality="stalwart"
-	background="bootlicker"
+	personality="defence_3.1"
+	background="attack_minus_1.1"
 }
 
 leader = {
 	name="Cornelis Van Raephorst"
 	date="1765.3.20"
 	type=sea
-	personality="disciplined"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Gabriel De Moor"
 	date="1765.3.21"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 

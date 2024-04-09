@@ -278,88 +278,88 @@ leader = {
 	name="Asclettin de Chambly"
 	date="1754.7.27"
 	type=land
-	personality="resolute"
-	background="bootlicker"
+	personality="defence_minus_1.1"
+	background="attack_minus_1.1"
 }
 
 leader = {
 	name="Amaury de La Mothe"
 	date="1755.6.1"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_minus_1.1"
+	background="attack_3.13"
 }
 
 leader = {
 	name="Charles du Valentinois"
 	date="1757.6.14"
 	type=land
-	personality="resolute"
-	background="uncommonly_young"
+	personality="defence_minus_1.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Asclettin de Chevigny"
 	date="1758.5.24"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_minus_1.1"
+	background="attack_3.13"
 }
 
 leader = {
 	name="Radolf Le Tellier"
 	date="1758.5.25"
 	type=land
-	personality="resolute"
-	background="uncommonly_young"
+	personality="defence_minus_1.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Théoderic de Vibien"
 	date="1764.4.18"
 	type=land
-	personality="resolute"
-	background="uncommonly_young"
+	personality="defence_minus_1.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Childéric d'Estrées"
 	date="1764.5.7"
 	type=land
-	personality="chivalrous"
-	background="uncommonly_young"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Eustache de La Barthe"
 	date="1764.11.27"
 	type=land
-	personality="unflinching"
-	background="cavalry_school"
+	personality="defence_2.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Childéric de Beauharnais"
 	date="1764.12.3"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_minus_1.1"
+	background="attack_3.13"
 }
 
 leader = {
 	name="Childéric de Beauharnais"
 	date="1764.12.3"
 	type=land
-	personality="resolute"
-	background="cavalry_school"
+	personality="defence_minus_1.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Clovis de Béthune"
 	date="1764.12.3"
 	type=land
-	personality="resolute"
-	background="uncommonly_young"
+	personality="defence_minus_1.1"
+	background="attack_2.1"
 }
 
 

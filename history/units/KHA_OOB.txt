@@ -293,16 +293,16 @@ leader = {
 	name="Adai VIII Chagatayid"
 	date="1766.4.2"
 	type=land
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Jorightu Ordos"
 	date="1753.12.2"
 	type=land
-	personality="disciplined"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 

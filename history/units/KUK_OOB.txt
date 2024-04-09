@@ -288,48 +288,48 @@ leader = {
 	name="Albrecht Casper"
 	date="1752.4.12"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_minus_1.1"
+	background="attack_3.13"
 }
 
 leader = {
 	name="Johann von Hohenberg"
 	date="1752.4.14"
 	type=land
-	personality="resolute"
-	background="cavalry_school"
+	personality="defence_minus_1.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Jakob Stichsenstein"
 	date="1759.7.18"
 	type=land
-	personality="resolute"
-	background="generals_aide"
+	personality="defence_minus_1.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Ludwig von Waldstein"
 	date="1760.10.27"
 	type=land
-	personality="resolute"
-	background="cavalry_school"
+	personality="defence_minus_1.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Georg Erlmayr"
 	date="1766.9.3"
 	type=land
-	personality="coolminded"
-	background="uncommonly_young"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Adolf von Stauffenberg"
 	date="1766.9.3"
 	type=land
-	personality="coolminded"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 

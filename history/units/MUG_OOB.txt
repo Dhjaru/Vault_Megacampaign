@@ -321,23 +321,23 @@ leader = {
 	date="1754.10.19"
 	type=land
 	personality="intuitive"
-	background="war_college"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Shîr Shâh Uzbek"
 	date="1738.12.15"
 	type=land
-	personality="resolute"
-	background="uncommonly_young"
+	personality="defence_minus_1.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Nîkû-siyar Nagar"
 	date="1750.12.20"
 	type=sea
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 

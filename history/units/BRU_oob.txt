@@ -273,7 +273,7 @@ leader = {
 	date="1768.3.27"
 	type=sea
 	personality="intuitive"
-	background="war_college"
+	background="attack_3.1"
 }
 
 

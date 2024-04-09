@@ -292,32 +292,32 @@ leader = {
 	name="Dang Dung Ta"
 	date="1752.3.3"
 	type=land
-	personality="disciplined"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Kinh Vu Quyen"
 	date="1762.4.2"
 	type=sea
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Duy Phuong Ly"
 	date="1762.4.3"
 	type=sea
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Han Thuong Thach"
 	date="1762.6.3"
 	type=land
-	personality="resolute"
-	background="uncommonly_young"
+	personality="defence_minus_1.1"
+	background="attack_2.1"
 }
 
 

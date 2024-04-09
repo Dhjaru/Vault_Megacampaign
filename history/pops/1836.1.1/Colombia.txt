@@ -10,7 +10,7 @@
 	{
 		culture = aimara
 		religion = inti
-		size= 11
+		size= 1100
 	}
 
 	farmers=
@@ -38,7 +38,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 71
+		size= 5271
 	}
 
 	artisans=
@@ -377,7 +377,7 @@
 	{
 		culture = native_american_minor
 		religion = animist
-		size= 1
+		size= 1100
 	}
 
 	farmers=
@@ -398,7 +398,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 61
+		size= 2061
 	}
 
 	farmers=
@@ -887,7 +887,7 @@
 	{
 		culture = native_american_minor
 		religion = animist
-		size= 1
+		size= 1100
 	}
 
 	farmers=
@@ -943,7 +943,7 @@
 	{
 		culture = antartique
 		religion = catholic
-		size= 71
+		size= 3271
 	}
 
 	officers=

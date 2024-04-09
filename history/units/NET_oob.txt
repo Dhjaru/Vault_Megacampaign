@@ -312,48 +312,48 @@ leader = {
 	name="Jan Van Diemen"
 	date="1737.11.18"
 	type=land
-	personality="unflinching"
-	background="cavalry_school"
+	personality="defence_2.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Godfried Van Noort"
 	date="1755.6.10"
 	type=sea
-	personality="coolminded"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Pieter Stuyvesant"
 	date="1764.12.22"
 	type=land
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Jan Van Troyen"
 	date="1764.12.28"
 	type=land
-	personality="stalwart"
-	background="uncommonly_young"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Simon Crijnssen"
 	date="1765.1.2"
 	type=land
-	personality="disciplined"
-	background="cavalry_school"
+	personality="defence_2.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Karel Coen"
 	date="1766.3.11"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
@@ -361,7 +361,7 @@ leader = {
 	date="1766.12.15"
 	type=land
 	personality="intuitive"
-	background="war_college"
+	background="attack_3.1"
 }
 
 

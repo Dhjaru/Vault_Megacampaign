@@ -307,48 +307,48 @@ leader = {
 	name="'Âdel Shahy"
 	date="1749.6.7"
 	type=land
-	personality="coolminded"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Abu'l Fath Daei"
 	date="1749.11.30"
 	type=land
-	personality="coolminded"
-	background="uncommonly_young"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Loft Ali Ansari"
 	date="1756.3.26"
 	type=land
-	personality="coolminded"
-	background="natural_born_leader"
+	personality="defence_3.1"
+	background="attack_5.1"
 }
 
 leader = {
 	name="Abdol Shahy"
 	date="1758.3.8"
 	type=land
-	personality="coolminded"
-	background="uncommonly_young"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Ismâ'îl Azizi"
 	date="1759.4.4"
 	type=land
-	personality="resolute"
-	background="uncommonly_young"
+	personality="defence_minus_1.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Amanollah Daei"
 	date="1764.10.4"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_minus_1.1"
+	background="attack_3.13"
 }
 
 

@@ -284,24 +284,24 @@ leader = {
 	name="Ieshige Amago"
 	date="1740.5.13"
 	type=land
-	personality="tactful"
-	background="pawn"
+	personality="defence_5.1"
+	background="attack_minus_1.1"
 }
 
 leader = {
 	name="Ieyoshi Otomo"
 	date="1746.7.31"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Yoshiharu Takeda"
 	date="1759.6.10"
 	type=sea
-	personality="polite"
-	background="pawn"
+	personality="defence_1.1"
+	background="attack_minus_1.1"
 }
 
 

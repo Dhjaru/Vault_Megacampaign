@@ -328,16 +328,16 @@ leader = {
 	name="Tritog Jetsen Thonmi"
 	date="1762.4.7"
 	type=land
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Gungsrong Gungtsen Mgus"
 	date="1764.10.1"
 	type=land
-	personality="coolminded"
-	background="school_of_defense"
+	personality="defence_3.1"
+	background="attack_3.13"
 }
 
 

@@ -295,24 +295,24 @@ leader = {
 	name="Geoffrey Albemarle"
 	date="1745.12.23"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Guy Dampier"
 	date="1754.11.9"
 	type=sea
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Joseph Frobisher"
 	date="1761.8.3"
 	type=sea
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
@@ -320,7 +320,7 @@ leader = {
 	date="1764.9.22"
 	type=land
 	personality="intuitive"
-	background="war_college"
+	background="attack_3.1"
 }
 
 

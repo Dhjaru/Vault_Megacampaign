@@ -268,16 +268,16 @@ leader = {
 	name="Inthaphom Yo Chounramany"
 	date="1750.6.2"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Kham Tam Sa Vongvicht"
 	date="1761.9.10"
 	type=land
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 

@@ -287,32 +287,32 @@ leader = {
 	name="Särkver Natt och Dag"
 	date="1744.5.2"
 	type=sea
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Egil Marsvin"
 	date="1761.5.6"
 	type=land
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Faste Trolle"
 	date="1762.5.11"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Holmger Porse"
 	date="1767.6.4"
 	type=sea
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 

@@ -269,24 +269,24 @@ leader = {
 	name="Houwei I Li"
 	date="1763.7.16"
 	type=land
-	personality="unflinching"
-	background="cavalry_school"
+	personality="defence_2.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Songtham Na Kedah"
 	date="1749.7.23"
 	type=sea
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Rama Inchareon"
 	date="1759.5.31"
 	type=land
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 

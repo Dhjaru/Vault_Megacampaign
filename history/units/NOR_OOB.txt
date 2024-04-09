@@ -303,8 +303,8 @@ leader = {
 	name="Ølver Torgeirsson"
 	date="1750.5.30"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 

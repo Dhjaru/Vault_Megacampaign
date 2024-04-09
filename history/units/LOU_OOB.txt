@@ -292,16 +292,16 @@ leader = {
 	name="Juan Bautista de Borja"
 	date="1748.4.19"
 	type=sea
-	personality="disciplined"
-	background="uncommonly_young"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Hernando de Aguirre"
 	date="1766.11.28"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 

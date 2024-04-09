@@ -308,80 +308,80 @@ leader = {
 	name="Wenyong Huang"
 	date="1733.6.3"
 	type=sea
-	personality="tactful"
-	background="pawn"
+	personality="defence_5.1"
+	background="attack_minus_1.1"
 }
 
 leader = {
 	name="Bai IX Li"
 	date="1755.3.20"
 	type=land
-	personality="unflinching"
-	background="cavalry_school"
+	personality="defence_2.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Mo Qi"
 	date="1754.1.2"
 	type=sea
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Shao'en Chang"
 	date="1754.1.3"
 	type=sea
-	personality="inspiring"
-	background="aristocrat"
+	personality="defence_4.1"
+	background="attack_minus_2.1"
 }
 
 leader = {
 	name="Shiming Qi"
 	date="1754.1.10"
 	type=land
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Guochang Pan"
 	date="1754.10.2"
 	type=land
-	personality="unflinching"
-	background="cavalry_school"
+	personality="defence_2.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Hong Ruan"
 	date="1755.3.17"
 	type=sea
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Zugan Tan"
 	date="1755.3.19"
 	type=sea
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Huali Xiong"
 	date="1755.3.21"
 	type=land
-	personality="coolminded"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Boheng Pan"
 	date="1765.4.2"
 	type=land
-	personality="coolminded"
-	background="school_of_defense"
+	personality="defence_3.1"
+	background="attack_3.13"
 }
 
 

@@ -298,32 +298,32 @@ leader = {
 	name="Cerdic de La Tour d'Auvergne"
 	date="1754.4.13"
 	type=sea
-	personality="chivalrous"
-	background="artillerist"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Simon de Bercy"
-	date="1757.10.5"
+	date="1817.10.5"
 	type=land
-	personality="resolute"
-	background="uncommonly_young"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Lothaire de Tocqueville"
-	date="1759.3.2"
+	date="1819.3.2"
 	type=land
-	personality="disciplined"
-	background="uncommonly_young"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Chilpéric de Castaing"
-	date="1765.3.3"
+	date="1815.3.3"
 	type=sea
-	personality="stalwart"
-	background="uncommonly_young"
+	personality="defence_5.1"
+	background="attack_5.1"
 }
 
 
@@ -361,3 +361,68 @@ navy = {
 	}
 }
 
+
+army = {
+	name="1st Army"
+	location=2247
+	regiment = {
+		name="1st Culiacán Infantry"
+		type=infantry
+		home = 2279
+	}
+	regiment = {
+		name="2nd Mexico City Infantry"
+		type=infantry
+		home = 2279
+	}
+	regiment = {
+		name="1st Phoenix Infantry"
+		type=infantry
+		home = 2279
+	}
+	regiment = {
+		name="1st Minatitlán Infantry"
+		type=infantry
+		home = 2283
+	}
+	regiment = {
+		name="1st Oaxaca Artillery"
+		type=artillery
+		home = 2283
+	}
+	regiment = {
+		name="1st Campeche Infantry"
+		type=infantry
+		home = 2282
+	}
+	regiment = {
+		name="1st Campeche Infantry"
+		type=infantry
+		home = 2247
+	}
+	regiment = {
+		name="1st Campeche Infantry"
+		type=infantry
+		home = 2252
+	}
+	regiment = {
+		name="2nd Oaxaca Artillery"
+		type=artillery
+		home = 2252
+	}
+	regiment = {
+		name="1st Campeche Infantry"
+		type=infantry
+		home = 2255
+	}
+	regiment = {
+		name="1st Campeche Infantry"
+		type=infantry
+		home = 2255
+	}
+	regiment = {
+		name="1st Campeche Infantry"
+		type=infantry
+		home = 2255
+	}
+}

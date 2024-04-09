@@ -270,8 +270,8 @@ leader = {
 	name="Dalem Di Made Karno"
 	date="1745.11.8"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 

@@ -324,8 +324,8 @@ leader = {
 	name="Sei Fija"
 	date="1758.5.16"
 	type=sea
-	personality="inspiring"
-	background="aristocrat"
+	personality="defence_4.1"
+	background="attack_minus_2.1"
 }
 
 

@@ -316,8 +316,8 @@ leader = {
 	name="Ajit Singh Bedia"
 	date="1752.5.15"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_minus_1.1"
+	background="attack_3.13"
 }
 
 

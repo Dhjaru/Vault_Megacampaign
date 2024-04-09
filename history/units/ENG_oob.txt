@@ -286,72 +286,72 @@ leader = {
 	name="Benjamin Cook"
 	date="1749.6.5"
 	type=land
-	personality="unflinching"
-	background="cavalry_school"
+	personality="defence_2.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Geoffrey Churchill"
 	date="1751.10.11"
 	type=land
-	personality="chivalrous"
-	background="cavalry_school"
+	personality="defence_2.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Alexander Davis"
 	date="1752.5.4"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_minus_1.1"
+	background="attack_3.13"
 }
 
 leader = {
 	name="George Moore"
 	date="1757.5.8"
 	type=sea
-	personality="disciplined"
-	background="bootlicker"
+	personality="defence_2.1"
+	background="attack_minus_1.1"
 }
 
 leader = {
 	name="Ambrose Hudson"
 	date="1760.1.13"
 	type=land
-	personality="coolminded"
-	background="uncommonly_young"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Archibald Smith"
 	date="1760.1.14"
 	type=land
-	personality="unflinching"
-	background="cavalry_school"
+	personality="defence_2.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Hugh Talbot"
 	date="1760.8.2"
 	type=sea
-	personality="resolute"
-	background="uncommonly_young"
+	personality="defence_minus_1.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Edward Cabot"
 	date="1760.9.4"
 	type=land
-	personality="disciplined"
-	background="uncommonly_young"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Thomas Clarence"
 	date="1760.9.5"
 	type=land
-	personality="disciplined"
-	background="cavalry_school"
+	personality="defence_2.1"
+	background="attack_4.1"
 }
 
 
@@ -659,7 +659,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="Resolute"
+		name="defence_minus_1.1"
 		type=frigate
 	}
 	ship = {

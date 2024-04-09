@@ -268,16 +268,16 @@ leader = {
 	name="Immadai Raja Vokkaliga"
 	date="1738.5.27"
 	type=land
-	personality="chivalrous"
-	background="cavalry_school"
+	personality="defence_2.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Ramachandra Gowda"
 	date="1763.12.10"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 

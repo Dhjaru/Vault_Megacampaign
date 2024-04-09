@@ -316,16 +316,16 @@ leader = {
 	name="Sankilang Mahat"
 	date="1766.5.27"
 	type=land
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Tuni Djallori Chairul"
 	date="1767.7.17"
 	type=sea
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 

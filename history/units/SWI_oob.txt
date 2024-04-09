@@ -297,8 +297,8 @@ leader = {
 	name="Ruprecht Gasenzer"
 	date="1757.4.3"
 	type=land
-	personality="stalwart"
-	background="uncommonly_young"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 

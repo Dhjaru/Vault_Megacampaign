@@ -311,72 +311,72 @@ leader = {
 	name="Gian Galeazzo Barzagli"
 	date="1731.7.2"
 	type=land
-	personality="coolminded"
-	background="natural_born_leader"
+	personality="defence_3.1"
+	background="attack_5.1"
 }
 
 leader = {
 	name="Vittorio Petrucci"
 	date="1741.12.19"
 	type=sea
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Filippo Cybo"
 	date="1749.4.3"
 	type=land
-	personality="coolminded"
-	background="brownnoser"
+	personality="defence_3.1"
+	background="attack_1.1"
 }
 
 leader = {
 	name="Eugenio Contarini"
 	date="1753.12.3"
 	type=land
-	personality="disciplined"
-	background="cavalry_school"
+	personality="defence_2.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Alberto della Ubaldini"
 	date="1755.4.17"
 	type=land
-	personality="coolminded"
-	background="cavalry_school"
+	personality="defence_3.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Benedetto Colonna"
 	date="1759.9.1"
 	type=land
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Sforza Maria Pico"
 	date="1765.7.12"
 	type=land
-	personality="disciplined"
-	background="uncommonly_young"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Agostino Pignatelli"
 	date="1765.8.28"
 	type=sea
-	personality="polite"
-	background="pawn"
+	personality="defence_1.1"
+	background="attack_minus_1.1"
 }
 
 leader = {
 	name="Napoleone Boncompagni"
 	date="1765.8.30"
 	type=sea
-	personality="coolminded"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 

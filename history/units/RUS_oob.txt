@@ -310,80 +310,80 @@ leader = {
 	name="historical_score Gylta"
 	date="1762.11.16"
 	type=land
-	personality="resolute"
-	background="uncommonly_young"
+	personality="defence_minus_1.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Tyke Cronstedt"
 	date="1751.6.21"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_minus_1.1"
+	background="attack_3.13"
 }
 
 leader = {
 	name="Albrikt Munk"
 	date="1751.10.19"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_minus_1.1"
+	background="attack_3.13"
 }
 
 leader = {
 	name="Borkvard Tre Rosor"
 	date="1752.3.31"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_minus_1.1"
+	background="attack_3.13"
 }
 
 leader = {
 	name="Astrad Tre Rosor"
 	date="1753.11.22"
 	type=land
-	personality="stalwart"
-	background="generals_aide"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Patrik Bratt"
 	date="1758.7.1"
 	type=land
-	personality="unflinching"
-	background="cavalry_school"
+	personality="defence_2.1"
+	background="attack_4.1"
 }
 
 leader = {
 	name="Nicholas Ulfsax"
 	date="1765.12.29"
 	type=land
-	personality="coolminded"
-	background="uncommonly_young"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Marcus Horn"
 	date="1766.12.11"
 	type=land
-	personality="coolminded"
-	background="brownnoser"
+	personality="defence_3.1"
+	background="attack_1.1"
 }
 
 leader = {
 	name="Sigvard B�llja"
 	date="1766.12.13"
 	type=land
-	personality="coolminded"
-	background="uncommonly_young"
+	personality="defence_3.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Sigvard B�llja"
 	date="1766.12.13"
 	type=land
-	personality="resolute"
-	background="school_of_defense"
+	personality="defence_minus_1.1"
+	background="attack_3.13"
 }
 
 

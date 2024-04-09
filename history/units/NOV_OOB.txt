@@ -315,40 +315,40 @@ leader = {
 	name="Edgar Burgoyne"
 	date="1740.9.8"
 	type=sea
-	personality="inspiring"
-	background="aristocrat"
+	personality="defence_4.1"
+	background="attack_minus_2.1"
 }
 
 leader = {
 	name="Lawrence Blake"
 	date="1759.1.26"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 leader = {
 	name="Ernest Cornwallis"
 	date="1763.8.14"
 	type=sea
-	personality="inspiring"
-	background="aristocrat"
+	personality="defence_4.1"
+	background="attack_minus_2.1"
 }
 
 leader = {
 	name="Adolphus Moore"
 	date="1764.2.8"
 	type=sea
-	personality="balanced_p"
-	background="generals_aide"
+	personality="defence_2.1"
+	background="attack_2.1"
 }
 
 leader = {
 	name="Jonathan Rodney"
 	date="1766.3.9"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 

@@ -272,8 +272,8 @@ leader = {
 	name="Diogenes Paraspondylos"
 	date="1748.1.11"
 	type=land
-	personality="soldierly"
-	background="war_college"
+	personality="defence_2.1"
+	background="attack_3.1"
 }
 
 
