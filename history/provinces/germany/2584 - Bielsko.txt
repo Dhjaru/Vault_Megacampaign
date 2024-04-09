@@ -3,5 +3,6 @@ controller=KUK
 add_core=KUK
 add_core=SLV
 add_core=WSF
+add_core=GER
 trade_goods = coal
 life_rating = 35

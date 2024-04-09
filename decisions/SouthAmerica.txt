@@ -54,7 +54,11 @@ political_decisions = {
 	provincia_cisplatina={
 		picture = banda_oriental
 		potential = {
-			tag = BRZ
+			OR = {
+				tag = BRZ
+				tag = X09
+			}
+			owns = 2464
 			NOT = {
 				has_country_flag = cisplatina_is_ours 
 			}
