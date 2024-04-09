@@ -17,6 +17,7 @@ desperate_nation  = {
 	supply_consumption = -0.80
 	mobilisation_size = 0.2
 	tax_efficiency = 0.50 #50% boost
+	leadership_modifier = -0.9
 	icon = 6
 }
 microscopic_nation  = {
@@ -35,6 +36,7 @@ microscopic_nation  = {
 	supply_consumption = -0.75
 	mobilisation_size = 0.1
 	tax_efficiency = 0.40 #40% boost
+	leadership_modifier = -0.75
 	icon = 6
 }
 tiny_nation  = {
@@ -54,6 +56,7 @@ tiny_nation  = {
 	supply_consumption = -0.50
 	mobilisation_size = 0.04
 	tax_efficiency = 0.25 #25% boost
+	leadership_modifier = -0.5
 	icon = 6
 }
 
@@ -73,6 +76,7 @@ small_nation  = {
 	supply_consumption = -0.25
 	mobilisation_size = 0.03
 	tax_efficiency = 0.20 #20% boost
+	leadership_modifier = -0.25
 	icon = 6
 }
 
@@ -124,6 +128,7 @@ large_nation  = {
 	tax_efficiency = -0.05 #5% malus
 	max_tariff = -0.05 #5% was 15%
 	mobilisation_economy_impact = 0.1
+	leadership_modifier = 0.1
 	icon = 6
 }
 
@@ -147,6 +152,7 @@ empire  = {
 	max_tariff = -0.10 #10% was 20%
 	factory_owner_cost = -0.10 #10% decrease in cost for buildings
 	mobilisation_economy_impact = 0.2
+	leadership_modifier = 0.25
 	icon = 6
 }
 
@@ -171,6 +177,7 @@ medium_empire  = {
 	research_points_modifier = 0.1 #10% increase
 	factory_owner_cost = -0.10 #10% decrease in cost for buildings
 	mobilisation_economy_impact = 0.4
+	leadership_modifier = 0.5
 	icon = 6
 }
 
@@ -195,6 +202,7 @@ large_empire  = {
 	research_points_modifier = 0.13 #13% increase
 	factory_owner_cost = -0.15 #15% decrease in cost for buildings
 	mobilisation_economy_impact = 0.6
+	leadership_modifier = 1
 	icon = 6
 }
 
@@ -210,6 +218,7 @@ insane_empire  = {
 	max_tariff = -0.25 #25% malus
 	factory_owner_cost = -0.15 #15% decrease in cost for buildings
 	mobilisation_economy_impact = 1.0
+	leadership_modifier = 1.5
 	icon = 6
 }
 
@@ -225,6 +234,7 @@ insane_empire2  = {
 	max_tariff = -0.60 #60% malus
 	factory_owner_cost = -0.15 #15% decrease in cost for buildings
 	mobilisation_economy_impact = 1.0
+	leadership_modifier = 2
 	icon = 6
 }
 
