@@ -50,6 +50,10 @@ bioweapon_cooldown = {
 	icon = 16
 }
 
+sizing_cooldown = {
+	icon = 16
+}
+
 ##### POLITICAL EVENTS ######
 government_sanitarium = {
 	population_growth = 0.005
