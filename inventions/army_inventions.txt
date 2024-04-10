@@ -1278,7 +1278,7 @@ machine_gun_armament = {
 colonial_negotiations = {
 	limit = { 
 			breech_loaded_rifles = 1
-			year = 1875
+			year = 1880
 			}
 	news = no
 	chance = {
@@ -1309,7 +1309,7 @@ colonial_negotiations = {
 		}
 		modifier = {
 			factor = -100
-			NOT = { year = 1875 }
+			NOT = { year = 1880 }
 		}
 	}
 	effect = {

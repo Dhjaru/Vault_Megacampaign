@@ -207,7 +207,8 @@ From;To;Type;Through;Data;Comment
 2689;1062;impassable;0;0;Northern urals
 1026;1062;impassable;0;0;Northern urals
 2659;2657;impassable;0;0;Yamal-Yenisei
-2659;2692;impassable;0;0;Yamal-Yenisei
+2659;2680;impassable;0;0;Yamal-Yenisei
+2615;2680;impassable;0;0;Yamal-Yenisei
 2615;2692;impassable;0;0;Yamal-Yenisei
 2646;2692;impassable;0;0;Yamal-Yenisei
 2654;2653;impassable;0;0;Yenisei-Yakut
@@ -216,6 +217,7 @@ From;To;Type;Through;Data;Comment
 2655;2673;impassable;0;0;Yenisei-Yakut
 2655;2651;impassable;0;0;Yenisei-Yakut
 2675;2651;impassable;0;0;Yenisei-Yakut
+2675;2695;impassable;0;0;Yenisei-Yakut
 
 
 #

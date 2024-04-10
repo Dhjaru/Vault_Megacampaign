@@ -52,7 +52,7 @@ switch_to_production_desc;The foreigners progress through an industrious society
 switch_to_autocracy_title;Embrace the Ideal of Autocracy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 switch_to_autocracy_desc;The foreigners progress through a society based on strong leadership, obedience and loyalty. If we were to embrace this ideal, we might progress as they do.\n\n§YThe modifiers for this NV are:§W\n§GRuling Party Support: +30%\nLeadership Modifier: 100%§W;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 switch_to_equality_title;Embrace the Ideal of Equality;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-switch_to_equality_desc;It is time for our nation to change the character of our people, to encourage them to embrace the values of equality and social fairness above all else.\n\n§YThe modifiers for this NV are:§W\n§GBonus Assimilation Rate: +50%\nCulture Tech Research Bonus: 5%§W;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
+switch_to_equality_desc;It is time for our nation to change the character of our people, to encourage them to embrace the values of equality and social fairness above all else.\n\n§YThe modifiers for this NV are:§W\n§GBase Assimilation Rate: +50%\nCulture Tech Research Bonus: 5%§W;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
 switch_to_liberty_title;Embrace the Ideal of Liberty;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 switch_to_liberty_desc;It is time for our nation to change the character of our people, to encourage them to embrace the values of liberty and personal freedom above all else.\n\n§YThe modifiers for this NV are:§W\n§GPolitical Reform Desire: +12.5%\n§GSocial Reform Desire: +12.5%\nCommerce Tech Research Bonus: 5%\n Your Nation may radicalize, be careful!§W;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,
 EVTOPTA99999901;Nice.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
@@ -427,6 +427,7 @@ offensive_infantry_activation;Activate Offensive Infantry;;;;;;;;;;;;;;;;;;;;x,,
 defensive_infantry_activation;Activate Defensive Infantry;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
 offensive_artillery_activation;Activate Offensive Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
 defensive_artillery_activation;Activate Defensive Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+rush_for_guano;Rush for Guano;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
 #############################################;;;;;;;;;;;;;;x
 #Additional Triggered Modifiers;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
