@@ -2,17 +2,11 @@ country_event = {
 	id = 700700
 	title = "State Sizing Early Game"
 
+	is_triggered_only = yes
+
 	trigger = {
 		tag = GHO
-		NOT = { has_country_modifier = sizing_cooldown }
 		NOT = { year = 1870 }
-	}
-
-	immediate = {
-		add_country_modifier = {
-			name = sizing_cooldown
-			duration = 365
-		}
 	}
 
 	option = {
@@ -156,18 +150,12 @@ country_event = {
 	id = 700701
 	title = "State Sizing Mid Game"
 
+	is_triggered_only = yes
+
 	trigger = {
 		tag = GHO
-		NOT = { has_country_modifier = sizing_cooldown }
 		year = 1870
 		NOT = { year = 1900 }
-	}
-
-	immediate = {
-		add_country_modifier = {
-			name = sizing_cooldown
-			duration = 365
-		}
 	}
 
 	option = {
@@ -311,17 +299,11 @@ country_event = {
 	id = 700702
 	title = "State Sizing Late Game"
 
+	is_triggered_only = yes
+
 	trigger = {
 		tag = GHO
-		NOT = { has_country_modifier = sizing_cooldown }
 		year = 1900
-	}
-
-	immediate = {
-		add_country_modifier = {
-			name = sizing_cooldown
-			duration = 365
-		}
 	}
 
 	option = {
