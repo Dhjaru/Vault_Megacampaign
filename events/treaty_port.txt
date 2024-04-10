@@ -49,42 +49,17 @@ province_event = {
 	trigger = {
 		OR = {
 			province_id = 1384
+			province_id = 1385
+			province_id = 1386
+			province_id = 1414
+			province_id = 1398
+			province_id = 1404
+			province_id = 1406
 		}
 		NOT = {
 			has_province_modifier = treaty_port_buff
 		}
 		trade_goods = rubber
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	option = {
-		name = "Invest!"
-		add_province_modifier = { 
-			name = treaty_port_buff 
-			duration = -1
-		}
-	}
-}
-
-province_event = {
-	id = 776545
-	title = "Treaty Port Infrastructure"
-	desc = "Colonial ports had significant amounts of investment, especially in infrastructure. In this case, that infrastructure is focused on extracting resources more efficiently."
-	
-	trigger = {
-		OR = {
-			province_id = 935
-			province_id = 1163
-			province_id = 1167
-			province_id = 1168
-		}
-		NOT = {
-			has_province_modifier = treaty_port_buff
-		}
-		trade_goods = oil
 	}
 	
 	mean_time_to_happen = {
