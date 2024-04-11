@@ -199,13 +199,6 @@
 
 }
 794 = {
-	soldiers=
-	{
-		culture = greek
-		religion = catholic
-		size= 51
-	}
-
 	artisans=
 	{
 		culture = greek
@@ -252,7 +245,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 71
+		size= 571
 	}
 
 	artisans=
@@ -299,13 +292,6 @@
 
 }
 795 = {
-	soldiers=
-	{
-		culture = greek
-		religion = catholic
-		size= 141
-	}
-
 	artisans=
 	{
 		culture = greek
@@ -352,7 +338,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 221
+		size= 1221
 	}
 
 	artisans=
@@ -399,13 +385,6 @@
 
 }
 796 = {
-	soldiers=
-	{
-		culture = greek
-		religion = catholic
-		size= 221
-	}
-
 	artisans=
 	{
 		culture = greek
@@ -452,7 +431,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 311
+		size= 1311
 	}
 
 	artisans=
@@ -499,13 +478,6 @@
 
 }
 797 = {
-	soldiers=
-	{
-		culture = greek
-		religion = catholic
-		size= 211
-	}
-
 	artisans=
 	{
 		culture = greek
@@ -552,7 +524,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 311
+		size= 1311
 	}
 
 	artisans=
@@ -603,7 +575,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 141
+		size= 1141
 	}
 
 	craftsmen=
@@ -675,7 +647,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 141
+		size= 1141
 	}
 
 	artisans=
@@ -726,7 +698,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 451
+		size= 1451
 	}
 
 	artisans=
@@ -784,7 +756,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 451
+		size= 1451
 	}
 
 	artisans=
@@ -842,7 +814,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 221
+		size= 1221
 	}
 
 	artisans=

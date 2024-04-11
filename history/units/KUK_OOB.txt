@@ -335,7 +335,7 @@ leader = {
 
 #Armies
 army = {
-	name="Habsburgische Armee"
+	name="Von Eppenstein Armee"
 	location=622
 	regiment = {
 		name="1st Miskolc Infantry"
@@ -363,14 +363,14 @@ army = {
 		home=637
 	}
 	regiment = {
-		name="1st Bielsko Infantry"
-		type=infantry
+		name="1st Bielsko Artillery"
+		type=artillery
 		home=2584
 	}
 }
 
 army = {
-	name="Armee von Neuhaus"
+	name="Armee von Noahus"
 	location=615
 	regiment = {
 		name="1st Székesfehérvár Infantry"
@@ -398,8 +398,8 @@ army = {
 		home=649
 	}
 	regiment = {
-		name="1st Novi Sad Infantry"
-		type=infantry
+		name="1st Novi Sad Artillery"
+		type=artillery
 		home=2538
 	}
 }
@@ -410,7 +410,7 @@ army = {
 	regiment = {
 		name="1st Požega Infantry"
 		type=infantry
-		home=777
+		home=620
 	}
 	regiment = {
 		name="1st Trencín Infantry"
@@ -430,12 +430,12 @@ army = {
 	regiment = {
 		name="1st Banská Bystrica Infantry"
 		type=infantry
-		home=636
+		home=631
 	}
 	regiment = {
-		name="1st Maribor Infantry"
-		type=infantry
-		home=767
+		name="1st Maribor Artillery"
+		type=artillery
+		home=619
 	}
 }
 
@@ -450,12 +450,12 @@ army = {
 	regiment = {
 		name="1st Stanislavov Infantry"
 		type=infantry
-		home=953
+		home=595
 	}
 	regiment = {
 		name="1st Warsaw Infantry"
 		type=infantry
-		home=706
+		home=688
 	}
 	regiment = {
 		name="1st Skierniewice Infantry"
@@ -465,12 +465,22 @@ army = {
 	regiment = {
 		name="2nd Trencín Infantry"
 		type=infantry
-		home=634
+		home=625
 	}
 	regiment = {
-		name="1st Prešov Infantry"
-		type=infantry
-		home=638
+		name="1st Prešov Artillery"
+		type=artillery
+		home=628
+	}
+	regiment = {
+		name="1st Feriburg Artillery"
+		type=artillery
+		home=587
+	}
+	regiment = {
+		name="1st Konstanz Hussar"
+		type=hussar
+		home=588
 	}
 }
 

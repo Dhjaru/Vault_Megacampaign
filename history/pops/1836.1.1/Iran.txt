@@ -1,11 +1,4 @@
 1071 = {
-	soldiers=
-	{
-		culture = persian
-		religion = shiite
-		size= 431
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -46,13 +39,6 @@
 		culture = persian
 		religion = shiite
 		size= 69878
-	}
-
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 101
 	}
 
 	artisans=
@@ -101,7 +87,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 471
+		size= 1471
 	}
 
 	artisans=
@@ -657,7 +643,7 @@
 	{
 		culture = azerbaijani
 		religion = bogomilist
-		size= 611
+		size= 1611
 	}
 
 	artisans=
@@ -916,13 +902,6 @@
 
 }
 1114 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 751
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -969,7 +948,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 801
+		size= 1801
 	}
 
 	artisans=
@@ -1016,13 +995,6 @@
 
 }
 1115 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 791
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -1069,7 +1041,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 761
+		size= 1761
 	}
 
 	artisans=
@@ -1267,7 +1239,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 421
+		size= 1421
 	}
 
 	artisans=
@@ -1679,13 +1651,6 @@
 		size= 6372
 	}
 
-	soldiers=
-	{
-		culture = persian
-		religion = shiite
-		size= 601
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -1795,7 +1760,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 831
+		size= 1831
 	}
 
 	artisans=
@@ -1895,7 +1860,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 681
+		size= 1681
 	}
 
 	artisans=
@@ -2040,13 +2005,6 @@
 		size= 41115
 	}
 
-	soldiers=
-	{
-		culture = persian
-		religion = shiite
-		size= 401
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -2087,13 +2045,6 @@
 		culture = persian
 		religion = shiite
 		size= 37855
-	}
-
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 221
 	}
 
 	artisans=
@@ -2142,7 +2093,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 651
+		size= 1651
 	}
 
 	artisans=
@@ -2189,13 +2140,6 @@
 
 }
 1124 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 831
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -2242,7 +2186,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 751
+		size= 1751
 	}
 
 	artisans=
@@ -2289,13 +2233,6 @@
 
 }
 1125 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 451
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -2342,7 +2279,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 411
+		size= 1411
 	}
 
 	artisans=
@@ -2536,13 +2473,6 @@
 
 }
 1126 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 641
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -2589,7 +2519,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 631
+		size= 1631
 	}
 
 	artisans=
@@ -2650,13 +2580,6 @@
 		size= 16550
 	}
 
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 1131
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -2710,7 +2633,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 5341
+		size= 9341
 	}
 
 	artisans=
@@ -2757,13 +2680,6 @@
 
 }
 1128 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 451
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -2810,7 +2726,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 411
+		size= 1411
 	}
 
 	artisans=
@@ -3008,7 +2924,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 2411
+		size= 7411
 	}
 
 	artisans=
@@ -3053,13 +2969,6 @@
 		size= 155868
 	}
 
-	soldiers=
-	{
-		culture = persian
-		religion = shiite
-		size= 651
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -3100,13 +3009,6 @@
 		culture = persian
 		religion = shiite
 		size= 61676
-	}
-
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 181
 	}
 
 	artisans=
@@ -3157,7 +3059,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 1521
+		size= 6521
 	}
 
 	artisans=
@@ -3477,13 +3379,6 @@
 
 }
 1134 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 691
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -3530,7 +3425,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 691
+		size= 1691
 	}
 
 	artisans=
@@ -3731,13 +3626,6 @@
 		size= 10929
 	}
 
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 1731
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -3791,7 +3679,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 2111
+		size= 7111
 	}
 
 	artisans=
@@ -3843,13 +3731,6 @@
 		size= 2613
 	}
 
-	soldiers=
-	{
-		culture = persian
-		religion = shiite
-		size= 411
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -3894,13 +3775,6 @@
 
 }
 1136 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 731
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -3947,7 +3821,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 751
+		size= 1751
 	}
 
 	artisans=
@@ -3994,13 +3868,6 @@
 
 }
 1137 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 671
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -4047,7 +3914,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 741
+		size= 1741
 	}
 
 	artisans=
@@ -4094,13 +3961,6 @@
 
 }
 1138 = {
-	soldiers=
-	{
-		culture = persian
-		religion = shiite
-		size= 881
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -4141,13 +4001,6 @@
 		culture = persian
 		religion = shiite
 		size= 83068
-	}
-
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 451
 	}
 
 	artisans=
@@ -4196,7 +4049,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 1291
+		size= 6291
 	}
 
 	artisans=
@@ -4243,13 +4096,6 @@
 
 }
 1139 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 381
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -4296,7 +4142,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 621
+		size= 1621
 	}
 
 	artisans=
@@ -4339,13 +4185,6 @@
 		culture = persian
 		religion = zoroastrian
 		size= 76329
-	}
-
-	soldiers=
-	{
-		culture = persian
-		religion = shiite
-		size= 191
 	}
 
 	artisans=
@@ -4392,13 +4231,6 @@
 
 }
 1140 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 291
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -4445,7 +4277,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 311
+		size= 1311
 	}
 
 	artisans=
@@ -4492,13 +4324,6 @@
 
 }
 1141 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 1501
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -4545,7 +4370,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 1471
+		size= 6471
 	}
 
 	artisans=
@@ -4599,13 +4424,6 @@
 		size= 10005
 	}
 
-	soldiers=
-	{
-		culture = persian
-		religion = shiite
-		size= 671
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -4653,13 +4471,6 @@
 		culture = bedouin
 		religion = sunni
 		size= 3824
-	}
-
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 251
 	}
 
 	artisans=
@@ -4715,7 +4526,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 941
+		size= 1941
 	}
 
 	artisans=
@@ -4762,13 +4573,6 @@
 
 }
 1143 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 401
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -4815,7 +4619,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 411
+		size= 1411
 	}
 
 	artisans=
@@ -5011,13 +4815,6 @@
 
 }
 1145 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 341
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -5064,7 +4861,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 281
+		size= 1281
 	}
 
 	artisans=
@@ -5232,13 +5029,6 @@
 		size= 18780
 	}
 
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 1451
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -5292,7 +5082,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 1281
+		size= 6281
 	}
 
 	artisans=
@@ -5339,13 +5129,6 @@
 
 }
 1148 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 98
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -5392,7 +5175,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 2071
+		size= 6071
 	}
 
 	artisans=
@@ -5435,13 +5218,6 @@
 		culture = persian
 		religion = zoroastrian
 		size= 45244
-	}
-
-	soldiers=
-	{
-		culture = persian
-		religion = shiite
-		size= 61
 	}
 
 	artisans=
@@ -5488,13 +5264,6 @@
 
 }
 1149 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 1861
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -5541,7 +5310,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 1801
+		size= 6801
 	}
 
 	artisans=
@@ -5588,13 +5357,6 @@
 
 }
 1150 = {
-	soldiers=
-	{
-		culture = persian
-		religion = sunni
-		size= 691
-	}
-
 	artisans=
 	{
 		culture = persian
@@ -5641,7 +5403,7 @@
 	{
 		culture = persian
 		religion = zoroastrian
-		size= 651
+		size= 1651
 	}
 
 	artisans=

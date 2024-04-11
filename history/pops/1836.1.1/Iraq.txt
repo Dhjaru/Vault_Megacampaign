@@ -10,7 +10,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 711
+		size= 1711
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 451
+		size= 1451
 	}
 
 	artisans=
@@ -197,13 +197,6 @@
 		size= 42638
 	}
 
-	soldiers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 1
-	}
-
 	artisans=
 	{
 		culture = mashriqi
@@ -243,7 +236,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 821
+		size= 1821
 	}
 
 	artisans=
@@ -515,7 +508,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 481
+		size= 1481
 	}
 
 	artisans=
@@ -558,13 +551,6 @@
 		culture = turkish
 		religion = sunni
 		size= 35631
-	}
-
-	soldiers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 181
 	}
 
 	artisans=
@@ -613,7 +599,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 711
+		size= 1711
 	}
 
 	artisans=
@@ -662,7 +648,7 @@
 	{
 		culture = assyrian
 		religion = messalian
-		size= 511
+		size= 1511
 	}
 
 	artisans=
@@ -744,12 +730,6 @@
 
 }
 928 = {
-	soldiers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 801
-	}
 
 	artisans=
 	{
@@ -797,7 +777,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 751
+		size= 1751
 	}
 
 	artisans=
@@ -844,12 +824,6 @@
 
 }
 929 = {
-	soldiers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 301
-	}
 
 	artisans=
 	{
@@ -897,7 +871,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 311
+		size= 1311
 	}
 
 	artisans=
@@ -944,12 +918,6 @@
 
 }
 930 = {
-	soldiers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 681
-	}
 
 	artisans=
 	{
@@ -997,7 +965,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 661
+		size= 1661
 	}
 
 	artisans=
@@ -1044,12 +1012,6 @@
 
 }
 931 = {
-	soldiers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 701
-	}
 
 	artisans=
 	{
@@ -1097,7 +1059,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 651
+		size= 1651
 	}
 
 	artisans=
@@ -1144,12 +1106,6 @@
 
 }
 932 = {
-	soldiers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 411
-	}
 
 	artisans=
 	{
@@ -1197,7 +1153,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 381
+		size= 1381
 	}
 
 	artisans=
@@ -1244,12 +1200,6 @@
 
 }
 933 = {
-	soldiers=
-	{
-		culture = mashriqi
-		religion = sunni
-		size= 761
-	}
 
 	artisans=
 	{
@@ -1297,7 +1247,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 761
+		size= 1761
 	}
 
 	artisans=
@@ -1391,7 +1341,7 @@
 	{
 		culture = mashriqi
 		religion = zoroastrian
-		size= 311
+		size= 1311
 	}
 
 	artisans=

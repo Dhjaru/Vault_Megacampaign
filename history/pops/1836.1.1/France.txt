@@ -4,7 +4,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 591
+		size= 1591
 	}
 
 	craftsmen=
@@ -76,7 +76,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 691
+		size= 1691
 	}
 
 	artisans=
@@ -127,7 +127,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 691
+		size= 1691
 	}
 
 	artisans=
@@ -178,7 +178,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 661
+		size= 1661
 	}
 
 	artisans=
@@ -232,13 +232,6 @@
 
 }
 403 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 281
-	}
-
 	artisans=
 	{
 		culture = french
@@ -285,7 +278,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 541
+		size= 941
 	}
 
 	artisans=
@@ -383,13 +376,6 @@
 
 }
 405 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 441
-	}
-
 	artisans=
 	{
 		culture = french
@@ -436,7 +422,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 661
+		size= 1661
 	}
 
 	artisans=
@@ -483,13 +469,6 @@
 
 }
 406 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 361
-	}
-
 	craftsmen=
 	{
 		culture = french
@@ -557,7 +536,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 961
+		size= 1961
 	}
 
 	craftsmen=
@@ -625,13 +604,6 @@
 
 }
 407 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 421
-	}
-
 	artisans=
 	{
 		culture = french
@@ -678,7 +650,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1281
+		size= 4281
 	}
 
 	artisans=
@@ -725,13 +697,6 @@
 
 }
 408 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 281
-	}
-
 	artisans=
 	{
 		culture = french
@@ -778,7 +743,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 541
+		size= 941
 	}
 
 	artisans=
@@ -962,7 +927,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1401
+		size= 4401
 	}
 
 	craftsmen=
@@ -1125,7 +1090,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 2781
+		size= 4781
 	}
 
 	artisans=
@@ -1309,7 +1274,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 631
+		size= 1631
 	}
 
 	craftsmen=
@@ -1479,7 +1444,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 701
+		size= 1701
 	}
 
 	artisans=
@@ -1526,13 +1491,6 @@
 
 }
 413 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 371
-	}
-
 	artisans=
 	{
 		culture = french
@@ -1579,7 +1537,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1081
+		size= 4081
 	}
 
 	artisans=
@@ -1721,7 +1679,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 641
+		size= 1641
 	}
 
 	artisans=
@@ -1768,13 +1726,6 @@
 
 }
 415 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 281
-	}
-
 	artisans=
 	{
 		culture = french
@@ -1821,7 +1772,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 531
+		size= 931
 	}
 
 	artisans=
@@ -1868,13 +1819,6 @@
 
 }
 416 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 281
-	}
-
 	artisans=
 	{
 		culture = french
@@ -1921,7 +1865,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 531
+		size= 931
 	}
 
 	artisans=
@@ -1968,13 +1912,6 @@
 
 }
 417 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 351
-	}
-
 	artisans=
 	{
 		culture = french
@@ -2021,7 +1958,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 931
+		size= 1931
 	}
 
 	artisans=
@@ -2068,13 +2005,6 @@
 
 }
 418 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 401
-	}
-
 	artisans=
 	{
 		culture = french
@@ -2121,7 +2051,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 971
+		size= 1971
 	}
 
 	artisans=
@@ -2217,13 +2147,6 @@
 		size= 60296
 	}
 
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 111
-	}
-
 	artisans=
 	{
 		culture = french
@@ -2270,7 +2193,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1081
+		size= 4081
 	}
 
 	artisans=
@@ -2366,13 +2289,6 @@
 		size= 59454
 	}
 
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 121
-	}
-
 	artisans=
 	{
 		culture = french
@@ -2419,7 +2335,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1041
+		size= 4041
 	}
 
 	artisans=
@@ -2515,13 +2431,6 @@
 		size= 52558
 	}
 
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 41
-	}
-
 	artisans=
 	{
 		culture = french
@@ -2568,7 +2477,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 961
+		size= 1961
 	}
 
 	artisans=
@@ -2664,13 +2573,6 @@
 		size= 55877
 	}
 
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 41
-	}
-
 	artisans=
 	{
 		culture = french
@@ -2717,7 +2619,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1021
+		size= 4021
 	}
 
 	artisans=
@@ -2813,13 +2715,6 @@
 		size= 57127
 	}
 
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 121
-	}
-
 	artisans=
 	{
 		culture = french
@@ -2866,7 +2761,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1001
+		size= 4001
 	}
 
 	artisans=
@@ -2913,13 +2808,6 @@
 
 }
 425 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 581
-	}
-
 	artisans=
 	{
 		culture = french
@@ -2966,7 +2854,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1541
+		size= 4541
 	}
 
 	artisans=
@@ -3013,13 +2901,6 @@
 
 }
 426 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 451
-	}
-
 	artisans=
 	{
 		culture = french
@@ -3066,7 +2947,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1041
+		size= 4041
 	}
 
 	artisans=
@@ -3113,13 +2994,6 @@
 
 }
 427 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 431
-	}
-
 	artisans=
 	{
 		culture = french
@@ -3166,7 +3040,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1131
+		size= 4131
 	}
 
 	artisans=
@@ -3213,13 +3087,6 @@
 
 }
 428 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 471
-	}
-
 	artisans=
 	{
 		culture = french
@@ -3266,7 +3133,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1061
+		size= 4061
 	}
 
 	artisans=
@@ -3313,13 +3180,6 @@
 
 }
 429 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 351
-	}
-
 	artisans=
 	{
 		culture = french
@@ -3366,7 +3226,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 931
+		size= 1931
 	}
 
 	artisans=
@@ -3466,7 +3326,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1791
+		size= 4791
 	}
 
 	artisans=
@@ -3509,13 +3369,6 @@
 		culture = french
 		religion = protestant
 		size= 122585
-	}
-
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 371
 	}
 
 	artisans=
@@ -3562,13 +3415,6 @@
 
 }
 431 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 461
-	}
-
 	artisans=
 	{
 		culture = french
@@ -3615,7 +3461,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1071
+		size= 4071
 	}
 
 	artisans=
@@ -3662,13 +3508,6 @@
 
 }
 432 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 391
-	}
-
 	artisans=
 	{
 		culture = french
@@ -3715,7 +3554,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 931
+		size= 1931
 	}
 
 	artisans=
@@ -3762,13 +3601,6 @@
 
 }
 433 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 331
-	}
-
 	artisans=
 	{
 		culture = french
@@ -3815,7 +3647,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 991
+		size= 1991
 	}
 
 	artisans=
@@ -3862,13 +3694,6 @@
 
 }
 434 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 301
-	}
-
 	artisans=
 	{
 		culture = french
@@ -3915,7 +3740,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 951
+		size= 1951
 	}
 
 	artisans=
@@ -3962,13 +3787,6 @@
 
 }
 435 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 261
-	}
-
 	artisans=
 	{
 		culture = french
@@ -4015,7 +3833,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 501
+		size= 901
 	}
 
 	artisans=
@@ -4062,13 +3880,6 @@
 
 }
 436 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 261
-	}
-
 	artisans=
 	{
 		culture = french
@@ -4115,7 +3926,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 501
+		size= 901
 	}
 
 	artisans=
@@ -4215,7 +4026,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 821
+		size= 1821
 	}
 
 	artisans=
@@ -4262,13 +4073,6 @@
 
 }
 438 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 401
-	}
-
 	artisans=
 	{
 		culture = french
@@ -4315,7 +4119,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 991
+		size= 1991
 	}
 
 	artisans=
@@ -4362,13 +4166,6 @@
 
 }
 439 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 251
-	}
-
 	artisans=
 	{
 		culture = french
@@ -4415,7 +4212,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 521
+		size= 921
 	}
 
 	artisans=
@@ -4462,13 +4259,6 @@
 
 }
 440 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 331
-	}
-
 	artisans=
 	{
 		culture = french
@@ -4515,7 +4305,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 961
+		size= 1961
 	}
 
 	artisans=
@@ -4562,13 +4352,6 @@
 
 }
 441 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 331
-	}
-
 	artisans=
 	{
 		culture = french
@@ -4615,7 +4398,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 921
+		size= 1921
 	}
 
 	artisans=
@@ -4715,7 +4498,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 901
+		size= 1901
 	}
 
 	artisans=
@@ -4815,7 +4598,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1061
+		size= 4061
 	}
 
 	artisans=
@@ -4915,7 +4698,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1961
+		size= 4961
 	}
 
 	artisans=
@@ -5015,7 +4798,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 421
+		size= 721
 	}
 
 	artisans=
@@ -5062,13 +4845,6 @@
 
 }
 446 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 251
-	}
-
 	artisans=
 	{
 		culture = french
@@ -5115,7 +4891,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 521
+		size= 921
 	}
 
 	artisans=
@@ -5215,7 +4991,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 411
+		size= 711
 	}
 
 	artisans=
@@ -5336,7 +5112,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 351
+		size= 751
 	}
 
 	craftsmen=
@@ -5457,7 +5233,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 351
+		size= 751
 	}
 
 	artisans=
@@ -5557,7 +5333,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 231
+		size= 631
 	}
 
 	artisans=
@@ -5600,13 +5376,6 @@
 		culture = french
 		religion = protestant
 		size= 28980
-	}
-
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size=1
 	}
 
 	artisans=
@@ -5699,7 +5468,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1661
+		size= 3661
 	}
 
 	artisans=
@@ -5742,13 +5511,6 @@
 		culture = french
 		religion = protestant
 		size= 110399
-	}
-
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 421
 	}
 
 	artisans=
@@ -5848,7 +5610,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 701
+		size= 1701
 	}
 
 	artisans=
@@ -5948,7 +5710,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 421
+		size= 721
 	}
 
 	artisans=
@@ -6048,7 +5810,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 371
+		size= 771
 	}
 
 	artisans=
@@ -6148,7 +5910,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 881
+		size= 1881
 	}
 
 	artisans=
@@ -6248,7 +6010,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 231
+		size= 631
 	}
 
 	artisans=
@@ -6291,13 +6053,6 @@
 		culture = french
 		religion = protestant
 		size= 28980
-	}
-
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size=1
 	}
 
 	artisans=
@@ -6390,7 +6145,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 441
+		size= 741
 	}
 
 	artisans=
@@ -6490,7 +6245,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1201
+		size= 3201
 	}
 
 	artisans=
@@ -6590,7 +6345,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1151
+		size= 3151
 	}
 
 	artisans=
@@ -6690,7 +6445,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1621
+		size= 3621
 	}
 
 	artisans=
@@ -6790,7 +6545,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 751
+		size= 1751
 	}
 
 	artisans=
@@ -6890,7 +6645,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 351
+		size= 751
 	}
 
 	artisans=
@@ -6990,7 +6745,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 1421
+		size= 3421
 	}
 
 	artisans=
@@ -7090,7 +6845,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 531
+		size= 931
 	}
 
 	artisans=
@@ -7239,7 +6994,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 391
+		size= 791
 	}
 
 	artisans=
@@ -7388,7 +7143,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 391
+		size= 791
 	}
 
 	artisans=
@@ -7488,7 +7243,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 391
+		size= 791
 	}
 
 	artisans=
@@ -7588,7 +7343,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 671
+		size= 1671
 	}
 
 	artisans=
@@ -7688,7 +7443,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 221
+		size= 621
 	}
 
 	artisans=
@@ -7788,7 +7543,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 951
+		size= 1951
 	}
 
 	artisans=
@@ -7888,7 +7643,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 221
+		size= 621
 	}
 
 	artisans=
@@ -8107,13 +7862,6 @@
 
 }
 2570 = {
-	soldiers=
-	{
-		culture = french
-		religion = catholic
-		size= 361
-	}
-
 	artisans=
 	{
 		culture = french
@@ -8160,7 +7908,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 991
+		size= 1991
 	}
 
 	artisans=

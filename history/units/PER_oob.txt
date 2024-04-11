@@ -387,6 +387,40 @@ army = {
 		home=1157
 	}
 	regiment = {
+		name="1st Sabzevar Hussar"
+		type=hussar
+		home=1149
+	}
+	regiment = {
+		name="1st Mashhad Hussar"
+		type=hussar
+		home=1147
+	}
+	regiment = {
+		name="1st Birjand Hussar"
+		type=hussar
+		home=1148
+	}
+	regiment = {
+		name="2nd Sabzevar Hussar"
+		type=hussar
+		home=1149
+	}
+	regiment = {
+		name="2nd Mashhad Hussar"
+		type=hussar
+		home=1147
+	}
+	regiment = {
+		name="2nd Birjand Hussar"
+		type=hussar
+		home=1148
+	}
+}
+army = {
+	name="6th Army"
+	location=928
+	regiment = {
 		name="1st Abadan Infantry"
 		type=infantry
 		home=1132
@@ -421,6 +455,10 @@ army = {
 		type=artillery
 		home=1136
 	}
+}
+army = {
+	name="5th Army"
+	location=927
 	regiment = {
 		name="1st Dehkord Artillery"
 		type=artillery
@@ -471,30 +509,48 @@ army = {
 		type=infantry
 		home=1163
 	}
+}
+army = {
+	name="2nd Army"
+	location=1127
 	regiment = {
-		name="4th Isfahan Infantry"
-		type=infantry
+		name="1st Dehkord Hussar"
+		type=hussar
+		home=1134
+	}
+	regiment = {
+		name="4th Isfahan Hussar"
+		type=hussar
 		home=1127
 	}
 	regiment = {
-		name="2nd Kuwait Infantry"
-		type=infantry
+		name="2nd Kuwait Hussar"
+		type=hussar
 		home=935
 	}
 	regiment = {
-		name="1st Sanandaj Infantry"
-		type=infantry
+		name="1st Sanandaj Hussar"
+		type=hussar
 		home=1118
 	}
 	regiment = {
-		name="2nd Basra Infantry"
-		type=infantry
+		name="2nd Hussara Hussar"
+		type=hussar
 		home=932
 	}
 	regiment = {
-		name="1st Khoramabad Infantry"
-		type=infantry
+		name="1st Khoramabad Hussar"
+		type=hussar
 		home=1120
+	}
+}
+army = {
+	name="3rd Army"
+	location=935
+	regiment = {
+		name="1st Dehkord Infantry"
+		type=infantry
+		home=1134
 	}
 	regiment = {
 		name="2nd Kangan Infantry"
@@ -536,39 +592,48 @@ army = {
 		type=infantry
 		home=1127
 	}
+}
+army = {
+	name="4th Army"
+	location=925
 	regiment = {
-		name="3rd Kuwait Infantry"
-		type=infantry
+		name="1st Dehkord Artillery"
+		type=artillery
+		home=1134
+	}
+	regiment = {
+		name="3rd Kuwait Artillery"
+		type=artillery
 		home=935
 	}
 	regiment = {
-		name="2nd Baghdad Infantry"
-		type=infantry
+		name="2nd Baghdad Artillery"
+		type=artillery
 		home=926
 	}
 	regiment = {
-		name="1st Rutbah Infantry"
-		type=infantry
+		name="1st Rutbah Artillery"
+		type=artillery
 		home=931
 	}
 	regiment = {
-		name="9th Isfahan Infantry"
-		type=infantry
+		name="9th Isfahan Artillery"
+		type=artillery
 		home=1127
 	}
 	regiment = {
-		name="2nd Ahvaz Infantry"
-		type=infantry
+		name="2nd Ahvaz Artillery"
+		type=artillery
 		home=1131
 	}
 	regiment = {
-		name="3rd Ahvaz Infantry"
-		type=infantry
+		name="3rd Ahvaz Artillery"
+		type=artillery
 		home=1131
 	}
 	regiment = {
-		name="3rd Baghdad Infantry"
-		type=infantry
+		name="3rd Baghdad Artillery"
+		type=artillery
 		home=926
 	}
 }

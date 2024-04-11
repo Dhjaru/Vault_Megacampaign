@@ -3,7 +3,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 141
+		size= 1141
 	}
 
 	artisans=
@@ -46,13 +46,6 @@
 		culture = scottish
 		religion = catholic
 		size= 29249
-	}
-
-	soldiers=
-	{
-		culture = english
-		religion = catholic
-		size=1
 	}
 
 	artisans=
@@ -145,7 +138,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 261
+		size= 1261
 	}
 
 	artisans=
@@ -188,13 +181,6 @@
 		culture = irish
 		religion = catholic
 		size= 54111
-	}
-
-	soldiers=
-	{
-		culture = english
-		religion = catholic
-		size=1
 	}
 
 	artisans=
@@ -287,7 +273,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 141
+		size= 1141
 	}
 
 	artisans=
@@ -330,13 +316,6 @@
 		culture = scottish
 		religion = catholic
 		size= 29249
-	}
-
-	soldiers=
-	{
-		culture = english
-		religion = catholic
-		size=1
 	}
 
 	artisans=
@@ -429,7 +408,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 271
+		size= 1271
 	}
 
 	artisans=
@@ -472,13 +451,6 @@
 		culture = irish
 		religion = catholic
 		size= 55227
-	}
-
-	soldiers=
-	{
-		culture = english
-		religion = catholic
-		size=1
 	}
 
 	artisans=
@@ -571,7 +543,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 161
+		size= 1161
 	}
 
 	artisans=
@@ -614,13 +586,6 @@
 		culture = irish
 		religion = catholic
 		size= 54710
-	}
-
-	soldiers=
-	{
-		culture = english
-		religion = catholic
-		size=1
 	}
 
 	artisans=
@@ -713,7 +678,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 181
+		size= 1181
 	}
 
 	artisans=
@@ -756,13 +721,6 @@
 		culture = irish
 		religion = catholic
 		size= 62234
-	}
-
-	soldiers=
-	{
-		culture = english
-		religion = catholic
-		size=1
 	}
 
 	artisans=
@@ -855,7 +813,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 291
+		size= 1291
 	}
 
 	artisans=
@@ -898,13 +856,6 @@
 		culture = irish
 		religion = catholic
 		size= 59195
-	}
-
-	soldiers=
-	{
-		culture = irish
-		religion = protestant
-		size= 11
 	}
 
 	artisans=
@@ -997,7 +948,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 271
+		size= 1271
 	}
 
 	artisans=
@@ -1040,13 +991,6 @@
 		culture = irish
 		religion = catholic
 		size= 56332
-	}
-
-	soldiers=
-	{
-		culture = english
-		religion = catholic
-		size= 1
 	}
 
 	artisans=
@@ -1146,7 +1090,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 361
+		size= 1361
 	}
 
 	artisans=
@@ -1189,13 +1133,6 @@
 		culture = irish
 		religion = catholic
 		size= 74352
-	}
-
-	soldiers=
-	{
-		culture = irish
-		religion = protestant
-		size= 11
 	}
 
 	artisans=
@@ -1295,7 +1232,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 301
+		size= 1301
 	}
 
 	craftsmen=
@@ -1359,13 +1296,6 @@
 		culture = irish
 		religion = catholic
 		size= 56407
-	}
-
-	soldiers=
-	{
-		culture = english
-		religion = catholic
-		size=1
 	}
 
 	craftsmen=
@@ -1500,7 +1430,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 321
+		size= 1321
 	}
 
 	artisans=
@@ -1543,13 +1473,6 @@
 		culture = irish
 		religion = catholic
 		size= 109287
-	}
-
-	soldiers=
-	{
-		culture = english
-		religion = catholic
-		size=1
 	}
 
 	artisans=
@@ -1642,7 +1565,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 581
+		size= 1581
 	}
 
 	artisans=
@@ -1685,13 +1608,6 @@
 		culture = irish
 		religion = catholic
 		size= 114940
-	}
-
-	soldiers=
-	{
-		culture = english
-		religion = catholic
-		size=1
 	}
 
 	artisans=
@@ -1776,13 +1692,6 @@
 		culture = english
 		religion = protestant
 		size= 86069
-	}
-
-	soldiers=
-	{
-		culture = irish
-		religion = protestant
-		size= 1
 	}
 
 	artisans=

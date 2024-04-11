@@ -4,6 +4,7 @@
 # Effects are fully scriptable here.
 desperate_nation  = {
 	trigger = {
+		civilized = yes
 		NOT = {
 			OR = { 
 				#is_culture_group = germanic
@@ -22,6 +23,7 @@ desperate_nation  = {
 }
 microscopic_nation  = {
 	trigger = {
+		civilized = yes
 		total_pops = 25000 #25 thousand POPs/100 thousand population
 		NOT = {
 			OR = { 
@@ -41,6 +43,7 @@ microscopic_nation  = {
 }
 tiny_nation  = {
 	trigger = {
+		civilized = yes
 		total_pops = 125000 #125 thousand POPs/500 thousand population
 		NOT = {
 			OR = {
@@ -62,6 +65,7 @@ tiny_nation  = {
 
 small_nation  = {
 	trigger = {
+		civilized = yes
 		total_pops = 1250000 #1.25 million POPs/5 Million population
 		NOT = { 
 			OR = { 
@@ -82,6 +86,7 @@ small_nation  = {
 
 medium_nation  = {
 	trigger = {
+		civilized = yes
 		total_pops = 3750000 #3.75 million POPs/15 Million population
 		NOT = { 
 			OR = {
@@ -104,6 +109,7 @@ medium_nation  = {
 
 average_nation  = {
 	trigger = {
+		civilized = yes
 		year = 1865
 		civilized = yes
 		
@@ -118,6 +124,7 @@ average_nation  = {
 
 large_nation  = {
 	trigger = {
+		civilized = yes
 		year = 1865
 		civilized = yes
 		total_pops = 12500000 #12.5 million POPs/50 million population
@@ -134,6 +141,7 @@ large_nation  = {
 
 empire  = {
 	trigger = {
+		civilized = yes
 		year = 1865
 		civilized = yes
 		total_pops = 21250000 #21.25 million POPs/85 million population
@@ -158,6 +166,7 @@ empire  = {
 
 medium_empire  = {
 	trigger = {
+		civilized = yes
 		year = 1865
 		civilized = yes
 		total_pops = 37500000 #37.5 million POPs/150 million population
@@ -183,6 +192,7 @@ medium_empire  = {
 
 large_empire  = {
 	trigger = {
+		civilized = yes
 		year = 1865
 		civilized = yes
 		total_pops = 62500000 #62.5 million POPs/250 million population
@@ -208,6 +218,7 @@ large_empire  = {
 
 insane_empire  = {
 	trigger = {
+		civilized = yes
 		year = 1865
 		civilized = yes
 		total_pops = 87500000 #87.5 million POPs/350 million population
@@ -224,6 +235,7 @@ insane_empire  = {
 
 insane_empire2  = {
 	trigger = {
+		civilized = yes
 		year = 1865
 		civilized = yes
 		total_pops = 87500000 #87.5 million POPs/350 million population
@@ -234,7 +246,7 @@ insane_empire2  = {
 	max_tariff = -0.60 #60% malus
 	factory_owner_cost = -0.15 #15% decrease in cost for buildings
 	mobilisation_economy_impact = 1.0
-	leadership_modifier = 2
+	leadership_modifier = 1.5
 	icon = 6
 }
 
@@ -322,16 +334,61 @@ political_reformed_nation = {
 	icon = 13
 }
 
-player_unciv_mobilization = {
+unciv_mobilization = {
 	trigger = {
-		ai = no
 		civilized = no
-		NOT = { has_country_flag = china }
-		NOT = { ai = yes }
+		NOT = { total_pops = 5000000 }
 		NOT = { civilized = yes }
 	}
 
 	mobilisation_size = 0.02
+	icon = 9
+}
+
+unciv_mobilization_2 = {
+	trigger = {
+		civilized = no
+		NOT = { total_pops = 10000000 }
+		total_pops = 5000000
+		NOT = { civilized = yes }
+	}
+
+	mobilisation_size = 0.015
+	icon = 9
+}
+
+unciv_mobilization_3 = {
+	trigger = {
+		civilized = no
+		NOT = { total_pops = 15000000 }
+		total_pops = 10000000
+		NOT = { civilized = yes }
+	}
+
+	mobilisation_size = 0.01
+	icon = 9
+}
+
+unciv_mobilization_4 = {
+	trigger = {
+		civilized = no
+		NOT = { total_pops = 20000000 }
+		total_pops = 15000000
+		NOT = { civilized = yes }
+	}
+
+	mobilisation_size = 0.005
+	icon = 9
+}
+
+unciv_mobilization_5 = {
+	trigger = {
+		civilized = no
+		total_pops = 20000000
+		NOT = { civilized = yes }
+	}
+
+	mobilisation_size = 0.003
 	icon = 9
 }
 
@@ -413,6 +470,7 @@ save_the_nation0.5  = {
 
 save_the_nation1  = {
 	trigger = {
+		civilized = yes
 		revanchism = 0.10
 		NOT = { revanchism = 0.15 } 
 	}
@@ -427,6 +485,7 @@ save_the_nation1  = {
 
 save_the_nation1.5  = {
 	trigger = {
+		civilized = yes
 		revanchism = 0.15
 		NOT = { revanchism = 0.20 } 
 	}
@@ -444,6 +503,7 @@ save_the_nation1.5  = {
 
 save_the_nation2  = {
 	trigger = {
+		civilized = yes
 		revanchism = 0.20
 		NOT = { revanchism = 0.25 } 
 	}
@@ -461,6 +521,7 @@ save_the_nation2  = {
 
 save_the_nation2.5  = {
 	trigger = {
+		civilized = yes
 		revanchism = 0.25
 		NOT = { revanchism = 0.30 } 
 	}
@@ -478,6 +539,7 @@ save_the_nation2.5  = {
 
 save_the_nation3  = {
 	trigger = {
+		civilized = yes
 		revanchism = 0.30
 		NOT = { revanchism = 0.35 } 
 	}
@@ -495,6 +557,7 @@ save_the_nation3  = {
 
 save_the_nation3.5  = {
 	trigger = {
+		civilized = yes
 		revanchism = 0.35
 		NOT = { revanchism = 0.40 } 
 	}
@@ -512,6 +575,7 @@ save_the_nation3.5  = {
 
 save_the_nation4  = {
 	trigger = {
+		civilized = yes
 		revanchism = 0.40
 		NOT = { revanchism = 0.45 } 
 	}
@@ -529,6 +593,7 @@ save_the_nation4  = {
 
 save_the_nation4.5  = {
 	trigger = {
+		civilized = yes
 		revanchism = 0.45
 		NOT = { revanchism = 0.50 }
 	}
@@ -547,6 +612,7 @@ save_the_nation4.5  = {
 
 save_the_nation5  = {
 	trigger = {
+		civilized = yes
 		revanchism = 0.50
 	}
 	

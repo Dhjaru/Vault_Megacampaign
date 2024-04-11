@@ -235,7 +235,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 491
+		size= 1491
 	}
 
 	artisans=
@@ -344,7 +344,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 651
+		size= 1651
 	}
 
 	artisans=

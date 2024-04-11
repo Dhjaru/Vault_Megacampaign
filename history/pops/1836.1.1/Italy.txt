@@ -3,7 +3,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 511
+		size= 1511
 	}
 
 	craftsmen=
@@ -75,7 +75,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 381
+		size= 681
 	}
 
 	artisans=
@@ -175,7 +175,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 1361
+		size= 6361
 	}
 
 	artisans=
@@ -277,7 +277,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 881
+		size= 1881
 	}
 
 	artisans=
@@ -379,7 +379,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 571
+		size= 1571
 	}
 
 	artisans=
@@ -430,7 +430,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 841
+		size= 1841
 	}
 
 	artisans=
@@ -481,7 +481,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 4321
+		size= 7321
 	}
 
 	artisans=
@@ -567,7 +567,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 451
+		size= 851
 	}
 
 	artisans=
@@ -669,7 +669,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 981
+		size= 1981
 	}
 
 	artisans=
@@ -720,7 +720,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 901
+		size= 1901
 	}
 
 	artisans=
@@ -822,7 +822,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 511
+		size= 1511
 	}
 
 	artisans=
@@ -922,7 +922,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 541
+		size= 1541
 	}
 
 	artisans=
@@ -1177,7 +1177,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 1921
+		size= 6921
 	}
 
 	artisans=
@@ -1228,7 +1228,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 811
+		size= 1811
 	}
 
 	artisans=
@@ -1279,7 +1279,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 291
+		size= 491
 	}
 
 	artisans=
@@ -1381,7 +1381,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 981
+		size= 1981
 	}
 
 	artisans=
@@ -1483,7 +1483,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 1741
+		size= 5741
 	}
 
 	artisans=
@@ -1534,7 +1534,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 431
+		size= 831
 	}
 
 	artisans=
@@ -1585,7 +1585,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 291
+		size= 491
 	}
 
 	artisans=
@@ -1636,7 +1636,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 611
+		size= 1611
 	}
 
 	artisans=
@@ -1687,7 +1687,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 611
+		size= 1611
 	}
 
 	artisans=
@@ -1738,7 +1738,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 381
+		size= 1681
 	}
 
 	artisans=
@@ -1824,7 +1824,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 391
+		size= 691
 	}
 
 	artisans=
@@ -1977,7 +1977,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 381
+		size= 681
 	}
 
 	artisans=
@@ -2873,12 +2873,6 @@
 
 }
 762 = {
-	soldiers=
-	{
-		culture = berber
-		religion = catholic
-		size= 441
-	}
 
 	artisans=
 	{
@@ -2926,7 +2920,7 @@
 	{
 		culture = south_italian
 		religion = catholic
-		size= 1031
+		size= 6031
 	}
 
 	artisans=
@@ -3122,7 +3116,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 521
+		size= 1521
 	}
 
 	artisans=
@@ -3518,7 +3512,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 231
+		size= 431
 	}
 
 	artisans=
@@ -3671,7 +3665,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 441
+		size= 841
 	}
 
 	artisans=
@@ -3722,7 +3716,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 931
+		size= 1931
 	}
 
 	artisans=
@@ -3773,7 +3767,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 451
+		size= 851
 	}
 
 	artisans=

@@ -3,7 +3,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 351
+		size= 1351
 	}
 
 	artisans=
@@ -301,7 +301,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 711
+		size= 1711
 	}
 
 	artisans=
@@ -450,7 +450,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 711
+		size= 1711
 	}
 
 	artisans=
@@ -650,7 +650,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 351
+		size= 1351
 	}
 
 	artisans=

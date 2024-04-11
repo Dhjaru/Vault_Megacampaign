@@ -399,7 +399,7 @@
 	{
 		culture = panjabi
 		religion = sunni
-		size= 1
+		size= 11
 	}
 
 	artisans=
@@ -569,7 +569,7 @@
 	{
 		culture = panjabi
 		religion = sunni
-		size= 1
+		size= 11
 	}
 
 	artisans=
@@ -1673,7 +1673,7 @@
 	{
 		culture = panjabi
 		religion = hindu
-		size= 481
+		size= 1481
 	}
 
 	artisans=
@@ -1722,7 +1722,7 @@
 	{
 		culture = panjabi
 		religion = zoroastrian
-		size= 91
+		size= 191
 	}
 
 	artisans=
@@ -1771,7 +1771,7 @@
 	{
 		culture = panjabi
 		religion = sunni
-		size= 61
+		size= 161
 	}
 
 	artisans=
@@ -1822,7 +1822,7 @@
 	{
 		culture = panjabi
 		religion = sunni
-		size= 121
+		size= 1121
 	}
 
 	artisans=
@@ -1871,7 +1871,7 @@
 	{
 		culture = panjabi
 		religion = hindu
-		size= 41
+		size= 141
 	}
 
 	artisans=
@@ -1922,7 +1922,7 @@
 	{
 		culture = panjabi
 		religion = hindu
-		size= 31
+		size= 131
 	}
 
 	artisans=
@@ -1971,7 +1971,7 @@
 	{
 		culture = panjabi
 		religion = sikh
-		size= 41
+		size= 141
 	}
 
 	artisans=
@@ -2020,7 +2020,7 @@
 	{
 		culture = panjabi
 		religion = zoroastrian
-		size= 11
+		size= 111
 	}
 
 	artisans=
@@ -2258,7 +2258,7 @@
 	{
 		culture = panjabi
 		religion = sunni
-		size= 11
+		size= 111
 	}
 
 	artisans=
@@ -2309,7 +2309,7 @@
 	{
 		culture = panjabi
 		religion = hindu
-		size= 31
+		size= 131
 	}
 
 	artisans=
@@ -2358,7 +2358,7 @@
 	{
 		culture = panjabi
 		religion = sunni
-		size= 51
+		size= 151
 	}
 
 	artisans=
@@ -2409,7 +2409,7 @@
 	{
 		culture = panjabi
 		religion = sunni
-		size= 91
+		size= 191
 	}
 
 	artisans=
@@ -2460,7 +2460,7 @@
 	{
 		culture = panjabi
 		religion = sunni
-		size= 231
+		size= 1231
 	}
 
 	artisans=
@@ -2509,7 +2509,7 @@
 	{
 		culture = panjabi
 		religion = zoroastrian
-		size= 51
+		size= 151
 	}
 
 	artisans=
@@ -2560,7 +2560,7 @@
 	{
 		culture = panjabi
 		religion = hindu
-		size= 541
+		size= 1541
 	}
 
 	artisans=
@@ -2611,7 +2611,7 @@
 	{
 		culture = panjabi
 		religion = hindu
-		size= 131
+		size= 1131
 	}
 
 	artisans=
@@ -2660,7 +2660,7 @@
 	{
 		culture = kanauji
 		religion = hindu
-		size= 51
+		size= 151
 	}
 
 	artisans=
@@ -2709,7 +2709,7 @@
 	{
 		culture = kanauji
 		religion = sunni
-		size= 91
+		size= 191
 	}
 
 	artisans=
@@ -2758,7 +2758,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 61
+		size= 161
 	}
 
 	artisans=
@@ -2807,7 +2807,7 @@
 	{
 		culture = panjabi
 		religion = sunni
-		size= 81
+		size= 181
 	}
 
 	artisans=
@@ -2856,7 +2856,7 @@
 	{
 		culture = rajput
 		religion = zoroastrian
-		size= 1
+		size= 11
 	}
 
 	artisans=
@@ -2958,7 +2958,7 @@
 	{
 		culture = kanauji
 		religion = hindu
-		size= 591
+		size= 1591
 	}
 
 	artisans=
@@ -3009,7 +3009,7 @@
 	{
 		culture = panjabi
 		religion = hindu
-		size= 171
+		size= 1171
 	}
 
 	artisans=
@@ -3058,7 +3058,7 @@
 	{
 		culture = kanauji
 		religion = hindu
-		size= 71
+		size= 171
 	}
 
 	artisans=
@@ -3107,7 +3107,7 @@
 	{
 		culture = kanauji
 		religion = sunni
-		size= 131
+		size= 1131
 	}
 
 	artisans=
@@ -3156,7 +3156,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 91
+		size= 191
 	}
 
 	artisans=
@@ -3205,7 +3205,7 @@
 	{
 		culture = panjabi
 		religion = sunni
-		size= 111
+		size= 1111
 	}
 
 	artisans=
@@ -3254,7 +3254,7 @@
 	{
 		culture = rajput
 		religion = zoroastrian
-		size= 11
+		size= 111
 	}
 
 	artisans=
@@ -3454,7 +3454,7 @@
 	{
 		culture = kanauji
 		religion = hindu
-		size= 1031
+		size= 11031
 	}
 
 	artisans=
@@ -3505,7 +3505,7 @@
 	{
 		culture = kanauji
 		religion = hindu
-		size= 941
+		size= 1941
 	}
 
 	artisans=
@@ -3556,7 +3556,7 @@
 	{
 		culture = kanauji
 		religion = hindu
-		size= 911
+		size= 1911
 	}
 
 	artisans=
@@ -3607,7 +3607,7 @@
 	{
 		culture = avadhi
 		religion = hindu
-		size= 651
+		size= 1651
 	}
 
 	artisans=
@@ -3656,7 +3656,7 @@
 	{
 		culture = avadhi
 		religion = gelugpa
-		size= 41
+		size= 141
 	}
 
 	artisans=
@@ -3705,7 +3705,7 @@
 	{
 		culture = avadhi
 		religion = sunni
-		size= 541
+		size= 1541
 	}
 
 	artisans=
@@ -3756,7 +3756,7 @@
 	{
 		culture = avadhi
 		religion = hindu
-		size= 571
+		size= 1571
 	}
 
 	artisans=
@@ -3805,7 +3805,7 @@
 	{
 		culture = avadhi
 		religion = gelugpa
-		size= 41
+		size= 141
 	}
 
 	artisans=
@@ -3854,7 +3854,7 @@
 	{
 		culture = avadhi
 		religion = sunni
-		size= 141
+		size= 1141
 	}
 
 	artisans=
@@ -3905,7 +3905,7 @@
 	{
 		culture = avadhi
 		religion = hindu
-		size= 511
+		size= 1511
 	}
 
 	artisans=
@@ -3954,7 +3954,7 @@
 	{
 		culture = avadhi
 		religion = gelugpa
-		size= 31
+		size= 131
 	}
 
 	artisans=
@@ -4003,7 +4003,7 @@
 	{
 		culture = avadhi
 		religion = sunni
-		size= 421
+		size= 1421
 	}
 
 	artisans=
@@ -4201,7 +4201,7 @@
 	{
 		culture = avadhi
 		religion = sunni
-		size= 91
+		size= 191
 	}
 
 	artisans=
@@ -4448,7 +4448,7 @@
 	{
 		culture = avadhi
 		religion = sunni
-		size= 31
+		size= 131
 	}
 
 	artisans=
@@ -5187,7 +5187,7 @@
 	{
 		culture = avadhi
 		religion = sunni
-		size= 71
+		size= 171
 	}
 
 	artisans=
@@ -5236,7 +5236,7 @@
 	{
 		culture = asian_minor
 		religion = hindu
-		size= 31
+		size= 131
 	}
 
 	artisans=
@@ -5285,7 +5285,7 @@
 	{
 		culture = asian_minor
 		religion = theravada
-		size= 1
+		size= 11
 	}
 
 	artisans=
@@ -5334,7 +5334,7 @@
 	{
 		culture = asian_minor
 		religion = sunni
-		size= 11
+		size= 111
 	}
 
 	artisans=
@@ -5383,7 +5383,7 @@
 	{
 		culture = asian_minor
 		religion = protestant
-		size= 51
+		size= 151
 	}
 
 	artisans=
@@ -5483,7 +5483,7 @@
 	{
 		culture = asian_minor
 		religion = hindu
-		size= 2011
+		size= 12011
 	}
 
 	artisans=
@@ -7861,7 +7861,7 @@
 	{
 		culture = asian_minor
 		religion = hindu
-		size= 81
+		size= 181
 	}
 
 	artisans=
@@ -7910,7 +7910,7 @@
 	{
 		culture = asian_minor
 		religion = theravada
-		size= 11
+		size= 111
 	}
 
 	artisans=
@@ -7959,7 +7959,7 @@
 	{
 		culture = asian_minor
 		religion = sunni
-		size= 11
+		size= 111
 	}
 
 	artisans=
@@ -8010,7 +8010,7 @@
 	{
 		culture = asian_minor
 		religion = hindu
-		size= 41
+		size= 141
 	}
 
 	artisans=
@@ -8052,7 +8052,7 @@
 	{
 		culture = asian_minor
 		religion = theravada
-		size= 11
+		size= 111
 	}
 
 	artisans=
@@ -8101,7 +8101,7 @@
 	{
 		culture = asian_minor
 		religion = sunni
-		size= 41
+		size= 141
 	}
 
 	artisans=
@@ -8159,7 +8159,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 51
+		size= 151
 	}
 
 	artisans=
@@ -8210,7 +8210,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 111
+		size= 1111
 	}
 
 	artisans=
@@ -8261,7 +8261,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 321
+		size= 1321
 	}
 
 	artisans=
@@ -8312,7 +8312,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 191
+		size= 1191
 	}
 
 	artisans=
@@ -8361,7 +8361,7 @@
 	{
 		culture = panjabi
 		religion = sunni
-		size= 31
+		size= 131
 	}
 
 	artisans=
@@ -8410,7 +8410,7 @@
 	{
 		culture = panjabi
 		religion = hindu
-		size= 21
+		size= 121
 	}
 
 	artisans=
@@ -8461,7 +8461,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 401
+		size= 1401
 	}
 
 	artisans=
@@ -8510,7 +8510,7 @@
 	{
 		culture = rajput
 		religion = sikh
-		size= 21
+		size= 121
 	}
 
 	artisans=
@@ -8561,7 +8561,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 581
+		size= 1581
 	}
 
 	artisans=
@@ -8710,7 +8710,7 @@
 	{
 		culture = kanauji
 		religion = hindu
-		size= 51
+		size= 151
 	}
 
 	artisans=
@@ -8759,7 +8759,7 @@
 	{
 		culture = kanauji
 		religion = sunni
-		size= 21
+		size= 121
 	}
 
 	artisans=
@@ -8808,7 +8808,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 131
+		size= 1131
 	}
 
 	artisans=
@@ -8857,7 +8857,7 @@
 	{
 		culture = rajput
 		religion = sunni
-		size= 61
+		size= 161
 	}
 
 	artisans=
@@ -8906,7 +8906,7 @@
 	{
 		culture = rajput
 		religion = gelugpa
-		size= 21
+		size= 121
 	}
 
 	artisans=
@@ -9104,7 +9104,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 111
+		size= 1111
 	}
 
 	artisans=
@@ -9153,7 +9153,7 @@
 	{
 		culture = rajput
 		religion = gelugpa
-		size= 31
+		size= 131
 	}
 
 	artisans=
@@ -9202,7 +9202,7 @@
 	{
 		culture = rajput
 		religion = sunni
-		size= 1
+		size= 11
 	}
 
 	artisans=
@@ -9253,7 +9253,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 141
+		size= 1141
 	}
 
 	artisans=
@@ -9302,7 +9302,7 @@
 	{
 		culture = rajput
 		religion = gelugpa
-		size= 41
+		size= 141
 	}
 
 	artisans=
@@ -9351,7 +9351,7 @@
 	{
 		culture = rajput
 		religion = sunni
-		size= 1
+		size= 11
 	}
 
 	artisans=
@@ -9402,7 +9402,7 @@
 	{
 		culture = kanauji
 		religion = hindu
-		size= 121
+		size= 1121
 	}
 
 	artisans=
@@ -9451,7 +9451,7 @@
 	{
 		culture = kanauji
 		religion = sunni
-		size= 31
+		size= 131
 	}
 
 	artisans=
@@ -9502,7 +9502,7 @@
 	{
 		culture = kanauji
 		religion = hindu
-		size= 191
+		size= 1191
 	}
 
 	artisans=
@@ -9553,7 +9553,7 @@
 	{
 		culture = asian_minor
 		religion = hindu
-		size= 161
+		size= 1161
 	}
 
 	artisans=
@@ -9602,7 +9602,7 @@
 	{
 		culture = asian_minor
 		religion = gelugpa
-		size= 71
+		size= 171
 	}
 
 	artisans=
@@ -9651,7 +9651,7 @@
 	{
 		culture = asian_minor
 		religion = sunni
-		size= 211
+		size= 1211
 	}
 
 	artisans=
@@ -9700,7 +9700,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 201
+		size= 1201
 	}
 
 	artisans=
@@ -9749,7 +9749,7 @@
 	{
 		culture = rajput
 		religion = gelugpa
-		size= 51
+		size= 151
 	}
 
 	artisans=
@@ -9798,7 +9798,7 @@
 	{
 		culture = rajput
 		religion = sunni
-		size= 21
+		size= 121
 	}
 
 	artisans=
@@ -9949,7 +9949,7 @@
 	{
 		culture = asian_minor
 		religion = hindu
-		size= 451
+		size= 1451
 	}
 
 	artisans=
@@ -10051,7 +10051,7 @@
 	{
 		culture = asian_minor
 		religion = hindu
-		size= 71
+		size= 171
 	}
 
 	artisans=
@@ -10100,7 +10100,7 @@
 	{
 		culture = asian_minor
 		religion = theravada
-		size= 1
+		size= 11
 	}
 
 	artisans=
@@ -10149,7 +10149,7 @@
 	{
 		culture = asian_minor
 		religion = sunni
-		size= 21
+		size= 121
 	}
 
 	artisans=
@@ -10200,7 +10200,7 @@
 	{
 		culture = asian_minor
 		religion = hindu
-		size= 591
+		size= 1591
 	}
 
 	artisans=
@@ -10249,7 +10249,7 @@
 	{
 		culture = asian_minor
 		religion = theravada
-		size= 81
+		size= 181
 	}
 
 	artisans=
@@ -10298,7 +10298,7 @@
 	{
 		culture = asian_minor
 		religion = sunni
-		size= 61
+		size= 161
 	}
 
 	artisans=
@@ -10349,7 +10349,7 @@
 	{
 		culture = asian_minor
 		religion = hindu
-		size= 131
+		size= 1131
 	}
 
 	artisans=
@@ -10398,7 +10398,7 @@
 	{
 		culture = asian_minor
 		religion = gelugpa
-		size= 11
+		size= 111
 	}
 
 	artisans=
@@ -10447,7 +10447,7 @@
 	{
 		culture = asian_minor
 		religion = sunni
-		size= 11
+		size= 111
 	}
 
 	artisans=
@@ -10496,7 +10496,7 @@
 	{
 		culture = asian_minor
 		religion = theravada
-		size= 1
+		size= 11
 	}
 
 	artisans=
@@ -10547,7 +10547,7 @@
 	{
 		culture = asian_minor
 		religion = hindu
-		size= 131
+		size= 1131
 	}
 
 	artisans=
@@ -11047,7 +11047,7 @@
 	{
 		culture = asian_minor
 		religion = sunni
-		size= 51
+		size= 151
 	}
 
 	artisans=
@@ -13400,7 +13400,7 @@
 	{
 		culture = asian_minor
 		religion = hindu
-		size= 101
+		size= 1101
 	}
 
 	artisans=
@@ -13449,7 +13449,7 @@
 	{
 		culture = asian_minor
 		religion = theravada
-		size= 51
+		size= 151
 	}
 
 	artisans=
@@ -13498,7 +13498,7 @@
 	{
 		culture = asian_minor
 		religion = sunni
-		size= 151
+		size= 1151
 	}
 
 	artisans=
