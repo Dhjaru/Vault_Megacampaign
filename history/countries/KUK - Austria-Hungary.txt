@@ -2,7 +2,7 @@ capital = 622
 primary_culture = south_german
 culture = zzz_religion_catholic
 religion = catholic
-government = absolute_monarchy
+government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.359402
@@ -20,7 +20,7 @@ school_reforms = no_schools
 
 # political reforms
 slavery=yes_slavery
-vote_franschise=wealth_weighted_voting
+vote_franschise=none_voting
 upper_house_composition=appointed
 voting_system=jefferson_method
 public_meetings=yes_meeting

@@ -21,7 +21,7 @@ school_reforms = no_schools
 
 # political reforms
 slavery=no_slavery
-vote_franschise=landed_voting
+vote_franschise=none_voting
 upper_house_composition=appointed
 voting_system=jefferson_method
 public_meetings=no_meeting
@@ -61,7 +61,6 @@ freedom_of_trade = 1
 guild_based_production = 1
 high_pressure_steam_engine = 1
 hot_blast = 1
-interchangeable_parts = 1
 introspectionism = 1
 late_enlightenment_philosophy = 1
 malthusian_thought = 1

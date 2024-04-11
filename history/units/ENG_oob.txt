@@ -184,9 +184,9 @@ NOR = {
 	level = 2
 }
 NOV = {
-	value = 169
+	value = 200
 	military_access = yes
-	influence_value = 79
+	influence_value = 100
 	level = 5
 }
 PAT = {
