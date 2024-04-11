@@ -325,3 +325,29 @@ navy = {
 	}
 }
 
+
+
+army = {
+	name="1st Army"
+	location=2450
+	regiment = {
+		name="1st Infantry"
+		type=infantry
+		home=2457
+	}
+	regiment = {
+		name="2nd Infantry"
+		type=infantry
+		home=2450
+	}
+	regiment = {
+		name="3rd Infantry"
+		type=infantry
+		home=2451
+	}
+	regiment = {
+		name="4th Infantry"
+		type=infantry
+		home=2448
+	}
+}

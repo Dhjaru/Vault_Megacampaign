@@ -1987,49 +1987,49 @@
 
 	farmers=
 	{
-		culture = nouvellien
+		culture = antartique
 		religion = catholic
 		size= 1010
 	}
 
 	artisans=
 	{
-		culture = nouvellien
+		culture = antartique
 		religion = catholic
 		size= 137
 	}
 
 	aristocrats=
 	{
-		culture = nouvellien
+		culture = antartique
 		religion = catholic
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = nouvellien
+		culture = antartique
 		religion = catholic
 		size= 10
 	}
 
 	soldiers=
 	{
-		culture = nouvellien
+		culture = antartique
 		religion = catholic
 		size= 1
 	}
 
 	bureaucrats=
 	{
-		culture = nouvellien
+		culture = antartique
 		religion = catholic
 		size= 4
 	}
 
 	officers=
 	{
-		culture = nouvellien
+		culture = antartique
 		religion = catholic
 		size= 1
 	}

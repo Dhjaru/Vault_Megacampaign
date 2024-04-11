@@ -108,49 +108,49 @@
 
 	soldiers=
 	{
-		culture = silfrvazling
+		culture = ealimi
 		religion = catholic
 		size= 20
 	}
 
 	artisans=
 	{
-		culture = silfrvazling
+		culture = ealimi
 		religion = catholic
 		size= 96
 	}
 
 	clergymen=
 	{
-		culture = silfrvazling
+		culture = ealimi
 		religion = catholic
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = silfrvazling
+		culture = ealimi
 		religion = catholic
 		size= 5
 	}
 
 	officers=
 	{
-		culture = silfrvazling
+		culture = ealimi
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = silfrvazling
+		culture = ealimi
 		religion = catholic
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = silfrvazling
+		culture = ealimi
 		religion = catholic
 		size= 1859
 	}
@@ -301,49 +301,49 @@
 
 	soldiers=
 	{
-		culture = silfrvazling
+		culture = ealimi
 		religion = catholic
 		size= 75
 	}
 
 	artisans=
 	{
-		culture = silfrvazling
+		culture = ealimi
 		religion = catholic
 		size= 321
 	}
 
 	clergymen=
 	{
-		culture = silfrvazling
+		culture = ealimi
 		religion = catholic
 		size= 52
 	}
 
 	bureaucrats=
 	{
-		culture = silfrvazling
+		culture = ealimi
 		religion = catholic
 		size= 16
 	}
 
 	officers=
 	{
-		culture = silfrvazling
+		culture = ealimi
 		religion = catholic
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = silfrvazling
+		culture = ealimi
 		religion = catholic
 		size= 67
 	}
 
 	farmers=
 	{
-		culture = silfrvazling
+		culture = ealimi
 		religion = catholic
 		size= 6990
 	}

@@ -2,7 +2,6 @@ capital = 2248
 primary_culture = antartique
 culture = quechua
 culture = aimara
-culture = native_american_minor
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy

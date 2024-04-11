@@ -1,6 +1,5 @@
 owner=ENG
 controller=ENG
-add_core=ENG
 add_core=DEN
 add_core=GER
 trade_goods = grain

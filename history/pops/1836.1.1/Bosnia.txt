@@ -501,49 +501,49 @@
 788 = {
 	soldiers=
 	{
-		culture = greek
+		culture = serb
 		religion = catholic
 		size= 31
 	}
 
 	artisans=
 	{
-		culture = greek
+		culture = serb
 		religion = catholic
 		size= 30
 	}
 
 	clergymen=
 	{
-		culture = greek
+		culture = serb
 		religion = catholic
 		size= 98
 	}
 
 	bureaucrats=
 	{
-		culture = greek
+		culture = serb
 		religion = catholic
 		size= 27
 	}
 
 	officers=
 	{
-		culture = greek
+		culture = serb
 		religion = catholic
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = greek
+		culture = serb
 		religion = catholic
 		size= 63
 	}
 
 	farmers=
 	{
-		culture = greek
+		culture = serb
 		religion = catholic
 		size= 29262
 	}

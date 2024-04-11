@@ -57,56 +57,56 @@
 
 	slaves=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 4876
 	}
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 3551
 	}
 
 	artisans=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 2424
 	}
 
 	clergymen=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 394
 	}
 
 	bureaucrats=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 121
 	}
 
 	officers=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 48
 	}
 
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 1018
 	}
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 41872
 	}
@@ -171,56 +171,56 @@
 
 	slaves=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 2079
 	}
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 629
 	}
 
 	clergymen=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 102
 	}
 
 	bureaucrats=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 31
 	}
 
 	officers=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 264
 	}
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 10045
 	}
@@ -285,56 +285,56 @@
 
 	slaves=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 7039
 	}
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 561
 	}
 
 	clergymen=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 91
 	}
 
 	bureaucrats=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 34
 	}
 
 	officers=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 236
 	}
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 3770
 	}
@@ -443,49 +443,49 @@
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 1031
 	}
 
 	artisans=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 1424
 	}
 
 	clergymen=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 231
 	}
 
 	bureaucrats=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 71
 	}
 
 	officers=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 28
 	}
 
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 598
 	}
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = catholic
 		size= 27456
 	}
@@ -494,61 +494,61 @@
 2284 = {
 	soldiers=
 	{
-		culture =native_american_minor		religion = animist
+		culture =quechua		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture =native_american_minor		religion = animist
+		culture =quechua		religion = animist
 		size= 1281
 	}
 
 	farmers=
 	{
-		culture = nouvellien
+		culture = antartique
 		religion = catholic
 		size= 5298
 	}
 
 	artisans=
 	{
-		culture = nouvellien
+		culture = antartique
 		religion = catholic
 		size= 284
 	}
 
 	aristocrats=
 	{
-		culture = nouvellien
+		culture = antartique
 		religion = catholic
 		size= 119
 	}
 
 	clergymen=
 	{
-		culture = nouvellien
+		culture = antartique
 		religion = catholic
 		size= 45
 	}
 
 	bureaucrats=
 	{
-		culture = nouvellien
+		culture = antartique
 		religion = catholic
 		size= 21
 	}
 
 	soldiers=
 	{
-		culture = nouvellien
+		culture = antartique
 		religion = catholic
 		size= 1
 	}
 
 	officers=
 	{
-		culture = nouvellien
+		culture = antartique
 		religion = catholic
 		size= 5
 	}
@@ -557,7 +557,7 @@
 2285 = {
 	farmers=
 	{
-		culture = native_american_minor
+		culture = quechua
 		religion = animist
 		size= 11
 	}

@@ -356,22 +356,22 @@ army = {
 	regiment = {
 		name="1st Belém Cavalry"
 		type=cavalry
-		home=2410
+		home=2429
 	}
 	regiment = {
 		name="1st Natal Artillery"
 		type=artillery
-		home=2431
+		home=2432
 	}
 	regiment = {
 		name="2nd Paraíba Infantry"
 		type=infantry
-		home=2428
+		home=2436
 	}
 	regiment = {
 		name="1st Rio de Janeiro Cavalry"
 		type=cavalry
-		home=2447
+		home=2439
 	}
 	regiment = {
 		name="1st Rio de Janeiro Artillery"
