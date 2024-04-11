@@ -8,7 +8,7 @@ fort = 1
 
 state_building=
 {
-	level=1
+	level=2
 	building = clipper_shipyard
 	upgrade = yes
 }
@@ -20,10 +20,16 @@ state_building=
 	upgrade = yes
 }
 
-
 state_building=
 {
 	level=1
 	building = steel_factory
+	upgrade = yes
+}
+
+state_building=
+{
+	level=1
+	building = fabric_factory
 	upgrade = yes
 }

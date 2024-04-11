@@ -165,9 +165,11 @@ From;To;Type;Through;Data;Comment
 1327;1592;impassable;0;0;scary mountain
 1328;1592;impassable;0;0;scary mountain
 1225;1594;impassable;0;0;scary mountain
+1225;1210;impassable;0;0;scary mountain
 1226;1594;impassable;0;0;scary mountain
 1210;1594;impassable;0;0;scary mountain
 1208;1594;impassable;0;0;scary mountain
+1190;1594;impassable;0;0;scary mountain
 
 #Alps
 
@@ -218,6 +220,7 @@ From;To;Type;Through;Data;Comment
 2655;2651;impassable;0;0;Yenisei-Yakut
 2675;2651;impassable;0;0;Yenisei-Yakut
 2675;2695;impassable;0;0;Yenisei-Yakut
+2677;2695;impassable;0;0;Yenisei-Yakut
 
 
 #
