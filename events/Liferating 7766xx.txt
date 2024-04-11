@@ -1,583 +1,308 @@
-#Americas buff
+
 country_event = {
-	id = 776603
-	title = "EVTNAME776603"
-	desc = "EVTDESC776603"
-	picture = "rome_buildings"
+	id = 776600
+	title = "State Sizing Late Game"
+
+	is_triggered_only = yes
 
 	trigger = {
-		tag = SIK
+		tag = GHO
 	}
-	
-	fire_only_once = yes
-	
-	mean_time_to_happen = { days = 1 }
-	
+
 	option = {
-		name = "EVT776603OPTA" 
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = MEX
-						owned_by = CLM
-						owned_by = ENG
-						owned_by = ARG
-						owned_by = BRZ
-						owned_by = CHL
-						owned_by = ECU	
-						owned_by = DOM
-						owned_by = UCA
-						owned_by = VNZ
-						owned_by = URU
-						owned_by = PRG
-						owned_by = BOL
-						owned_by = PEU
-						owned_by = RPL
-						owned_by = HAI
-						owned_by = SPA
-						owned_by = BRZ
+		any_country = { 
+			limit = {
+				OR = {
+					war = no
+					AND = {
+						war = yes
+						NOT = { 
+							year = 1837 
 						}
-					life_rating = 35
-					NOT = { life_rating = 36 }
-					OR = {
-						continent = north_america
-						continent = south_america
 					}
-					}
-					life_rating = 0				
-					}
+				}
+				
 			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = MEX
-						owned_by = CLM
-						owned_by = ENG
-						owned_by = ARG
-						owned_by = BRZ
-						owned_by = CHL
-						owned_by = ECU	
-						owned_by = DOM
-						owned_by = UCA
-						owned_by = VNZ
-						owned_by = URU
-						owned_by = PRG
-						owned_by = BOL
-						owned_by = PEU
-						owned_by = RPL
-						}
-					life_rating = 30
-					NOT = { life_rating = 31 }
-					OR = {
-						continent = north_america
-						continent = south_america
-					}
-					}
-					life_rating = 5				
-					}
+			any_owned = { 
+				limit = {
+					life_rating = 29
+					NOT = { life_rating = 30 }
+				}
+				life_rating = 1
 			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = MEX
-						owned_by = CLM
-						owned_by = ENG
-						owned_by = ARG
-						owned_by = BRZ
-						owned_by = CHL
-						owned_by = ECU	
-						owned_by = DOM
-						owned_by = UCA
-						owned_by = VNZ
-						owned_by = URU
-						owned_by = PRG
-						owned_by = BOL
-						owned_by = PEU
-						owned_by = RPL
-						}
+			any_owned = { 
+				limit = {
+					life_rating = 28
+					NOT = { life_rating = 29 }
+				}
+				life_rating = 2
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 27
+					NOT = { life_rating = 28 }
+				}
+				life_rating = 3
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 26
+					NOT = { life_rating = 27 }
+				}
+				life_rating = 4
+			}
+			any_owned = { 
+				limit = {
 					life_rating = 25
 					NOT = { life_rating = 26 }
-					OR = {
-						continent = north_america
-						continent = south_america
-					}
-					}
-					life_rating = 10				
-					}
+				}
+				life_rating = 5
 			}
-	}
-}
-
-#Persia (if Started As Player) Buff
-country_event = {
-	id = 776604
-	title = "EVTNAME776604"
-	desc = "EVTDESC776604	"
-	picture = "rome_buildings"
-
-	trigger = {
-		tag = SIK
-		NOT = { year = 1837 }
-		PER = {
-			ai = no
+			any_owned = { 
+				limit = {
+					life_rating = 24
+					NOT = { life_rating = 25 }
+				}
+				life_rating = 6
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 23
+					NOT = { life_rating = 24 }
+				}
+				life_rating = 7
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 22
+					NOT = { life_rating = 23 }
+				}
+				life_rating = 8
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 21
+					NOT = { life_rating = 22 }
+				}
+				life_rating = 9
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 20
+					NOT = { life_rating = 21 }
+				}
+				life_rating = 10
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 19
+					NOT = { life_rating = 20 }
+				}
+				life_rating = 11
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 18
+					NOT = { life_rating = 19 }
+				}
+				life_rating = 12
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 17
+					NOT = { life_rating = 18 }
+				}
+				life_rating = 13
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 16
+					NOT = { life_rating = 17 }
+				}
+				life_rating = 14
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 15
+					NOT = { life_rating = 16 }
+				}
+				life_rating = 15
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 14
+					NOT = { life_rating = 15 }
+				}
+				life_rating = 16
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 13
+					NOT = { life_rating = 14 }
+				}
+				life_rating = 17
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 12
+					NOT = { life_rating = 13 }
+				}
+				life_rating = 18
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 11
+					NOT = { life_rating = 12 }
+				}
+				life_rating = 19
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 10
+					NOT = { life_rating = 11 }
+				}
+				life_rating = 20
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 9
+					NOT = { life_rating = 10 }
+				}
+				life_rating = 21
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 8
+					NOT = { life_rating = 9 }
+				}
+				life_rating = 22
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 7
+					NOT = { life_rating = 8 }
+				}
+				life_rating = 23
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 6
+					NOT = { life_rating = 7 }
+				}
+				life_rating = 24
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 5
+					NOT = { life_rating = 6 }
+				}
+				life_rating = 25
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 4
+					NOT = { life_rating = 5 }
+				}
+				life_rating = 26
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 3
+					NOT = { life_rating = 4 }
+				}
+				life_rating = 27
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 2
+					NOT = { life_rating = 3 }
+				}
+				life_rating = 28
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 1
+					NOT = { life_rating = 2 }
+				}
+				life_rating = 29
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 0
+					NOT = { life_rating = 1 }
+				}
+				life_rating = 30
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 30
+					NOT = { life_rating = 31 }
+					continent = africa
+					NOT = { terrain = desert }
+					NOT = { province_id = 1721 }
+				}
+				life_rating = 7
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 31
+					NOT = { life_rating = 32 }
+					continent = africa
+					NOT = { terrain = desert }
+					NOT = { province_id = 1721 }
+				}
+				life_rating = 6
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 32
+					NOT = { life_rating = 33 }
+					continent = africa
+					NOT = { terrain = desert }
+					NOT = { province_id = 1721 }
+				}
+				life_rating = 5
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 33
+					NOT = { life_rating = 34 }
+					continent = africa
+					NOT = { terrain = desert }
+					NOT = { province_id = 1721 }
+				}
+				life_rating = 4
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 34
+					NOT = { life_rating = 35 }
+					continent = africa
+					NOT = { terrain = desert }
+					NOT = { province_id = 1721 }
+				}
+				life_rating = 3
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 35
+					NOT = { life_rating = 36 }
+					continent = africa
+					NOT = { terrain = desert }
+					NOT = { province_id = 1721 }
+				}
+				life_rating = 2
+			}
+			any_owned = { 
+				limit = {
+					life_rating = 36
+					NOT = { life_rating = 37 }
+					continent = africa
+					NOT = { terrain = desert }
+					NOT = { province_id = 1721 }
+				}
+				life_rating = 1
+			}
 		}
-	}
-	
-	fire_only_once = yes
-	
-	mean_time_to_happen = { days = 1 }
-	
-	option = {
-		name = "EVT776604OPTA" 
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = PER
-						}
-					life_rating = 35
-					NOT = { life_rating = 36 }
-					OR = {
-						continent = asia
-					}
-					}
-					life_rating = 2				
-					}
-			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = PER
-						}
-					life_rating = 30
-					NOT = { life_rating = 31 }
-					OR = {
-						continent = asia
-					}
-					}
-					life_rating = 7				
-					}
-			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = PER
-						}
-					life_rating = 25
-					NOT = { life_rating = 26 }
-					OR = {
-						continent = asia
-					}
-					}
-					life_rating = 12				
-					}
-			}
-	}
-}
-
-#Belgium (if both Netherlands & Belgium are a player) Buff
-country_event = {
-	id = 776605
-	title = "EVTNAME776605"
-	desc = "EVTDESC776605"
-	picture = "rome_buildings"
-
-	trigger = {
-		tag = SIK
-		NOT = { year = 1837 }
-		AND = {
-			NET = {
-				ai = no
-			}
-			BEL = {
-				ai = no
-			}
-		}
-	}
-	
-	fire_only_once = yes
-	
-	mean_time_to_happen = { days = 1 }
-	
-	option = {
-		name = "EVT776605OPTA" 
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = BEL
-						}
-					life_rating = 35
-					NOT = { life_rating = 36 }
-					OR = {
-						continent = europe
-					}
-					}
-					life_rating = 1				
-					}
-			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = BEL
-						}
-					life_rating = 30
-					NOT = { life_rating = 31 }
-					OR = {
-						continent = europe
-					}
-					}
-					life_rating = 6				
-					}
-			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = BEL
-						}
-					life_rating = 25
-					NOT = { life_rating = 26 }
-					OR = {
-						continent = europe
-					}
-					}
-					life_rating = 11				
-					}
-			}
-	}
-}
-
-#Portugal (if Started As Player) Buff
-country_event = {
-	id = 776606
-	title = "EVTNAME776606"
-	desc = "EVTDESC776606"
-	picture = "rome_buildings"
-
-	trigger = {
-		tag = SIK
-		NOT = { year = 1837 }
-		POR = {
-			ai = no
-		}
-	}
-	
-	fire_only_once = yes
-	
-	mean_time_to_happen = { days = 1 }
-	
-	option = {
-		name = "EVT776606OPTA" 
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = POR
-						}
-					life_rating = 35
-					NOT = { life_rating = 36 }
-					OR = {
-						continent = europe
-					}
-					}
-					life_rating = 2				
-					}
-			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = POR
-						}
-					life_rating = 30
-					NOT = { life_rating = 31 }
-					OR = {
-						continent = europe
-					}
-					}
-					life_rating = 7				
-					}
-			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = POR
-						}
-					life_rating = 25
-					NOT = { life_rating = 26 }
-					OR = {
-						continent = europe
-					}
-					}
-					life_rating = 12				
-					}
-			}
-	}
-}
-
-#Switzerland (if Started As Player) Buff
-country_event = {
-	id = 776607
-	title = "EVTNAME776607"
-	desc = "EVTDESC776607"
-	picture = "rome_buildings"
-
-	trigger = {
-		tag = SIK
-		NOT = { year = 1837 }
-		SWI = {
-			ai = no
-		}
-	}
-	
-	fire_only_once = yes
-	
-	mean_time_to_happen = { days = 1 }
-	
-	option = {
-		name = "EVT776607OPTA" 
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = SWI
-						}
-					life_rating = 35
-					NOT = { life_rating = 36 }
-					OR = {
-						continent = europe
-					}
-					}
-					life_rating = 2				
-					}
-			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = SWI
-						}
-					life_rating = 30
-					NOT = { life_rating = 31 }
-					OR = {
-						continent = europe
-					}
-					}
-					life_rating = 7				
-					}
-			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = SWI
-						}
-					life_rating = 25
-					NOT = { life_rating = 26 }
-					OR = {
-						continent = europe
-					}
-					}
-					life_rating = 12				
-					}
-			}
-	}
-}
-
-#Serbia (if Started As Player) Buff
-country_event = {
-	id = 776608
-	title = "EVTNAME776608"
-	desc = "EVTDESC776608"
-	picture = "rome_buildings"
-
-	trigger = {
-		tag = SIK
-		NOT = { year = 1837 }
-		SER = {
-			ai = no
-		}
-	}
-	
-	fire_only_once = yes
-	
-	mean_time_to_happen = { days = 1 }
-	
-	option = {
-		name = "EVT776608OPTA" 
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						is_core = SER
-						}
-					life_rating = 35
-					NOT = { life_rating = 36 }
-					OR = {
-						continent = europe
-					}
-					}
-					life_rating = 5				
-					}
-			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						is_core = SER
-						}
-					life_rating = 30
-					NOT = { life_rating = 31 }
-					OR = {
-						continent = europe
-					}
-					}
-					life_rating = 10				
-					}
-			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						is_core = SER
-						}
-					life_rating = 25
-					NOT = { life_rating = 26 }
-					OR = {
-						continent = europe
-					}
-					}
-					life_rating = 15				
-					}
-			}
-	}
-}
-
-#Greece (if Started As Player) Buff
-country_event = {
-	id = 776609
-	title = "EVTNAME776609"
-	desc = "EVTDESC776609"
-	picture = "rome_buildings"
-
-	trigger = {
-		tag = SIK
-		NOT = { year = 1837 }
-		GRE = {
-			ai = no
-		}
-	}
-	
-	fire_only_once = yes
-	
-	mean_time_to_happen = { days = 1 }
-	
-	option = {
-		name = "EVT776609OPTA" 
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						is_core = GRE
-						}
-					life_rating = 35
-					NOT = { life_rating = 36 }
-					}
-					life_rating = 2				
-					}
-			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						is_core = GRE
-						}
-					life_rating = 30
-					NOT = { life_rating = 31 }
-					}
-					life_rating = 7				
-					}
-			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						is_core = GRE
-						}
-					life_rating = 25
-					NOT = { life_rating = 26 }
-					}
-					life_rating = 12				
-					}
-			}
-	}
-}
-
-#Romania (if Wallachia/Moldavia Started As Player) Buff
-country_event = {
-	id = 776610
-	title = "EVTNAME776610"
-	desc = "EVTDESC776610"
-	picture = "rome_buildings"
-
-	trigger = {
-		tag = SIK
-		NOT = { year = 1837 }
-		OR = {
-			WAL = {	ai = no }
-			MOL = {	ai = no }
-		}
-	}
-	
-	fire_only_once = yes
-	
-	mean_time_to_happen = { days = 1 }
-	
-	option = {
-		name = "EVT776610OPTA" 
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						is_core = ROM
-						}
-					life_rating = 35
-					NOT = { life_rating = 36 }
-					}
-					life_rating = 2				
-					}
-			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						is_core = ROM
-						}
-					life_rating = 30
-					NOT = { life_rating = 31 }
-					}
-					life_rating = 7				
-					}
-			}
-			any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						is_core = ROM
-						}
-					life_rating = 25
-					NOT = { life_rating = 26 }
-					}
-					life_rating = 12				
-					}
-			}
 	}
 }

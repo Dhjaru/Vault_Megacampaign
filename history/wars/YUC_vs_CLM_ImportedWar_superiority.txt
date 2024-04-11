@@ -1,21 +1,19 @@
 name = "2nd French Mexico Purge of Colombian Heresy"
 
 1835.12.30 = {
-	add_attacker = FRA
 	add_attacker = YUC
 	add_defender = CLM
 
 	war_goal = {
-		casus_belli = demand_for_allies
+		casus_belli = acquire_core_state_tiny
 		country = YUC
-		actor = FRA
+		actor = YUC
 		receiver = CLM
 		state_province_id = 2201
 	}
 	war_goal = {
-		casus_belli = demand_for_allies
-		country = YUC
-		actor = FRA
+		casus_belli = acquire_state_tiny
+		actor = YUC
 		receiver = CLM
 		state_province_id = 2271
 	}
