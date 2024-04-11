@@ -4,27 +4,27 @@
 ###############################################################
 
 #Empiricism (Culture)
-sanitation = {
-	limit = { 
-		impressionism = 1
-	}
-	chance = {
-		base = 2
-		modifier = {
-			factor = 4
-			practical_steam_engine = 1
-		}
-		modifier = {
-			factor = 4
-			any_neighbor_country = {
-				invention = sanitation
-			}
-		}
-	}
-	effect = {
-		pop_growth = 0.0001
-	}	
-}
+#sanitation = {
+#	limit = { 
+#		impressionism = 1
+#	}
+#	chance = {
+#		base = 2
+#		modifier = {
+#			factor = 4
+#			practical_steam_engine = 1
+#		}
+#		modifier = {
+#			factor = 4
+#			any_neighbor_country = {
+#				invention = sanitation
+#			}
+#		}
+#	}
+#	effect = {
+#		pop_growth = 0.0001
+#	}	
+#}
 
 #Malthusian Thought (Culture)
 thomas_robert_malthus ={
