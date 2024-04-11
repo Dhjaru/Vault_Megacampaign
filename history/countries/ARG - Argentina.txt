@@ -1,4 +1,4 @@
-capital = 2350
+capital = 2348
 primary_culture = ealimi
 culture = zzz_religion_catholic
 religion = catholic

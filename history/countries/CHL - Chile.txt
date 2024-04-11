@@ -1,4 +1,4 @@
-capital = 2328
+capital = 2324
 primary_culture = deagostinian
 culture = zzz_religion_catholic
 religion = catholic
