@@ -172,9 +172,9 @@ RUS_345 = { 345 346 347 348 } #Turku
 
 DEN_367 = { 367 366 368 2557 } #Jylland
 
-HOL_369 = { 369 530 529 533 } #Holstein
+HOL_369 = { 530 369 370 371 529 533 528 } #Holstein
 
-SCH_370 = { 370 371 } #Schleswig
+#SCH_370 = { } #Schleswig
 
 DEN_372 = { 372 373 374 } #Sjaelland
 
@@ -266,11 +266,11 @@ POR_2134 = { 2134 2135 2136 } #Macaronesia
 
 ### Germany & Switzerland
 
-HAN_528 = { 528 531 532 535 } #Lower Elbe
+#HAN_528 = { } #Lower Elbe
 
-HAN_534 = { 534 536 537 585 } #Hannover
+HAN_534 = { 534 536 537 531 532 } #Hannover
 
-HAN_540 = { 539 540 542 541 } #East Friesland
+HAN_540 = { 539 535 538 540 541 542 } #East Friesland
 
 PRU_544 = { 544 545 547 548 } #Mecklenburg
 
@@ -280,11 +280,11 @@ PRU_549 = { 549 550 551 552 } #Brandenburg
 
 PRU_553 = { 553 555 556 557 } #Magdeburg
 
-PRU_554 = { 554 561 562 563 } #Thuringia
+#PRU_554 = { } #Thuringia
 
-SAX_558 = { 558 559 560 687 } #Saxony
+SAX_558 = { 558 559 560 687 554 561 562 } #Saxony
 
-HES_2560 = { 564 565 566 567 568 2560 } #Hessen
+HES_2560 = { 564 565 566 567 568 584 2560 } #Hessen
 
 PRU_570 = { 570 573 574 571 } #Palatinate
 
@@ -292,13 +292,13 @@ PRU_575 = { 575 576 577 572 397 396 } #Rheinland
 
 PRU_578 = { 578 579 2561 583 } #Eastern Rheinland
 
-PRU_581 = { 580 581 582 584 538 } #Westfalen
+PRU_581 = { 580 581 582 585 } #Westfalen
 
 BAD_586 = { 586 587 588 569 } #Baden
 
 WUR_589 = { 589 590 591 593 594 } #Wurttemburg
 
-BAV_595 = { 595 596 597 598 } #Franconia
+BAV_595 = { 595 596 597 598 563 } #Franconia
 
 BAV_599 = { 599 592 600 601 602 } #Upper Bavaria
 

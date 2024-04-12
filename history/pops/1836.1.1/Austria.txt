@@ -936,6 +936,13 @@
 		size= 2271
 	}
 
+	craftsmen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 14607
+	}
+
 	artisans=
 	{
 		culture = south_german
