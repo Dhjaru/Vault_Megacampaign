@@ -313,7 +313,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Edgar Burgoyne"
-	date="1740.9.8"
+	date="1790.9.8"
 	type=sea
 	personality="defence_4.1"
 	background="attack_minus_2.1"
@@ -321,7 +321,7 @@ leader = {
 
 leader = {
 	name="Lawrence Blake"
-	date="1759.1.26"
+	date="1809.1.26"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"
@@ -329,7 +329,7 @@ leader = {
 
 leader = {
 	name="Ernest Cornwallis"
-	date="1763.8.14"
+	date="1813.8.14"
 	type=sea
 	personality="defence_4.1"
 	background="attack_minus_2.1"
@@ -337,7 +337,7 @@ leader = {
 
 leader = {
 	name="Adolphus Moore"
-	date="1764.2.8"
+	date="1814.2.8"
 	type=sea
 	personality="defence_2.1"
 	background="attack_2.1"
@@ -345,7 +345,7 @@ leader = {
 
 leader = {
 	name="Jonathan Rodney"
-	date="1766.3.9"
+	date="1816.3.9"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"

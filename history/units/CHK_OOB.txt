@@ -266,7 +266,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Inthaphom Yo Chounramany"
-	date="1750.6.2"
+	date="1800.6.2"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"
@@ -274,7 +274,7 @@ leader = {
 
 leader = {
 	name="Kham Tam Sa Vongvicht"
-	date="1761.9.10"
+	date="1811.9.10"
 	type=land
 	personality="defence_2.1"
 	background="attack_2.1"

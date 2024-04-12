@@ -318,7 +318,7 @@ ZUN = {
 #Leaders
 leader = {
 	name="'Abu Nasr VII Darvazid"
-	date="1754.10.19"
+	date="1804.10.19"
 	type=land
 	personality="intuitive"
 	background="attack_3.1"
@@ -326,7 +326,7 @@ leader = {
 
 leader = {
 	name="Shîr Shâh Uzbek"
-	date="1738.12.15"
+	date="1788.12.15"
 	type=land
 	personality="defence_minus_1.1"
 	background="attack_2.1"
@@ -334,7 +334,7 @@ leader = {
 
 leader = {
 	name="Nîkû-siyar Nagar"
-	date="1750.12.20"
+	date="1800.12.20"
 	type=sea
 	personality="defence_3.1"
 	background="attack_2.1"

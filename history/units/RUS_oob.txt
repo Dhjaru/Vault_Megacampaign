@@ -308,7 +308,7 @@ ZUN = {
 #Leaders
 leader = {
 	name="historical_score Gylta"
-	date="1762.11.16"
+	date="1812.11.16"
 	type=land
 	personality="defence_minus_1.1"
 	background="attack_2.1"
@@ -316,7 +316,7 @@ leader = {
 
 leader = {
 	name="Tyke Cronstedt"
-	date="1751.6.21"
+	date="1801.6.21"
 	type=land
 	personality="defence_minus_1.1"
 	background="attack_3.13"
@@ -324,7 +324,7 @@ leader = {
 
 leader = {
 	name="Albrikt Munk"
-	date="1751.10.19"
+	date="1801.10.19"
 	type=land
 	personality="defence_minus_1.1"
 	background="attack_3.13"
@@ -332,7 +332,7 @@ leader = {
 
 leader = {
 	name="Borkvard Tre Rosor"
-	date="1752.3.31"
+	date="1802.3.31"
 	type=land
 	personality="defence_minus_1.1"
 	background="attack_3.13"
@@ -340,7 +340,7 @@ leader = {
 
 leader = {
 	name="Astrad Tre Rosor"
-	date="1753.11.22"
+	date="1803.11.22"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -348,7 +348,7 @@ leader = {
 
 leader = {
 	name="Patrik Bratt"
-	date="1758.7.1"
+	date="1808.7.1"
 	type=land
 	personality="defence_2.1"
 	background="attack_4.1"
@@ -356,7 +356,7 @@ leader = {
 
 leader = {
 	name="Nicholas Ulfsax"
-	date="1765.12.29"
+	date="1815.12.29"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -364,7 +364,7 @@ leader = {
 
 leader = {
 	name="Marcus Horn"
-	date="1766.12.11"
+	date="1816.12.11"
 	type=land
 	personality="defence_3.1"
 	background="attack_1.1"
@@ -372,7 +372,7 @@ leader = {
 
 leader = {
 	name="Sigvard B�llja"
-	date="1766.12.13"
+	date="1816.12.13"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -380,7 +380,7 @@ leader = {
 
 leader = {
 	name="Sigvard B�llja"
-	date="1766.12.13"
+	date="1816.12.13"
 	type=land
 	personality="defence_minus_1.1"
 	background="attack_3.13"

@@ -301,7 +301,7 @@ ZUN = {
 #Leaders
 leader = {
 	name="Ølver Torgeirsson"
-	date="1750.5.30"
+	date="1800.5.30"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"

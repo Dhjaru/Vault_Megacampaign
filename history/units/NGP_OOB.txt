@@ -314,7 +314,7 @@ ZUN = {
 #Leaders
 leader = {
 	name="Ajit Singh Bedia"
-	date="1752.5.15"
+	date="1802.5.15"
 	type=land
 	personality="defence_minus_1.1"
 	background="attack_3.13"

@@ -286,7 +286,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Albrecht Casper"
-	date="1752.4.12"
+	date="1802.4.12"
 	type=land
 	personality="defence_minus_1.1"
 	background="attack_3.13"
@@ -294,7 +294,7 @@ leader = {
 
 leader = {
 	name="Johann von Hohenberg"
-	date="1752.4.14"
+	date="1802.4.14"
 	type=land
 	personality="defence_minus_1.1"
 	background="attack_4.1"
@@ -302,7 +302,7 @@ leader = {
 
 leader = {
 	name="Jakob Stichsenstein"
-	date="1759.7.18"
+	date="1809.7.18"
 	type=land
 	personality="defence_minus_1.1"
 	background="attack_2.1"
@@ -310,7 +310,7 @@ leader = {
 
 leader = {
 	name="Ludwig von Waldstein"
-	date="1760.10.27"
+	date="1810.10.27"
 	type=land
 	personality="defence_minus_1.1"
 	background="attack_4.1"
@@ -318,7 +318,7 @@ leader = {
 
 leader = {
 	name="Georg Erlmayr"
-	date="1766.9.3"
+	date="1816.9.3"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -326,7 +326,7 @@ leader = {
 
 leader = {
 	name="Adolf von Stauffenberg"
-	date="1766.9.3"
+	date="1816.9.3"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"

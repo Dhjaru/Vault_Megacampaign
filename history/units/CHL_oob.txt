@@ -283,7 +283,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Alberto Boncompagni"
-	date="1749.4.10"
+	date="1799.4.10"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -291,7 +291,7 @@ leader = {
 
 leader = {
 	name="Gian Gastone Doria di Cirié"
-	date="1763.1.15"
+	date="1813.1.15"
 	type=sea
 	personality="defence_3.1"
 	background="attack_2.1"

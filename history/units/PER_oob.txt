@@ -305,7 +305,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="'Âdel Shahy"
-	date="1749.6.7"
+	date="1799.6.7"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -313,7 +313,7 @@ leader = {
 
 leader = {
 	name="Abu'l Fath Daei"
-	date="1749.11.30"
+	date="1799.11.30"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -321,7 +321,7 @@ leader = {
 
 leader = {
 	name="Loft Ali Ansari"
-	date="1756.3.26"
+	date="1806.3.26"
 	type=land
 	personality="defence_3.1"
 	background="attack_5.1"
@@ -329,7 +329,7 @@ leader = {
 
 leader = {
 	name="Abdol Shahy"
-	date="1758.3.8"
+	date="1808.3.8"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -337,7 +337,7 @@ leader = {
 
 leader = {
 	name="Ismâ'îl Azizi"
-	date="1759.4.4"
+	date="1809.4.4"
 	type=land
 	personality="defence_minus_1.1"
 	background="attack_2.1"
@@ -345,7 +345,7 @@ leader = {
 
 leader = {
 	name="Amanollah Daei"
-	date="1764.10.4"
+	date="1814.10.4"
 	type=land
 	personality="defence_minus_1.1"
 	background="attack_3.13"

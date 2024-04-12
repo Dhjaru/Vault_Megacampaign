@@ -270,7 +270,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Diogenes Paraspondylos"
-	date="1748.1.11"
+	date="1798.1.11"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"

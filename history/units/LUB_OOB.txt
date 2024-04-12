@@ -283,7 +283,7 @@ ZUN = {
 #Leaders
 leader = {
 	name="Siegfried Framhein"
-	date="1743.1.19"
+	date="1793.1.19"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -291,7 +291,7 @@ leader = {
 
 leader = {
 	name="Barnabas von Düten"
-	date="1748.9.10"
+	date="1798.9.10"
 	type=land
 	personality="defence_2.1"
 	background="attack_2.1"
@@ -299,7 +299,7 @@ leader = {
 
 leader = {
 	name="Kuno Jarchow"
-	date="1757.9.24"
+	date="1807.9.24"
 	type=sea
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -307,7 +307,7 @@ leader = {
 
 leader = {
 	name="Baldur Vilter"
-	date="1758.4.14"
+	date="1808.4.14"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -315,7 +315,7 @@ leader = {
 
 leader = {
 	name="Oskar Engel"
-	date="1761.3.16"
+	date="1811.3.16"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -323,7 +323,7 @@ leader = {
 
 leader = {
 	name="Oskar Thelemann"
-	date="1762.12.20"
+	date="1812.12.20"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -331,7 +331,7 @@ leader = {
 
 leader = {
 	name="Reinhard Heinsohn"
-	date="1764.10.23"
+	date="1814.10.23"
 	type=land
 	personality="defence_minus_1.1"
 	background="attack_2.1"
@@ -339,7 +339,7 @@ leader = {
 
 leader = {
 	name="Erwin Alpers"
-	date="1764.11.1"
+	date="1814.11.1"
 	type=land
 	personality="defence_3.1"
 	background="attack_3.13"
@@ -347,7 +347,7 @@ leader = {
 
 leader = {
 	name="Viktor Baasch von Gï¿½ttingen"
-	date="1769.9.2"
+	date="1819.9.2"
 	type=sea
 	personality="defence_3.1"
 	background="attack_2.1"

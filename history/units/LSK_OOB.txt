@@ -285,7 +285,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Särkver Natt och Dag"
-	date="1744.5.2"
+	date="1794.5.2"
 	type=sea
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -293,7 +293,7 @@ leader = {
 
 leader = {
 	name="Egil Marsvin"
-	date="1761.5.6"
+	date="1811.5.6"
 	type=land
 	personality="defence_2.1"
 	background="attack_2.1"
@@ -301,7 +301,7 @@ leader = {
 
 leader = {
 	name="Faste Trolle"
-	date="1762.5.11"
+	date="1812.5.11"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"
@@ -309,7 +309,7 @@ leader = {
 
 leader = {
 	name="Holmger Porse"
-	date="1767.6.4"
+	date="1817.6.4"
 	type=sea
 	personality="defence_2.1"
 	background="attack_2.1"

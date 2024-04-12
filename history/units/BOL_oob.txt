@@ -290,7 +290,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Bartolomé Grimaldi"
-	date="1729.4.2"
+	date="1779.4.2"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -298,7 +298,7 @@ leader = {
 
 leader = {
 	name="Antonio Fitz-James"
-	date="1764.10.17"
+	date="1814.10.17"
 	type=land
 	personality="defence_2.1"
 	background="attack_2.1"
@@ -306,7 +306,7 @@ leader = {
 
 leader = {
 	name="Domingo Folch de Cardona"
-	date="1768.8.30"
+	date="1818.8.30"
 	type=sea
 	personality="defence_2.1"
 	background="attack_3.1"

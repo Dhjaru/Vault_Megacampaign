@@ -295,7 +295,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Afsin VIII Purgyal"
-	date="1764.11.18"
+	date="1814.11.18"
 	type=land
 	personality="intuitive"
 	background="attack_3.1"
@@ -303,7 +303,7 @@ leader = {
 
 leader = {
 	name="Srongnge Yeshe Öd Gampo"
-	date="1746.8.6"
+	date="1796.8.6"
 	type=land
 	personality="defence_4.1"
 	background="attack_minus_2.1"

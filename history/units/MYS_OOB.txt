@@ -266,7 +266,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Immadai Raja Vokkaliga"
-	date="1738.5.27"
+	date="1788.5.27"
 	type=land
 	personality="defence_2.1"
 	background="attack_4.1"
@@ -274,7 +274,7 @@ leader = {
 
 leader = {
 	name="Ramachandra Gowda"
-	date="1763.12.10"
+	date="1813.12.10"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"

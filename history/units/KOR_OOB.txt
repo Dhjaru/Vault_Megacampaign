@@ -309,7 +309,7 @@ ZUN = {
 #Leaders
 leader = {
 	name="Sun I Yi"
-	date="1754.7.22"
+	date="1804.7.22"
 	type=land
 	personality="defence_3.1"
 	background="attack_5.1"
@@ -317,7 +317,7 @@ leader = {
 
 leader = {
 	name="Hong-rip Song"
-	date="1739.11.28"
+	date="1789.11.28"
 	type=sea
 	personality="defence_minus_1.1"
 	background="attack_3.1"
@@ -325,7 +325,7 @@ leader = {
 
 leader = {
 	name="Gwanghyeon Min"
-	date="1769.10.15"
+	date="1819.10.15"
 	type=land
 	personality="defence_2.1"
 	background="attack_4.1"

@@ -321,7 +321,7 @@ ZUN = {
 #Leaders
 leader = {
 	name="Ambroos Sahiri"
-	date="1740.7.29"
+	date="1790.7.29"
 	type=sea
 	personality="defence_5.1"
 	background="attack_minus_1.1"
@@ -329,7 +329,7 @@ leader = {
 
 leader = {
 	name="Ya'far Alami"
-	date="1752.1.15"
+	date="1802.1.15"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -337,7 +337,7 @@ leader = {
 
 leader = {
 	name="Skule Sahiri"
-	date="1759.3.2"
+	date="1809.3.2"
 	type=sea
 	personality="defence_2.1"
 	background="attack_3.1"

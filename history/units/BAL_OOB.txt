@@ -268,7 +268,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Dalem Di Made Karno"
-	date="1745.11.8"
+	date="1795.11.8"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"

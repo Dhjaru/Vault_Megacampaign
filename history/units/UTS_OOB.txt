@@ -326,7 +326,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Tritog Jetsen Thonmi"
-	date="1762.4.7"
+	date="1812.4.7"
 	type=land
 	personality="defence_2.1"
 	background="attack_2.1"
@@ -334,7 +334,7 @@ leader = {
 
 leader = {
 	name="Gungsrong Gungtsen Mgus"
-	date="1764.10.1"
+	date="1814.10.1"
 	type=land
 	personality="defence_3.1"
 	background="attack_3.13"

@@ -293,7 +293,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Jaime de Guzmán"
-	date="1740.11.6"
+	date="1790.11.6"
 	type=sea
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -301,7 +301,7 @@ leader = {
 
 leader = {
 	name="Emilio de Aguirre"
-	date="1751.11.17"
+	date="1801.11.17"
 	type=land
 	personality="defence_2.1"
 	background="attack_2.1"
@@ -309,7 +309,7 @@ leader = {
 
 leader = {
 	name="Juan Bautista de Leiva"
-	date="1752.11.17"
+	date="1802.11.17"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"
@@ -317,7 +317,7 @@ leader = {
 
 leader = {
 	name="Cristobal Sastre"
-	date="1759.3.22"
+	date="1809.3.22"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"

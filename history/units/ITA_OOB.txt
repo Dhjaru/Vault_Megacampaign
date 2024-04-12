@@ -309,7 +309,7 @@ ZUN = {
 #Leaders
 leader = {
 	name="Gian Galeazzo Barzagli"
-	date="1731.7.2"
+	date="1781.7.2"
 	type=land
 	personality="defence_3.1"
 	background="attack_5.1"
@@ -317,7 +317,7 @@ leader = {
 
 leader = {
 	name="Vittorio Petrucci"
-	date="1741.12.19"
+	date="1791.12.19"
 	type=sea
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -325,7 +325,7 @@ leader = {
 
 leader = {
 	name="Filippo Cybo"
-	date="1749.4.3"
+	date="1799.4.3"
 	type=land
 	personality="defence_3.1"
 	background="attack_1.1"
@@ -333,7 +333,7 @@ leader = {
 
 leader = {
 	name="Eugenio Contarini"
-	date="1753.12.3"
+	date="1803.12.3"
 	type=land
 	personality="defence_2.1"
 	background="attack_4.1"
@@ -341,7 +341,7 @@ leader = {
 
 leader = {
 	name="Alberto della Ubaldini"
-	date="1755.4.17"
+	date="1805.4.17"
 	type=land
 	personality="defence_3.1"
 	background="attack_4.1"
@@ -349,7 +349,7 @@ leader = {
 
 leader = {
 	name="Benedetto Colonna"
-	date="1759.9.1"
+	date="1809.9.1"
 	type=land
 	personality="defence_2.1"
 	background="attack_2.1"
@@ -357,7 +357,7 @@ leader = {
 
 leader = {
 	name="Sforza Maria Pico"
-	date="1765.7.12"
+	date="1815.7.12"
 	type=land
 	personality="defence_2.1"
 	background="attack_2.1"
@@ -365,7 +365,7 @@ leader = {
 
 leader = {
 	name="Agostino Pignatelli"
-	date="1765.8.28"
+	date="1815.8.28"
 	type=sea
 	personality="defence_1.1"
 	background="attack_minus_1.1"
@@ -373,7 +373,7 @@ leader = {
 
 leader = {
 	name="Napoleone Boncompagni"
-	date="1765.8.30"
+	date="1815.8.30"
 	type=sea
 	personality="defence_3.1"
 	background="attack_2.1"

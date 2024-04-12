@@ -313,7 +313,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Gabriel Van Noort"
-	date="1736.4.2"
+	date="1786.4.2"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"
@@ -321,7 +321,7 @@ leader = {
 
 leader = {
 	name="Constantijn Coen"
-	date="1753.11.12"
+	date="1803.11.12"
 	type=sea
 	personality="defence_2.1"
 	background="attack_2.1"
@@ -329,7 +329,7 @@ leader = {
 
 leader = {
 	name="Laurens Van Ilpendam"
-	date="1754.2.27"
+	date="1804.2.27"
 	type=land
 	personality="defence_5.1"
 	background="attack_minus_1.1"
@@ -337,7 +337,7 @@ leader = {
 
 leader = {
 	name="Cornelis Van Rechteren"
-	date="1767.5.28"
+	date="1817.5.28"
 	type=sea
 	personality="defence_2.1"
 	background="attack_2.1"

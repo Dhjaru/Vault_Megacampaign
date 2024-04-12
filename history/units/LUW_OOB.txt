@@ -314,7 +314,7 @@ ZUN = {
 #Leaders
 leader = {
 	name="Sankilang Mahat"
-	date="1766.5.27"
+	date="1816.5.27"
 	type=land
 	personality="defence_2.1"
 	background="attack_2.1"
@@ -322,7 +322,7 @@ leader = {
 
 leader = {
 	name="Tuni Djallori Chairul"
-	date="1767.7.17"
+	date="1817.7.17"
 	type=sea
 	personality="defence_2.1"
 	background="attack_3.1"

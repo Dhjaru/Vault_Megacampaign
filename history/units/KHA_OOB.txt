@@ -291,7 +291,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Adai VIII Chagatayid"
-	date="1766.4.2"
+	date="1816.4.2"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -299,7 +299,7 @@ leader = {
 
 leader = {
 	name="Jorightu Ordos"
-	date="1753.12.2"
+	date="1803.12.2"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"

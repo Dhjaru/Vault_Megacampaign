@@ -296,7 +296,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Cerdic de La Tour d'Auvergne"
-	date="1754.4.13"
+	date="1804.4.13"
 	type=sea
 	personality="defence_2.1"
 	background="attack_2.1"

@@ -310,7 +310,7 @@ ZUN = {
 #Leaders
 leader = {
 	name="Jan Van Diemen"
-	date="1737.11.18"
+	date="1787.11.18"
 	type=land
 	personality="defence_2.1"
 	background="attack_4.1"
@@ -318,7 +318,7 @@ leader = {
 
 leader = {
 	name="Godfried Van Noort"
-	date="1755.6.10"
+	date="1805.6.10"
 	type=sea
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -326,7 +326,7 @@ leader = {
 
 leader = {
 	name="Pieter Stuyvesant"
-	date="1764.12.22"
+	date="1814.12.22"
 	type=land
 	personality="defence_2.1"
 	background="attack_2.1"
@@ -334,7 +334,7 @@ leader = {
 
 leader = {
 	name="Jan Van Troyen"
-	date="1764.12.28"
+	date="1814.12.28"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -342,7 +342,7 @@ leader = {
 
 leader = {
 	name="Simon Crijnssen"
-	date="1765.1.2"
+	date="1815.1.2"
 	type=land
 	personality="defence_2.1"
 	background="attack_4.1"
@@ -350,7 +350,7 @@ leader = {
 
 leader = {
 	name="Karel Coen"
-	date="1766.3.11"
+	date="1816.3.11"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"
@@ -358,7 +358,7 @@ leader = {
 
 leader = {
 	name="Willem Van Pallandt"
-	date="1766.12.15"
+	date="1816.12.15"
 	type=land
 	personality="intuitive"
 	background="attack_3.1"

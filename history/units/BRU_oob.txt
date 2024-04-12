@@ -270,7 +270,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Sayf ad-Dîn Ibnu"
-	date="1768.3.27"
+	date="1818.3.27"
 	type=sea
 	personality="intuitive"
 	background="attack_3.1"

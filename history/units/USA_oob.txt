@@ -293,7 +293,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Thomas Van Haren"
-	date="1744.4.3"
+	date="1794.4.3"
 	type=land
 	personality="defence_3.1"
 	background="attack_minus_1.1"
@@ -301,7 +301,7 @@ leader = {
 
 leader = {
 	name="Lodewijk Van Keppel"
-	date="1745.1.15"
+	date="1795.1.15"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"
@@ -309,7 +309,7 @@ leader = {
 
 leader = {
 	name="Frederik Van Bronkhorst"
-	date="1752.9.24"
+	date="1802.9.24"
 	type=sea
 	personality="defence_2.1"
 	background="attack_2.1"
@@ -317,7 +317,7 @@ leader = {
 
 leader = {
 	name="Johan Van Egmont"
-	date="1765.4.28"
+	date="1815.4.28"
 	type=sea
 	personality="defence_minus_1.1"
 	background="attack_3.1"

@@ -267,7 +267,7 @@ ZIM = {
 #Leaders
 leader = {
 	name="Houwei I Li"
-	date="1763.7.16"
+	date="1813.7.16"
 	type=land
 	personality="defence_2.1"
 	background="attack_4.1"
@@ -275,7 +275,7 @@ leader = {
 
 leader = {
 	name="Songtham Na Kedah"
-	date="1749.7.23"
+	date="1799.7.23"
 	type=sea
 	personality="defence_2.1"
 	background="attack_3.1"
@@ -283,7 +283,7 @@ leader = {
 
 leader = {
 	name="Rama Inchareon"
-	date="1759.5.31"
+	date="1809.5.31"
 	type=land
 	personality="defence_3.1"
 	background="attack_2.1"

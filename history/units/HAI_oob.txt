@@ -313,7 +313,7 @@ ZUN = {
 #Leaders
 leader = {
 	name="Antoon Van Diemen"
-	date="1744.11.29"
+	date="1794.11.29"
 	type=sea
 	personality="defence_5.1"
 	background="attack_minus_1.1"
@@ -321,7 +321,7 @@ leader = {
 
 leader = {
 	name="Lodewijk Van Voorst"
-	date="1748.2.11"
+	date="1798.2.11"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"
@@ -329,7 +329,7 @@ leader = {
 
 leader = {
 	name="Constantijn Van Renesse"
-	date="1757.12.29"
+	date="1807.12.29"
 	type=sea
 	personality="defence_3.1"
 	background="attack_2.1"
@@ -337,7 +337,7 @@ leader = {
 
 leader = {
 	name="Christoffel Van Huchtenbroek"
-	date="1761.6.7"
+	date="1811.6.7"
 	type=sea
 	personality="defence_3.1"
 	background="attack_minus_1.1"
@@ -345,7 +345,7 @@ leader = {
 
 leader = {
 	name="Cornelis Van Raephorst"
-	date="1765.3.20"
+	date="1815.3.20"
 	type=sea
 	personality="defence_2.1"
 	background="attack_3.1"
@@ -353,7 +353,7 @@ leader = {
 
 leader = {
 	name="Gabriel De Moor"
-	date="1765.3.21"
+	date="1815.3.21"
 	type=land
 	personality="defence_2.1"
 	background="attack_3.1"

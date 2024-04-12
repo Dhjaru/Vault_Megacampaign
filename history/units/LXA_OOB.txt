@@ -315,7 +315,7 @@ ZUN = {
 #Leaders
 leader = {
 	name="Photisarat Vichit"
-	date="1756.7.3"
+	date="1806.7.3"
 	type=land
 	personality="defence_4.1"
 	background="attack_minus_2.1"
@@ -323,7 +323,7 @@ leader = {
 
 leader = {
 	name="Ong Kham Vongsawat"
-	date="1764.1.2"
+	date="1814.1.2"
 	type=land
 	personality="defence_2.1"
 	background="attack_2.1"
