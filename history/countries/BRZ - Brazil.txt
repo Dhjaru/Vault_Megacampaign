@@ -47,6 +47,8 @@ nonstate_consciousness= 0
 # Technologies
 bronze_muzzle_loaded_artillery = 1
 classicism_n_early_romanticism = 1
+military_staff_system = 1
+army_command_principle = 1
 clipper_design = 1
 early_classical_theory_and_critique = 1
 enlightenment_thought = 1

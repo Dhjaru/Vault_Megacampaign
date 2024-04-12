@@ -48,6 +48,7 @@ nonstate_consciousness= 0.686774
 mechanized_mining = 1
 water_wheel_power = 1
 alphabetic_flag_signaling = 1
+military_staff_system = 1
 army_command_principle = 1
 basic_chemistry = 1
 battleship_column_doctrine = 1
