@@ -484,3 +484,38 @@ army = {
 	}
 }
 
+
+army = {
+	name="Armee von Praha"
+	location=625
+	regiment = {
+		name="1st Požega Infantry"
+		type=infantry
+		home=627
+	}
+	regiment = {
+		name="1st Trencín Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="1st Linz Infantry"
+		type=infantry
+		home=602
+	}
+	regiment = {
+		name="1st Sisak Infantry"
+		type=infantry
+		home=601
+	}
+	regiment = {
+		name="1st Banská Bystrica Artillery"
+		type=artillery
+		home=600
+	}
+	regiment = {
+		name="1st Maribor Artillery"
+		type=artillery
+		home=699
+	}
+}
