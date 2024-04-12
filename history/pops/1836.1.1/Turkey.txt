@@ -2336,49 +2336,49 @@
 	soldiers=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 61
 	}
 
 	artisans=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 17
 	}
 
 	clergymen=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 28
 	}
 
 	bureaucrats=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 9
 	}
 
 	officers=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 7
 	}
 
 	aristocrats=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 54
 	}
 
 	farmers=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 23060
 	}
 
@@ -2646,49 +2646,49 @@
 	soldiers=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 31
 	}
 
 	artisans=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 62
 	}
 
 	clergymen=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 29
 	}
 
 	bureaucrats=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 10
 	}
 
 	officers=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 6
 	}
 
 	aristocrats=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 56
 	}
 
 	farmers=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 14475
 	}
 
@@ -2844,49 +2844,49 @@
 	soldiers=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 11
 	}
 
 	artisans=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 6
 	}
 
 	clergymen=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 10
 	}
 
 	bureaucrats=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 3
 	}
 
 	officers=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 19
 	}
 
 	farmers=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 11968
 	}
 
@@ -3448,49 +3448,49 @@
 	soldiers=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 11
 	}
 
 	artisans=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 6
 	}
 
 	clergymen=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 10
 	}
 
 	bureaucrats=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 3
 	}
 
 	officers=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 19
 	}
 
 	farmers=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 11968
 	}
 

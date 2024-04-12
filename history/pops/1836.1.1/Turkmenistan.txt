@@ -293,6 +293,62 @@
 		size= 3424
 	}
 
+	soldiers=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = zoroastrian
+		size= 30
+	}
+
 }
 1196 = {
 	soldiers=
@@ -435,54 +491,103 @@
 		size= 3301
 	}
 
+	soldiers=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
 }
 1204 = {
 	soldiers=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 341
 	}
 
 	artisans=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 652
 	}
 
 	clergymen=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 61
 	}
 
 	bureaucrats=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 10
 	}
 
 	officers=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 14
 	}
 
 	aristocrats=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 78
 	}
 
 	farmers=
 	{
 		culture = turkish
-		religion = sunni
+		religion = shiite
 		size= 33033
 	}
 
@@ -538,49 +643,49 @@
 	soldiers=
 	{
 		culture = turkish
-		religion = zoroastrian
+		religion = shiite
 		size= 31
 	}
 
 	artisans=
 	{
 		culture = turkish
-		religion = zoroastrian
+		religion = shiite
 		size= 2008
 	}
 
 	clergymen=
 	{
 		culture = turkish
-		religion = zoroastrian
+		religion = shiite
 		size= 186
 	}
 
 	bureaucrats=
 	{
 		culture = turkish
-		religion = zoroastrian
+		religion = shiite
 		size= 32
 	}
 
 	officers=
 	{
 		culture = turkish
-		religion = zoroastrian
+		religion = shiite
 		size= 42
 	}
 
 	aristocrats=
 	{
 		culture = turkish
-		religion = zoroastrian
+		religion = shiite
 		size= 241
 	}
 
 	farmers=
 	{
 		culture = turkish
-		religion = zoroastrian
+		religion = shiite
 		size= 584
 	}
 
@@ -782,6 +887,55 @@
 		size= 6031
 	}
 
+	soldiers=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
 }
 1206 = {
 	soldiers=
@@ -831,55 +985,6 @@
 		culture = persian
 		religion = sunni
 		size= 59613
-	}
-
-	soldiers=
-	{
-		culture = persian
-		religion = shiite
-		size= 1
-	}
-
-	artisans=
-	{
-		culture = persian
-		religion = shiite
-		size= 1153
-	}
-
-	clergymen=
-	{
-		culture = persian
-		religion = shiite
-		size= 107
-	}
-
-	bureaucrats=
-	{
-		culture = persian
-		religion = shiite
-		size= 15
-	}
-
-	officers=
-	{
-		culture = persian
-		religion = shiite
-		size= 17
-	}
-
-	aristocrats=
-	{
-		culture = persian
-		religion = shiite
-		size= 138
-	}
-
-	farmers=
-	{
-		culture = persian
-		religion = shiite
-		size= 115
 	}
 
 	soldiers=
@@ -978,6 +1083,55 @@
 		culture = holmgardr
 		religion = orthodox
 		size= 23198
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = shiite
+		size= 50
 	}
 
 }
