@@ -2989,49 +2989,49 @@
 
 	farmers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 927
 	}
 
 	artisans=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 81
 	}
 
 	aristocrats=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 16
 	}
 
 	clergymen=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 12
 	}
 
 	soldiers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 1
 	}
 
 	bureaucrats=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 4
 	}
 
 	officers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 2
 	}
@@ -3068,49 +3068,49 @@
 
 	farmers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 1051
 	}
 
 	artisans=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 87
 	}
 
 	aristocrats=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 18
 	}
 
 	clergymen=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 14
 	}
 
 	soldiers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 1
 	}
 
 	bureaucrats=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 2
 	}
 
 	officers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 1
 	}
@@ -3133,49 +3133,49 @@
 
 	farmers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 503
 	}
 
 	artisans=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 42
 	}
 
 	aristocrats=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 9
 	}
 
 	clergymen=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 6
 	}
 
 	soldiers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size=1
 	}
 
 	bureaucrats=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 1
 	}
 
 	officers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 1
 	}
@@ -3198,49 +3198,49 @@
 
 	farmers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 1017
 	}
 
 	artisans=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 75
 	}
 
 	aristocrats=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 14
 	}
 
 	soldiers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 1
 	}
 
 	clergymen=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 3
 	}
 
 	officers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 2
 	}
@@ -3263,49 +3263,49 @@
 
 	farmers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 1444
 	}
 
 	artisans=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 110
 	}
 
 	clergymen=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 23
 	}
 
 	soldiers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 1
 	}
 
 	bureaucrats=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 4
 	}
 
 	officers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = orthodox
 		size= 3
 	}
@@ -14849,14 +14849,14 @@
 
 	soldiers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = catholic
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = catholic
 		size= 698
 	}

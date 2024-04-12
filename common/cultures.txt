@@ -70,7 +70,7 @@ african_diaspora_cultures = {
 		
 	}
 	afro_norse = {
-		color = { 39 9 74 }
+		color = { 143 97 7 }
 		
 		first_names = { "Agnar" "Ásgeir" "Björn" "Eidur" "Einar" "Emil" "Geir" "Gudmund" "Gunnar" "Hannes" "Hermann" "Jón" "Kristján" "Magnús" "Ólafur" "Pétur" "Sigurdur" "Stefán" "Sveinn" "Tryggvi" }
 		
@@ -3501,7 +3501,7 @@ neo_european_cultures = {
 		
 	}
 	mauritsstadtian = {
-		color = { 149 119 184 }
+		color = { 209 171 96 }
 		radicalism = 10
 		
 		first_names = { "Sarel" "Rudolf" "Andries" "Hendrik" "Piet" "Racheltjie" "Dirkie" "Siener" "Koos" "Danie" "Christiaan" "Louis" "Petrus" "Paul" "Eugene" "Joubert" }
