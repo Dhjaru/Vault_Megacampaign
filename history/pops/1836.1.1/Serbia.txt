@@ -206,6 +206,13 @@
 		size= 403
 	}
 
+	craftsmen=
+	{
+		culture = greek
+		religion = orthodox
+		size= 3170
+	}
+
 	clergymen=
 	{
 		culture = greek
@@ -297,6 +304,13 @@
 		culture = greek
 		religion = catholic
 		size= 103
+	}
+
+	craftsmen=
+	{
+		culture = greek
+		religion = orthodox
+		size= 3170
 	}
 
 	clergymen=

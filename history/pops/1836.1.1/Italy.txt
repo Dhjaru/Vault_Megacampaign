@@ -178,6 +178,13 @@
 		size= 6361
 	}
 
+	craftsmen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 12791
+	}
+
 	artisans=
 	{
 		culture = north_italian
@@ -227,6 +234,13 @@
 		culture = north_italian
 		religion = catholic
 		size= 1361
+	}
+
+	craftsmen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 791
 	}
 
 	artisans=
@@ -280,6 +294,13 @@
 		size= 1881
 	}
 
+	craftsmen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2191
+	}
+
 	artisans=
 	{
 		culture = north_italian
@@ -329,6 +350,13 @@
 		culture = north_italian
 		religion = catholic
 		size= 1031
+	}
+
+	craftsmen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1791
 	}
 
 	artisans=
@@ -382,6 +410,13 @@
 		size= 1571
 	}
 
+	craftsmen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 4791
+	}
+
 	artisans=
 	{
 		culture = north_italian
@@ -433,6 +468,13 @@
 		size= 1841
 	}
 
+	craftsmen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1000
+	}
+
 	artisans=
 	{
 		culture = north_italian
@@ -482,6 +524,13 @@
 		culture = north_italian
 		religion = catholic
 		size= 7321
+	}
+
+	craftsmen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 11791
 	}
 
 	artisans=
@@ -570,6 +619,13 @@
 		size= 851
 	}
 
+	craftsmen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 791
+	}
+
 	artisans=
 	{
 		culture = north_italian
@@ -619,6 +675,13 @@
 		culture = north_italian
 		religion = catholic
 		size= 1011
+	}
+
+	craftsmen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 3791
 	}
 
 	artisans=
@@ -3768,6 +3831,13 @@
 		culture = north_italian
 		religion = catholic
 		size= 851
+	}
+
+	craftsmen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 891
 	}
 
 	artisans=

@@ -243,6 +243,13 @@
 		size= 11935
 	}
 
+	craftsmen=
+	{
+		culture = greek
+		religion = orthodox
+		size= 15170
+	}
+
 	soldiers=
 	{
 		culture = greek
@@ -783,7 +790,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 8170
+		size= 15170
 	}
 
 	artisans=

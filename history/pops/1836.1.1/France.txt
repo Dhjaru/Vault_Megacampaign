@@ -2815,6 +2815,13 @@
 		size= 419
 	}
 
+	craftsmen=
+	{
+		culture = french
+		religion = protestant
+		size= 11607
+	}
+
 	clergymen=
 	{
 		culture = french
@@ -2908,6 +2915,13 @@
 		size= 378
 	}
 
+	craftsmen=
+	{
+		culture = french
+		religion = protestant
+		size= 2607
+	}
+
 	clergymen=
 	{
 		culture = french
@@ -2999,6 +3013,13 @@
 		culture = french
 		religion = catholic
 		size= 361
+	}
+
+	craftsmen=
+	{
+		culture = french
+		religion = protestant
+		size= 2607
 	}
 
 	clergymen=
