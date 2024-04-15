@@ -2300,6 +2300,13 @@
 		size= 621
 	}
 
+	capitalists=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 270
+	}
+
 	officers=
 	{
 		culture = holmgardr
@@ -2312,6 +2319,13 @@
 		culture = holmgardr
 		religion = orthodox
 		size= 7727
+	}
+
+	craftsmen=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 12952
 	}
 
 	farmers=
@@ -2661,6 +2675,13 @@
 		culture = ugrian
 		religion = orthodox
 		size= 511
+	}
+
+	craftsmen=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 11000
 	}
 
 	farmers=
@@ -6371,6 +6392,13 @@
 		culture = holmgardr
 		religion = orthodox
 		size= 5058
+	}
+
+	craftsmen=
+	{
+		culture = holmgardr
+		religion = orthodox
+		size= 5100
 	}
 
 	farmers=
@@ -13247,13 +13275,6 @@
 		size= 21
 	}
 
-	craftsmen=
-	{
-		culture = manchu
-		religion = tengri_pagan_reformed
-		size= 4151
-	}
-
 	artisans=
 	{
 		culture = manchu
@@ -13289,13 +13310,6 @@
 		size= 9
 	}
 
-	capitalists=
-	{
-		culture = manchu
-		religion = tengri_pagan_reformed
-		size= 48
-	}
-
 	aristocrats=
 	{
 		culture = manchu
@@ -13315,13 +13329,6 @@
 		culture = manchu
 		religion = orthodox
 		size= 1
-	}
-
-	craftsmen=
-	{
-		culture = manchu
-		religion = orthodox
-		size= 532
 	}
 
 	artisans=
@@ -13359,13 +13366,6 @@
 		size= 12
 	}
 
-	capitalists=
-	{
-		culture = manchu
-		religion = orthodox
-		size= 60
-	}
-
 	aristocrats=
 	{
 		culture = manchu
@@ -13385,13 +13385,6 @@
 		culture = holmgardr
 		religion = orthodox
 		size= 21
-	}
-
-	craftsmen=
-	{
-		culture = holmgardr
-		religion = orthodox
-		size= 3487
 	}
 
 	artisans=
@@ -13433,7 +13426,7 @@
 	{
 		culture = holmgardr
 		religion = orthodox
-		size= 270
+		size= 27
 	}
 
 	aristocrats=

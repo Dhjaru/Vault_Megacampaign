@@ -6,13 +6,6 @@
 		size= 11
 	}
 
-	craftsmen=
-	{
-		culture = tajik
-		religion = sunni
-		size= 728
-	}
-
 	artisans=
 	{
 		culture = tajik
@@ -76,13 +69,6 @@
 		size=1
 	}
 
-	craftsmen=
-	{
-		culture = tajik
-		religion = orthodox
-		size= 26
-	}
-
 	artisans=
 	{
 		culture = tajik
@@ -137,13 +123,6 @@
 		culture = holmgardr
 		religion = orthodox
 		size= 1
-	}
-
-	craftsmen=
-	{
-		culture = holmgardr
-		religion = orthodox
-		size= 537
 	}
 
 	artisans=
@@ -209,13 +188,6 @@
 		size= 21
 	}
 
-	craftsmen=
-	{
-		culture = turkmen
-		religion = catholic
-		size= 1615
-	}
-
 	artisans=
 	{
 		culture = turkmen
@@ -277,13 +249,6 @@
 		culture = turkmen
 		religion = orthodox
 		size= 1
-	}
-
-	craftsmen=
-	{
-		culture = turkmen
-		religion = orthodox
-		size= 425
 	}
 
 	artisans=
