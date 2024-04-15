@@ -1,0 +1,41 @@
+political_decisions = {
+	
+	hegan_larp = {
+		picture = naples
+		potential = {
+			tag = BYZ
+			NOT = { has_country_flag = hegan_larp }
+		}
+
+		allow = {
+			owns = 754
+			owns = 757
+			revolution_n_counterrevolution = 1
+		}
+
+		effect = {
+			set_country_flag = hegan_larp
+			prestige = 5
+			add_accepted_culture = magnagreek
+			SIC_753 = {
+				any_pop = {
+					consciousness = -2
+					militancy = -4
+				}
+				add_core = BYZ
+			}
+			SIC_754 = {
+				any_pop = {
+					consciousness = -2
+					militancy = -4
+				}
+				add_core = BYZ
+			}
+
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
