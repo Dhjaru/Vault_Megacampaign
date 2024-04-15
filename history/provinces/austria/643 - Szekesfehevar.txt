@@ -3,5 +3,6 @@ controller=KUK
 add_core=BOS
 add_core=KUK
 add_core=YUG
+add_core=HUN
 trade_goods = grain
 life_rating = 35

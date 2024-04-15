@@ -1,6 +1,6 @@
 owner=ENG
 controller=ENG
-add_core=ARA
+add_core=YEM
 add_core=MHR
 trade_goods = fish
 life_rating = 20

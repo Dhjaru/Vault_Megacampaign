@@ -1,5 +1,5 @@
 owner=BYZ
 controller=BYZ
-add_core=ARA
+add_core=YEM
 trade_goods = coffee
 life_rating = 35
