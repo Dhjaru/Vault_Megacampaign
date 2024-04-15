@@ -333,17 +333,11 @@ AUS_633 = { 633 634 635 636 637 638 950 } #Slovakia
 
 AUS_641 = { 641 645 646 648 649 650 } #Central Hungary
 
-#AUS_652 = { } #Banat
-
-AUS_654 = { 654 655 656 661 651 647 } #Western Transylvania
-
-AUS_657 = { 657 659 660 2533 } #Eastern Transylvania
-
-AUS_702 = { 703 704 705 714 } #Galicia-Lodomeria
-
 AUS_662 = { 702 951 952 953} #East Galicia
 
 RUS_715 = { 715 711 713 716 } #West Galicia
+
+AUS_702 = { 703 704 705 714 } #Galicia-Lodomeria
 
 AUS_726 = { 726 727 728 2669 } #Lombardia
 
@@ -363,8 +357,13 @@ AUS_771 = { 771 772 773 775 776 779 793 777 } #Croatia
 
 AUS_780 = { 780 781 782 774 } #Dalmatia
 
+AUS_654 = { 654 655 656 661 651 647 } #Western Transylvania
+
+AUS_657 = { 657 659 660 2533 } #Eastern Transylvania
+
 AUS_2538 = { 2538 791 792 652 653 } #Vojvodina
 
+#AUS_652 = { } #Banat
 
 ### Italy
 
@@ -389,9 +388,9 @@ SAR_765 = { 765 766 473 } #Sardinia & Corscia/Thyrrenian Islands
 
 ### Balkans
 
-WAL_665 = { 664 665 666 668 667 669 } #Wallachia
-
 MOL_673 = { 673 672 670 671 663 662 } #Moldavia
+
+WAL_665 = { 664 665 666 668 667 669 } #Wallachia
 
 TUR_674 = { 674 675 818 } #Dobrudja
 

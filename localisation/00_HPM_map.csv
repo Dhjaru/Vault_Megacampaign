@@ -460,8 +460,6 @@ BAV_595;Franconia;;;;;;;;;;;;x
 BAV_599;Upper Bavaria;;;;;;;;;;;;x
 SPA_610;Caroline Islands;;;;;;;;;;;;x
 AUS_652;Banat;;;;;;;;;;;;x
-AUS_654;Western Transylvania;;;;;;;;;;;;x
-AUS_657;Eastern Transylvania;;;;;;;;;;;;x
 MOL_676;Bessarabia;;;;;;;;;;;;x
 PRU_682;Silesia;;;;;;;;;;;;x
 AUS_702;Galicia-Lodomeria;;;;;;;;;;;;x
@@ -473,17 +471,10 @@ PROV719;Bialystok;;;;;;;;;;;;x
 PROV748;Grosseto;;;;;;;;;;;;x
 SAR_765;Thyrrenian Islands;;;;;;;;;;;;x
 FRA_801;Tahiti;;;;;;;;;;;;x
-TUR_805;Southern Macedonia;;;;;;;;;;;;x
 TUR_806;Northern Macedonia;;;;;;;;;;;;x
 TUR_809;Eastern Rumelia;;;;;;;;;;;;x
 TUR_823;Eastern Macedonia;;;;;;;;;;;;x
 PROV829;Xanthe;;;;;;;;;;;;x
-TUR_876;Ankara;;;;;;;;;;;;x
-TUR_880;Kastamonu;;;;;;;;;;;;x
-TUR_882;Trebizond;;;;;;;;;;;;x
-TUR_890;Van;;;;;;;;;;;;x
-TUR_893;Diyarbakir;;;;;;;;;;;;x
-TUR_894;Adana;;;;;;;;;;;;x
 RUS_940;Pinsk;;;;;;;;;;;;x
 RUS_968;Transnistria;;;;;;;;;;;;x
 RUS_978;Kharkov;;;;;;;;;;;;x
@@ -708,12 +699,6 @@ TUR_806;Northern Macedonia;;;;;;;;;;;;x
 TUR_809;Eastern Rumelia;;;;;;;;;;;;x
 TUR_823;Eastern Macedonia;;;;;;;;;;;;x
 PROV829;Xanthe;;;;;;;;;;;;x
-TUR_876;Ankara;;;;;;;;;;;;x
-TUR_880;Kastamonu;;;;;;;;;;;;x
-TUR_882;Trabizond;;;;;;;;;;;;x
-TUR_890;Van;;;;;;;;;;;;x
-TUR_893;Diyarbakir;;;;;;;;;;;;x
-TUR_894;Adana;;;;;;;;;;;;x
 RUS_940;Pinsk;;;;;;;;;;;;x
 RUS_955;Podillia;;;;;;;;;;;;x
 RUS_968;Transnistria;;;;;;;;;;;;x
@@ -879,6 +864,25 @@ PROV2554;Misiones;;;;;;;;;;;;x
 HES_2560;Hessen;;;;;;;;;;;;x
 RUS_2587;Kola;;;;;;;;;;;;x
 CHI_2678;Outer Mongolia;;;;;;;;;;;;x
+SER_794;Moesia;;x;;;;;;;;;;;;;;;;
+TUR_869;Asia;;x;;;;;;;;;;;;;;;;
+TUR_873;Lycia;;x;;;;;;;;;;;;;;;;
+TUR_863;Bithynia;;x;;;;;;;;;;;;;;;;
+TUR_880;Pontus;;x;;;;;;;;;;;;;;;;
+TUR_876;Galatia;;x;;;;;;;;;;;;;;;;
+TUR_893;Cappadocia;;x;;;;;;;;;;;;;;;;
+TUR_894;Cilicia;;x;;;;;;;;;;;;;;;;
+TUR_882;Trebizond;;;;;;;;;;;;x
+TUR_890;Greater Armenia;;x;;;;;;;;;;;;;;;;
+TUR_853;Illyria;;x;;;;;;;;;;;;;;;;
+GRE_837;Hellas;;x;;;;;;;;;;;;;;;;
+TUR_805;Macedonia;;;;;;;;;;;;x
+PAP_752;Lazio;;x;;;;;;;;;;;;;;;;
+EGY_843;Crete;;x;;;;;;;;;;;;;;;;
+AUS_641;Bosnia;;x;;;;;;;;;;;;;;;;
+TUR_788;Serbia;;x;;;;;;;;;;;;;;;;
+AUS_780;Dalmatia;;x;;;;;;;;;;;;;;;;
+AUS_623;Cisdanubia;;x;;;;;;;;;;;;;;;;
 PROV2834;Bay of Ayan;;;;;;;;;;;;x
 PROV2836;Coast of Kamchatka;;;;;;;;;;;;x
 PROV2837;Sea of Okhotsk;;;;;;;;;;;;x
