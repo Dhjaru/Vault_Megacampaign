@@ -229,7 +229,7 @@ political_decisions = {
 		potential = {
 			OR = {
 				is_greater_power = yes
-				tag = PRU
+				tag = LUB
 			}
 			primary_culture = north_german
 			NOT = {
@@ -240,27 +240,22 @@ political_decisions = {
 		allow = {
 			war = no
 			OR = {
-				#revanchism = 0.01
+				revanchism = 0.1
 				year = 1870
-				AND = {
-					NOT = {	exists = LIP }
-					NOT = {	exists = ANH }
-					NOT = {	exists = HES }
-					NOT = {	exists = MEC }
-					NOT = {	exists = LUB }
-					NOT = {	exists = HOL }
-					NOT = {	exists = HAM }
-					NOT = {	exists = HAN }
-					NOT = {	exists = BRA }
-					NOT = {	exists = BRE }
-					NOT = {	exists = OLD }
-					NOT = {	exists = NAS }
-					NOT = {	exists = FRM }
-					NOT = {	exists = HEK }
-					NOT = {	exists = COB }
-					NOT = {	exists = MEI }
-					NOT = {	exists = WEI }
-					NOT = {	exists = SAX }
+				LUB = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								OR = {
+									in_sphere = THIS
+									overlord = {
+										tag = THIS
+									}
+								}
+							}
+						}
+					}
 				}
 			}
 		}
@@ -270,44 +265,16 @@ political_decisions = {
 			FRA_412 = {
 				add_core = NGF
 			}
+			PRU_570 = {
+				add_core = NGF
+			}
+			PRU_682 = {
+				add_core = NGF
+			}
+			DEN_372 = {
+				add_core = NGF
+			}
 			change_tag = NGF
-			PRU = { all_core = { remove_core = PRU add_core = NGF } }
-			LIP = { all_core = { remove_core = LIP add_core = NGF } }
-			ANH = { all_core = { remove_core = ANH add_core = NGF } }
-			HES = { all_core = { remove_core = HES add_core = NGF } }
-			MEC = { all_core = { remove_core = MEC add_core = NGF } }
-			LUB = { all_core = { remove_core = LUB add_core = NGF } }
-			HOL = { all_core = { remove_core = HOL add_core = NGF } }
-			HAM = { all_core = { remove_core = HAM add_core = NGF } }
-			HAN = { all_core = { remove_core = HAN add_core = NGF } }
-			BRA = { all_core = { remove_core = BRA add_core = NGF } }
-			BRE = { all_core = { remove_core = BRE add_core = NGF } }
-			OLD = { all_core = { remove_core = OLD add_core = NGF } }
-			NAS = { all_core = { remove_core = NAS add_core = NGF } }
-			FRM = { all_core = { remove_core = FRM add_core = NGF } }
-			HEK = { all_core = { remove_core = HEK add_core = NGF } }
-			COB = { all_core = { remove_core = COB add_core = NGF } }
-			MEI = { all_core = { remove_core = MEI add_core = NGF } }
-			WEI = { all_core = { remove_core = WEI add_core = NGF } }
-			SAX = { all_core = { remove_core = SAX add_core = NGF } }
-			inherit = LIP
-			inherit = ANH
-			inherit = HES
-			inherit = MEC
-			inherit = LUB
-			inherit = HOL
-			inherit = HAM
-			inherit = HAN
-			inherit = BRA
-			inherit = BRE
-			inherit = OLD
-			inherit = NAS
-			inherit = FRM
-			inherit = HEK
-			inherit = COB
-			inherit = MEI
-			inherit = WEI
-			inherit = SAX
 		}
 		
 		ai_will_do = {
@@ -376,78 +343,39 @@ political_decisions = {
 		news_desc_medium = "form_germany_NEWS_MEDIUM"
 		news_desc_short = "form_germany_NEWS_SHORT"
 		potential = {
-			tag = NGF
+			OR = {
+				tag = LUB
+				tag = KUK
+				tag = NGF
+			}
 			NOT = {
 				exists = GER
 				tag = ISR
 			}
+			NOT = { accepted_culture = croat }
 		}
 		
 		allow = {
-			tag = NGF
+			OR = {
+				tag = NGF
+				AND = {
+					tag = KUK
+					NOT = { accepted_culture = croat }
+				}
+			}
 			is_greater_power = yes
 			prestige = 45
 			war = no
-			FRA_412 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-			BAV_595 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-			BAV_599 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-			WUR_589 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-			BAD_586 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
+			GER = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								overlord = {
+									tag = THIS
+								}
 							}
 						}
 					}
@@ -498,6 +426,12 @@ political_decisions = {
 			SAX = { all_core = { remove_core = SAX add_core = GER } }
 			WUR = { all_core = { remove_core = WUR add_core = GER } }
 			BAD = { all_core = { remove_core = BAD add_core = GER } }
+			RIG = { all_core = { remove_core = BAD add_core = GER } }
+			TEU = { all_core = { remove_core = BAD add_core = GER } }
+			X04 = { all_core = { remove_core = BAD add_core = GER } }
+			POM = { all_core = { remove_core = BAD add_core = GER } }
+			NUM = { all_core = { remove_core = BAD add_core = GER } }
+			X01 = { all_core = { remove_core = BAD add_core = GER } }
 		}
 		ai_will_do = {
 			factor = 1
