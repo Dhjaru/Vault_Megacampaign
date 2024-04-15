@@ -254,6 +254,7 @@ political_decisions = {
 									}
 								}
 							}
+							is_core = SCA
 						}
 					}
 				}

@@ -1,5 +1,8 @@
 owner=LUB
 controller=LUB
 add_core=LUB
+add_core=SCA
+add_core=SWE
+add_core=NOR
 trade_goods = iron
 life_rating = 35
