@@ -1,7 +1,7 @@
 capital = 2185
 primary_culture = nouvellien
-culture = antartique
 culture = zzz_religion_protestant
+culture = antartique
 religion = protestant
 government = democracy
 plurality = 0

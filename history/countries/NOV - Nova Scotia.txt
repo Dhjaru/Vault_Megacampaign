@@ -1,6 +1,5 @@
 capital = 68
 primary_culture = anglo_canadian
-culture = yankee
 culture = zzz_religion_protestant
 religion = protestant
 government = presidential_dictatorship

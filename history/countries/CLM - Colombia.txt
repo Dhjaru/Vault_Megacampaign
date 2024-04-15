@@ -1,8 +1,8 @@
 capital = 2248
 primary_culture = antartique
+culture = zzz_religion_catholic
 culture = quechua
 culture = aimara
-culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy
 plurality = 0

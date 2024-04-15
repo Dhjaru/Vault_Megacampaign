@@ -1,7 +1,7 @@
 capital = 2463
 primary_culture = deagostinian
-culture = raudhskogarling
 culture = zzz_religion_catholic
+culture = raudhskogarling
 religion = catholic
 government = presidential_dictatorship
 plurality = 0

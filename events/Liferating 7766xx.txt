@@ -1,7 +1,7 @@
 
 country_event = {
 	id = 776600
-	title = "State Sizing Late Game"
+	title = "Life Rating Normalisation"
 
 	is_triggered_only = yes
 
@@ -10,19 +10,7 @@ country_event = {
 	}
 
 	option = {
-		any_country = { 
-			limit = {
-				OR = {
-					war = no
-					AND = {
-						war = yes
-						NOT = { 
-							year = 1837 
-						}
-					}
-				}
-				
-			}
+		any_country = {
 			any_owned = { 
 				limit = {
 					life_rating = 29
