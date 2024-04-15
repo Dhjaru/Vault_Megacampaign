@@ -359,7 +359,6 @@ PROV1391;Kota Kubang Labu;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1382;Hà Tiên;;;;;;;;;;;;;;;;;;;;;;;x
 RUS_1048;Circassia;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1049;Ubykhia;;;;;;;;;;;;;;;;;;;;;;;x
-PROV900;Antakya;;;;;;;;;;;;;;;;;;;;;;;x
 PROV689;Teschen;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1773;Saguia el-Hamra;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1178;Sana'a;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
@@ -874,6 +873,7 @@ TUR_893;Cappadocia;;x;;;;;;;;;;;;;;;;
 TUR_894;Cilicia;;x;;;;;;;;;;;;;;;;
 TUR_882;Trebizond;;;;;;;;;;;;x
 TUR_890;Greater Armenia;;x;;;;;;;;;;;;;;;;
+TUR_885;Chorzene;;x;;;;;;;;;;;;;;;;
 TUR_853;Illyria;;x;;;;;;;;;;;;;;;;
 GRE_837;Hellas;;x;;;;;;;;;;;;;;;;
 TUR_805;Macedonia;;;;;;;;;;;;x
@@ -973,3 +973,10 @@ PROV3282;Lake Pyhäjärvi;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV3283;Lake Geneva;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV3284;Lake Constance;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV906;As-Suwayda;;;;;;;;;;;x
+PROV885;Chorzene;;;;;;;;;;;x
+PROV886;Gogarene;;;;;;;;;;;x
+PROV890;Eua;;;;;;;;;;;x
+PROV3231;Lake Eua;;;;;;;;;;;x
+PROV891;Balaleison;;;;;;;;;;;x
+PROV889;Melitene;;;;;;;;;;;x
+PROV893;Amida;;;;;;;;;;;x
