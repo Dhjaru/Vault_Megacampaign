@@ -2379,6 +2379,13 @@
 		size= 1821
 	}
 
+	craftsmen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 5144
+	}
+
 	artisans=
 	{
 		culture = spanish
@@ -2581,6 +2588,13 @@
 		culture = spanish
 		religion = catholic
 		size= 5641
+	}
+
+	craftsmen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 5144
 	}
 
 	artisans=
