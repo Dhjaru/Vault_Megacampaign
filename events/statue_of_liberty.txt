@@ -7,7 +7,7 @@ country_event = {
 	is_triggered_only = yes
 	
 	option = {
-		name = "USA"
+		name = "Oranje"
 		USA = {
 			country_event = { id=19300 days=0 }
 		}
@@ -17,28 +17,28 @@ country_event = {
 	}
 	
 	option = {
-		name = "Canada"
-		CAN = {
+		name = "Argentina"
+		ARG = {
 			country_event = { id=19300 days=0 }
 		}
 	}
 	
 	option = {
-		name = "Mexico"
-		MEX = {
+		name = "Azurique"
+		YUC = {
 			country_event = { id=19300 days=0 }
 		}
 	}
 	
 	option = {
-		name = "Gran Columbia"
-		GCO = {
+		name = "Nova Scotia"
+		NOV = {
 			country_event = { id=19300 days=0 }
 		}
 	}
 	
 	option = {
-		name = "Columbia"
+		name = "New Grenada"
 		CLM = {
 			country_event = { id=19300 days=0 }
 		}
@@ -52,29 +52,29 @@ country_event = {
 	}
 	
 	option = {
-		name = "Peru"
-		PEU = {
-			country_event = { id=19300 days=0 }
-		}
-	}
-	
-	option = {
 		name = "Peru-Bolivia Confederation"
-		PBC = {
+		CLM = {
 			country_event = { id=19300 days=0 }
 		}
 	}
 	
 	option = {
-		name = "Brazil"
+		name = "Mauritius"
 		BRZ = {
 			country_event = { id=19300 days=0 }
 		}
 	}
 	
 	option = {
-		name = "Argentina"
-		ARG = {
+		name = "Deagostini"
+		X08 = {
+			country_event = { id=19300 days=0 }
+		}
+	}
+	
+	option = {
+		name = "Chile"
+		CHL = {
 			country_event = { id=19300 days=0 }
 		}
 	}
