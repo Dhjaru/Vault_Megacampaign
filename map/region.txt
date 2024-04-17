@@ -150,7 +150,7 @@ ENG_300 = { 300 294 301 302 303 } #South East England
 
 DEN_251 = { 251 252 253 2636 } #Iceland & Greenland
 
-SWE_308 = { 308 305 306 307 } #Nordnoge
+SWE_308 = { 308 305 306 } #Nordnoge
 
 SWE_309 = { 309 311 310 312 } #Vestlandet
 
@@ -164,7 +164,7 @@ SWE_329 = { 329 328 327 323 330 } #Goteburg
 
 SWE_334 = { 334 332 331 333 335 } #Malmo
 
-RUS_336 = { 336 337 338 342 } #Northern Finland
+RUS_336 = { 336 337 338 342 307 } #Northern Finland
 
 RUS_343 = { 343 344 341 340 } #Helsinki
 

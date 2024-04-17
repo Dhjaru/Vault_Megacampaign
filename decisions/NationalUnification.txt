@@ -433,6 +433,7 @@ political_decisions = {
 			POM = { all_core = { remove_core = BAD add_core = GER } }
 			NUM = { all_core = { remove_core = BAD add_core = GER } }
 			X01 = { all_core = { remove_core = BAD add_core = GER } }
+			SLS = { all_core = { remove_core = BAD add_core = GER } }
 		}
 		ai_will_do = {
 			factor = 1
@@ -515,6 +516,13 @@ political_decisions = {
 			OR = {
 				is_culture_group = scandinavian
 				is_culture_group = bears
+				AND = {
+					OR = {
+						tag = LUB
+						tag = NGF
+						exists = GER
+					}
+				}
 			}
 			NOT = {
 				exists = SCA
@@ -523,7 +531,12 @@ political_decisions = {
 		}
 		
 		allow = {
-			SCH_370 = {
+			AND = {
+				prestige = 90
+				state_n_government = 1
+				war = no
+			}
+			SWE_308 = {
 				OR = {
 					owned_by = THIS
 					owner = {
@@ -536,33 +549,7 @@ political_decisions = {
 					}
 				}
 			}
-			DEN_367 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-			DEN_372 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-			SWE_329 = {
+			SWE_309 = {
 				OR = {
 					owned_by = THIS
 					owner = {
@@ -588,7 +575,7 @@ political_decisions = {
 					}
 				}
 			}
-			SWE_308 = {
+			SWE_318 = {
 				OR = {
 					owned_by = THIS
 					owner = {
@@ -614,47 +601,49 @@ political_decisions = {
 					}
 				}
 			}
-			#RUS_340 = {
-			#	OR = {
-			#		owned_by = THIS
-			#		owner = {
-			#			in_sphere = THIS
-			#		}
-			#		owner = {
-			#			is_our_vassal = THIS
-			#		}
-			#	}
-			#}
-			#RUS_336 = {
-			#	OR = {
-			#		owned_by = THIS
-			#		owner = {
-			#			in_sphere = THIS
-			#		}
-			#		owner = {
-			#			is_our_vassal = THIS
-			#		}
-			#	}
-			#}
-			#DEN_251 = {
-			#	OR = {
-			#		owned_by = THIS
-			#		owner = {
-			#			in_sphere = THIS
-			#		}
-			#		owner = {
-			#			is_our_vassal = THIS
-			#		}
-			#	}
-			#}
-			AND = {
-				prestige = 90
-				state_n_government = 1
-				war = no
+			SWE_329 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							overlord = {
+								tag = THIS
+							}
+						}
+					}
+				}
+			}
+			SWE_334 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							overlord = {
+								tag = THIS
+							}
+						}
+					}
+				}
+			}
+			DEN_372 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							overlord = {
+								tag = THIS
+							}
+						}
+					}
+				}
 			}
 		}
 		
 		effect = {
+			capital = 329
 			prestige = 20
 			change_tag = SCA
 			add_accepted_culture = swedish
@@ -685,6 +674,56 @@ political_decisions = {
 				}
 				country_event = { id=11101 days=0 }
 			}
+			329 = { life_rating = 5 add_province_modifier = { name = baby_boom duration = 7200 }}
+			SWE_308 = {
+				limit = {
+					owner = { primary_culture = north_german }
+				}
+				add_province_modifier = { name = baby_boom duration = 3600 }
+			}
+			SWE_309 = {
+				limit = {
+					owner = { primary_culture = north_german }
+				}
+				add_province_modifier = { name = baby_boom duration = 3600 }
+			}
+			SWE_313 = {
+				limit = {
+					owner = { primary_culture = north_german }
+				}
+				add_province_modifier = { name = baby_boom duration = 3600 }
+			}
+			SWE_318 = {
+				limit = {
+					owner = { primary_culture = north_german }
+				}
+				add_province_modifier = { name = baby_boom duration = 3600 }
+			}
+			SWE_322 = {
+				limit = {
+					owner = { primary_culture = north_german }
+				}
+				add_province_modifier = { name = baby_boom duration = 3600 }
+			}
+			SWE_329 = {
+				limit = {
+					owner = { primary_culture = north_german }
+				}
+				add_province_modifier = { name = baby_boom duration = 3600 }
+			}
+			SWE_334 = {
+				limit = {
+					owner = { primary_culture = north_german }
+				}
+				add_province_modifier = { name = baby_boom duration = 3600 }
+			}
+			DEN_372 = {
+				limit = {
+					owner = { primary_culture = north_german }
+				}
+				add_province_modifier = { name = baby_boom duration = 3600 }
+			}
+
 		}
 		ai_will_do = {
 			factor = 1
