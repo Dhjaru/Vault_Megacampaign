@@ -1,7 +1,7 @@
 capital = 2215
 primary_culture = nieuwereld
-culture = afro_norse
 culture = zzz_religion_protestant
+culture = afro_norse
 religion = protestant
 government = democracy
 plurality = 0
