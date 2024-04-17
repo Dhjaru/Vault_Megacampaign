@@ -1283,3 +1283,9 @@ classless_society_modifier = {
 	leadership_modifier = -0.1
 	icon = 17
 }
+
+plantation = {
+	mine_rgo_size = 1
+	farm_rgo_size = 1
+	icon = 19
+}
