@@ -4113,7 +4113,7 @@
 
 	slaves=
 	{
-		culture = afro_caribbean
+		culture = afro_american
 		religion = protestant
 		size= 591
 	}

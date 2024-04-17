@@ -1,7 +1,7 @@
 capital = 1558
 primary_culture = tibetan
-culture = bihari
 culture = zzz_religion_gelugpa
+culture = bihari
 religion = gelugpa
 government = absolute_monarchy
 plurality = 0

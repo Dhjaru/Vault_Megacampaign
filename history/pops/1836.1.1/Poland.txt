@@ -422,44 +422,44 @@
 
 	artisans=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
-		size= 40
+		size= 1540
 	}
 
 	clergymen=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
-		size= 38
+		size= 138
 	}
 
 	bureaucrats=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 10
 	}
 
 	officers=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
-		size= 8
+		size= 80
 	}
 
 	aristocrats=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
-		size= 28
+		size= 280
 	}
 
 	farmers=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
-		size= 1729
+		size= 11729
 	}
 
 }
@@ -510,49 +510,49 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 13737
+		size= 15737
 	}
 
 	artisans=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
-		size= 10
+		size= 610
 	}
 
 	clergymen=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
-		size= 15
+		size= 75
 	}
 
 	bureaucrats=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 4
 	}
 
 	officers=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
-		size= 748
+		size= 7748
 	}
 
 }
@@ -603,49 +603,49 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 11509
+		size= 18509
 	}
 
 	artisans=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
-		size= 3
+		size= 713
 	}
 
 	clergymen=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
-		size= 12
+		size= 112
 	}
 
 	bureaucrats=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 3
 	}
 
 	officers=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
-		size= 753
+		size= 7753
 	}
 
 }
@@ -696,49 +696,49 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 8926
+		size= 18926
 	}
 
 	artisans=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
-		size= 7
+		size= 710
 	}
 
 	clergymen=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
-		size= 10
+		size= 110
 	}
 
 	bureaucrats=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 2
 	}
 
 	officers=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = south_german
+		culture = north_german
 		religion = protestant
-		size= 411
+		size= 5411
 	}
 
 }

@@ -1,6 +1,5 @@
 owner=ZHO
 controller=ZHO
 add_core=KOR
-add_core=ZHO
 trade_goods = tea
 life_rating = 31
