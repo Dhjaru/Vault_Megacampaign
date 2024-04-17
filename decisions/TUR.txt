@@ -255,9 +255,15 @@ political_decisions = {
 				NOT = { has_province_modifier = holy_city }
 			}
 			OR = {
-				is_culture_group = arab	
-				is_culture_group = turko_semitic
-				is_culture_group = iranian_turanian
+				religion = druze
+				religion = hurufi
+				religion = ibadi
+				religion = kharijite
+				religion = shiite
+				religion = shiite_heresy
+				religion = sunni
+				religion = sunni_heresy
+				religion = zikri
 			}
 		}
 		
