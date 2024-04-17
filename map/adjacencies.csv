@@ -180,10 +180,10 @@ From;To;Type;Through;Data;Comment
 #732;618;impassable;0;0;Treviso-Klagenfurth
 #733;618;impassable;0;0;Udine-Klagenfurt
 2669;735;impassable;0;0;Sondrio-Bozen
-2669;734;impassable;0;0;Sondrio-Trent
 2669;611;impassable;0;0;Sondrio-Chur
-2669;2568;impassable;0;0;Sondrio-Lugano
-8;734;impassable;0;0;Belluno-Trent
+728;734;impassable;0;0;Brescia-Trent
+730;734;impassable;0;0;Verona-Trent
+726;2568;impassable;0;0;Milan-Lugano
 8;735;impassable;0;0;Belluno-Bozen
 8;615;impassable;0;0;Belluno-Lienz
 8;618;impassable;0;0;Belluno-Klagenfurt
