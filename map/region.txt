@@ -754,7 +754,7 @@ CHI_1470 = { 1470 1471 1473 1475 } #South Anhui
 
 CHI_1477 = { 1477 1474 1476 1472 1478 } #North Anhui
 
-CHI_1479 = { 1479 1480 1481 1554 1555 }  #Fengtian - South Manchuria
+CHI_1479 = { 1479 1480 1554 1555 }  #Fengtian - South Manchuria
 
 CHI_1552 = { 1552 1002 1553 1533 } #Heilongjiang - North Manchuria
 
@@ -764,11 +764,11 @@ CHI_1485 = { 2681 1485 2562 2406 } #Formosa
 
 CHI_1490 = { 1490 1489 1491 1492 } #Gansu
 
-CHI_1493 = { 1493 1496 1498 1494 1497 1500 } #East Canton
+CHI_1493 = { 1493 1494 1497 1500 } #East Canton
 
-CHI_1499 = { 1495 1501 2632 } #West Canton
+CHI_1499 = { 1495 1501 } #West Canton
 
-CHI_1504 = { 1502 1503 1504 1499 } #Guangxi
+CHI_1504 = { 1502 1503 1504 } #Guangxi
 
 CHI_1505 = { 1505 1506 1507 } #Guizhou
 
@@ -786,7 +786,7 @@ CHI_1526 = { 1526 1527 1530 } #East Hunan
 
 CHI_1532 = { 1532 1534 1535 1488 } #Inner Mongolia
 
-CHI_2221 = { 2221 1538 1537 1539 1544 } #South Jiangsu
+CHI_2221 = { 2221 1537 1539 1544 } #South Jiangsu
 
 CHI_1540 = { 1540 1541 1543 1536 1542 } #North Jiangsu
 
@@ -798,9 +798,9 @@ CHI_1557 = { 1557 1558 1556 } #Kokonor/Qinghai
 
 CHI_1559 = { 1559 1561 1562 2062 } #Shaanxi
 
-CHI_1563 = { 1563 1564 1568 1571 1566 } #West Shandong
+CHI_1563 = { 1563 1564 1568 1571 } #West Shandong
 
-CHI_1565 = { 1565 1567 1569 1570 } #East Shandong
+CHI_1565 = { 1565 1567 1570 } #East Shandong
 
 CHI_1572 = { 1572 1573 1574 1575 1576 } #Shanxi
 
@@ -814,7 +814,7 @@ CHI_1600 = { 1600 1595 1596 1599 } #Urumqui
 
 CHI_1601 = { 1601 1602 1603 } #Yunnan
 
-CHI_1604 = { 1604 1605 1606 1608 1609 } #North Zhejiang
+CHI_1604 = { 1604 1605 1609 } #North Zhejiang
 
 CHI_1610 = { 1610 1607 1611 } #South Zhejiang
 
@@ -1287,3 +1287,25 @@ TON_2540 = { 2540 2545 2546 2548 3249 } #Tonga
 USA_2543 = { 2543 2544 2547 } #Samoa Islands
 
 FRA_801 = { 801 2551 2552 2553 3319 3320 3321 3322 } #Tahiti
+
+#Treaty Ports
+
+CHI_1481 = { 1481 } #Port Arthur
+
+CHI_1569 = { 1569 } #Weihaiwei
+
+CHI_1566 = { 1566 } #Qingdao
+
+CHI_1538 = { 1538 } #Shanghai
+
+CHI_1606 = { 1606 } #Jiaxing
+
+CHI_1608 = { 1608 } #Ningbo
+
+CHI_1501 = { 1499 } #Hainan
+
+CHI_3249 = { 2632 } #Guangzhouwan
+
+CHI_1496 = { 1496 } #Hong Kong
+
+CHI_1498 = { 1498 } #Macao
