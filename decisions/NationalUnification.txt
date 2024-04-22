@@ -520,8 +520,8 @@ political_decisions = {
 					OR = {
 						tag = LUB
 						tag = NGF
-						exists = GER
 					}
+					exists = GER
 				}
 			}
 			NOT = {
@@ -797,9 +797,9 @@ political_decisions = {
 				change_province_name = "Kolmar"
 			}
 			409 = {
-				change_province_name = "Straﬂburg"
+				change_province_name = "Stra√üburg"
 				state_scope = {
-					change_region_name = "Elsaﬂ-Lothringen"
+					change_region_name = "Elsa√ü-Lothringen"
 				}
 			}
 			prestige = 5
