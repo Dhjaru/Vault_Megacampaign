@@ -343,12 +343,8 @@ political_decisions = {
                 limit = {
                     NOT = { has_province_modifier = plantation }
                     is_core = HND
-                    NOT = { terrain = small_island }
                     NOT = { terrain = desert }
-                    NOT = { terrain = semidesert }
-                    NOT = { terrain = dryhills }
                     NOT = { province_id = 1320 }
-                    NOT = { terrain = coral_island }
                 }
                 add_province_modifier = { name = plantation duration = -1 }
             }
@@ -356,13 +352,9 @@ political_decisions = {
                 limit = {
                     NOT = { has_province_modifier = plantation }
                     is_core = PHL
-                    NOT = { terrain = small_island }
                     NOT = { terrain = desert }
-                    NOT = { terrain = semidesert }
-                    NOT = { terrain = dryhills }
                     NOT = { province_id = 2517 }
                     NOT = { province_id = 1464 }
-                    NOT = { terrain = coral_island }
                     NOT = { continent = polynesia }
                 }
                 add_province_modifier = { name = plantation duration = -1 }
@@ -371,11 +363,7 @@ political_decisions = {
                 limit = {
                     NOT = { has_province_modifier = plantation }
                     is_core = INO
-                    NOT = { terrain = small_island }
                     NOT = { terrain = desert }
-                    NOT = { terrain = semidesert }
-                    NOT = { terrain = dryhills }
-                    NOT = { terrain = coral_island }
                 }
                 add_province_modifier = { name = plantation duration = -1 }
             }
@@ -383,10 +371,7 @@ political_decisions = {
                 limit = {
                     NOT = { has_province_modifier = plantation }
                     is_core = MLY
-                    NOT = { terrain = small_island }
                     NOT = { terrain = desert }
-                    NOT = { terrain = semidesert }
-                    NOT = { terrain = dryhills }
                 }
                 add_province_modifier = { name = plantation duration = -1 }
             }
@@ -394,10 +379,7 @@ political_decisions = {
                 limit = {
                     NOT = { has_province_modifier = plantation }
                     is_core = SRI
-                    NOT = { terrain = small_island }
                     NOT = { terrain = desert }
-                    NOT = { terrain = semidesert }
-                    NOT = { terrain = dryhills }
                 }
                 add_province_modifier = { name = plantation duration = -1 }
             }
@@ -405,10 +387,7 @@ political_decisions = {
                 limit = {
                     NOT = { has_province_modifier = plantation }
                     is_core = PAK
-                    NOT = { terrain = small_island }
                     NOT = { terrain = desert }
-                    NOT = { terrain = semidesert }
-                    NOT = { terrain = dryhills }
                 }
                 add_province_modifier = { name = plantation duration = -1 }
             }
@@ -416,10 +395,7 @@ political_decisions = {
                 limit = {
                     NOT = { has_province_modifier = plantation }
                     is_core = KOR
-                    NOT = { terrain = small_island }
                     NOT = { terrain = desert }
-                    NOT = { terrain = semidesert }
-                    NOT = { terrain = dryhills }
                     NOT = { province_id = 1637 }
                 }
                 add_province_modifier = { name = plantation duration = -1 }
@@ -434,10 +410,7 @@ political_decisions = {
         potential = {
             any_owned_province = {
                 continent = africa
-                    NOT = { terrain = small_island }
                     NOT = { terrain = desert }
-                    NOT = { terrain = semidesert }
-                    NOT = { terrain = dryhills }
                     NOT = { has_province_modifier = plantation }
                     NOT = { province_id = 2590 }
                     NOT = { province_id = 1689 }
@@ -462,10 +435,7 @@ political_decisions = {
             any_owned = {
                 limit = {
                     continent = africa
-                    NOT = { terrain = small_island }
                     NOT = { terrain = desert }
-                    NOT = { terrain = semidesert }
-                    NOT = { terrain = dryhills }
                     NOT = { has_province_modifier = plantation }
                     NOT = { province_id = 2590 }
                     NOT = { province_id = 1689 }
